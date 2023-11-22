@@ -6,7 +6,7 @@ website:
   title: "LASER Institute"
   navbar:
     background: "#427E93"
-    logo: "images/LASER_Hx.png"
+    logo: "images/laser.png"
     left:
       - href: index.qmd
         text: Home
