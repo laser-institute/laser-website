@@ -1,24 +1,23 @@
 ---
-title: "Welcome"
+title: "Welcome!"
 ---
 
-## Quarto
+![](images/laser-hex.png){fig-align="center" width="25%"}
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career researchers and funded by the National Science Foundation (ECR: BCSER). The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply computational methods (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry. The LASER Institute is a collaborative effort between the Friday Institute for Educational Innovation at North Carolina State University, the University of Pennsylvania, the University of Florida and the University of Tennessee, Knoxville.
 
-## Running Code
+## What is Learning Analytics?
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimising learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design). Learning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students' learning activity, and use computational analysis techniques from data science and AI.
 
-```{r}
-1 + 1
-```
+Visit the [Society for Learning Analytics Research](https://www.solaresearch.org/about/what-is-learning-analytics/) to read more.
 
-You can add options to executable code like this
+## Mission and Goals of LASER
 
-```{r}
-#| echo: false
-2 * 2
-```
+LASER BEAM builds upon the existing NSF-funded LASER Institute DRL-2025090 (2020-2023), which aims to deepen scholars\' understanding of LA methodologies, applications, and ethical issues as they relate to STEM education; develop their proficiency with analytic tools and software to apply advanced techniques to wrangle, explore, and model STEM education data; and expand their professional networks to help further their research and provide sustained, ongoing support beyond the program. LASER BEAM aims to build on these efforts and scale them to a much greater scope by accomplishing the following goals:
 
-The `echo: false` option disables the printing of code (only output is displayed).
+-   **Goal 1: Develop a modular curriculum adaptable to instructors\' needs.** This project aims to build on LASER Institute resources and other learning analytics resources developed at Penn to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues.
+
+-   **Goal 2: Prepare faculty to teach with, and learn from, LASER curriculum resources.** Faculty will participate in an intensive, week-long Summer Institute designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.
+
+-    **Goal 3: Broaden educational opportunities in advanced methods.** Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.

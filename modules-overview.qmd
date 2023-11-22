@@ -1,9 +1,33 @@
 ---
-title: "Modules Overview"
+title: "Overview"
 ---
 
-About the modules...
+LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). These modules include learning activities focused on essential data wrangling processes, as well as exploratory techniques such as data visualizations and dashboards. Modules addressing advanced methods will focus on a range of modeling techniques including supervised machine learning (feature engineering, model tuning, and diagnostic metrics), unsupervised learning methods such as clustering, relationship mining methods such as association rule and sequential pattern mining, topic modeling, knowledge tracing and knowledge graphs, network analysis and the use of Application Programming Interfaces (APIs).
 
-```{r}
-1 + 1
-```
+Interwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners\' understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.
+
+## Module Activities
+
+Activities for each instructional module are informed by lessons learned through PI Kellogg\'s LASER Institute and LA Graduate Certificate program, and PI Baker\'s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.
+
+### **Interactive Presentations** 
+
+Each module will contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis.
+
+The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker\'s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. 
+
+### **Coding Case Studies**
+
+Case study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.
+
+### **Readings and Discussion**
+
+Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.
+
+### **Software Tutorials**
+
+Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). 
+
+### **Badges & Microcredentials**
+
+Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor's discretion, badges can be sequenced into microcredentials that can be used to certify learners' successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials.
