@@ -4,17 +4,36 @@ project:
 website:
   title: "LASER Institute"
   navbar:
+    background: "#427E93"
+    logo: "images/LASER_Hx.png"
     left:
       - href: index.qmd
         text: Home
+      - href: modules.qmd
+        text: Modules
       - href: about.qmd
         text: About
     right:
       - icon: github
         href: https://github.com
-
+      - icon: cloud-fill
+        href: https://posit.cloud
+        aria-label: RStudio Cloud
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+    - index.qmd
+    - section: "Modules"
+      contents:
+        - modules-overview.qmd
+        - modules-network-analysis.qmd
+  
+  
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    
+editor: visual

@@ -26,5 +26,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "modules.html",
+    "href": "modules.html",
+    "title": "Modules",
+    "section": "",
+    "text": "About the modules…\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "modules-network-analysis.html",
+    "href": "modules-network-analysis.html",
+    "title": "Network Analysis",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "modules-network-analysis.html#quarto",
+    "href": "modules-network-analysis.html#quarto",
+    "title": "Network Analysis",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "modules-network-analysis.html#running-code",
+    "href": "modules-network-analysis.html#running-code",
+    "title": "Network Analysis",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "modules-overview.html",
+    "href": "modules-overview.html",
+    "title": "Modules Overview",
+    "section": "",
+    "text": "About the modules…\n\n1 + 1\n\n[1] 2"
   }
 ]
