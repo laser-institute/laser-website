@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Overview"
 ---
 
 ![](images/laser-hex.png){fig-align="center" width="25%"}
