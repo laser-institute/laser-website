@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: modules.qmd
+      - href: modules-overview.qmd
         text: Modules
       - href: about.qmd
         text: About
