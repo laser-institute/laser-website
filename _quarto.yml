@@ -2,12 +2,16 @@ project:
   type: website
 
 website:
-  title: "today"
+  title: "LASER Institute"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com
 
 format:
   html:
