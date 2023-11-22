@@ -16,7 +16,7 @@ website:
         text: About
     right:
       - icon: github
-        href: https://github.com
+        href: https://github.com/laser-institute
       - icon: cloud-fill
         href: https://posit.cloud
         aria-label: RStudio Cloud
