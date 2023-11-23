@@ -5,60 +5,40 @@ project:
 website:
   title: "LASER Institute"
   page-navigation: true
-  
+  repo-url: https://github.com/laser-institute/laser-website
+  repo-actions: [edit, issue]
   navbar:
     background: "#427E93"
     logo: "images/laser-icon.png"
     left:
       - href: index.qmd
         text: Home
-      - href: curriculum-intro.qmd
-        text: Curriculum  
       - href: modules-overview.qmd
         text: Modules
-      - href: instruction-overview.qmd
-        text: Instruction
       - href: about.qmd
         text: About
     right:
+      - icon: github
+        href: https://github.com/laser-institute
       - icon: cloud-fill
         href: https://posit.cloud
         aria-label: RStudio Cloud
-      - icon: github
-        href: https://github.com/laser-institute
-  
   sidebar:
     style: "docked"
     search: true
     contents:
     - index.qmd
-    - section: "Curriculum"
-      contents:
-        - curriculum-la.qmd
-        - curriculum-goals.qmd
     - section: "Modules"
       contents:
         - modules-overview.qmd
         - modules-network-analysis.qmd
-    - section: "Instruction"
-      contents:
-        - instruction-overview.qmd
-    - about.qmd
-
-  page-footer:
-      left: "This page is built with [Quarto](https://quarto.org/)."
-      background: "#427E93"
-      right:
-      - text: "License"
-        href: LICENSE.md
-      - text: "Code of Conduct"
-        href: CODE_OF_CONDUCT.md  
+  
   
 format:
   html:
     theme: 
       light: cosmo
-      dark: [cosmo, style/dark.scss]
+      dark: cyborg
     css: styles.css
     toc: true
     
