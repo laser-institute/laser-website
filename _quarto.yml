@@ -5,6 +5,8 @@ project:
 website:
   title: "LASER Institute"
   page-navigation: true
+  repo-url: https://github.com/laser-institute/laser-website
+  repo-actions: [edit, issue]
   
   navbar:
     background: "#427E93"
