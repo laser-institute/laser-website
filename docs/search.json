@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "The LASER Institute",
     "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career scholars funded by the National Science Foundation (DRL-2025090, 2020-23; DRL-2321128; 2023-26). The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply computational analysis techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute and is divided into four sections:"
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply computational analysis techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute. The Curriculum section The Modules section includes 28 instructional modules accoss 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities. In the Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course.\nTo learn more about the LASER Institute team and how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the About section of this this website."
   },
   {
     "objectID": "index.html#quarto",
@@ -214,7 +214,7 @@
     "href": "index.html#acknowledgements",
     "title": "The LASER Institute",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nNSF…"
+    "text": "Acknowledgements\nNSF… (DRL-2025090, 2020-23; DRL-2321128; 2023-26)"
   },
   {
     "objectID": "curriculum-goals.html",

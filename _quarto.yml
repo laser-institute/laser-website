@@ -48,7 +48,7 @@ website:
     - about.qmd
 
   page-footer:
-      left: "This page is built with [Quarto](https://quarto.org/)."
+      left: "This page is built with [Quarto](https://quarto.org/) and hosted by [GitHub](https://pages.github.com)."
       background: "#427E93"
       right:
       - text: "License"
