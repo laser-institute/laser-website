@@ -1,5 +1,5 @@
 ---
-title: "Learning from LASER"
+title: "Teaching with LASER"
 ---
 
 LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). These modules include learning activities focused on essential data wrangling processes, as well as exploratory techniques such as data visualizations and dashboards. Modules addressing advanced methods will focus on a range of modeling techniques including supervised machine learning (feature engineering, model tuning, and diagnostic metrics), unsupervised learning methods such as clustering, relationship mining methods such as association rule and sequential pattern mining, topic modeling, knowledge tracing and knowledge graphs, network analysis and the use of Application Programming Interfaces (APIs).

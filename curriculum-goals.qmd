@@ -1,0 +1,27 @@
+---
+title: "Goals and Objectives"
+---
+
+## Institute Goals
+
+The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:
+
+1.  **Disciplinary Knowledge**: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.
+
+2.  **Technical Skills**: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.
+
+3.  **Social Capital**: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.
+
+## Learning Objectives
+
+The LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:
+
+-   Understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;
+
+-   Identify relevant sources of education data to address both theoretical and practical issues in STEM education;
+
+-   Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;
+
+-   Evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;
+
+-   Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.
