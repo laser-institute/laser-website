@@ -12,4 +12,6 @@ To learn more about the LASER Institute team and how you can become involved as 
 
 ## Acknowledgements
 
-NSF... (DRL-2025090, 2020-23; DRL-2321128; 2023-26)
+This material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090 and DRL-2321128.
+
+![](images/nsf.png){width="20%"}
