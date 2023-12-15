@@ -7,7 +7,7 @@ website:
   page-navigation: true
   repo-url: https://github.com/laser-institute/laser-website
   repo-actions: [edit, issue]
-  favicon: laser-icon.png
+  favicon: "images/laser-icon.png"
   
   navbar:
     background: "#427E93"
