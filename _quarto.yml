@@ -16,10 +16,8 @@ website:
       - href: index.qmd
         text: Home
       - href: curriculum-intro.qmd
-        text: Curriculum  
-      - href: modules-overview.qmd
-        text: Modules
-      - href: instruction-overview.qmd
+        text: Curriculum
+      - href: instruction-intro.qmd
         text: Instruction
       - href: about.qmd
         text: About
@@ -34,18 +32,18 @@ website:
     style: "docked"
     search: true
     contents:
-    - index.qmd
+    - section: "The LASER Institute"
+      contents:
+        - laser-goals.qmd
+        - laser-la.qmd
     - section: "Curriculum"
       contents:
-        - curriculum-la.qmd
-        - curriculum-goals.qmd
-    - section: "Modules"
-      contents:
-        - modules-overview.qmd
-        - modules-network-analysis.qmd
+        - curriculum-intro.qmd
+        - curriculum-modules.qmd
+        - curriculum-network-analysis.qmd
     - section: "Instruction"
       contents:
-        - instruction-overview.qmd
+        - instruction-intro.qmd
     - about.qmd
 
   page-footer:

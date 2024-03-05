@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,7 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./about.html" rel="next">
-<link href="./modules-network-analysis.html" rel="prev">
+<link href="./curriculum-modules.html" rel="prev">
+<link href="./images/laser-icon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -49,7 +50,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -58,8 +65,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -71,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./images/laser-icon.png" alt="" class="navbar-logo">
     </a>
@@ -88,53 +97,49 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum-intro.html" rel="" target="">
- <span class="menu-text">Curriculum</span></a>
+    <a class="nav-link active" href="./laser-goals.html" aria-current="page"> 
+<span class="menu-text">Curriculum</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./modules-overview.html" rel="" target="">
- <span class="menu-text">Modules</span></a>
+    <a class="nav-link" href="./curriculum-intro.html"> 
+<span class="menu-text">Instruction</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./instruction-overview.html" rel="" target="">
- <span class="menu-text">Instruction</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://posit.cloud" rel="" target=""><i class="bi bi-cloud-fill" role="img" aria-label="RStudio Cloud">
+    <a class="nav-link" href="https://posit.cloud"> <i class="bi bi-cloud-fill" role="img" aria-label="RStudio Cloud">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/laser-institute" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/laser-institute"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./instruction-overview.html">Instruction</a></li><li class="breadcrumb-item"><a href="./instruction-overview.html">Teaching with LASER</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./instruction-overview.html">Instruction</a></li><li class="breadcrumb-item"><a href="./instruction-overview.html">Teaching with LASER</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -143,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -151,16 +156,10 @@ ul.task-list li input[type="checkbox"] {
         </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">The LASER Institute</span></a>
-  </div>
-</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Curriculum</span></a>
+ <span class="menu-text">The LASER Institute</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -168,14 +167,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./curriculum-la.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">What is Learning Analytics?</span></a>
+  <a href="./laser-goals.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Goals and Objectives</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./curriculum-goals.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Goals and Objectives</span></a>
+  <a href="./laser-la.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">What is Learning Analytics?</span></a>
   </div>
 </li>
       </ul>
@@ -183,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Modules</span></a>
+ <span class="menu-text">Curriculum</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -191,16 +190,19 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules-overview.html" class="sidebar-item-text sidebar-link">
+  <a href="./curriculum-intro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Learning from LASER</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules-network-analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Network Analysis</span></a>
+  <a href="./curriculum-modules.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Module Activities</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+ <span class="menu-text">curriculum-network-analysis.qmd</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -229,28 +231,15 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#module-activities" id="toc-module-activities" class="nav-link active" data-scroll-target="#module-activities">Module Activities</a>
-  <ul class="collapse">
-  <li><a href="#interactive-presentations" id="toc-interactive-presentations" class="nav-link" data-scroll-target="#interactive-presentations"><strong>Interactive Presentations</strong></a></li>
-  <li><a href="#coding-case-studies" id="toc-coding-case-studies" class="nav-link" data-scroll-target="#coding-case-studies"><strong>Coding Case Studies</strong></a></li>
-  <li><a href="#readings-and-discussion" id="toc-readings-and-discussion" class="nav-link" data-scroll-target="#readings-and-discussion"><strong>Readings and Discussion</strong></a></li>
-  <li><a href="#software-tutorials" id="toc-software-tutorials" class="nav-link" data-scroll-target="#software-tutorials"><strong>Software Tutorials</strong></a></li>
-  <li><a href="#badges-microcredentials" id="toc-badges-microcredentials" class="nav-link" data-scroll-target="#badges-microcredentials"><strong>Badges &amp; Microcredentials</strong></a></li>
-  </ul></li>
-  </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/laser-institute/laser-website/edit/main/instruction-overview.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./instruction-overview.html">Instruction</a></li><li class="breadcrumb-item"><a href="./instruction-overview.html">Teaching with LASER</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Teaching with LASER</h1>
 </div>
@@ -265,37 +254,13 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
-<p>LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). These modules include learning activities focused on essential data wrangling processes, as well as exploratory techniques such as data visualizations and dashboards. Modules addressing advanced methods will focus on a range of modeling techniques including supervised machine learning (feature engineering, model tuning, and diagnostic metrics), unsupervised learning methods such as clustering, relationship mining methods such as association rule and sequential pattern mining, topic modeling, knowledge tracing and knowledge graphs, network analysis and the use of Application Programming Interfaces (APIs).</p>
-<p>Interwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.</p>
-<section id="module-activities" class="level2">
-<h2 class="anchored" data-anchor-id="module-activities">Module Activities</h2>
-<p>Activities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.</p>
-<section id="interactive-presentations" class="level3">
-<h3 class="anchored" data-anchor-id="interactive-presentations"><strong>Interactive Presentations</strong></h3>
-<p>Each module will contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis.</p>
-<p>The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners.&nbsp;</p>
-</section>
-<section id="coding-case-studies" class="level3">
-<h3 class="anchored" data-anchor-id="coding-case-studies"><strong>Coding Case Studies</strong></h3>
-<p>Case study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.</p>
-</section>
-<section id="readings-and-discussion" class="level3">
-<h3 class="anchored" data-anchor-id="readings-and-discussion"><strong>Readings and Discussion</strong></h3>
-<p>Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.</p>
-</section>
-<section id="software-tutorials" class="level3">
-<h3 class="anchored" data-anchor-id="software-tutorials"><strong>Software Tutorials</strong></h3>
-<p>Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021).&nbsp;</p>
-</section>
-<section id="badges-microcredentials" class="level3">
-<h3 class="anchored" data-anchor-id="badges-microcredentials"><strong>Badges &amp; Microcredentials</strong></h3>
-<p>Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials.</p>
+
+<p>Lorem ipsum dolor…</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -339,6 +304,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -407,13 +399,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -492,10 +486,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -505,8 +498,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -519,6 +521,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -562,6 +683,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -587,6 +709,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -648,12 +796,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./modules-network-analysis.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Network Analysis</span>
+      <a href="./curriculum-modules.html" class="pagination-link" aria-label="Module Activities">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Module Activities</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./about.html" class="pagination-link">
+      <a href="./about.html" class="pagination-link" aria-label="About">
         <span class="nav-page-text">About</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -661,22 +809,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">This page is built with <a href="https://quarto.org/">Quarto</a> and hosted by <a href="https://pages.github.com">GitHub</a>.</div>   
+    <div class="nav-footer-left">
+<p>This page is built with <a href="https://quarto.org/">Quarto</a> and hosted by <a href="https://pages.github.com">GitHub</a>.</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/instruction-overview.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="./LICENSE.html">License</a>
+    <a class="nav-link" href="./LICENSE.html">
+<p>License</p>
+</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./CODE_OF_CONDUCT.html">Code of Conduct</a>
+    <a class="nav-link" href="./CODE_OF_CONDUCT.html">
+<p>Code of Conduct</p>
+</a>
   </li>  
 </ul>
     </div>
   </div>
 </footer>
+
 
 
 
