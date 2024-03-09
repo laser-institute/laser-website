@@ -19,8 +19,8 @@ website:
         text: Curriculum
       - href: instruction-intro.qmd
         text: Instruction
-      - href: about.qmd
-        text: About
+      - href: institute-intro.qmd
+        text: Institute
     right:
       - icon: cloud-fill
         href: https://posit.cloud
@@ -32,19 +32,19 @@ website:
     style: "docked"
     search: true
     contents:
-    - section: "The LASER Institute"
-      contents:
-        - laser-goals.qmd
-        - laser-la.qmd
     - section: "Curriculum"
       contents:
+        - curriculum-la.qmd
         - curriculum-intro.qmd
         - curriculum-modules.qmd
         - curriculum-network-analysis.qmd
     - section: "Instruction"
       contents:
         - instruction-intro.qmd
-    - about.qmd
+    - section: "Institute"
+      contents:
+        - institute-intro.qmd
+        - institute-goals.qmd
 
   page-footer:
       left: "This page is built with [Quarto](https://quarto.org/) and hosted by [GitHub](https://pages.github.com)."

@@ -14,9 +14,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "The LASER Institute",
+    "title": "Welcome!",
     "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply computational analysis techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute. The Curriculum section The Modules section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities. In the Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course.\nTo learn more about the LASER Institute team and how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the About section of this this website."
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.\nThe Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course.\n\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview and our homepage at go.ncsu.edu/laser-institute for more detailed information about eligibility, application process, team members, and past scholars.\nAcknowledgements\nThe LASER This material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
   },
   {
     "objectID": "index.html#quarto",
@@ -37,7 +37,11 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The LASER Institute is a collaborative effort between the Friday Institute for Educational Innovation at North Carolina State University, the University of Pennsylvania, the University of Florida and the University of Tennessee, Knoxville."
+    "text": "The LASER Institute is a collaborative effort between the Friday Institute for Educational Innovation at North Carolina State University, the University of Pennsylvania, the University of Florida and the University of Tennessee, Knoxville.",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
   },
   {
     "objectID": "modules-network-analysis.html",
@@ -210,7 +214,7 @@
     "href": "curriculum-intro.html",
     "title": "Module Content",
     "section": "",
-    "text": "LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). These modules include learning activities focused on essential data wrangling processes, as well as exploratory techniques such as data visualizations and dashboards. Modules addressing advanced methods will focus on a range of modeling techniques including supervised machine learning (feature engineering, model tuning, and diagnostic metrics), unsupervised learning methods such as clustering, relationship mining methods such as association rule and sequential pattern mining, topic modeling, knowledge tracing and knowledge graphs, network analysis and the use of Application Programming Interfaces (APIs).\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.\n\n\n\n\n\n\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics \nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nNetwork Analysis (SNA)\nSNA Basics\nMeasurement\nNetwork Inference\nEpistemic Networks",
+    "text": "LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics \nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -222,10 +226,10 @@
     "href": "curriculum-la.html",
     "title": "What is Learning Analytics?",
     "section": "",
-    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design).\nLearning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students’ learning activity, and use computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more.",
+    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of:\nLearning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more or watch the 2021 LASER Institute keynote is by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).",
     "crumbs": [
       "Home",
-      "The LASER Institute",
+      "Curriculum",
       "What is Learning Analytics?"
     ]
   },
@@ -335,7 +339,7 @@
     "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design).\nLearning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students’ learning activity, and use computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more.",
     "crumbs": [
       "Home",
-      "The LASER Institute",
+      "Institute",
       "What is Learning Analytics?"
     ]
   },
@@ -457,6 +461,80 @@
       "Home",
       "Curriculum",
       "Module Activities"
+    ]
+  },
+  {
+    "objectID": "institute-intro.html",
+    "href": "institute-intro.html",
+    "title": "The LASER Institute",
+    "section": "",
+    "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "The LASER Institute"
+    ]
+  },
+  {
+    "objectID": "institute-la.html",
+    "href": "institute-la.html",
+    "title": "What is Learning Analytics?",
+    "section": "",
+    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design).\nLearning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students’ learning activity, and use computational analysis techniques from data science and AI."
+  },
+  {
+    "objectID": "institute-la.html#laser-institute-keynote",
+    "href": "institute-la.html#laser-institute-keynote",
+    "title": "What is Learning Analytics?",
+    "section": "LASER Institute Keynote",
+    "text": "LASER Institute Keynote\n\nVisit the Society for Learning Analytics Research to read more."
+  },
+  {
+    "objectID": "institute-goals.html",
+    "href": "institute-goals.html",
+    "title": "Goals & Objectives",
+    "section": "",
+    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals & Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#institute-goals",
+    "href": "institute-goals.html#institute-goals",
+    "title": "Goals & Objectives",
+    "section": "",
+    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals & Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#learning-objectives",
+    "href": "institute-goals.html#learning-objectives",
+    "title": "Goals & Objectives",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nThe LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:\n\nUnderstand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nIdentify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals & Objectives"
+    ]
+  },
+  {
+    "objectID": "curriculum-la.html#laser-institute-keynote",
+    "href": "curriculum-la.html#laser-institute-keynote",
+    "title": "What is Learning Analytics?",
+    "section": "LASER Institute Keynote",
+    "text": "LASER Institute Keynote",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "What is Learning Analytics?"
     ]
   }
 ]

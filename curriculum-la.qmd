@@ -1,0 +1,19 @@
+---
+title: "What is Learning Analytics?"
+---
+
+Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of:
+
+-   **Learning** (e.g. educational research, learning and assessment sciences, educational technology);
+
+-   **Analytics** (e.g. statistics, visualization, computer/data sciences, artificial intelligence); and,
+
+-   **Human-Centered Design** (e.g. usability, participatory design, sociotechnical systems thinking)..
+
+Learning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.
+
+Visit the [Society for Learning Analytics Research](https://www.solaresearch.org/about/what-is-learning-analytics/) to read more or watch the 2021 LASER Institute keynote is by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).
+
+## LASER Institute Keynote
+
+{{< video https://youtu.be/gKM3T_CzC10?si=Awx0OdjZI5RAZlU1&t=64 >}}

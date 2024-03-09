@@ -1,9 +1,0 @@
----
-title: "What is Learning Analytics?"
----
-
-Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design).
-
-Learning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students' learning activity, and use computational analysis techniques from data science and AI.
-
-Visit the [Society for Learning Analytics Research](https://www.solaresearch.org/about/what-is-learning-analytics/) to read more.

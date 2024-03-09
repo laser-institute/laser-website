@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-The LASER Institute is a collaborative effort between the Friday Institute for Educational Innovation at North Carolina State University, the University of Pennsylvania, the University of Florida and the University of Tennessee, Knoxville.
