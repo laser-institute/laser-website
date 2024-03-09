@@ -1,0 +1,40 @@
+---
+title: "A Modular Design"
+---
+
+The guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in advanced methods, will be to forge a close connection between exemplary STEM education research and the hands-on experience analyzing real-world datasets needed to achieve that goal. This connection is essential for building investigators’ competencies to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Specifically, The guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in advanced methods, include:
+
+-   **Research Connections**. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.
+
+-   **Scaffolded Activities**. Carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods.
+
+-   **Hands-On Programming**. Experience using analytic tools like R and Python to carry out essential data science workflow processes.
+
+-   **Real-World Data**. real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.
+
+-   **Topic Deep Dives**. Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.
+
+-   **Lowered Barriers**. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.
+
+-   Modular
+
+## A Modular Design
+
+Specifically, the project team will create a modular curriculum composed of 25-30 instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops or webinars. This will enable instructors to tailor their instruction for faculty and graduate students with different disciplinary backgrounds and incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.
+
+## Modules Topics
+
+LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.
+
+| Research Methods                     | **Module 1**   | Module 2             | Module 3                         | Module 4                 |
+|---------------|--------------|--------------|--------------|--------------|
+| **LA Workflows**                     | Data Wrangling | Exploratory Analysis | Modeling Basics                  | Data Products            |
+| **Supervised Learning (SL)**         | SL Basics      | Feature Engineering  | Model Tuning                     | Diagnostic Metrics       |
+| **Unsupervised Methods**             | UM Basics      | Clustering           | Factor Analysis                  | Knowledge Structures     |
+| **Text Mining (TM)**                 | TM Basics      | Topic Modeling       | Text Classification              | Large Language Models    |
+| **Relationship Mining (RM)**         | RM Basics      | Correlation Mining   | Association and Sequential Rules | Association Rule Metrics |
+| **Knowledge Tracing (KT)**           | KT Basics      | BKT family           | PFA/LKT families                 | DKT family               |
+| **Social Network Analysis (SNA)**    | SNA Basics     | Measurement          | Positions & Groups               | Network Modeling         |
+| **Epistemic Network Analysis (ENA)** | ENA Basics     | Visualizing Networks | Quantitative Analysis            | Advanced Applications    |
+
+Interwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners' understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.

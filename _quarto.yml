@@ -15,7 +15,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: curriculum-la.qmd
+      - href: curriculum-design.qmd
         text: Curriculum
       - href: instruction-intro.qmd
         text: Instruction
@@ -32,10 +32,10 @@ website:
     style: "docked"
     search: true
     contents:
+    - what-is-la.qmd
     - section: "Curriculum"
       contents:
-        - curriculum-la.qmd
-        - curriculum-topics.qmd
+        - curriculum-design.qmd
         - curriculum-activities.qmd
         - curriculum-network-analysis.qmd
     - section: "Instruction"
