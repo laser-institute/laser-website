@@ -19,7 +19,7 @@ website:
         text: Curriculum
       - href: instruction-intro.qmd
         text: Instruction
-      - href: institute-intro.qmd
+      - href: institute-goals.qmd
         text: Institute
     right:
       - icon: cloud-fill
@@ -36,14 +36,12 @@ website:
     - section: "Curriculum"
       contents:
         - curriculum-design.qmd
-        - curriculum-activities.qmd
         - curriculum-network-analysis.qmd
     - section: "Instruction"
       contents:
         - instruction-intro.qmd
     - section: "Institute"
       contents:
-        - institute-intro.qmd
         - institute-goals.qmd
 
   page-footer:

@@ -16,7 +16,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview and our homepage at go.ncsu.edu/laser-institute for more detailed information about eligibility, application process, team members, and past scholars."
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry. The The is a year-long professional development program for early- and mid-career researchers consisting of two core components:\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
   },
   {
     "objectID": "index.html#quarto",
@@ -461,13 +461,13 @@
   {
     "objectID": "institute-intro.html",
     "href": "institute-intro.html",
-    "title": "The LASER Institute",
+    "title": "Goals and Objectives",
     "section": "",
     "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
     "crumbs": [
       "Home",
       "Institute",
-      "The LASER Institute"
+      "Goals and Objectives"
     ]
   },
   {
@@ -487,37 +487,37 @@
   {
     "objectID": "institute-goals.html",
     "href": "institute-goals.html",
-    "title": "Goals & Objectives",
+    "title": "Goals and Objectives",
     "section": "",
-    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
+    "text": "The LASER Institute is a year-long professional development program for early- and mid-career researchers consisting of two core components:",
     "crumbs": [
       "Home",
       "Institute",
-      "Goals & Objectives"
+      "Goals and Objectives"
     ]
   },
   {
     "objectID": "institute-goals.html#institute-goals",
     "href": "institute-goals.html#institute-goals",
-    "title": "Goals & Objectives",
-    "section": "",
-    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
+    "title": "Goals and Objectives",
+    "section": "Institute Goals",
+    "text": "Institute Goals\nThe LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
     "crumbs": [
       "Home",
       "Institute",
-      "Goals & Objectives"
+      "Goals and Objectives"
     ]
   },
   {
     "objectID": "institute-goals.html#learning-objectives",
     "href": "institute-goals.html#learning-objectives",
-    "title": "Goals & Objectives",
+    "title": "Goals and Objectives",
     "section": "Learning Objectives",
     "text": "Learning Objectives\nThe LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:\n\nUnderstand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nIdentify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
     "crumbs": [
       "Home",
       "Institute",
-      "Goals & Objectives"
+      "Goals and Objectives"
     ]
   },
   {
@@ -661,5 +661,19 @@
       "Curriculum",
       "Modular by Design"
     ]
+  },
+  {
+    "objectID": "index.html#the-laser-institute",
+    "href": "index.html#the-laser-institute",
+    "title": "Welcome!",
+    "section": "The LASER Institute",
+    "text": "The LASER Institute\nThe is a year-long professional development program for early- and mid-career researchers consisting of two core components:\n\nSummer Workshop: An intensive 5-day program consisting of learning labs, guest speakers, planning sessions, and community-building activities.\nOnline Community: An online community of practice for ongoing networking and support throughout the year.\n\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
+  },
+  {
+    "objectID": "index.html#the-laser-curriculum",
+    "href": "index.html#the-laser-curriculum",
+    "title": "Welcome!",
+    "section": "The LASER Curriculum",
+    "text": "The LASER Curriculum\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.\nThe Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course."
   }
 ]
