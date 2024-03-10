@@ -16,7 +16,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.\nThe Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course.\n\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview and our homepage at go.ncsu.edu/laser-institute for more detailed information about eligibility, application process, team members, and past scholars.\nAcknowledgements\nThe LASER This material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview and our homepage at go.ncsu.edu/laser-institute for more detailed information about eligibility, application process, team members, and past scholars."
   },
   {
     "objectID": "index.html#quarto",
@@ -231,9 +231,9 @@
   {
     "objectID": "index.html#acknowledgements",
     "href": "index.html#acknowledgements",
-    "title": "The LASER Institute",
+    "title": "Welcome!",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090 and DRL-2321128."
+    "text": "Acknowledgements\nThe LASER This material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
   },
   {
     "objectID": "curriculum-goals.html",

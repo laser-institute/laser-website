@@ -14,7 +14,7 @@ This website contains all the materials needed to teach with, and learn from, th
 
 To learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the **Institute** section of this website for a brief overview and our homepage at [go.ncsu.edu/laser-institute](go.ncsu.edu/laser-institute) for more detailed information about eligibility, application process, team members, and past scholars.
 
-**Acknowledgements**
+## Acknowledgements
 
 The LASER This material is based upon work supported by the National Science Foundation under Grant No. [DRL-2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false), [DRL-2321128](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321128&HistoricalAwards=false), and [DRL-2321129](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321129&HistoricalAwards=false).
 
