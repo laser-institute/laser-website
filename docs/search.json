@@ -16,7 +16,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry. The The is a year-long professional development program for early- and mid-career researchers consisting of two core components:\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
   },
   {
     "objectID": "index.html#quarto",
@@ -427,7 +427,7 @@
     "href": "curriculum-network-analysis.html#sna-module-3-groups-positions-egocentric-analysis",
     "title": "Social Network Analysis",
     "section": "SNA Module 3: Groups, Positions, & Egocentric Analysis",
-    "text": "SNA Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 as summarized shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Components, Cliques, & Key Actors is inspired by the work of Supovitz et al. Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project . Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\nConceptual Overview: Top-Down and Bottom-Up Approaches\n\n\n\nCode Along: Component, Cliques, & Key Actors\n\n\n\nReadings & Discussion: Components, Cliques, & Key Actors\n\n\n\nCase Study:\n\n\n\nBadge:",
+    "text": "SNA Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 as summarized shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Components, Cliques, & Key Actors is inspired by the work of Supovitz et al. Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project . Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTop-Down and Bottom-Up Approaches\n\n\n\nCode Along\nComponent, Cliques, & Key Actors\n\n\n\nReadings &\nDiscussion\nComponents, Cliques, & Key Actors\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -439,7 +439,7 @@
     "href": "curriculum-network-analysis.html#sna-module-4-statistical-inference-network-models",
     "title": "Social Network Analysis",
     "section": "SNA Module 4: Statistical Inference & Network Models",
-    "text": "SNA Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\nConceptual Overview:\n\n\n\nCode Along:\n\n\n\nReadings & Discussion:\n\n\n\nCase Study:\n\n\n\nBadge:",
+    "text": "SNA Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTop-Down and Bottom-Up Approaches\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -463,12 +463,7 @@
     "href": "institute-intro.html",
     "title": "Goals and Objectives",
     "section": "",
-    "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Goals and Objectives"
-    ]
+    "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
   },
   {
     "objectID": "institute-la.html",
@@ -489,7 +484,7 @@
     "href": "institute-goals.html",
     "title": "Goals and Objectives",
     "section": "",
-    "text": "The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:",
+    "text": "LASER: Broadening Education in Advanced Methods (LASER BEAM) is the next phase of the LASER Institute funded by NSF (DRL-2321128, and DRL-2321129). LASER BEAM builds upon the prior NSF-funded LASER Institute DRL-2025090, which aims to increase the number of education research capable of leveraging new sources of data and data-intensive research methods to understand and improve student learning. The LASER Institute is a year-long professional development program for early- and mid-career researchers consisting of two core components:",
     "crumbs": [
       "Home",
       "Institute",
@@ -675,5 +670,221 @@
     "title": "Welcome!",
     "section": "The LASER Curriculum",
     "text": "The LASER Curriculum\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.\nThe Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course."
+  },
+  {
+    "objectID": "institute-goals.html#nsf-grant-objectives",
+    "href": "institute-goals.html#nsf-grant-objectives",
+    "title": "Goals and Objectives",
+    "section": "NSF Grant Objectives",
+    "text": "NSF Grant Objectives\n\nDevelop a modular curriculum adaptable to instructors’ needs. This project aims to build on LASER Institute resources and other learning analytics resources developed at Penn to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum. Feedback will be collected prior to and during Summer Institutes and following instructors’ use of these materials with colleagues and/or students during the fall and spring.\nPrepare faculty to utilize LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution. The Summer Institute will focus on: 1) training participants to understand and effectively use the curriculum materials and pedagogical approaches developed by the project team; 2) providing participants supplemental instruction as needed to fully understand the course content they will be teaching (e.g., machine learning techniques, algorithmic bias in AI, digital data sources), and 3) working closely with participants to develop a plan for training faculty, staff, and/or students at their home institutions. In addition, an Online Community will support instructors as they adapt and deploy materials.\nBroaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution. In support of the BCSER program’s larger aims, recruitment and training efforts will prioritize applicants from historically underrepresented groups in STEM education and/or minority-serving institutions. In addition, the project team will develop and heavily promote a freely-available website that contains all the materials required to teach (or learn from) LASER BEAM learning materials such as presentation slides, videos, coding case studies, and assessment activities; as well as materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals and Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#grant-objectives",
+    "href": "institute-goals.html#grant-objectives",
+    "title": "Goals and Objectives",
+    "section": "Grant Objectives",
+    "text": "Grant Objectives\nLASER BEAM aims to build on these efforts and scale them to a much greater scope by accomplishing the following goals:\n\nDevelop a modular curriculum adaptable to instructors’ needs. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nPrepare faculty to learn from and teach with LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these componetns are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nBroaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals and Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html",
+    "href": "institute-workshop.html",
+    "title": "Summer Workshop",
+    "section": "",
+    "text": "LASER BEAM participants will begin their program with an intensive 5-day summer training program at the FI, taught by NC State and Penn faculty and with invited presentations from Advisory Board members. Each Summer Institute will take place in July with pre-workshop preparation (e.g., introductions and needs assessment) for participants beginning earlier that spring. To attend to the needs of STEM education faculty and researchers with varying degrees of expertise in LA, the Summer Institute will provide both a beginner track and an advanced track to support faculty development, with approximately half of the participants in each track. The proposed Summer Institute schedule outlined in Table 2 provides an overview of the sequence of activities currently planned, recognizing that some adjustments will be necessary based on the needs assessment and specific modules participants are interested in teaching and/or learning from. Each of these activities is described in more detail below.\n\nSummer Institute Schedule\n\n\n\n\n\n\n\n\n\n\n\nEST\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n9:00 - 9:30\nOrientation\nCommunity Building\nCommunity Building\nCommunity Building\nCommunity Building\n\n\n9:40 - 11:00\nModule Overview\nModule Session 1\nModule Session 2\nModule Session 3\nModule Session 4\n\n\n11:15 - 12:30\nPedagogy Session\nModule Session 1 cont.\nModule Session 2 cont.\nModule Session 3 cont.\nModule Session 4 cont.\n\n\n1:30 - 2:45\nGuest Speaker\nGuest Speaker\nGuest Speaker\nGuest Speaker\nGuest Speaker\n\n\n3:00 - 3:45\nPedagogy Session\nPedagogy Session\nPedagogy Session\nPedagogy Session\nEvaluation\n\n\n4:00 - 5:00\nDesign Session\nDesign Session\nDesign Session\nDesign Session\nEarly Exit\n\n\n\n\n\nPre-Institute Preparation\nPrior to the Summer Institute, participants will complete a needs assessment to identify their teaching interests, experience with software packages, and skills and knowledge in relation to LA and advanced methods. This assessment will be used to identify the appropriate track for their Summer Institute experience and help guide the content, structure and sequence of their 5-day professional development. Instructors on the beginner track will also engage in pre-institute tutorials beginning in May and which must be completed prior to the workshop to demonstrate their preparation and commitment to LASER BEAM. Finally, all participants will engage in an initial community building activity designed to familiarize participants with the social platform that will be used throughout LASER BEAM as part of the Online Community and provide them with an opportunity to get to know each other prior to the Summer Institute.\n\n\nCommunity Building\nThe research and the project team’s experience leading faculty and educator training programs suggest community building activities are critical in supporting and affirming sustained participation in LA and data science initiatives, particularly for novice learners and scholars from minoritized groups (Arif et al., 2021). Consequently, LASER BEAM will incorporate identity-affirming activities each day of the workshop to help participants learn more about each other and create a sense of community (Booth & Kellogg, 2015; Deglau & O’Sullivan, 2006). By sharing their backgrounds, interests, and experiences, participants will identify commonalities and differences. This will create a space for participants to learn from each other and build on each other’s strengths.\n\n\nPedagogy Sessions\nParticipants in both the beginnerand advancedtracks will engage in whole group sessions to support them in adapting materials for their own instructional programs. Sessions will focus on a range of topics, from understanding the design principles behind the LASER BEAM curriculum to setting up the infrastructure necessary for learners to fully participate in module activities. Pedagogy sessions throughout the week will focus on the nuts and bolts of teaching the curriculum, including topics such as tools and approaches for facilitating in-person and online discussion, assessment and grading of assignments, and logistics for instructional delivery. For example, on Day 1 (Monday) participants are introduced to Posit Cloud, a powerful set of data science and instructional tools that can be accessed through an internet browser and used for assigning, supporting, and assessing instructional activities such as the interactive coding case studies and tutorials highlighted in Section 2c.\n\n\nModule Sessions\nModule sessions will be conducted in small groups and differentiated for participants in the beginnerand the advanced track based upon the needs assessment administered prior to the Summer Institute. These sessions will focus on the instructional materials from which participants will both learn from and use to train learners at their home institutions. Participants in the beginner track will focus on 4 introductory modules to develop their foundational knowledge and skills (see Section 2c) necessary for more advanced methods. Advanced track participants will engage in 4 module sessions focused on more advanced topics such as text classification and deep knowledge tracing. Sessions will be facilitated by members of the project team, who will model instructional best practices for use of these materials and participants in both tracks will work through select module activities just as would be expected from the students and faculty they plan to teach. Additionally, module sessions will be offered in an online format through workshops in the fall and spring (see Online Community section). This will allow the project team to both address topics not covered during the summer institute and to model instructional delivery in a purely online context.\n\n\nDesign Sessions\nEach day will end with small group activities to assist participants in designing a customized instructional plan at their home institutions, where they consider how to incorporate curriculum resources into their own contexts. The project team will collaborate with participants to choose relevant modules and activities, effective teaching methods (pedagogy), and suitable technology from our training resources that meet the needs of their learners. The team will also work with participants in aligning the chosen LA topics, pedagogy, and technology with the learners’ needs to ensure the modules are tailored to address the unique needs and preferences of their learners.\n\n\nGuest Speakers\nThese sessions will draw upon the backgrounds and expertise of our Advisory Board members and other invited guests who have taught courses, workshops, and training events focused on LA and related methods. Sessions will reinforce topics introduced in our module and pedagogy sessions, and help participants envision how LASER BEAM curriculum materials and activities might be adapted to fit their own contexts and institutional programs.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html#summer-institute-schedule",
+    "href": "institute-workshop.html#summer-institute-schedule",
+    "title": "Summer Workshop",
+    "section": "Summer Institute Schedule",
+    "text": "Summer Institute Schedule\n\n\n\n\n\n\n\n\n\n\n\nEST\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n9:00 - 9:30\nOrientation\nCommunity Building\nCommunity Building\nCommunity Building\nCommunity Building\n\n\n9:40 - 11:00\nModule Overview\nModule Session 1\nModule Session 2\nModule Session 3\nModule Session 4\n\n\n11:15 - 12:30\nPedagogy Session\nModule Session 1 cont.\nModule Session 2 cont.\nModule Session 3 cont.\nModule Session 4 cont.\n\n\n1:30 - 2:45\nGuest Speaker\nGuest Speaker\nGuest Speaker\nGuest Speaker\nGuest Speaker\n\n\n3:00 - 3:45\nPedagogy Session\nPedagogy Session\nPedagogy Session\nPedagogy Session\nEvaluation\n\n\n4:00 - 5:00\nDesign Session\nDesign Session\nDesign Session\nDesign Session\nEarly Exit",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html#pre-institute-preparation",
+    "href": "institute-workshop.html#pre-institute-preparation",
+    "title": "Summer Workshop",
+    "section": "Pre-Institute Preparation",
+    "text": "Pre-Institute Preparation\nPrior to the Summer Institute, participants will complete a needs assessment to identify their teaching interests, experience with software packages, and skills and knowledge in relation to LA and advanced methods. This assessment will be used to identify the appropriate track for their Summer Institute experience and help guide the content, structure and sequence of their 5-day professional development. Instructors on the beginner track will also engage in pre-institute tutorials beginning in May and which must be completed prior to the workshop to demonstrate their preparation and commitment to LASER BEAM. Finally, all participants will engage in an initial community building activity designed to familiarize participants with the social platform that will be used throughout LASER BEAM as part of the Online Community and provide them with an opportunity to get to know each other prior to the Summer Institute.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html#community-building",
+    "href": "institute-workshop.html#community-building",
+    "title": "Summer Workshop",
+    "section": "Community Building",
+    "text": "Community Building\nThe research and the project team’s experience leading faculty and educator training programs suggest community building activities are critical in supporting and affirming sustained participation in LA and data science initiatives, particularly for novice learners and scholars from minoritized groups (Arif et al., 2021). Consequently, LASER BEAM will incorporate identity-affirming activities each day of the workshop to help participants learn more about each other and create a sense of community (Booth & Kellogg, 2015; Deglau & O’Sullivan, 2006). By sharing their backgrounds, interests, and experiences, participants will identify commonalities and differences. This will create a space for participants to learn from each other and build on each other’s strengths.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html#pedagogy-sessions",
+    "href": "institute-workshop.html#pedagogy-sessions",
+    "title": "Summer Workshop",
+    "section": "Pedagogy Sessions",
+    "text": "Pedagogy Sessions\nParticipants in both the beginnerand advancedtracks will engage in whole group sessions to support them in adapting materials for their own instructional programs. Sessions will focus on a range of topics, from understanding the design principles behind the LASER BEAM curriculum to setting up the infrastructure necessary for learners to fully participate in module activities. Pedagogy sessions throughout the week will focus on the nuts and bolts of teaching the curriculum, including topics such as tools and approaches for facilitating in-person and online discussion, assessment and grading of assignments, and logistics for instructional delivery. For example, on Day 1 (Monday) participants are introduced to Posit Cloud, a powerful set of data science and instructional tools that can be accessed through an internet browser and used for assigning, supporting, and assessing instructional activities such as the interactive coding case studies and tutorials highlighted in Section 2c.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html#design-sessions",
+    "href": "institute-workshop.html#design-sessions",
+    "title": "Summer Workshop",
+    "section": "Design Sessions",
+    "text": "Design Sessions\nEach day will end with small group activities to assist participants in designing a customized instructional plan at their home institutions, where they consider how to incorporate curriculum resources into their own contexts. The project team will collaborate with participants to choose relevant modules and activities, effective teaching methods (pedagogy), and suitable technology from our training resources that meet the needs of their learners. The team will also work with participants in aligning the chosen LA topics, pedagogy, and technology with the learners’ needs to ensure the modules are tailored to address the unique needs and preferences of their learners.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html#guest-speakers",
+    "href": "institute-workshop.html#guest-speakers",
+    "title": "Summer Workshop",
+    "section": "Guest Speakers",
+    "text": "Guest Speakers\nThese sessions will draw upon the backgrounds and expertise of our Advisory Board members and other invited guests who have taught courses, workshops, and training events focused on LA and related methods. Sessions will reinforce topics introduced in our module and pedagogy sessions, and help participants envision how LASER BEAM curriculum materials and activities might be adapted to fit their own contexts and institutional programs.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-workshop.html#module-sessions",
+    "href": "institute-workshop.html#module-sessions",
+    "title": "Summer Workshop",
+    "section": "Module Sessions",
+    "text": "Module Sessions\nModule sessions will be conducted in small groups and differentiated for participants in the beginnerand the advanced track based upon the needs assessment administered prior to the Summer Institute. These sessions will focus on the instructional materials from which participants will both learn from and use to train learners at their home institutions. Participants in the beginner track will focus on 4 introductory modules to develop their foundational knowledge and skills (see Section 2c) necessary for more advanced methods. Advanced track participants will engage in 4 module sessions focused on more advanced topics such as text classification and deep knowledge tracing. Sessions will be facilitated by members of the project team, who will model instructional best practices for use of these materials and participants in both tracks will work through select module activities just as would be expected from the students and faculty they plan to teach. Additionally, module sessions will be offered in an online format through workshops in the fall and spring (see Online Community section). This will allow the project team to both address topics not covered during the summer institute and to model instructional delivery in a purely online context.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Summer Workshop"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#institute-activities",
+    "href": "institute-goals.html#institute-activities",
+    "title": "Goals and Objectives",
+    "section": "Institute Activities",
+    "text": "Institute Activities\nTo help accomplish these goals and objectives, LASER BEAM aims to build on prior efforts and scale them to a much greater degree by through the following activites:\n\nDevelop a modular curriculum adaptable to instructors’ needs. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nPrepare faculty to learn from and teach with LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these componetns are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nBroaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals and Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-online.html",
+    "href": "institute-online.html",
+    "title": "Online Community",
+    "section": "",
+    "text": "Ongoing support is provided to participants during the academic year to continue their professional learning and ensure they can successfully carry out instructional plans at their home institutions. The project team provides a range of activities designed to support participants and inform curriculum refinement throughout the year. These following are guided by findings from our prior research found to be strongly associated with successful online communities: \n\nMonthly Check-Ins\nThroughout fall and spring, the project team will facilitate formal monthly check-ins with participants on progress made towards implementing instructional plans developed duringthe Summer Workshop. The check-ins will also be used to gather feedback on curricular modules used by instructors. Guest speakers from our advisory board and other invited guests will also lead sessions on LA topics during check-ins. These sessions will be informed by the community, as well as more specialized topics in advanced methods.\n\n\nVirtual Module Sessions\nThese session are offered several times each month so participants can learn about research methods they were unable to experience during the Summer Institute, as well to model instructional use of the modules in a fully online context. The workshops are led by members of the project team as well as by past LASER Scholars.\n\n\nAsynchronous Activities\nFacilitated discussion channels and informal Q&As are hosted on our Slack workspace, which includes both current and past participants from prior LASER Institute cohorts. Discussions focus on shared problems of practice such as adapting instructional modules to local contexts or working with students who have limited programming experience, as well as topics related to module content such as R packages, conceptual overviews, and essential readings. \n\n\nResource Repositories\nA key deliverable of this grant is a freely available website that houses all the curriculum materials needed to teach, and learn from, the LASER curriculum. These materials consist of both project team and member-generated content hosted on GitHub and a new curriculum website currently under development. These website include materials for each module as well as supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Online Community"
+    ]
+  },
+  {
+    "objectID": "institute-online.html#monthly-check-ins",
+    "href": "institute-online.html#monthly-check-ins",
+    "title": "Online Community",
+    "section": "Monthly Check-Ins",
+    "text": "Monthly Check-Ins\nThroughout fall and spring, the project team will facilitate formal monthly check-ins with participants on progress made towards implementing instructional plans developed duringthe Summer Workshop. The check-ins will also be used to gather feedback on curricular modules used by instructors. Guest speakers from our advisory board and other invited guests will also lead sessions on LA topics during check-ins. These sessions will be informed by the community, as well as more specialized topics in advanced methods.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Online Community"
+    ]
+  },
+  {
+    "objectID": "institute-online.html#virtual-module-sessions",
+    "href": "institute-online.html#virtual-module-sessions",
+    "title": "Online Community",
+    "section": "Virtual Module Sessions",
+    "text": "Virtual Module Sessions\nThese session are offered several times each month so participants can learn about research methods they were unable to experience during the Summer Institute, as well to model instructional use of the modules in a fully online context. The workshops are led by members of the project team as well as by past LASER Scholars.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Online Community"
+    ]
+  },
+  {
+    "objectID": "institute-online.html#asynchronous-activities",
+    "href": "institute-online.html#asynchronous-activities",
+    "title": "Online Community",
+    "section": "Asynchronous Activities",
+    "text": "Asynchronous Activities\nFacilitated discussion channels and informal Q&As are hosted on our Slack workspace, which includes both current and past participants from prior LASER Institute cohorts. Discussions focus on shared problems of practice such as adapting instructional modules to local contexts or working with students who have limited programming experience, as well as topics related to module content such as R packages, conceptual overviews, and essential readings.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Online Community"
+    ]
+  },
+  {
+    "objectID": "institute-online.html#resource-repositories",
+    "href": "institute-online.html#resource-repositories",
+    "title": "Online Community",
+    "section": "Resource Repositories",
+    "text": "Resource Repositories\nA key deliverable of this grant is a freely available website that houses all the curriculum materials needed to teach, and learn from, the LASER curriculum. These materials consist of both project team and member-generated content hosted on GitHub and a new curriculum website currently under development. These website include materials for each module as well as supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Online Community"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
+    "href": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
+    "title": "Social Network Analysis",
+    "section": "Module 3: Groups, Positions, & Egocentric Analysis",
+    "text": "Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Components, Cliques, & Key Actors is inspired by the work of Supovitz et al. Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project. Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTop-Down and Bottom-Up Approaches\n\n\n\nCode Along\nComponent, Cliques, & Key Actors\n\n\n\nReadings &\nDiscussion\nComponents, Cliques, & Key Actors\n\n\n\nCase Study\nComponent, Cliques, & Key Actors\n\n\n\nBadge\nComponent, Cliques, & Key Actors",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
+    "href": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
+    "title": "Social Network Analysis",
+    "section": "Module 4: Statistical Inference & Network Models",
+    "text": "Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTop-Down and Bottom-Up Approaches\n\n\n\nCode Along\nComponent, Cliques, & Key Actors\n\n\n\nReadings &\nDiscussion\nComponent, Cliques, & Key Actors\n\n\n\nCase Study\nComponent, Cliques, & Key Actors\n\n\n\nBadge\nComponent, Cliques, & Key Actors",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
   }
 ]

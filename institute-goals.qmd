@@ -2,6 +2,14 @@
 title: "Goals and Objectives"
 ---
 
+LASER: Broadening Education in Advanced Methods (LASER BEAM) is the next phase of the LASER Institute funded by NSF ([DRL-2321128](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321128&HistoricalAwards=false), and [DRL-2321129](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321129&HistoricalAwards=false)). LASER BEAM builds upon the prior NSF-funded LASER Institute DRL-[2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false), which aims to increase the number of education research capable of leveraging new sources of data and data-intensive research methods to understand and improve student learning. The LASER Institute is a year-long professional development program for early- and mid-career researchers consisting of two core components:
+
+1.  **Summer Workshop**: An intensive 5-day program consisting of learning labs, guest speakers, planning sessions, and community-building activities.
+
+2.  **Online Community**: An online community of practice for ongoing networking and support throughout the year.
+
+## Institute Goals
+
 The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.
 
 The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:
@@ -25,3 +33,13 @@ The LASER curriculum is designed to help faculty teach current and emerging STEM
 -   Evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;
 
 -   Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.
+
+## Institute Activities
+
+To help accomplish these goals and objectives, LASER BEAM aims to build on prior efforts and scale them to a much greater degree by through the following activites:
+
+1.  **Develop a modular curriculum adaptable to instructors’ needs.** LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.
+
+2.  **Prepare faculty to learn from and teach with LASER curriculum resources.** Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these componetns are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.
+
+3.  **Broaden educational opportunities in advanced methods.** Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.

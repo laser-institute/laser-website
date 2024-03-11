@@ -1,0 +1,47 @@
+---
+title: "Summer Workshop"
+---
+
+LASER BEAM participants will begin their program with an intensive 5-day summer training program at the FI, taught by NC State and Penn faculty and with invited presentations from Advisory Board members. Each Summer Institute will take place in July with pre-workshop preparation (e.g., introductions and needs assessment) for participants beginning earlier that spring. To attend to the needs of STEM education faculty and researchers with varying degrees of expertise in LA, the Summer Institute will provide both a *beginner* track and an *advanced* track to support faculty development, with approximately half of the participants in each track. The proposed Summer Institute schedule outlined in Table 2 provides an overview of the sequence of activities currently planned, recognizing that some adjustments will be necessary based on the needs assessment and specific modules participants are interested in teaching and/or learning from. Each of these activities is described in more detail below.
+
+### Summer Institute Schedule
+
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+| **EST**           | **Monday**       | **Tuesday**             | **Wednesday**          | **Thursday**           | **Friday**             |
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+| **9:00 - 9:30**   | Orientation      | Community Building      | Community Building     | Community Building     | Community Building     |
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+| **9:40 - 11:00**  | Module Overview  | Module Session 1        | Module Session 2       | Module Session 3       | Module Session 4       |
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+| **11:15 - 12:30** | Pedagogy Session | Module Session 1 cont.  | Module Session 2 cont. | Module Session 3 cont. | Module Session 4 cont. |
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+| **1:30 - 2:45**   | Guest Speaker    | Guest Speaker           | Guest Speaker          | Guest Speaker          | Guest Speaker          |
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+| **3:00 - 3:45**   | Pedagogy Session | Pedagogy Session        | Pedagogy Session       | Pedagogy Session       | Evaluation             |
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+| **4:00 - 5:00**   | Design Session   | Design Session          | Design Session         | Design Session         | Early Exit             |
++-------------------+------------------+-------------------------+------------------------+------------------------+------------------------+
+
+### Pre-Institute Preparation
+
+Prior to the Summer Institute, participants will complete a needs assessment to identify their teaching interests, experience with software packages, and skills and knowledge in relation to LA and advanced methods. This assessment will be used to identify the appropriate track for their Summer Institute experience and help guide the content, structure and sequence of their 5-day professional development. Instructors on the beginner track will also engage in pre-institute tutorials beginning in May and which must be completed prior to the workshop to demonstrate their preparation and commitment to LASER BEAM. Finally, all participants will engage in an initial community building activity designed to familiarize participants with the social platform that will be used throughout LASER BEAM as part of the Online Community and provide them with an opportunity to get to know each other prior to the Summer Institute.
+
+### Community Building
+
+The research and the project team’s experience leading faculty and educator training programs suggest community building activities are critical in supporting and affirming sustained participation in LA and data science initiatives, particularly for novice learners and scholars from minoritized groups (Arif et al., 2021). Consequently, LASER BEAM will incorporate identity-affirming activities each day of the workshop to help participants learn more about each other and create a sense of community (Booth & Kellogg, 2015; Deglau & O'Sullivan, 2006). By sharing their backgrounds, interests, and experiences, participants will identify commonalities and differences. This will create a space for participants to learn from each other and build on each other's strengths.
+
+### Pedagogy Sessions 
+
+Participants in both the beginnerand advancedtracks will engage in whole group sessions to support them in adapting materials for their own instructional programs. Sessions will focus on a range of topics, from understanding the design principles behind the LASER BEAM curriculum to setting up the infrastructure necessary for learners to fully participate in module activities. Pedagogy sessions throughout the week will focus on the nuts and bolts of teaching the curriculum, including topics such as tools and approaches for facilitating in-person and online discussion, assessment and grading of assignments, and logistics for instructional delivery. For example, on Day 1 (Monday) participants are introduced to Posit Cloud, a powerful set of data science and instructional tools that can be accessed through an internet browser and used for assigning, supporting, and assessing instructional activities such as the interactive coding case studies and tutorials highlighted in Section 2c.
+
+### Module Sessions
+
+Module sessions will be conducted in small groups and differentiated for participants in the beginnerand the advanced track based upon the needs assessment administered prior to the Summer Institute. These sessions will focus on the instructional materials from which participants will both learn from and use to train learners at their home institutions. Participants in the beginner track will focus on 4 introductory modules to develop their foundational knowledge and skills (see Section 2c) necessary for more advanced methods. Advanced track participants will engage in 4 module sessions focused on more advanced topics such as text classification and deep knowledge tracing. Sessions will be facilitated by members of the project team, who will model instructional best practices for use of these materials and participants in both tracks will work through select module activities just as would be expected from the students and faculty they plan to teach. Additionally, module sessions will be offered in an online format through workshops in the fall and spring (see Online Community section). This will allow the project team to both address topics not covered during the summer institute and to model instructional delivery in a purely online context.
+
+### Design Sessions
+
+Each day will end with small group activities to assist participants in designing a customized instructional plan at their home institutions, where they consider how to incorporate curriculum resources into their own contexts. The project team will collaborate with participants to choose relevant modules and activities, effective teaching methods (pedagogy), and suitable technology from our training resources that meet the needs of their learners. The team will also work with participants in aligning the chosen LA topics, pedagogy, and technology with the learners' needs to ensure the modules are tailored to address the unique needs and preferences of their learners.
+
+### Guest Speakers
+
+These sessions will draw upon the backgrounds and expertise of our Advisory Board members and other invited guests who have taught courses, workshops, and training events focused on LA and related methods. Sessions will reinforce topics introduced in our module and pedagogy sessions, and help participants envision how LASER BEAM curriculum materials and activities might be adapted to fit their own contexts and institutional programs.
