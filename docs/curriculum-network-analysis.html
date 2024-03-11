@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -31,7 +51,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./instruction-intro.html" rel="next">
-<link href="./curriculum-activities.html" rel="prev">
+<link href="./curriculum-design.html" rel="prev">
 <link href="./images/laser-icon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -109,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Instruction</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./institute-intro.html"> 
+    <a class="nav-link" href="./institute-goals.html"> 
 <span class="menu-text">Institute</span></a>
   </li>  
 </ul>
@@ -174,13 +194,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./curriculum-design.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">A Modular Design</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./curriculum-activities.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Module Activities</span></a>
+ <span class="menu-text">Modular by Design</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -219,14 +233,8 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./institute-intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">The LASER Institute</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./institute-goals.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Goals &amp; Objectives</span></a>
+ <span class="menu-text">Goals and Objectives</span></a>
   </div>
 </li>
       </ul>
@@ -245,6 +253,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#module-2-network-management-measurement" id="toc-module-2-network-management-measurement" class="nav-link" data-scroll-target="#module-2-network-management-measurement">Module 2: Network Management &amp; Measurement</a></li>
   <li><a href="#sna-module-3-groups-positions-egocentric-analysis" id="toc-sna-module-3-groups-positions-egocentric-analysis" class="nav-link" data-scroll-target="#sna-module-3-groups-positions-egocentric-analysis">SNA Module 3: Groups, Positions, &amp; Egocentric Analysis</a></li>
   <li><a href="#sna-module-4-statistical-inference-network-models" id="toc-sna-module-4-statistical-inference-network-models" class="nav-link" data-scroll-target="#sna-module-4-statistical-inference-network-models">SNA Module 4: Statistical Inference &amp; Network Models</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/curriculum-network-analysis.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -273,16 +282,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. The SNA modules are designed to prepare STEM education researchers to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each lab will provide scholars with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.</p>
 <section id="module-1-network-analysis-for-newbies" class="level2">
 <h2 class="anchored" data-anchor-id="module-1-network-analysis-for-newbies">Module 1: Network Analysis for Newbies</h2>
-<p>The first module is a gentle introduction to data collection, management and visualization. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key SNA concepts and terminology, as well as develop a basic comfort level with representing networks visually. Our SNA Case Study: Who’s Friends with Who in Middle School is guided by the work of Pittinsky and Carolan (2008) and compares teacher perceptions and student reports of classroom middle school friendship and helps reinforce the importance of treating behavioral and cognitive classroom friendship networks and ties as distinct. Finally, the Intro to SNA Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.</p>
+<p>The first module is a gentle introduction to data collection, management and visualization. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key SNA concepts and terminology, as well as develop a basic comfort level with representing networks visually. Our SNA Case Study: Who’s Friends with Who in Middle School is guided by the work of Pittinsky and Carolan <span class="citation" data-cites="pittinsky2008behavioral">Pittinsky and Carolan (<a href="#ref-pittinsky2008behavioral" role="doc-biblioref">2008</a>)</span> and compares teacher perceptions and student reports of classroom middle school friendship and helps reinforce the importance of treating behavioral and cognitive classroom friendship networks and ties as distinct. Finally, the Intro to SNA Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.</p>
 <table class="table">
 <tbody>
 <tr class="odd">
-<td><img src="images/presentation.png" class="img-fluid" width="40"></td>
-<td><strong>Conceptual Overview</strong>: <a href="https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide">Introduction to Social Network Analysis</a></td>
+<td><img src="images/conceptual-overview.png" class="img-fluid" width="40"></td>
+<td><strong>Conceptual Overview</strong>: <strong>An</strong> <strong>Introduction to Social Network Analysis</strong> | <a href="https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide">Slides</a> | Video (Coming Soon) |</td>
 </tr>
 <tr class="even">
-<td><img src="images/presentation.png" class="img-fluid" width="40"></td>
-<td><strong>Code Along:</strong> <a href="https://laser-institute.github.io/network-analysis/lab-1/sna-1-code-along-R.html#/title-slide">Data Structures &amp; Sociograms</a></td>
+<td><img src="images/code-along.png" class="img-fluid" width="40"></td>
+<td><strong>Code Along:</strong> <a href="https://laser-institute.github.io/network-analysis/lab-1/sna-1-code-along-R.html#/title-slide">Data Structures &amp; Sociograms</a> R Slides | Video</td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
@@ -301,28 +310,28 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="module-2-network-management-measurement" class="level2">
 <h2 class="anchored" data-anchor-id="module-2-network-management-measurement">Module 2: Network Management &amp; Measurement</h2>
-<p>as summarized in our <a href="https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html#1">Overview Presentation</a> moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our <a href="https://github.com/laser-institute/essential-readings/tree/main/sna-labs/sna-lab-2">Essential Readings</a> examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our <a href="https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-case-study-key.html">SNA Case Study: A Tale of Two MOOCs</a> compares discussion networks from two courses using an open educational dataset prepared by <a href="https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.12312">Kellogg and Edelman (2015)</a> as part of the Friday Institute’s work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the <a href="https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-badge.html">Measurement Badge</a> provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.</p>
+<p>Module 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelman <span class="citation" data-cites="kellogg2015massively">Kellogg and Edelmann (<a href="#ref-kellogg2015massively" role="doc-biblioref">2015</a>)</span> as part of the Friday Institute’s work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.</p>
 <table class="table">
 <tbody>
 <tr class="odd">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
-<td><strong>Conceptual Overview</strong>: <a href="https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide">Introduction to Social Network Analysis</a></td>
+<td><strong>Conceptual Overview</strong>: <a href="https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html#1">Data Management &amp; Measurement</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
-<td><strong>Code Along:</strong></td>
+<td><strong>Code Along:</strong> <a href="https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html?panelset=specify-boundary&amp;panelset1=reliability&amp;panelset2=context&amp;panelset3=load-libraries&amp;panelset4=import-data&amp;panelset5=convert-matrix&amp;panelset6=definition&amp;panelset7=definition2&amp;panelset8=definition3#8">Node &amp; Network Measures</a> <a href="https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-slides.html?panelset=specify-boundary&amp;panelset1=reliability&amp;panelset2=context&amp;panelset3=load-libraries&amp;panelset4=import-data&amp;panelset5=convert-matrix&amp;panelset6=definition&amp;panelset7=definition2&amp;panelset8=definition3#8">Preview</a> | Try it out!</td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
-<td><strong>Readings &amp; Discussion</strong>:</td>
+<td><strong>Readings &amp; Reflection</strong>: <a href="https://laser-institute.github.io//network-analysis/lab-2/sna-lab-2-readings.html">Management &amp; Measurement of Network Data</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
-<td><strong>Case Study</strong>:</td>
+<td><strong>Case Study</strong>: <a href="https://laser-institute.github.io/network-analysis/lab-2/sna-lab-2-case-study-key.html">A Tale of Two MOOCs</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/laser-hex.png" class="img-fluid" width="40"></td>
-<td><strong>Badge</strong>:</td>
+<td><strong>Badge</strong>: <a href="https://laser-institute.github.io//network-analysis/lab-2/sna-lab-2-badge.html">Network Measurement Badge</a></td>
 </tr>
 </tbody>
 </table>
@@ -382,11 +391,22 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
+</section>
+<section id="references" class="level2">
+
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-kellogg2015massively" class="csl-entry" role="listitem">
+Kellogg, Shaun, and Achim Edelmann. 2015. <span>“Massively Open Online Course for Educators (MOOC-Ed) Network Dataset.”</span> <em>British Journal of Educational Technology</em> 46 (5): 977–83. <a href="https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12312">https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12312</a>.
+</div>
+<div id="ref-pittinsky2008behavioral" class="csl-entry" role="listitem">
+Pittinsky, Matthew, and Brian V Carolan. 2008. <span>“Behavioral Versus Cognitive Classroom Friendship Networks: Do Teacher Perceptions Agree with Student Reports?”</span> <em>Social Psychology of Education</em> 11: 133–47. <a href="https://link.springer.com/content/pdf/10.1007/s11218-007-9046-7.pdf">https://link.springer.com/content/pdf/10.1007/s11218-007-9046-7.pdf</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -920,8 +940,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./curriculum-activities.html" class="pagination-link" aria-label="Module Activities">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Module Activities</span>
+      <a href="./curriculum-design.html" class="pagination-link" aria-label="Modular by Design">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Modular by Design</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
