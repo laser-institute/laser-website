@@ -43,34 +43,48 @@ Each instructional module consist of carefully scaffolded activities designed to
 
 ### Introductory Presentations
 
-![](images/presentation.png){width="80"}
-
 #### Conceptual Overviews
 
-Each module being with a The This presentation provides an introduction to each module and focuses on a **Conceptual Overview** ([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide)) of key terminology, techniques, and applications.
+![](images/conceptual-overview.png){width="80"}
 
-The second presentation provides a short but highly structured **Code-Along** ([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-1-code-along-R.html#/title-slide)) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker's BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. 
+Each module includes a presentation([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide)) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.
+
+#### Code-Alongs
+
+![](images/code-along.png){width="80"}
+
+The second presentation provides a short but highly structured coding ([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-1-code-along-R.html#/title-slide)) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker's BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. 
 
 ### Instructional Deep Dives
 
-#### Readings and Discussion
+#### Readings & Reflection
 
-Essential Readings accompanied by questions for discussion ([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-readings.html)) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.
+![](images/reading.png){width="80"}
+
+Essential Readings ([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-readings.html)) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.
 
 #### Coding Case Studies
 
+![](images/case-study.png){width="80"}
+
 Case Study assignments ([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-lab-1-case-study-key.html)) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.
 
-#### Software Tutorials
+#### Online Tutorials
 
-Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, [recipes](https://posit.cloud/learn/recipes), and [cheatsheets](https://posit.co/resources/cheatsheets/?_gl=1*18p13uo*_ga*OTU4NTc4NzgwLjE2NzI3NTQwNzQ.*_ga_2C0WZ1JHG0*MTcxMDA2Njg2MC4yNTMuMS4xNzEwMDY2ODYyLjAuMC4w) available on [Posit Cloud](https://posit.cloud/learn/guide), as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.
+![](images/tutorial.png){width="80"}
+
+Openly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, [recipes](https://posit.cloud/learn/recipes), and [cheatsheets](https://posit.co/resources/cheatsheets/?_gl=1*18p13uo*_ga*OTU4NTc4NzgwLjE2NzI3NTQwNzQ.*_ga_2C0WZ1JHG0*MTcxMDA2Njg2MC4yNTMuMS4xNzEwMDY2ODYyLjAuMC4w) available on [Posit Cloud](https://posit.cloud/learn/guide), as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.
 
 ### Assessment
 
 #### Badges
 
+![](images/badge.png){width="90"}
+
 Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital [Badges](https://posit.cloud/learn/guide) (see example) to award students upon successful completion of assessments. At the instructor's discretion, badges can be sequenced into microcredentials that can be used to certify learners' successful demonstration and/or application of LA methods.
 
 #### Microcredentials
 
-Learners who would like to demonstrate their ability to consider the potential applications and challenges of learning analytics in society.
+![](images/microcredential.png){width="101"}
+
+Microcredentials are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.
