@@ -5,7 +5,7 @@ bibliography: lit/references.bib
 
 Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. The SNA modules are designed to prepare STEM education researchers to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each module draw from the excellent book, *Social Network Analysis and Education* [@carolan2014]. Collectively, the modules provide education researchers with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.
 
-## All Modules: Repository & Workspaces
+## Modules Repository & Workspace
 
 Instructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:
 
@@ -37,7 +37,7 @@ The first module is a gentle introduction to data collection, management and vis
 +-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/case-study.png){width="40"}          | **Case Study** | [Who's Friends with Who in Middle School (Answer Key)](https://laser-institute.github.io/network-analysis/module-1/sna-1-case-study-key-R.html) |
 +-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/laser-hex.png){width="40"}           | **Badge**      | [Intro to SNA](https://laser-institute.github.io/network-analysis/module-1/sna-1-badge.html)                                                    |
+| ![](images/sna-badge-1.png){width="40"}         | **Badge**      | [Intro to SNA](https://laser-institute.github.io/network-analysis/module-1/sna-1-badge.html)                                                    |
 +-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 2: Network Management & Measurement
@@ -55,7 +55,7 @@ Module 2 moves beyond basic concepts of network analysis and takes a closer look
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
 | ![](images/case-study.png){width="40"}   | **Case Study** | [A Tale of Two MOOC (Answer Key)](https://laser-institute.github.io/network-analysis/module-2/sna-2-case-study-key-R.html)  |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/laser-hex.png){width="40"}    | **Badge**      | [Network Measurement Badge](https://laser-institute.github.io/network-analysis/module-2/sna-2-badge-R.html)                 |
+| ![](images/sna-badge-2.png){width="40"}  | **Badge**      | [Network Measurement Badge](https://laser-institute.github.io/network-analysis/module-2/sna-2-badge-R.html)                 |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 3: Groups, Positions, & Egocentric Analysis
@@ -73,7 +73,7 @@ Module 3 shifts the focus from complete network analysis and zooms in on methods
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/case-study.png){width="40"}   | **Case Study** | [Component, Cliques, & Key Actor (Answer Key)](https://laser-institute.github.io/network-analysis/module-3/sna-3-case-study-key-R.html) |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/laser-hex.png){width="40"}    | **Badge**      | [Groups & Egos](https://laser-institute.github.io/network-analysis/module-3/sna-3-badge-R.html)                                         |
+| ![](images/sna-badge-3.png){width="40"}  | **Badge**      | [Groups & Egos](https://laser-institute.github.io/network-analysis/module-3/sna-3-badge-R.html)                                         |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 4: Statistical Inference & Network Models
@@ -91,5 +91,13 @@ Module 4 wraps up our work with SNA and examines recent advances in inferential 
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/case-study.png){width="40"}   | **Case Study** | [Birds of a Feather Lead Together (Answer Key)](https://laser-institute.github.io/network-analysis/module-4/sna-4-case-study-key-R.html) |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/laser-hex.png){width="40"}    | **Badge**      | [Models & Inference](https://laser-institute.github.io/network-analysis/module-4/sna-4-badge-R.html)                                     |
+| ![](images/sna-badge-4.jpg){width="40"}  | **Badge**      | [Models & Inference](https://laser-institute.github.io/network-analysis/module-4/sna-4-badge-R.html)                                     |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Microcredential
+
+The culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
+
++---------------------------------------+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/sna-micro.jpg){width="40"} | **Microcredential** | [Social Network Analysis and Education](https://laser-institute.github.io/network-analysis/microcredential/sna-microcredential.html) |
++---------------------------------------+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+

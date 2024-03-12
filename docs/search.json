@@ -922,5 +922,29 @@
       "Curriculum",
       "Social Network Analysis"
     ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#modules-repository-workspace",
+    "href": "curriculum-network-analysis.html#modules-repository-workspace",
+    "title": "Social Network Analysis",
+    "section": "Modules Repository & Workspace",
+    "text": "Modules Repository & Workspace\nInstructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\n\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#microcredential",
+    "href": "curriculum-network-analysis.html#microcredential",
+    "title": "Social Network Analysis",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nSocial Network Analysis and Education",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
   }
 ]
