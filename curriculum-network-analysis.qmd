@@ -43,19 +43,19 @@ The first module is a gentle introduction to data collection, management and vis
 
 Module 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelman @kellogg2015massively as part of the Friday Institute's work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.
 
-+------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  | [Data Management & Measurement](https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide) |
-|                                          | Overview**     |                                                                                                                                       |
-+------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Code Along** | Node & Network Measures                                                                                                               |
-+------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  | Management & Measurement of Network Data                                                                                              |
-|                                          | Reflection**   |                                                                                                                                       |
-+------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** | A Tale of Two MOOCs                                                                                                                   |
-+------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/laser-hex.png){width="40"}    | **Badge**      | Network Measurement Badge                                                                                                             |
-+------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Data Management & Measurement](https://laser-institute.github.io/network-analysis/module-2/sna-2-conceptual-overview.html#/title-slide) |
+|                                          | Overview**     |                                                                                                                                          |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Code Along** | Node & Network Measures                                                                                                                  |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Management & Measurement of Network Data](https://laser-institute.github.io/network-analysis/module-2/sna-2-readings.html)              |
+|                                          | Reflection**   |                                                                                                                                          |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [A Tale of Two MOOCs](https://laser-institute.github.io/network-analysis/module-2/sna-2-case-study-key-R.html)                           |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/laser-hex.png){width="40"}    | **Badge**      | [Network Measurement Badge](https://laser-institute.github.io/network-analysis/module-2/sna-2-badge-R.html)                              |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 3: Groups, Positions, & Egocentric Analysis
 
@@ -72,7 +72,7 @@ Module 3 shifts the focus from complete network analysis and zooms in on methods
 +------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/case-study.png){width="40"}   | **Case Study** | Component, Cliques, & Key Actors                                                                                                          |
 +------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/laser-hex.png){width="40"}    | **Badge**      | Component, Cliques, & Key Actors                                                                                                          |
+| ![](images/laser-hex.png){width="40"}    | **Badge**      | [Component, Cliques, & Key Actors](https://laser-institute.github.io/network-analysis/module-3/sna-3-badge-R.html)                        |
 +------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 4: Statistical Inference & Network Models
