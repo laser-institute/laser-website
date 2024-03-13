@@ -946,5 +946,17 @@
       "Curriculum",
       "Social Network Analysis"
     ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-repository-workspace",
+    "href": "curriculum-network-analysis.html#module-repository-workspace",
+    "title": "Social Network Analysis",
+    "section": "Module Repository & Workspace",
+    "text": "Module Repository & Workspace\nInstructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\n\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
   }
 ]
