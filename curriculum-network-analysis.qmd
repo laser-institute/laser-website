@@ -3,6 +3,8 @@ title: "Social Network Analysis"
 bibliography: lit/references.bib
 ---
 
+![](images/sna-micro.png){width="150"}
+
 Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. The SNA modules are designed to prepare STEM education researchers to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each module draw from the excellent book, *Social Network Analysis and Education* [@carolan2014]. Collectively, the modules provide education researchers with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.
 
 ## Modules Repository & Workspace
@@ -44,19 +46,19 @@ The first module is a gentle introduction to data collection, management and vis
 
 Module 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelman @kellogg2015massively as part of the Friday Institute's work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.
 
-+------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  | [Data Collection & Quality](https://laser-institute.github.io/network-analysis/module-2/sna-2-conceptual-overview.html)     |
-|                                          | Overview**     |                                                                                                                             |
-+------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Code Along** | Node & Network Measures                                                                                                     |
-+------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  | [Management & Measurement of Network Data](https://laser-institute.github.io/network-analysis/module-2/sna-2-readings.html) |
-|                                          | Reflection**   |                                                                                                                             |
-+------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** | [A Tale of Two MOOC (Answer Key)](https://laser-institute.github.io/network-analysis/module-2/sna-2-case-study-key-R.html)  |
-+------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/sna-badge-2.png){width="40"}  | **Badge**      | [Network Measurement Badge](https://laser-institute.github.io/network-analysis/module-2/sna-2-badge-R.html)                 |
-+------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Data Collection & Quality](https://laser-institute.github.io/network-analysis/module-2/sna-2-conceptual-overview.html)    |
+|                                          | Overview**     |                                                                                                                            |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Code Along** | Density, Centrality, & Reciprocity                                                                                         |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Data Management & Network Measurement](https://laser-institute.github.io/network-analysis/module-2/sna-2-readings.html)   |
+|                                          | Reflection**   |                                                                                                                            |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [A Tale of Two MOOC (Answer Key)](https://laser-institute.github.io/network-analysis/module-2/sna-2-case-study-key-R.html) |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/sna-badge-2.png){width="40"}  | **Badge**      | [Network Measurement Badge](https://laser-institute.github.io/network-analysis/module-2/sna-2-badge-R.html)                |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 3: Groups, Positions, & Egocentric Analysis
 
