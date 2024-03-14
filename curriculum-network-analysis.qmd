@@ -50,7 +50,7 @@ Module 2 moves beyond basic concepts of network analysis and takes a closer look
 | ![](images/presentation.png){width="40"} | **Conceptual\   | [Data Collection & Quality](https://laser-institute.github.io/network-analysis/module-2/sna-2-conceptual-overview.html)    |
 |                                          | Overview**      |                                                                                                                            |
 +------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Code Along**  | [Density, Reciprocity, & Centrality](https://laser-institute.github.io/network-analysis/module-2/sna-2-code-along-R.html)  |
+| ![](images/code-along.png){width="40"}   | **Code Along**  | [Density, Reciprocity, & Centrality](https://laser-institute.github.io/network-analysis/module-2/sna-2-code-along-R.html)  |
 +------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\   | [Data Management & Network Measurement](https://laser-institute.github.io/network-analysis/module-2/sna-2-readings.html)   |
 |                                          | Reflection**    |                                                                                                                            |
@@ -68,7 +68,7 @@ Module 3 shifts the focus from complete network analysis and zooms in on methods
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Group Identification in Networks](https://laser-institute.github.io/network-analysis/module-3/sna-3-conceptual-overview.html)           |
 |                                          | Overview**     |                                                                                                                                          |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Code Along** | Components, Cliques, & Key Actors                                                                                                        |
+| ![](images/code-along.png){width="40"}   | **Code Along** | Components, Cliques, & Key Actors                                                                                                        |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Groups, Positions, and Egocentric Analysis](https://laser-institute.github.io/network-analysis/module-3/sna-3-readings.html)            |
 |                                          | Discussion**   |                                                                                                                                          |
@@ -86,7 +86,7 @@ Module 4 wraps up our work with SNA and examines recent advances in inferential 
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Network Inference & Applications](https://laser-institute.github.io/network-analysis/module-4/sna-4-conceptual-overview.html)           |
 |                                          | Overview**     |                                                                                                                                          |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Code Along** | Exponential Random Graph Modeling                                                                                                        |
+| ![](images/code-along.png){width="40"}   | **Code Along** | Exponential Random Graph Modeling                                                                                                        |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Network Modeling & Inference](https://laser-institute.github.io/network-analysis/module-4/sna-4-readings.html)                          |
 |                                          | Discussion**   |                                                                                                                                          |
