@@ -62,21 +62,21 @@ Module 2 moves beyond basic concepts of network analysis and takes a closer look
 
 ## Module 3: Groups, Positions, & Egocentric Analysis
 
-Module 3 shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both "top-down" and "bottom-up" approaches to identify a network's groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Components, Cliques, & Key Actors is inspired by the work of Supovitz et al. @supovitz2017commoncore who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the [#COMMONCORE Project](https://www.hashtagcommoncore.com/). Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.
+Module 3 shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both "top-down" and "bottom-up" approaches to identify a network's groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Hashtag Common Core is inspired by the work of Supovitz et al. @supovitz2017commoncore who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the [#COMMONCORE Project](https://www.hashtagcommoncore.com/). Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.
 
-+------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  | [Group Identification in Networks](https://laser-institute.github.io/network-analysis/module-3/sna-3-conceptual-overview.html)           |
-|                                          | Overview**     |                                                                                                                                          |
-+------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Components, Cliques, & Key Actors                                                                                                        |
-+------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  | [Groups, Positions, and Egocentric Analysis](https://laser-institute.github.io/network-analysis/module-3/sna-3-readings.html)            |
-|                                          | Discussion**   |                                                                                                                                          |
-+------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** | [Components, Cliques, & Key Actor (Answer Key)](https://laser-institute.github.io/network-analysis/module-3/sna-3-case-study-key-R.html) |
-+------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/sna-badge-3.png){width="40"}  | **Badge**      | [Groups & Egos](https://laser-institute.github.io/network-analysis/module-3/sna-3-badge-R.html)                                          |
-+------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Group Identification in Networks](https://laser-institute.github.io/network-analysis/module-3/sna-3-conceptual-overview.html) |
+|                                          | Overview**     |                                                                                                                                |
++------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | Components, Cliques & Key Actors                                                                                               |
++------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Groups, Positions, and Egocentric Analysis](https://laser-institute.github.io/network-analysis/module-3/sna-3-readings.html)  |
+|                                          | Discussion**   |                                                                                                                                |
++------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [Hashtag Common Core (Answer Key)](https://laser-institute.github.io/network-analysis/module-3/sna-3-case-study-key-R.html)    |
++------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/sna-badge-3.png){width="40"}  | **Badge**      | [Groups & Egos](https://laser-institute.github.io/network-analysis/module-3/sna-3-badge-R.html)                                |
++------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 4: Statistical Inference & Network Models
 
