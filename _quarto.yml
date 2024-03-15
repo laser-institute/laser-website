@@ -36,6 +36,7 @@ website:
     - section: "Curriculum"
       contents:
         - curriculum-design.qmd
+        - curriculum-orientation.qmd
         - curriculum-network-analysis.qmd
     - section: "Instruction"
       contents:

@@ -46,19 +46,19 @@ The first module is a gentle introduction to data collection, management and vis
 
 Module 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelman @kellogg2015massively as part of the Friday Institute's work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.
 
-+------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\   | [Data Collection & Quality](https://laser-institute.github.io/network-analysis/module-2/sna-2-conceptual-overview.html)    |
-|                                          | Overview**      |                                                                                                                            |
-+------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along**  | [Density, Reciprocity, & Centrality](https://laser-institute.github.io/network-analysis/module-2/sna-2-code-along-R.html)  |
-+------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/reading.png){width="40"}      | **Readings &\   | [Data Management & Network Measurement](https://laser-institute.github.io/network-analysis/module-2/sna-2-readings.html)   |
-|                                          | Reflection**    |                                                                                                                            |
-+------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/case-study.png){width="40"}   | **Case Study**  | [A Tale of Two MOOC (Answer Key)](https://laser-institute.github.io/network-analysis/module-2/sna-2-case-study-key-R.html) |
-+------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/sna-badge-2.png){width="40"}  | **Badge**       | [Network Measurement Badge](https://laser-institute.github.io/network-analysis/module-2/sna-2-badge-R.html)                |
-+------------------------------------------+-----------------+----------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Data Collection & Quality](https://laser-institute.github.io/network-analysis/module-2/sna-2-conceptual-overview.html)    |
+|                                          | Overview**     |                                                                                                                            |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | [Density, Reciprocity, & Centrality](https://laser-institute.github.io/network-analysis/module-2/sna-2-code-along-R.html)  |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Data Management & Network Measurement](https://laser-institute.github.io/network-analysis/module-2/sna-2-readings.html)   |
+|                                          | Reflection**   |                                                                                                                            |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [A Tale of Two MOOC (Answer Key)](https://laser-institute.github.io/network-analysis/module-2/sna-2-case-study-key-R.html) |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/sna-badge-2.png){width="40"}  | **Badge**      | [Network Measurement Badge](https://laser-institute.github.io/network-analysis/module-2/sna-2-badge-R.html)                |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 3: Groups, Positions, & Egocentric Analysis
 
@@ -68,7 +68,7 @@ Module 3 shifts the focus from complete network analysis and zooms in on methods
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Group Identification in Networks](https://laser-institute.github.io/network-analysis/module-3/sna-3-conceptual-overview.html) |
 |                                          | Overview**     |                                                                                                                                |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Components, Cliques & Key Actors                                                                                               |
+| ![](images/code-along.png){width="40"}   | **Code Along** | [Components, Cliques & Key Actors](https://laser-institute.github.io/network-analysis/module-3/sna-3-code-along-R.html)        |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Groups, Positions, and Egocentric Analysis](https://laser-institute.github.io/network-analysis/module-3/sna-3-readings.html)  |
 |                                          | Discussion**   |                                                                                                                                |
@@ -86,7 +86,7 @@ Module 4 wraps up our work with SNA and examines recent advances in inferential 
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Network Inference & Applications](https://laser-institute.github.io/network-analysis/module-4/sna-4-conceptual-overview.html)           |
 |                                          | Overview**     |                                                                                                                                          |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Intro to ERGMs                                                                                                                           |
+| ![](images/code-along.png){width="40"}   | **Code Along** | [Intro to ERGMs](https://laser-institute.github.io/network-analysis/module-4/sna-4-code-along-R.html)                                    |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Network Modeling & Inference](https://laser-institute.github.io/network-analysis/module-4/sna-4-readings.html)                          |
 |                                          | Discussion**   |                                                                                                                                          |
