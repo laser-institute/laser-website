@@ -93,3 +93,5 @@ The culminating activity for the SNA Modules is designed to provide you some spa
 +---------------------------------------+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/sna-micro.png){width="40"} | **Microcredential** | [Social Network Analysis and Education](https://laser-institute.github.io/network-analysis/microcredential/sna-microcredential.html) |
 +---------------------------------------+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+
+
+## References
