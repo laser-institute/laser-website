@@ -38,6 +38,7 @@ website:
         - curriculum-design.qmd
         - curriculum-orientation.qmd
         - curriculum-network-analysis.qmd
+        - curriculum-knowledge-tracing.qmd
     - section: "Instruction"
       contents:
         - instruction-intro.qmd

@@ -1,0 +1,95 @@
+---
+title: "Knowledge Tracing"
+bibliography: lit/references.bib
+---
+
+Knowledge Inference prepares scholars to leverage techniques that model the knowledge of a student at a specific point in time as they interact with coursework and assessment activities. Techniques introduced in these modules include Bayesian, Logistic, and Deep Knowledge Tracing.
+
++------------------------------------+-----------------+------------------------------------------------------------------------------------+
+| ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/knowledge-tracing) |
+|                                    | **              |                                                                                    |
++------------------------------------+-----------------+------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | Workspace for Students                                                             |
++------------------------------------+-----------------+------------------------------------------------------------------------------------+
+
+## Module 1: KT Basics
+
+Lorem ipsum dolor...
+
++-------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Conceptual\  | [Bayesian Knowledge Tracing](https://laser-institute.github.io/knowledge-tracing/module-1/kt-1-conceptual-overview.html#/title-slide) |
+|                                                 | Overview**     |                                                                                                                                       |
++-------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}          | **Code Along** |                                                                                                                                       |
++-------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}             | **Readings &\  |                                                                                                                                       |
+|                                                 | Reflection**   |                                                                                                                                       |
++-------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study** |                                                                                                                                       |
++-------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/sna-badge-1.png){width="40"}         | **Badge**      |                                                                                                                                       |
++-------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------+
+
+## Module 2: Network Management & Measurement
+
+Lorem ipsum dolor...
+
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  |                                           |
+|                                          | Overview**     |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  |                                           |
+|                                          | Reflection**   |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/sna-badge-2.png){width="40"}  | **Badge**      |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+
+## Module 3: Groups, Positions, & Egocentric Analysis
+
+Lorem ipsum dolor...
+
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  |                                           |
+|                                          | Overview**     |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  |                                           |
+|                                          | Discussion**   |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+| ![](images/sna-badge-3.png){width="40"}  | **Badge**      |                                           |
++------------------------------------------+----------------+-------------------------------------------+
+
+## Module 4: Statistical Inference & Network Models
+
+Lorem ipsum dolor...
+
++------------------------------------------+----------------+--------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  |                                            |
+|                                          | Overview**     |                                            |
++------------------------------------------+----------------+--------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** |                                            |
++------------------------------------------+----------------+--------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  |                                            |
+|                                          | Discussion**   |                                            |
++------------------------------------------+----------------+--------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** |                                            |
++------------------------------------------+----------------+--------------------------------------------+
+| ![](images/sna-badge-4.jpg){width="40"}  | **Badge**      |                                            |
++------------------------------------------+----------------+--------------------------------------------+
+
+## Microcredential
+
+The culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
+
++---------------------------------------+---------------------+-------------------------------------------+
+| ![](images/sna-micro.png){width="40"} | **Microcredential** |                                           |
++---------------------------------------+---------------------+-------------------------------------------+
+
+## References
