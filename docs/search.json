@@ -1,14 +1,165 @@
 [
   {
-    "objectID": "modules-overview.html",
-    "href": "modules-overview.html",
-    "title": "Learning from LASER",
+    "objectID": "curriculum-network-analysis.html",
+    "href": "curriculum-network-analysis.html",
+    "title": "Social Network Analysis",
     "section": "",
-    "text": "LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). These modules include learning activities focused on essential data wrangling processes, as well as exploratory techniques such as data visualizations and dashboards. Modules addressing advanced methods will focus on a range of modeling techniques including supervised machine learning (feature engineering, model tuning, and diagnostic metrics), unsupervised learning methods such as clustering, relationship mining methods such as association rule and sequential pattern mining, topic modeling, knowledge tracing and knowledge graphs, network analysis and the use of Application Programming Interfaces (APIs).\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
+    "text": "Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. The SNA modules are designed to prepare STEM education researchers to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each module draw from the excellent book, Social Network Analysis and Education (Carolan 2014). Collectively, the modules provide education researchers with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.",
     "crumbs": [
       "Home",
-      "Modules",
-      "Learning from LASER"
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
+    "href": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
+    "title": "Social Network Analysis",
+    "section": "Module 1: Network Analysis for Newbies",
+    "text": "Module 1: Network Analysis for Newbies\nThe first module is a gentle introduction to data collection, management and visualization. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key SNA concepts and terminology, as well as develop a basic comfort level with representing networks visually. Our SNA Case Study: Who’s Friends with Who in Middle School is guided by the work of Pittinsky and Carolan Pittinsky and Carolan (2008) and compares teacher perceptions and student reports of classroom middle school friendship and helps reinforce the importance of treating behavioral and cognitive classroom friendship networks and ties as distinct. Finally, the Intro to SNA Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nAn Introduction to Social Network Analysis\n\n\n\nCode Along\nData Structures & Sociograms\n\n\n\nReadings &\nReflection\nBackground and Basic Concepts\n\n\n\nCase Study\nWho’s Friends with Who in Middle School (Answer Key)\n\n\n\nBadge\nIntro to SNA",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-2-network-management-measurement",
+    "href": "curriculum-network-analysis.html#module-2-network-management-measurement",
+    "title": "Social Network Analysis",
+    "section": "Module 2: Network Management & Measurement",
+    "text": "Module 2: Network Management & Measurement\nModule 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelman Kellogg and Edelmann (2015) as part of the Friday Institute’s work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nData Collection & Quality\n\n\n\nCode Along\nDensity, Reciprocity, & Centrality\n\n\n\nReadings &\nReflection\nData Management & Network Measurement\n\n\n\nCase Study\nA Tale of Two MOOC (Answer Key)\n\n\n\nBadge\nNetwork Measurement Badge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
+    "href": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
+    "title": "Social Network Analysis",
+    "section": "Module 3: Groups, Positions, & Egocentric Analysis",
+    "text": "Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Hashtag Common Core is inspired by the work of Supovitz et al. Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project. Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nGroup Identification in Networks\n\n\n\nCode Along\nComponents, Cliques & Key Actors\n\n\n\nReadings &\nDiscussion\nGroups, Positions, and Egocentric Analysis\n\n\n\nCase Study\nHashtag Common Core (Answer Key)\n\n\n\nBadge\nGroups & Egos",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
+    "href": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
+    "title": "Social Network Analysis",
+    "section": "Module 4: Statistical Inference & Network Models",
+    "text": "Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nNetwork Inference & Applications\n\n\n\nCode Along\nIntro to ERGMs\n\n\n\nReadings &\nDiscussion\nNetwork Modeling & Inference\n\n\n\nCase Study\nBirds of a Feather Lead Together (Answer Key)\n\n\n\nBadge\nModels & Inference",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#microcredential",
+    "href": "curriculum-network-analysis.html#microcredential",
+    "title": "Social Network Analysis",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nSocial Network Analysis and Education",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "institute-intro.html",
+    "href": "institute-intro.html",
+    "title": "Goals and Objectives",
+    "section": "",
+    "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
+  },
+  {
+    "objectID": "instruction-intro.html",
+    "href": "instruction-intro.html",
+    "title": "Teaching with LASER",
+    "section": "",
+    "text": "Coming soon!",
+    "crumbs": [
+      "Home",
+      "Instruction",
+      "Teaching with LASER"
+    ]
+  },
+  {
+    "objectID": "curriculum-orientation.html",
+    "href": "curriculum-orientation.html",
+    "title": "Module Orientation",
+    "section": "",
+    "text": "Instructional materials for the LASER Orientation and other modules are linked below and come in three main flavors:",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Module Orientation"
+    ]
+  },
+  {
+    "objectID": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
+    "href": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
+    "title": "Module Orientation",
+    "section": "Orientation Module: The LASER Toolkit",
+    "text": "Orientation Module: The LASER Toolkit\nThe Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research (Gandrud 2013) and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by Krumm, Means, and Bienkowski (2018) and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with Quarto, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.\n\n\n\n\nConceptual\nOverview\nReproducible Research & Tools\n\n\n\nCode Along\nThe Data-Intensive Research Workflow\n\n\n\nReadings &\nReflection\nLearning Analytics Goes to School\n\n\n\nCase Study\nA Coding Case Study with Quarto\n\n\n\nBadge\nLASER Orientation Badge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Module Orientation"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html",
+    "href": "institute-goals.html",
+    "title": "Goals and Objectives",
+    "section": "",
+    "text": "LASER: Broadening Education in Advanced Methods (LASER BEAM) is the next phase of the LASER Institute funded by NSF (DRL-2321128, and DRL-2321129). LASER BEAM builds upon the prior NSF-funded LASER Institute DRL-2025090, which aims to increase the number of education research capable of leveraging new sources of data and data-intensive research methods to understand and improve student learning. The LASER Institute is a year-long professional development program for early- and mid-career researchers consisting of two core components:",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals and Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#institute-goals",
+    "href": "institute-goals.html#institute-goals",
+    "title": "Goals and Objectives",
+    "section": "Institute Goals",
+    "text": "Institute Goals\nThe LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals and Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#learning-objectives",
+    "href": "institute-goals.html#learning-objectives",
+    "title": "Goals and Objectives",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nThe LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:\n\nUnderstand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nIdentify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals and Objectives"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#institute-activities",
+    "href": "institute-goals.html#institute-activities",
+    "title": "Goals and Objectives",
+    "section": "Institute Activities",
+    "text": "Institute Activities\nTo help accomplish these goals and objectives, LASER BEAM aims to build on prior efforts and scale them to a much greater degree by through the following activites:\n\nDevelop a modular curriculum adaptable to instructors’ needs. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nPrepare faculty to learn from and teach with LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these componetns are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nBroaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Goals and Objectives"
     ]
   },
   {
@@ -19,125 +170,32 @@
     "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "Welcome",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "Welcome",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The LASER Institute is a collaborative effort between the Friday Institute for Educational Innovation at North Carolina State University, the University of Pennsylvania, the University of Florida and the University of Tennessee, Knoxville.",
-    "crumbs": [
-      "Home",
-      "About"
-    ]
-  },
-  {
-    "objectID": "modules-network-analysis.html",
-    "href": "modules-network-analysis.html",
-    "title": "Network Analysis",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "modules-network-analysis.html#quarto",
-    "href": "modules-network-analysis.html#quarto",
-    "title": "Network Analysis",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "modules-network-analysis.html#running-code",
-    "href": "modules-network-analysis.html#running-code",
-    "title": "Network Analysis",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "Welcome",
-    "section": "Overview",
-    "text": "Overview\nThe Learning Analytics in STEM Education Research (LASER) Institute is a professional development program for early and mid-career researchers and funded by the National Science Foundation (ECR: BCSER). The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply computational methods (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry. The LASER Institute is a collaborative effort between the Friday Institute for Educational Innovation at North Carolina State University, the University of Pennsylvania, the University of Florida and the University of Tennessee, Knoxville.\n\nWhat is Learning Analytics?\nLearning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimising learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design). Learning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students’ learning activity, and use computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more."
-  },
-  {
-    "objectID": "index.html#laser-goals",
-    "href": "index.html#laser-goals",
-    "title": "Welcome",
-    "section": "LASER Goals",
-    "text": "LASER Goals\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, RStudio, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
-  },
-  {
-    "objectID": "index.html#mission-and-goals",
-    "href": "index.html#mission-and-goals",
+    "objectID": "index.html#the-laser-curriculum",
+    "href": "index.html#the-laser-curriculum",
     "title": "Welcome!",
-    "section": "Mission and Goals",
-    "text": "Mission and Goals\nLASER BEAM builds upon the existing NSF-funded LASER Institute DRL-2025090 (2020-2023), which aims to deepen scholars' understanding of LA methodologies, applications, and ethical issues as they relate to STEM education; develop their proficiency with analytic tools and software to apply advanced techniques to wrangle, explore, and model STEM education data; and expand their professional networks to help further their research and provide sustained, ongoing support beyond the program. LASER BEAM aims to build on these efforts and scale them to a much greater scope by accomplishing the following goals:\n\nGoal 1: Develop a modular curriculum adaptable to instructors' needs. This project aims to build on LASER Institute resources and other learning analytics resources developed at Penn to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues.\nGoal 2: Prepare faculty to teach with, and learn from, LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nGoal 3: Broaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution."
+    "section": "The LASER Curriculum",
+    "text": "The LASER Curriculum\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.\nThe Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course."
   },
   {
-    "objectID": "index.html#what-is-learning-analytics",
-    "href": "index.html#what-is-learning-analytics",
-    "title": "Welcome",
-    "section": "What is Learning Analytics?",
-    "text": "What is Learning Analytics?\nLearning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design). Learning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students’ learning activity, and use computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more."
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Welcome!",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThe LASER This material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
   },
   {
-    "objectID": "modules-overview.html#module-content",
-    "href": "modules-overview.html#module-content",
-    "title": "Modules Overview",
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Attribution-ShareAlike 4.0 International",
     "section": "",
-    "text": "LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). These modules include learning activities focused on essential data wrangling processes, as well as exploratory techniques such as data visualizations and dashboards. Modules addressing advanced methods will focus on a range of modeling techniques including supervised machine learning (feature engineering, model tuning, and diagnostic metrics), unsupervised learning methods such as clustering, relationship mining methods such as association rule and sequential pattern mining, topic modeling, knowledge tracing and knowledge graphs, network analysis and the use of Application Programming Interfaces (APIs).\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners' understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.\nWhile these modules and the activities they contain can be combined by instructors in various ways depending on the desired length of instruction and the needs of their students, there will be guidance provided during the Summer Institute, through the Online Community, and on the public website for a recommended scope and sequence based on their instructional needs. This will help to ensure continuity and cohesion across the curriculum and appropriate use of the modules to minimize learner frustration. Table 1 provides an overview of general methods and core topic areas addressed by each module.\n\n\n\nLA Workflows\n\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\nSupervised Learning (SL)\n\nSL Basics\nFeature Engineering\nModel Tuning\nDiagnostic Metrics\n\nUnsupervised Methods\n\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\nText Mining (TM)\n\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\nRelationship Mining (RM)\n\nRM Basics\nCorrelation Mining\nAssociation Rules\nCausal Data Mining\n\nKnowledge Tracing (KT)\n\nKT Basics\nBKT family\nPFA/LKT families\nDKT family\n\nNetwork Analysis (SNA)\n\nSNA Basics\nMeasurement\nInference & Modeling\nEpistemic Networks"
+    "text": "Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible."
   },
   {
-    "objectID": "modules-overview.html#module-activities",
-    "href": "modules-overview.html#module-activities",
-    "title": "Learning from LASER",
-    "section": "Module Activities",
-    "text": "Module Activities\nActivities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\nEach module will contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis.\nThe first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials.",
-    "crumbs": [
-      "Home",
-      "Modules",
-      "Learning from LASER"
-    ]
-  },
-  {
-    "objectID": "index.html#mission-and-goals-of-laser",
-    "href": "index.html#mission-and-goals-of-laser",
-    "title": "Overview",
-    "section": "Mission and Goals of LASER",
-    "text": "Mission and Goals of LASER\nLASER BEAM builds upon the existing NSF-funded LASER Institute DRL-2025090 (2020-2023), which aims to deepen scholars’ understanding of LA methodologies, applications, and ethical issues as they relate to STEM education; develop their proficiency with analytic tools and software to apply advanced techniques to wrangle, explore, and model STEM education data; and expand their professional networks to help further their research and provide sustained, ongoing support beyond the program. LASER BEAM aims to build on these efforts and scale them to a much greater scope by accomplishing the following goals:\n\nGoal 1: Develop a modular curriculum adaptable to instructors’ needs. This project aims to build on LASER Institute resources and other learning analytics resources developed at Penn to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues.\nGoal 2: Prepare faculty to teach with, and learn from, LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nGoal 3: Broaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution."
-  },
-  {
-    "objectID": "index.html#goals-of-the-laser-curriculum",
-    "href": "index.html#goals-of-the-laser-curriculum",
-    "title": "Overview",
-    "section": "Goals of the LASER Curriculum",
-    "text": "Goals of the LASER Curriculum\nLASER BEAM builds upon the existing NSF-funded LASER Institute DRL-2025090 (2020-2023), which aims to deepen scholars’ understanding of LA methodologies, applications, and ethical issues as they relate to STEM education; develop their proficiency with analytic tools and software to apply advanced techniques to wrangle, explore, and model STEM education data; and expand their professional networks to help further their research and provide sustained, ongoing support beyond the program. L aims to build on these efforts and scale them to a much greater scope by accomplishing the following goals:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, RStudio, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
-  },
-  {
-    "objectID": "index.html#website-organization",
-    "href": "index.html#website-organization",
-    "title": "Welcome",
-    "section": "Website Organization",
-    "text": "Website Organization\nThis website contains all the materials needed to teach with, and learn from, the LASER Institute curriculum. The content section of the website includes materials for 28 instructional modules assessing 7 distinct analytical methods. Each module includes slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities. The website also includes supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up.\nThe website is proudly built with Quarto, an open-source scientific and technical publishing system built on Pandoc. Quarto has been used by the project team to create dynamic instructional content with Python and R, and its publishing capabilities extend to high-quality articles, reports, websites, blogs, and books using plain text and scientific markdown. The source code for the LASER website and all instructional materials will be housed on the LASER Institute GitHub site and deployed using Netlify, an all-in-one platform deploying dynamic websites from Git. Housing all materials on GitHub allows for version control and collaborative editing of curriculum materials as well as the addition of new materials that may be developed by participants."
-  },
-  {
-    "objectID": "index.html#participating-institutions",
-    "href": "index.html#participating-institutions",
-    "title": "Home",
-    "section": "Participating Institutions",
-    "text": "Participating Institutions\nThe LASER Institute is a collaborative effort between the Friday Institute for Educational Innovation at North Carolina State University, the University of Pennsylvania, the University of Florida and the University of Tennessee, Knoxville."
+    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "title": "Attribution-ShareAlike 4.0 International",
+    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
+    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\n\n__Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\n\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\n\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\n\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org"
   },
   {
     "objectID": "CODE_OF_CONDUCT.html",
@@ -196,422 +254,6 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/ code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https:// www.contributor-covenant.org/translations."
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Attribution-ShareAlike 4.0 International",
-    "section": "",
-    "text": "Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible."
-  },
-  {
-    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "title": "Attribution-ShareAlike 4.0 International",
-    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
-    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\n\n__Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\n\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\n\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\n\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org"
-  },
-  {
-    "objectID": "curriculum-intro.html",
-    "href": "curriculum-intro.html",
-    "title": "Module Content",
-    "section": "",
-    "text": "LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics \nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level."
-  },
-  {
-    "objectID": "curriculum-la.html",
-    "href": "curriculum-la.html",
-    "title": "What is Learning Analytics?",
-    "section": "",
-    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of:\nLearning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more or watch the 2021 LASER Institute keynote is by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "What is Learning Analytics?"
-    ]
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Welcome!",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThe LASER This material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
-  },
-  {
-    "objectID": "curriculum-goals.html",
-    "href": "curriculum-goals.html",
-    "title": "Goals and Objectives",
-    "section": "",
-    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
-    "crumbs": [
-      "Home",
-      "The LASER Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "curriculum-goals.html#institute-goals",
-    "href": "curriculum-goals.html#institute-goals",
-    "title": "Goals and Objectives",
-    "section": "",
-    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
-    "crumbs": [
-      "Home",
-      "The LASER Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "curriculum-goals.html#learning-objectives",
-    "href": "curriculum-goals.html#learning-objectives",
-    "title": "Goals and Objectives",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nThe LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:\n\nUnderstand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nIdentify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
-    "crumbs": [
-      "Home",
-      "The LASER Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "instruction-overview.html",
-    "href": "instruction-overview.html",
-    "title": "Teaching with LASER",
-    "section": "",
-    "text": "Lorem ipsum dolor…",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Teaching with LASER"
-    ]
-  },
-  {
-    "objectID": "instruction-overview.html#module-activities",
-    "href": "instruction-overview.html#module-activities",
-    "title": "Teaching with LASER",
-    "section": "Module Activities",
-    "text": "Module Activities\nActivities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\nEach module will contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis.\nThe first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials."
-  },
-  {
-    "objectID": "laser-goals.html",
-    "href": "laser-goals.html",
-    "title": "Goals and Objectives",
-    "section": "",
-    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
-    "crumbs": [
-      "Home",
-      "The LASER Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "laser-goals.html#institute-goals",
-    "href": "laser-goals.html#institute-goals",
-    "title": "Goals and Objectives",
-    "section": "",
-    "text": "The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
-    "crumbs": [
-      "Home",
-      "The LASER Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "laser-goals.html#learning-objectives",
-    "href": "laser-goals.html#learning-objectives",
-    "title": "Goals and Objectives",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nThe LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:\n\nUnderstand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nIdentify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
-    "crumbs": [
-      "Home",
-      "The LASER Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "laser-la.html",
-    "href": "laser-la.html",
-    "title": "What is Learning Analytics?",
-    "section": "",
-    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design).\nLearning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students’ learning activity, and use computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "What is Learning Analytics?"
-    ]
-  },
-  {
-    "objectID": "curriculum-modules.html",
-    "href": "curriculum-modules.html",
-    "title": "Module Activities",
-    "section": "",
-    "text": "Activities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\n\nEach module contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Module Activities"
-    ]
-  },
-  {
-    "objectID": "instruction-intro.html",
-    "href": "instruction-intro.html",
-    "title": "Teaching with LASER",
-    "section": "",
-    "text": "Coming soon!",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Teaching with LASER"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html",
-    "href": "curriculum-network-analysis.html",
-    "title": "Social Network Analysis",
-    "section": "",
-    "text": "Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. The SNA modules are designed to prepare STEM education researchers to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each module draw from the excellent book, Social Network Analysis and Education (Carolan 2014). Collectively, the modules provide education researchers with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#quarto",
-    "href": "curriculum-network-analysis.html#quarto",
-    "title": "Network Analysis",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#running-code",
-    "href": "curriculum-network-analysis.html#running-code",
-    "title": "Network Analysis",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
-    "href": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
-    "title": "Social Network Analysis",
-    "section": "Module 1: Network Analysis for Newbies",
-    "text": "Module 1: Network Analysis for Newbies\nThe first module is a gentle introduction to data collection, management and visualization. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key SNA concepts and terminology, as well as develop a basic comfort level with representing networks visually. Our SNA Case Study: Who’s Friends with Who in Middle School is guided by the work of Pittinsky and Carolan Pittinsky and Carolan (2008) and compares teacher perceptions and student reports of classroom middle school friendship and helps reinforce the importance of treating behavioral and cognitive classroom friendship networks and ties as distinct. Finally, the Intro to SNA Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nAn Introduction to Social Network Analysis\n\n\n\nCode Along\nData Structures & Sociograms\n\n\n\nReadings &\nReflection\nBackground and Basic Concepts\n\n\n\nCase Study\nWho’s Friends with Who in Middle School (Answer Key)\n\n\n\nBadge\nIntro to SNA",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#module-2-network-management-measurement",
-    "href": "curriculum-network-analysis.html#module-2-network-management-measurement",
-    "title": "Social Network Analysis",
-    "section": "Module 2: Network Management & Measurement",
-    "text": "Module 2: Network Management & Measurement\nModule 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelman Kellogg and Edelmann (2015) as part of the Friday Institute’s work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nData Collection & Quality\n\n\n\nCode Along\nDensity, Reciprocity, & Centrality\n\n\n\nReadings &\nReflection\nData Management & Network Measurement\n\n\n\nCase Study\nA Tale of Two MOOC (Answer Key)\n\n\n\nBadge\nNetwork Measurement Badge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#sna-module-3-groups-positions-egocentric-analysis",
-    "href": "curriculum-network-analysis.html#sna-module-3-groups-positions-egocentric-analysis",
-    "title": "Social Network Analysis",
-    "section": "SNA Module 3: Groups, Positions, & Egocentric Analysis",
-    "text": "SNA Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 as summarized shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Components, Cliques, & Key Actors is inspired by the work of Supovitz et al. Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project . Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTop-Down and Bottom-Up Approaches\n\n\n\nCode Along\nComponent, Cliques, & Key Actors\n\n\n\nReadings &\nDiscussion\nComponents, Cliques, & Key Actors\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#sna-module-4-statistical-inference-network-models",
-    "href": "curriculum-network-analysis.html#sna-module-4-statistical-inference-network-models",
-    "title": "Social Network Analysis",
-    "section": "SNA Module 4: Statistical Inference & Network Models",
-    "text": "SNA Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTop-Down and Bottom-Up Approaches\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-modules.html#interactive-presentations",
-    "href": "curriculum-modules.html#interactive-presentations",
-    "title": "Module Activities",
-    "section": "Interactive Presentations",
-    "text": "Interactive Presentations\n\n\n\n\n\n\n\n\n\nEach module contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners.\n\n\n\n \n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Module Activities"
-    ]
-  },
-  {
-    "objectID": "institute-intro.html",
-    "href": "institute-intro.html",
-    "title": "Goals and Objectives",
-    "section": "",
-    "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
-  },
-  {
-    "objectID": "institute-la.html",
-    "href": "institute-la.html",
-    "title": "What is Learning Analytics?",
-    "section": "",
-    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of Learning (e.g. learning and assessment sciences), Analytics (e.g. data science), and Human-Centered Design (e.g. participatory design).\nLearning Analytics builds on these well established disciplines, but seeks to exploit the new opportunities once we capture new forms of digital data from students’ learning activity, and use computational analysis techniques from data science and AI."
-  },
-  {
-    "objectID": "institute-la.html#laser-institute-keynote",
-    "href": "institute-la.html#laser-institute-keynote",
-    "title": "What is Learning Analytics?",
-    "section": "LASER Institute Keynote",
-    "text": "LASER Institute Keynote\n\nVisit the Society for Learning Analytics Research to read more."
-  },
-  {
-    "objectID": "institute-goals.html",
-    "href": "institute-goals.html",
-    "title": "Goals and Objectives",
-    "section": "",
-    "text": "LASER: Broadening Education in Advanced Methods (LASER BEAM) is the next phase of the LASER Institute funded by NSF (DRL-2321128, and DRL-2321129). LASER BEAM builds upon the prior NSF-funded LASER Institute DRL-2025090, which aims to increase the number of education research capable of leveraging new sources of data and data-intensive research methods to understand and improve student learning. The LASER Institute is a year-long professional development program for early- and mid-career researchers consisting of two core components:",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "institute-goals.html#institute-goals",
-    "href": "institute-goals.html#institute-goals",
-    "title": "Goals and Objectives",
-    "section": "Institute Goals",
-    "text": "Institute Goals\nThe LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "institute-goals.html#learning-objectives",
-    "href": "institute-goals.html#learning-objectives",
-    "title": "Goals and Objectives",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nThe LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:\n\nUnderstand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nIdentify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "curriculum-la.html#laser-institute-keynote",
-    "href": "curriculum-la.html#laser-institute-keynote",
-    "title": "What is Learning Analytics?",
-    "section": "LASER Institute Keynote",
-    "text": "LASER Institute Keynote",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "What is Learning Analytics?"
-    ]
-  },
-  {
-    "objectID": "curriculum-topics.html",
-    "href": "curriculum-topics.html",
-    "title": "Curriuculum Design",
-    "section": "",
-    "text": "The guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in advanced methods, will be to forge a close connection between exemplary STEM education research and the hands-on experience analyzing real-world datasets needed to achieve that goal. This connection is essential for building investigators’ competencies to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Curriuculum Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-activities.html",
-    "href": "curriculum-activities.html",
-    "title": "Module Activities",
-    "section": "",
-    "text": "Activities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\n\nEach module contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Module Activities"
-    ]
-  },
-  {
-    "objectID": "curriculum-topics.html#a-modular-design",
-    "href": "curriculum-topics.html#a-modular-design",
-    "title": "Curriuculum Design",
-    "section": "A Modular Design",
-    "text": "A Modular Design\nSpecifically, the project team will create a modular curriculum composed of 25-30 instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops or webinars. This will enable instructors to tailor their instruction for faculty and graduate students with different disciplinary backgrounds and incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Curriuculum Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-topics.html#modules-topics",
-    "href": "curriculum-topics.html#modules-topics",
-    "title": "Curriuculum Design",
-    "section": "Modules Topics",
-    "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Curriuculum Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html",
-    "href": "curriculum-design.html",
-    "title": "Modular by Design",
-    "section": "",
-    "text": "The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experineces. This design enables instructors to tailor content and activites for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#a-modular-design",
-    "href": "curriculum-design.html#a-modular-design",
-    "title": "A Modular Design",
-    "section": "A Modular Design",
-    "text": "A Modular Design\nSpecifically, the project team will create a modular curriculum composed of 25-30 instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops or webinars. This will enable instructors to tailor their instruction for faculty and graduate students with different disciplinary backgrounds and incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "A Modular Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#modules-topics",
-    "href": "curriculum-design.html#modules-topics",
-    "title": "Modular by Design",
-    "section": "Modules Topics",
-    "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Modular by Design"
-    ]
-  },
-  {
     "objectID": "what-is-la.html",
     "href": "what-is-la.html",
     "title": "What is Learning Analytics?",
@@ -634,68 +276,6 @@
     ]
   },
   {
-    "objectID": "curriculum-design.html#design-principles",
-    "href": "curriculum-design.html#design-principles",
-    "title": "Modular by Design",
-    "section": "Design Principles",
-    "text": "Design Principles\nThe guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in learning analytics and educational data science, is a close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets. This connection is essential for building the competencies necessary to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Guiding design principles the LASER curriculum include:\n\nResearch Connections. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.\nScaffolded Activities. Activities are carefully scaffolded to ease learners into the conceptual and technical aspects of learning analytics and to gradually release instructor supports.\nHands-On Programming. Experience using modern, industry standard analytic tools like R and Python to carry out essential data science workflow processes.\nReal-World Data. real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\nTopic Deep Dives. Each Module Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.\nLowered Barriers. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#module-activities",
-    "href": "curriculum-design.html#module-activities",
-    "title": "Modular by Design",
-    "section": "Module Activities",
-    "text": "Module Activities\nEach instructional module consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nIntroductory Presentations\n\nConceptual Overviews\nEach module includes a presentation(see example) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.\n\n\nCode-Alongs\nThe second presentation provides a short but highly structured coding (see example) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\n\nInstructional Deep Dives\n\nReadings & Reflection\nEssential Readings (see example) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.\n\n\nCoding Case Studies\nCase Study assignments (see example) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nOnline Tutorials\nOpenly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, recipes, and cheatsheets available on Posit Cloud, as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.\n\n\n\nAssessment\n\nBadges\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital Badges (see example) to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods.\n\n\nMicrocredentials\nMicrocredentials are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "index.html#the-laser-institute",
-    "href": "index.html#the-laser-institute",
-    "title": "Welcome!",
-    "section": "The LASER Institute",
-    "text": "The LASER Institute\nThe is a year-long professional development program for early- and mid-career researchers consisting of two core components:\n\nSummer Workshop: An intensive 5-day program consisting of learning labs, guest speakers, planning sessions, and community-building activities.\nOnline Community: An online community of practice for ongoing networking and support throughout the year.\n\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
-  },
-  {
-    "objectID": "index.html#the-laser-curriculum",
-    "href": "index.html#the-laser-curriculum",
-    "title": "Welcome!",
-    "section": "The LASER Curriculum",
-    "text": "The LASER Curriculum\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.\nThe Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course."
-  },
-  {
-    "objectID": "institute-goals.html#nsf-grant-objectives",
-    "href": "institute-goals.html#nsf-grant-objectives",
-    "title": "Goals and Objectives",
-    "section": "NSF Grant Objectives",
-    "text": "NSF Grant Objectives\n\nDevelop a modular curriculum adaptable to instructors’ needs. This project aims to build on LASER Institute resources and other learning analytics resources developed at Penn to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum. Feedback will be collected prior to and during Summer Institutes and following instructors’ use of these materials with colleagues and/or students during the fall and spring.\nPrepare faculty to utilize LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution. The Summer Institute will focus on: 1) training participants to understand and effectively use the curriculum materials and pedagogical approaches developed by the project team; 2) providing participants supplemental instruction as needed to fully understand the course content they will be teaching (e.g., machine learning techniques, algorithmic bias in AI, digital data sources), and 3) working closely with participants to develop a plan for training faculty, staff, and/or students at their home institutions. In addition, an Online Community will support instructors as they adapt and deploy materials.\nBroaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution. In support of the BCSER program’s larger aims, recruitment and training efforts will prioritize applicants from historically underrepresented groups in STEM education and/or minority-serving institutions. In addition, the project team will develop and heavily promote a freely-available website that contains all the materials required to teach (or learn from) LASER BEAM learning materials such as presentation slides, videos, coding case studies, and assessment activities; as well as materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
-    "objectID": "institute-goals.html#grant-objectives",
-    "href": "institute-goals.html#grant-objectives",
-    "title": "Goals and Objectives",
-    "section": "Grant Objectives",
-    "text": "Grant Objectives\nLASER BEAM aims to build on these efforts and scale them to a much greater scope by accomplishing the following goals:\n\nDevelop a modular curriculum adaptable to instructors’ needs. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nPrepare faculty to learn from and teach with LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these componetns are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nBroaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
     "objectID": "institute-workshop.html",
     "href": "institute-workshop.html",
     "title": "Summer Workshop",
@@ -708,102 +288,6 @@
     ]
   },
   {
-    "objectID": "institute-workshop.html#summer-institute-schedule",
-    "href": "institute-workshop.html#summer-institute-schedule",
-    "title": "Summer Workshop",
-    "section": "Summer Institute Schedule",
-    "text": "Summer Institute Schedule\n\n\n\n\n\n\n\n\n\n\n\nEST\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n9:00 - 9:30\nOrientation\nCommunity Building\nCommunity Building\nCommunity Building\nCommunity Building\n\n\n9:40 - 11:00\nModule Overview\nModule Session 1\nModule Session 2\nModule Session 3\nModule Session 4\n\n\n11:15 - 12:30\nPedagogy Session\nModule Session 1 cont.\nModule Session 2 cont.\nModule Session 3 cont.\nModule Session 4 cont.\n\n\n1:30 - 2:45\nGuest Speaker\nGuest Speaker\nGuest Speaker\nGuest Speaker\nGuest Speaker\n\n\n3:00 - 3:45\nPedagogy Session\nPedagogy Session\nPedagogy Session\nPedagogy Session\nEvaluation\n\n\n4:00 - 5:00\nDesign Session\nDesign Session\nDesign Session\nDesign Session\nEarly Exit",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Summer Workshop"
-    ]
-  },
-  {
-    "objectID": "institute-workshop.html#pre-institute-preparation",
-    "href": "institute-workshop.html#pre-institute-preparation",
-    "title": "Summer Workshop",
-    "section": "Pre-Institute Preparation",
-    "text": "Pre-Institute Preparation\nPrior to the Summer Institute, participants will complete a needs assessment to identify their teaching interests, experience with software packages, and skills and knowledge in relation to LA and advanced methods. This assessment will be used to identify the appropriate track for their Summer Institute experience and help guide the content, structure and sequence of their 5-day professional development. Instructors on the beginner track will also engage in pre-institute tutorials beginning in May and which must be completed prior to the workshop to demonstrate their preparation and commitment to LASER BEAM. Finally, all participants will engage in an initial community building activity designed to familiarize participants with the social platform that will be used throughout LASER BEAM as part of the Online Community and provide them with an opportunity to get to know each other prior to the Summer Institute.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Summer Workshop"
-    ]
-  },
-  {
-    "objectID": "institute-workshop.html#community-building",
-    "href": "institute-workshop.html#community-building",
-    "title": "Summer Workshop",
-    "section": "Community Building",
-    "text": "Community Building\nThe research and the project team’s experience leading faculty and educator training programs suggest community building activities are critical in supporting and affirming sustained participation in LA and data science initiatives, particularly for novice learners and scholars from minoritized groups (Arif et al., 2021). Consequently, LASER BEAM will incorporate identity-affirming activities each day of the workshop to help participants learn more about each other and create a sense of community (Booth & Kellogg, 2015; Deglau & O’Sullivan, 2006). By sharing their backgrounds, interests, and experiences, participants will identify commonalities and differences. This will create a space for participants to learn from each other and build on each other’s strengths.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Summer Workshop"
-    ]
-  },
-  {
-    "objectID": "institute-workshop.html#pedagogy-sessions",
-    "href": "institute-workshop.html#pedagogy-sessions",
-    "title": "Summer Workshop",
-    "section": "Pedagogy Sessions",
-    "text": "Pedagogy Sessions\nParticipants in both the beginnerand advancedtracks will engage in whole group sessions to support them in adapting materials for their own instructional programs. Sessions will focus on a range of topics, from understanding the design principles behind the LASER BEAM curriculum to setting up the infrastructure necessary for learners to fully participate in module activities. Pedagogy sessions throughout the week will focus on the nuts and bolts of teaching the curriculum, including topics such as tools and approaches for facilitating in-person and online discussion, assessment and grading of assignments, and logistics for instructional delivery. For example, on Day 1 (Monday) participants are introduced to Posit Cloud, a powerful set of data science and instructional tools that can be accessed through an internet browser and used for assigning, supporting, and assessing instructional activities such as the interactive coding case studies and tutorials highlighted in Section 2c.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Summer Workshop"
-    ]
-  },
-  {
-    "objectID": "institute-workshop.html#design-sessions",
-    "href": "institute-workshop.html#design-sessions",
-    "title": "Summer Workshop",
-    "section": "Design Sessions",
-    "text": "Design Sessions\nEach day will end with small group activities to assist participants in designing a customized instructional plan at their home institutions, where they consider how to incorporate curriculum resources into their own contexts. The project team will collaborate with participants to choose relevant modules and activities, effective teaching methods (pedagogy), and suitable technology from our training resources that meet the needs of their learners. The team will also work with participants in aligning the chosen LA topics, pedagogy, and technology with the learners’ needs to ensure the modules are tailored to address the unique needs and preferences of their learners.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Summer Workshop"
-    ]
-  },
-  {
-    "objectID": "institute-workshop.html#guest-speakers",
-    "href": "institute-workshop.html#guest-speakers",
-    "title": "Summer Workshop",
-    "section": "Guest Speakers",
-    "text": "Guest Speakers\nThese sessions will draw upon the backgrounds and expertise of our Advisory Board members and other invited guests who have taught courses, workshops, and training events focused on LA and related methods. Sessions will reinforce topics introduced in our module and pedagogy sessions, and help participants envision how LASER BEAM curriculum materials and activities might be adapted to fit their own contexts and institutional programs.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Summer Workshop"
-    ]
-  },
-  {
-    "objectID": "institute-workshop.html#module-sessions",
-    "href": "institute-workshop.html#module-sessions",
-    "title": "Summer Workshop",
-    "section": "Module Sessions",
-    "text": "Module Sessions\nModule sessions will be conducted in small groups and differentiated for participants in the beginnerand the advanced track based upon the needs assessment administered prior to the Summer Institute. These sessions will focus on the instructional materials from which participants will both learn from and use to train learners at their home institutions. Participants in the beginner track will focus on 4 introductory modules to develop their foundational knowledge and skills (see Section 2c) necessary for more advanced methods. Advanced track participants will engage in 4 module sessions focused on more advanced topics such as text classification and deep knowledge tracing. Sessions will be facilitated by members of the project team, who will model instructional best practices for use of these materials and participants in both tracks will work through select module activities just as would be expected from the students and faculty they plan to teach. Additionally, module sessions will be offered in an online format through workshops in the fall and spring (see Online Community section). This will allow the project team to both address topics not covered during the summer institute and to model instructional delivery in a purely online context.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Summer Workshop"
-    ]
-  },
-  {
-    "objectID": "institute-goals.html#institute-activities",
-    "href": "institute-goals.html#institute-activities",
-    "title": "Goals and Objectives",
-    "section": "Institute Activities",
-    "text": "Institute Activities\nTo help accomplish these goals and objectives, LASER BEAM aims to build on prior efforts and scale them to a much greater degree by through the following activites:\n\nDevelop a modular curriculum adaptable to instructors’ needs. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nPrepare faculty to learn from and teach with LASER curriculum resources. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these componetns are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nBroaden educational opportunities in advanced methods. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Goals and Objectives"
-    ]
-  },
-  {
     "objectID": "institute-online.html",
     "href": "institute-online.html",
     "title": "Online Community",
@@ -813,186 +297,6 @@
       "Home",
       "Institute",
       "Online Community"
-    ]
-  },
-  {
-    "objectID": "institute-online.html#monthly-check-ins",
-    "href": "institute-online.html#monthly-check-ins",
-    "title": "Online Community",
-    "section": "Monthly Check-Ins",
-    "text": "Monthly Check-Ins\nThroughout fall and spring, the project team will facilitate formal monthly check-ins with participants on progress made towards implementing instructional plans developed duringthe Summer Workshop. The check-ins will also be used to gather feedback on curricular modules used by instructors. Guest speakers from our advisory board and other invited guests will also lead sessions on LA topics during check-ins. These sessions will be informed by the community, as well as more specialized topics in advanced methods.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Online Community"
-    ]
-  },
-  {
-    "objectID": "institute-online.html#virtual-module-sessions",
-    "href": "institute-online.html#virtual-module-sessions",
-    "title": "Online Community",
-    "section": "Virtual Module Sessions",
-    "text": "Virtual Module Sessions\nThese session are offered several times each month so participants can learn about research methods they were unable to experience during the Summer Institute, as well to model instructional use of the modules in a fully online context. The workshops are led by members of the project team as well as by past LASER Scholars.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Online Community"
-    ]
-  },
-  {
-    "objectID": "institute-online.html#asynchronous-activities",
-    "href": "institute-online.html#asynchronous-activities",
-    "title": "Online Community",
-    "section": "Asynchronous Activities",
-    "text": "Asynchronous Activities\nFacilitated discussion channels and informal Q&As are hosted on our Slack workspace, which includes both current and past participants from prior LASER Institute cohorts. Discussions focus on shared problems of practice such as adapting instructional modules to local contexts or working with students who have limited programming experience, as well as topics related to module content such as R packages, conceptual overviews, and essential readings.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Online Community"
-    ]
-  },
-  {
-    "objectID": "institute-online.html#resource-repositories",
-    "href": "institute-online.html#resource-repositories",
-    "title": "Online Community",
-    "section": "Resource Repositories",
-    "text": "Resource Repositories\nA key deliverable of this grant is a freely available website that houses all the curriculum materials needed to teach, and learn from, the LASER curriculum. These materials consist of both project team and member-generated content hosted on GitHub and a new curriculum website currently under development. These website include materials for each module as well as supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Online Community"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
-    "href": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
-    "title": "Social Network Analysis",
-    "section": "Module 3: Groups, Positions, & Egocentric Analysis",
-    "text": "Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Hashtag Common Core is inspired by the work of Supovitz et al. Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project. Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nGroup Identification in Networks\n\n\n\nCode Along\nComponents, Cliques & Key Actors\n\n\n\nReadings &\nDiscussion\nGroups, Positions, and Egocentric Analysis\n\n\n\nCase Study\nHashtag Common Core (Answer Key)\n\n\n\nBadge\nGroups & Egos",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
-    "href": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
-    "title": "Social Network Analysis",
-    "section": "Module 4: Statistical Inference & Network Models",
-    "text": "Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nNetwork Inference & Applications\n\n\n\nCode Along\nIntro to ERGMs\n\n\n\nReadings &\nDiscussion\nNetwork Modeling & Inference\n\n\n\nCase Study\nBirds of a Feather Lead Together (Answer Key)\n\n\n\nBadge\nModels & Inference",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#instructional-materials",
-    "href": "curriculum-network-analysis.html#instructional-materials",
-    "title": "Social Network Analysis",
-    "section": "Instructional Materials",
-    "text": "Instructional Materials\nInstructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#all-modules",
-    "href": "curriculum-network-analysis.html#all-modules",
-    "title": "Social Network Analysis",
-    "section": "All Modules",
-    "text": "All Modules\nInstructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#all-modules-repository-workspaces",
-    "href": "curriculum-network-analysis.html#all-modules-repository-workspaces",
-    "title": "Social Network Analysis",
-    "section": "All Modules: Repository & Workspaces",
-    "text": "All Modules: Repository & Workspaces\nInstructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\n\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#modules-repository-workspace",
-    "href": "curriculum-network-analysis.html#modules-repository-workspace",
-    "title": "Social Network Analysis",
-    "section": "Modules Repository & Workspace",
-    "text": "Modules Repository & Workspace\nInstructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\n\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#microcredential",
-    "href": "curriculum-network-analysis.html#microcredential",
-    "title": "Social Network Analysis",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nSocial Network Analysis and Education",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#module-repository-workspace",
-    "href": "curriculum-network-analysis.html#module-repository-workspace",
-    "title": "Social Network Analysis",
-    "section": "Module Repository & Workspace",
-    "text": "Module Repository & Workspace\nInstructional materials for the Social Network Analysis Modules are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\n\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-orientation.html",
-    "href": "curriculum-orientation.html",
-    "title": "Module Orientation",
-    "section": "",
-    "text": "Instructional materials for the LASER Orientation and other modules are linked below and come in three main flavors:",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Module Orientation"
-    ]
-  },
-  {
-    "objectID": "curriculum-orientation.html#module-repository-workspace",
-    "href": "curriculum-orientation.html#module-repository-workspace",
-    "title": "Module Orientation",
-    "section": "Module Repository & Workspace",
-    "text": "Module Repository & Workspace\nInstructional materials for the LASER Orientation are linked below and come in three main flavors:\n\nGithub is where the all the raw materials and Quarto files for each SNA module are saved and routinely updated. Instructors are welcome to fork or clone this repository\nPosit Cloud is used by students for completing interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.\nGithub Pages is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.\n\n\n\n\n\nGithub\n\nRepository for Instructors\n\n\n\nPosit Cloud\nWorkspace for Students | Instructors",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Module Orientation"
-    ]
-  },
-  {
-    "objectID": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
-    "href": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
-    "title": "Module Orientation",
-    "section": "Orientation Module: The LASER Toolkit",
-    "text": "Orientation Module: The LASER Toolkit\nThe Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research (Gandrud 2013) and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by Krumm, Means, and Bienkowski (2018) and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with Quarto, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.\n\n\n\n\nConceptual\nOverview\nReproducible Research & Tools\n\n\n\nCode Along\nThe Data-Intensive Research Workflow\n\n\n\nReadings &\nReflection\nLearning Analytics Goes to School\n\n\n\nCase Study\nA Coding Case Study with Quarto\n\n\n\nBadge\nLASER Orientation Badge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Module Orientation"
     ]
   },
   {
@@ -1078,5 +382,60 @@
       "Curriculum",
       "Knowledge Tracing"
     ]
+  },
+  {
+    "objectID": "curriculum-design.html",
+    "href": "curriculum-design.html",
+    "title": "Modular by Design",
+    "section": "",
+    "text": "The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experineces. This design enables instructors to tailor content and activites for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Modular by Design"
+    ]
+  },
+  {
+    "objectID": "curriculum-design.html#design-principles",
+    "href": "curriculum-design.html#design-principles",
+    "title": "Modular by Design",
+    "section": "Design Principles",
+    "text": "Design Principles\nThe guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in learning analytics and educational data science, is a close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets. This connection is essential for building the competencies necessary to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Guiding design principles the LASER curriculum include:\n\nResearch Connections. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.\nScaffolded Activities. Activities are carefully scaffolded to ease learners into the conceptual and technical aspects of learning analytics and to gradually release instructor supports.\nHands-On Programming. Experience using modern, industry standard analytic tools like R and Python to carry out essential data science workflow processes.\nReal-World Data. real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\nTopic Deep Dives. Each Module Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.\nLowered Barriers. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Modular by Design"
+    ]
+  },
+  {
+    "objectID": "curriculum-design.html#modules-topics",
+    "href": "curriculum-design.html#modules-topics",
+    "title": "Modular by Design",
+    "section": "Modules Topics",
+    "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Modular by Design"
+    ]
+  },
+  {
+    "objectID": "curriculum-design.html#module-activities",
+    "href": "curriculum-design.html#module-activities",
+    "title": "Modular by Design",
+    "section": "Module Activities",
+    "text": "Module Activities\nEach instructional module consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nIntroductory Presentations\n\nConceptual Overviews\nEach module includes a presentation(see example) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.\n\n\nCode-Alongs\nThe second presentation provides a short but highly structured coding (see example) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\n\nInstructional Deep Dives\n\nReadings & Reflection\nEssential Readings (see example) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.\n\n\nCoding Case Studies\nCase Study assignments (see example) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nOnline Tutorials\nOpenly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, recipes, and cheatsheets available on Posit Cloud, as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.\n\n\n\nAssessment\n\nBadges\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital Badges (see example) to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods.\n\n\nMicrocredentials\nMicrocredentials are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Modular by Design"
+    ]
+  },
+  {
+    "objectID": "curriculum-activities.html",
+    "href": "curriculum-activities.html",
+    "title": "Module Activities",
+    "section": "",
+    "text": "Activities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\n\nEach module contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials."
   }
 ]
