@@ -2,7 +2,7 @@
 title: "Welcome!"
 ---
 
-![](images/laser-hex.png){width="15%"}
+![](images/laser-logo.png){width="50%"}
 
 The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.
 
