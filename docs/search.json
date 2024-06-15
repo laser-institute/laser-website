@@ -437,5 +437,89 @@
     "title": "Module Activities",
     "section": "",
     "text": "Activities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\n\nEach module contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials."
+  },
+  {
+    "objectID": "curriculum-text-mining.html",
+    "href": "curriculum-text-mining.html",
+    "title": "Text Mining",
+    "section": "",
+    "text": "Introduction…",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-1-name",
+    "href": "curriculum-text-mining.html#module-1-name",
+    "title": "Text Mining",
+    "section": "Module 1: NAME",
+    "text": "Module 1: NAME\nThe first module…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-2-name",
+    "href": "curriculum-text-mining.html#module-2-name",
+    "title": "Text Mining",
+    "section": "Module 2: NAME",
+    "text": "Module 2: NAME\nModule 2…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-3-name",
+    "href": "curriculum-text-mining.html#module-3-name",
+    "title": "Text Mining",
+    "section": "Module 3: NAME",
+    "text": "Module 3: NAME\nModule 3…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-4-name",
+    "href": "curriculum-text-mining.html#module-4-name",
+    "title": "Text Mining",
+    "section": "Module 4: NAME",
+    "text": "Module 4: NAME\nModule 4…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#microcredential",
+    "href": "curriculum-text-mining.html#microcredential",
+    "title": "Text Mining",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#references",
+    "href": "curriculum-text-mining.html#references",
+    "title": "Text Mining",
+    "section": "References",
+    "text": "References",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
   }
 ]
