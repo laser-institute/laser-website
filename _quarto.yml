@@ -16,12 +16,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: institute-goals.qmd
+        text: Institute  
       - href: curriculum-design.qmd
         text: Curriculum
       - href: instruction-intro.qmd
         text: Instruction
-      - href: institute-goals.qmd
-        text: Institute
     right:
       - icon: cloud-fill
         href: https://posit.cloud
@@ -33,10 +33,15 @@ website:
     style: "docked"
     search: true
     contents:
-    - what-is-la.qmd
+    - section: "Institute"
+      contents:
+        - what-is-la.qmd
+        - institute-goals.qmd
+        - institute-workshop.qmd
+        - institute-online.qmd
+        - curriculum-design.qmd
     - section: "Curriculum"
       contents:
-        - curriculum-design.qmd
         - curriculum-orientation.qmd
         - curriculum-network-analysis.qmd
         - curriculum-text-mining.qmd
@@ -46,11 +51,7 @@ website:
     - section: "Instruction"
       contents:
         - instruction-intro.qmd
-    - section: "Institute"
-      contents:
-        - institute-goals.qmd
-        - institute-workshop.qmd
-        - institute-online.qmd
+    
 
   page-footer:
       left: "This page is built with [Quarto](https://quarto.org/) and hosted by [GitHub](https://pages.github.com)."

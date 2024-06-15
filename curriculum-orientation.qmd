@@ -1,5 +1,5 @@
 ---
-title: "Module Orientation"
+title: "LASER Orientation"
 bibliography: lit/references.bib
 ---
 

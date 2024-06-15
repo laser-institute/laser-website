@@ -93,25 +93,25 @@
   {
     "objectID": "curriculum-orientation.html",
     "href": "curriculum-orientation.html",
-    "title": "Module Orientation",
+    "title": "LASER Orientation",
     "section": "",
     "text": "Instructional materials for the LASER Orientation and other modules are linked below and come in three main flavors:",
     "crumbs": [
       "Home",
       "Curriculum",
-      "Module Orientation"
+      "LASER Orientation"
     ]
   },
   {
     "objectID": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
     "href": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
-    "title": "Module Orientation",
+    "title": "LASER Orientation",
     "section": "Orientation Module: The LASER Toolkit",
     "text": "Orientation Module: The LASER Toolkit\nThe Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research (Gandrud 2013) and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by Krumm, Means, and Bienkowski (2018) and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with Quarto, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.\n\n\n\n\nConceptual\nOverview\nReproducible Research & Tools\n\n\n\nCode Along\nThe Data-Intensive Research Workflow\n\n\n\nReadings &\nReflection\nLearning Analytics Goes to School\n\n\n\nCase Study\nA Coding Case Study with Quarto\n\n\n\nBadge\nLASER Orientation Badge",
     "crumbs": [
       "Home",
       "Curriculum",
-      "Module Orientation"
+      "LASER Orientation"
     ]
   },
   {
@@ -261,6 +261,7 @@
     "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of:\nLearning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more or watch the 2021 LASER Institute keynote is by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).",
     "crumbs": [
       "Home",
+      "Institute",
       "What is Learning Analytics?"
     ]
   },
@@ -272,6 +273,7 @@
     "text": "LASER Institute Keynote",
     "crumbs": [
       "Home",
+      "Institute",
       "What is Learning Analytics?"
     ]
   },
@@ -391,7 +393,7 @@
     "text": "The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experineces. This design enables instructors to tailor content and activites for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
     "crumbs": [
       "Home",
-      "Curriculum",
+      "Institute",
       "Modular by Design"
     ]
   },
@@ -403,7 +405,7 @@
     "text": "Design Principles\nThe guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in learning analytics and educational data science, is a close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets. This connection is essential for building the competencies necessary to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Guiding design principles the LASER curriculum include:\n\nResearch Connections. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.\nScaffolded Activities. Activities are carefully scaffolded to ease learners into the conceptual and technical aspects of learning analytics and to gradually release instructor supports.\nHands-On Programming. Experience using modern, industry standard analytic tools like R and Python to carry out essential data science workflow processes.\nReal-World Data. real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\nTopic Deep Dives. Each Module Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.\nLowered Barriers. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.",
     "crumbs": [
       "Home",
-      "Curriculum",
+      "Institute",
       "Modular by Design"
     ]
   },
@@ -415,7 +417,7 @@
     "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
     "crumbs": [
       "Home",
-      "Curriculum",
+      "Institute",
       "Modular by Design"
     ]
   },
@@ -427,7 +429,7 @@
     "text": "Module Activities\nEach instructional module consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nIntroductory Presentations\n\nConceptual Overviews\nEach module includes a presentation(see example) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.\n\n\nCode-Alongs\nThe second presentation provides a short but highly structured coding (see example) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\n\nInstructional Deep Dives\n\nReadings & Reflection\nEssential Readings (see example) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.\n\n\nCoding Case Studies\nCase Study assignments (see example) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nOnline Tutorials\nOpenly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, recipes, and cheatsheets available on Posit Cloud, as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.\n\n\n\nAssessment\n\nBadges\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital Badges (see example) to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods.\n\n\nMicrocredentials\nMicrocredentials are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.",
     "crumbs": [
       "Home",
-      "Curriculum",
+      "Institute",
       "Modular by Design"
     ]
   },
