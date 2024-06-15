@@ -304,7 +304,7 @@
     "href": "curriculum-knowledge-tracing.html",
     "title": "Knowledge Tracing",
     "section": "",
-    "text": "Knowledge Inference prepares scholars to leverage techniques that model the knowledge of a student at a specific point in time as they interact with coursework and assessment activities. Techniques introduced in these modules include Bayesian, Logistic, and Deep Knowledge Tracing.",
+    "text": "Overivew…",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -364,7 +364,7 @@
     "href": "curriculum-knowledge-tracing.html#microcredential",
     "title": "Knowledge Tracing",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "text": "Microcredential\nThe culminating activity for the Knowledge Tracing Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your KT Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a KT context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -455,7 +455,7 @@
     "href": "curriculum-text-mining.html#module-1-name",
     "title": "Text Mining",
     "section": "Module 1: NAME",
-    "text": "Module 1: NAME\nThe first module…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "text": "Module 1: NAME\nModule 1 overveiw…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -467,7 +467,7 @@
     "href": "curriculum-text-mining.html#module-2-name",
     "title": "Text Mining",
     "section": "Module 2: NAME",
-    "text": "Module 2: NAME\nModule 2…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "text": "Module 2: NAME\nModule 2 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -479,7 +479,7 @@
     "href": "curriculum-text-mining.html#module-3-name",
     "title": "Text Mining",
     "section": "Module 3: NAME",
-    "text": "Module 3: NAME\nModule 3…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "text": "Module 3: NAME\nModule 3 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -491,7 +491,7 @@
     "href": "curriculum-text-mining.html#module-4-name",
     "title": "Text Mining",
     "section": "Module 4: NAME",
-    "text": "Module 4: NAME\nModule 4…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "text": "Module 4: NAME\nModule 4 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -520,6 +520,186 @@
       "Home",
       "Curriculum",
       "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-1-name",
+    "href": "curriculum-knowledge-tracing.html#module-1-name",
+    "title": "Knowledge Tracing",
+    "section": "Module 1: NAME",
+    "text": "Module 1: NAME\nLorem ipsum dolor…\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html",
+    "href": "curriculum-machine-learning.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Introduction…",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-1-name",
+    "href": "curriculum-machine-learning.html#module-1-name",
+    "title": "Machine Learning",
+    "section": "Module 1: NAME",
+    "text": "Module 1: NAME\nModule 1 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-2-name",
+    "href": "curriculum-machine-learning.html#module-2-name",
+    "title": "Machine Learning",
+    "section": "Module 2: NAME",
+    "text": "Module 2: NAME\nModule 2 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-3-name",
+    "href": "curriculum-machine-learning.html#module-3-name",
+    "title": "Machine Learning",
+    "section": "Module 3: NAME",
+    "text": "Module 3: NAME\nModule 3 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-4-name",
+    "href": "curriculum-machine-learning.html#module-4-name",
+    "title": "Machine Learning",
+    "section": "Module 4: NAME",
+    "text": "Module 4: NAME\nModule 4 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#microcredential",
+    "href": "curriculum-machine-learning.html#microcredential",
+    "title": "Machine Learning",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#references",
+    "href": "curriculum-machine-learning.html#references",
+    "title": "Machine Learning",
+    "section": "References",
+    "text": "References",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html",
+    "href": "curriculum-la-workflow.html",
+    "title": "Learning Analtyics Workflow",
+    "section": "",
+    "text": "Introduction…",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-1-name",
+    "href": "curriculum-la-workflow.html#module-1-name",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 1: NAME",
+    "text": "Module 1: NAME\nModule 1 overveiw…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-2-name",
+    "href": "curriculum-la-workflow.html#module-2-name",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 2: NAME",
+    "text": "Module 2: NAME\nModule 2 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-3-name",
+    "href": "curriculum-la-workflow.html#module-3-name",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 3: NAME",
+    "text": "Module 3: NAME\nModule 3 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-4-name",
+    "href": "curriculum-la-workflow.html#module-4-name",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 4: NAME",
+    "text": "Module 4: NAME\nModule 4 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#microcredential",
+    "href": "curriculum-la-workflow.html#microcredential",
+    "title": "Learning Analtyics Workflow",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#references",
+    "href": "curriculum-la-workflow.html#references",
+    "title": "Learning Analtyics Workflow",
+    "section": "References",
+    "text": "References",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
     ]
   }
 ]
