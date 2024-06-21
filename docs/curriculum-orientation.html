@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -334,7 +334,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 <li><p><a href="https://posit.cloud"><strong>Posit Cloud</strong></a> and accompanying workspaces are where students complete interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials. There is also an instructor workspace free of much of the cruft included in the GitHub repository.</p></li>
 <li><p><a href="https://pages.github.com"><strong>Github Pages</strong></a> is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.</p></li>
 </ol>
-<table class="caption-top table">
+<table class="table">
 <tbody>
 <tr class="odd">
 <td><img src="images/github.png" class="img-fluid" width="40"></td>
@@ -352,7 +352,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 <section id="orientation-module-the-laser-toolkit" class="level2">
 <h2 class="anchored" data-anchor-id="orientation-module-the-laser-toolkit">Orientation Module: The LASER Toolkit</h2>
 <p>The Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research <span class="citation" data-cites="gandrud2021">(<a href="#ref-gandrud2021" role="doc-biblioref">Gandrud 2013</a>)</span> and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by <span class="citation" data-cites="krumm2018">Krumm, Means, and Bienkowski (<a href="#ref-krumm2018" role="doc-biblioref">2018</a>)</span> and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with <a href="https://quarto.org">Quarto</a>, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.</p>
-<table class="caption-top table">
+<table class="table">
 <tbody>
 <tr class="odd">
 <td><img src="images/conceptual-overview.png" class="img-fluid" width="40"></td>
@@ -622,24 +622,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -674,11 +656,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
+      return note.innerHTML;
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
