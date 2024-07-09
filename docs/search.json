@@ -703,5 +703,53 @@
       "Curriculum",
       "Learning Analtyics Workflow"
     ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
+    "href": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
+    "title": "Knowledge Tracing",
+    "section": "Module 1: Bayesian Knowledge Tracing",
+    "text": "Module 1: Bayesian Knowledge Tracing\nBayesian Knowledge Tracing (BKT) (Corbett and Anderson 1994) is the most widely used student knowledge modeling framework within digital learning platforms. The BKT model provides decent-quality predictions of future performance within or outside the learning systems, interpretable models, meaningful parameters, and the ability to be applied to a range of learning situations. The goal of our Essential Readings and Case Study is to help LASER Scholars gain a theoretical understanding and practical experience with BKT. Our BKT Case Study is based on Zambrano, Zhang & Baker (2024). You will use Python to build classic BKT models and explore some of the variations. Finally, you will complete the BKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
+    "href": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
+    "title": "Knowledge Tracing",
+    "section": "Module 2: Performance Factor Analysis",
+    "text": "Module 2: Performance Factor Analysis\nModule 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tracing (LKT) as alternative knowledge tracing methods. LKT utilizes Logistic Regression to investigate students’ performance. Unlike BKT, each item may involve multiple skills or knowledge components (KC). With the case study, you will learn to clean the dataset and build an LKT model. Our case study is based on the work of Tirronen and Tirronen (2020). This paper discusses the application of LKT in the programming education field and the case study will guide you to practice building your LKT model in R with the example dataset. Like module 1, you will complete the LKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
+    "href": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
+    "title": "Knowledge Tracing",
+    "section": "Module 3: Item Response Theory",
+    "text": "Module 3: Item Response Theory\nModule 3 wraps discuss Item Response Theory, a classic approach for assessment in tests. It is used to assess students’ current knowledge of a topic and it assumes no learning is occurring between items. Through exploring foundational principles, and building models in the case study, this module will equip you with valuable skills to understand the validity of educational assessments. Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
+    "href": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
+    "title": "Knowledge Tracing",
+    "section": "Module 4: Deep Knowledge Tracing",
+    "text": "Module 4: Deep Knowledge Tracing\nModule 4 discusses the application of deep neural networks in knowledge tracing, called Deep Knowledge Tracing (DKT). It is a growing area and has dozens of variants. While deep neural networks are becoming popular and every paper claims good performance, we must be cautious and carefully understand this technique and its strengths and weaknesses before using it. Our essential readings and case studies cover selected current issues and approaches in Deep Knowledge Tracing (DKT). In the hands-on activities, you’ll be working to add a dataset to the implementation of the DKT model from Gervet et al. (2020). Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
   }
 ]
