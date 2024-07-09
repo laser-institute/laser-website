@@ -7,7 +7,7 @@ LASER BEAM participants will begin their program with an intensive 5-day summer 
 ### Summer Institute Schedule
 
 |                   |                  |                        |                        |                        |                        |
-|------------|------------|------------|------------|------------|------------|
+|-------------------|------------------|------------------------|------------------------|------------------------|------------------------|
 | **EST**           | **Monday**       | **Tuesday**            | **Wednesday**          | **Thursday**           | **Friday**             |
 | **9:00 - 9:30**   | LASER Welcome    | Community Building     | Community Building     | Community Building     | Community Building     |
 | **9:40 - 11:00**  | Module Overview  | Module Session 1       | Module Session 2       | Module Session 3       | Module Session 4       |
