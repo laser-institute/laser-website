@@ -88,7 +88,7 @@ In Module 4, scholars will learn to communicate their analytical findings effect
 
 ## Microcredential
 
-The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
+The culminating activity for the LAW Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your LAW Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
 +---------------------------------------+---------------------+---------------------+
 | ![](images/law-micro.png){width="40"} | **Microcredential** |                     |
