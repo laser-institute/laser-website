@@ -751,5 +751,53 @@
       "Curriculum",
       "Knowledge Tracing"
     ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-1-characteristics-of-data",
+    "href": "curriculum-la-workflow.html#module-1-characteristics-of-data",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 1: Characteristics of Data",
+    "text": "Module 1: Characteristics of Data\nIn Module 1, scholars will learn about different types of learning environments and the characteristics of data commonly used in educational research. The module offers an introduction to the fundamental concepts of learning analytics, tailored for those new to the field or seeking to enhance their basic R or Python programming skills, particularly within STEM education contexts. Scholars will examine various data types, including interaction between instructors and students, administrative and demographic data, and student affectivity, each crucial for developing educational strategies. The hands-on component involves navigating the initial steps of the Learning Analytics workflow, such as preparing data, installing necessary packages, loading data sets, and inspecting data structures. By the end of the module, participants will have a practical understanding of how to apply these concepts through coding exercises, setting the stage for advanced analytical tasks in future modules. The Data Prep badge provides an opportunity to show your skills using the case study data or a choice of data to wrangle using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
+    "href": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 2: The Power of Data Viz",
+    "text": "Module 2: The Power of Data Viz\nIn Module 2, scholars explore the vital role of data visualization in learning analytics. This module underscores how visual representations of data can significantly simplify the complexity of educational data, making it more comprehensible and accessible for analysis. Scholars learn to appreciate the benefits of visualization in enhancing understanding, promoting engagement, aiding decision-making, and improving communication. The module covers various types of data visualizations, such as bar charts, line graphs, scatter plots, heatmaps, and network diagrams, each chosen for their effectiveness in illustrating specific data relationships and patterns. Real-world examples are provided to showcase practical applications and the impact of effective data visualization in educational contexts. Best practices are also discussed, emphasizing the importance of knowing the audience, opting for simple designs, choosing the correct types of visualizations, providing contextual clarity, using colors strategically, and iterating based on feedback to refine the visual outputs. The Exploratory LA badge provides an opportunity to show your skills using case study data or your choice of data to visualize using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
+    "href": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 3: Learning Analytics Methods",
+    "text": "Module 3: Learning Analytics Methods\nIn Module 3, scholars explore a variety of methods used in learning analytics. The session begins by revisiting basic concepts about the types and characteristics of data in LA. It covers five main analytical methods: predictive analytics, social network analysis, discourse analysis, text analysis, and multimodal analysis. Predictive analytics aims to forecast student performance and enhance intervention strategies. Social network analysis examines social interactions to identify key influencers and optimize collaborative learning. Discourse analysis investigates communication within educational settings to understand student engagement in critical thinking. Text analysis applies natural language processing to assess and provide feedback on text-based assignments. Lastly, multimodal analysis integrates various data sources to provide a comprehensive view of the learning process, supporting personalized educational experiences. This overview equips scholars with the knowledge to apply these methods effectively in educational research and practice. The Modeling badge provides an opportunity to show your skills using case study data or your choice of data to model using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-4-data-products",
+    "href": "curriculum-la-workflow.html#module-4-data-products",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 4: Data Products",
+    "text": "Module 4: Data Products\nIn Module 4, scholars will learn to communicate their analytical findings effectively, focusing on creating publication-ready products and considering ethical aspects of data presentation. They will be introduced to strategies for engaging education stakeholders through compelling data storytelling, ensuring the message is clear and accessible. The course also delves into the preparation of various communication mediums using tools like R Markdown and Flexdashboard to model and communicate insights. Additionally, this module emphasizes the importance of addressing ethical considerations such as data privacy, bias, and inclusive practices to ensure responsible use of data in educational settings. This framework prepares scholars to craft their messages thoughtfully, considering both their audience and the ethical dimensions of data use. The Communication badge provides an opportunity to show your skills using case study data or your choice of data to develop a dashboard using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
   }
 ]
