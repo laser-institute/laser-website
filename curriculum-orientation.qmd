@@ -3,7 +3,7 @@ title: "LASER Orientation"
 bibliography: lit/references.bib
 ---
 
-![](images/laser-hex.png){width="30%"}
+![](images/laser-hex.png){width="20%"}
 
 Instructional materials for the LASER Orientation and other modules are linked below and come in three main flavors:
 
