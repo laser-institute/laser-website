@@ -1,1 +1,1 @@
-Sitemap: https://laser-institute.quarto.pub/home/sitemap.xml
+Sitemap: https://sbkellogg.quarto.pub/laser-institute/sitemap.xml

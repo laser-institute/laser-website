@@ -91,27 +91,159 @@
     ]
   },
   {
-    "objectID": "curriculum-orientation.html",
-    "href": "curriculum-orientation.html",
-    "title": "LASER Orientation",
+    "objectID": "curriculum-knowledge-tracing.html",
+    "href": "curriculum-knowledge-tracing.html",
+    "title": "Knowledge Tracing",
     "section": "",
-    "text": "Instructional materials for the LASER Orientation and other modules are linked below and come in three main flavors:",
+    "text": "Overivew…",
     "crumbs": [
       "Home",
       "Curriculum",
-      "LASER Orientation"
+      "Knowledge Tracing"
     ]
   },
   {
-    "objectID": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
-    "href": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
-    "title": "LASER Orientation",
-    "section": "Orientation Module: The LASER Toolkit",
-    "text": "Orientation Module: The LASER Toolkit\nThe Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research (Gandrud 2013) and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by Krumm, Means, and Bienkowski (2018) and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with Quarto, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.\n\n\n\n\nConceptual\nOverview\nThe LASER Toolkit & Reproducible Research\n\n\n\nCode Along\nThe Data-Intensive Research Workflow - R | Python\n\n\n\nReadings &\nReflection\nReproducible Research & DIR Workflow\n\n\n\nCase Study\nA Coding Case Study with Quarto | R and Python Answer Keys\n\n\n\nBadge\nLASER Orientation Badge",
+    "objectID": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
+    "href": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
+    "title": "Knowledge Tracing",
+    "section": "Module 1: Bayesian Knowledge Tracing",
+    "text": "Module 1: Bayesian Knowledge Tracing\nBayesian Knowledge Tracing (BKT) (Corbett and Anderson 1994) is the most widely used student knowledge modeling framework within digital learning platforms. The BKT model provides decent-quality predictions of future performance within or outside the learning systems, interpretable models, meaningful parameters, and the ability to be applied to a range of learning situations. The goal of our Essential Readings and Case Study is to help LASER Scholars gain a theoretical understanding and practical experience with BKT. Our BKT Case Study is based on Zambrano, Zhang & Baker (2024). You will use Python to build classic BKT models and explore some of the variations. Finally, you will complete the BKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
       "Curriculum",
-      "LASER Orientation"
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
+    "href": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
+    "title": "Knowledge Tracing",
+    "section": "Module 2: Performance Factor Analysis",
+    "text": "Module 2: Performance Factor Analysis\nModule 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tracing (LKT) as alternative knowledge tracing methods. LKT utilizes Logistic Regression to investigate students’ performance. Unlike BKT, each item may involve multiple skills or knowledge components (KC). With the case study, you will learn to clean the dataset and build an LKT model. Our case study is based on the work of Tirronen and Tirronen (2020). This paper discusses the application of LKT in the programming education field and the case study will guide you to practice building your LKT model in R with the example dataset. Like module 1, you will complete the LKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
+    "href": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
+    "title": "Knowledge Tracing",
+    "section": "Module 3: Item Response Theory",
+    "text": "Module 3: Item Response Theory\nModule 3 wraps discuss Item Response Theory, a classic approach for assessment in tests. It is used to assess students’ current knowledge of a topic and it assumes no learning is occurring between items. Through exploring foundational principles, and building models in the case study, this module will equip you with valuable skills to understand the validity of educational assessments. Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
+    "href": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
+    "title": "Knowledge Tracing",
+    "section": "Module 4: Deep Knowledge Tracing",
+    "text": "Module 4: Deep Knowledge Tracing\nModule 4 discusses the application of deep neural networks in knowledge tracing, called Deep Knowledge Tracing (DKT). It is a growing area and has dozens of variants. While deep neural networks are becoming popular and every paper claims good performance, we must be cautious and carefully understand this technique and its strengths and weaknesses before using it. Our essential readings and case studies cover selected current issues and approaches in Deep Knowledge Tracing (DKT). In the hands-on activities, you’ll be working to add a dataset to the implementation of the DKT model from Gervet et al. (2020). Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#microcredential",
+    "href": "curriculum-knowledge-tracing.html#microcredential",
+    "title": "Knowledge Tracing",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the Knowledge Tracing Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your KT Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a KT context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html",
+    "href": "curriculum-la-workflow.html",
+    "title": "Learning Analtyics Workflow",
+    "section": "",
+    "text": "Introduction…",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-1-characteristics-of-data",
+    "href": "curriculum-la-workflow.html#module-1-characteristics-of-data",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 1: Characteristics of Data",
+    "text": "Module 1: Characteristics of Data\nIn Module 1, scholars will learn about different types of learning environments and the characteristics of data commonly used in educational research. The module offers an introduction to the fundamental concepts of learning analytics, tailored for those new to the field or seeking to enhance their basic R or Python programming skills, particularly within STEM education contexts. Scholars will examine various data types, including interaction between instructors and students, administrative and demographic data, and student affectivity, each crucial for developing educational strategies. The hands-on component involves navigating the initial steps of the Learning Analytics workflow, such as preparing data, installing necessary packages, loading data sets, and inspecting data structures. By the end of the module, participants will have a practical understanding of how to apply these concepts through coding exercises, setting the stage for advanced analytical tasks in future modules. The Data Prep badge provides an opportunity to show your skills using the case study data or a choice of data to wrangle using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
+    "href": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 2: The Power of Data Viz",
+    "text": "Module 2: The Power of Data Viz\nIn Module 2, scholars explore the vital role of data visualization in learning analytics. This module underscores how visual representations of data can significantly simplify the complexity of educational data, making it more comprehensible and accessible for analysis. Scholars learn to appreciate the benefits of visualization in enhancing understanding, promoting engagement, aiding decision-making, and improving communication. The module covers various types of data visualizations, such as bar charts, line graphs, scatter plots, heatmaps, and network diagrams, each chosen for their effectiveness in illustrating specific data relationships and patterns. Real-world examples are provided to showcase practical applications and the impact of effective data visualization in educational contexts. Best practices are also discussed, emphasizing the importance of knowing the audience, opting for simple designs, choosing the correct types of visualizations, providing contextual clarity, using colors strategically, and iterating based on feedback to refine the visual outputs. The Exploratory LA badge provides an opportunity to show your skills using case study data or your choice of data to visualize using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
+    "href": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 3: Learning Analytics Methods",
+    "text": "Module 3: Learning Analytics Methods\nIn Module 3, scholars explore a variety of methods used in learning analytics. The session begins by revisiting basic concepts about the types and characteristics of data in LA. It covers five main analytical methods: predictive analytics, social network analysis, discourse analysis, text analysis, and multimodal analysis. Predictive analytics aims to forecast student performance and enhance intervention strategies. Social network analysis examines social interactions to identify key influencers and optimize collaborative learning. Discourse analysis investigates communication within educational settings to understand student engagement in critical thinking. Text analysis applies natural language processing to assess and provide feedback on text-based assignments. Lastly, multimodal analysis integrates various data sources to provide a comprehensive view of the learning process, supporting personalized educational experiences. This overview equips scholars with the knowledge to apply these methods effectively in educational research and practice. The Modeling badge provides an opportunity to show your skills using case study data or your choice of data to model using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-4-data-products",
+    "href": "curriculum-la-workflow.html#module-4-data-products",
+    "title": "Learning Analtyics Workflow",
+    "section": "Module 4: Data Products",
+    "text": "Module 4: Data Products\nIn Module 4, scholars will learn to communicate their analytical findings effectively, focusing on creating publication-ready products and considering ethical aspects of data presentation. They will be introduced to strategies for engaging education stakeholders through compelling data storytelling, ensuring the message is clear and accessible. The course also delves into the preparation of various communication mediums using tools like R Markdown and Flexdashboard to model and communicate insights. Additionally, this module emphasizes the importance of addressing ethical considerations such as data privacy, bias, and inclusive practices to ensure responsible use of data in educational settings. This framework prepares scholars to craft their messages thoughtfully, considering both their audience and the ethical dimensions of data use. The Communication badge provides an opportunity to show your skills using case study data or your choice of data to develop a dashboard using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#microcredential",
+    "href": "curriculum-la-workflow.html#microcredential",
+    "title": "Learning Analtyics Workflow",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the LAW Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your LAW Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#references",
+    "href": "curriculum-la-workflow.html#references",
+    "title": "Learning Analtyics Workflow",
+    "section": "References",
+    "text": "References",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Learning Analtyics Workflow"
     ]
   },
   {
@@ -184,18 +316,28 @@
     "text": "Acknowledgements\nThe LASER This material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Attribution-ShareAlike 4.0 International",
+    "objectID": "what-is-la.html",
+    "href": "what-is-la.html",
+    "title": "What is Learning Analytics?",
     "section": "",
-    "text": "Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible."
+    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of:\nLearning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more or watch the 2021 LASER Institute keynote is by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "What is Learning Analytics?"
+    ]
   },
   {
-    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
-    "title": "Attribution-ShareAlike 4.0 International",
-    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
-    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\n\n__Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\n\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\n\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\n\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org"
+    "objectID": "what-is-la.html#laser-institute-keynote",
+    "href": "what-is-la.html#laser-institute-keynote",
+    "title": "What is Learning Analytics?",
+    "section": "LASER Institute Keynote",
+    "text": "LASER Institute Keynote",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "What is Learning Analytics?"
+    ]
   },
   {
     "objectID": "CODE_OF_CONDUCT.html",
@@ -254,27 +396,89 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/ code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https:// www.contributor-covenant.org/translations."
   },
   {
-    "objectID": "what-is-la.html",
-    "href": "what-is-la.html",
-    "title": "What is Learning Analytics?",
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Attribution-ShareAlike 4.0 International",
     "section": "",
-    "text": "Learning Analytics is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs. As a research and teaching field, Learning Analytics sits at the convergence of:\nLearning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.\nVisit the Society for Learning Analytics Research to read more or watch the 2021 LASER Institute keynote is by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).",
+    "text": "Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible."
+  },
+  {
+    "objectID": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "href": "LICENSE.html#creative-commons-attribution-sharealike-4.0-international-public-license",
+    "title": "Attribution-ShareAlike 4.0 International",
+    "section": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
+    "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\n\n__Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\n\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\n\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\n\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org"
+  },
+  {
+    "objectID": "curriculum-text-mining.html",
+    "href": "curriculum-text-mining.html",
+    "title": "Text Mining",
+    "section": "",
+    "text": "The transition to digital learning has made available new sources of data, providing researchers new opportunities for understanding and improving STEM learning. Data sources such as digital learning environments and administrative data systems, as well as data produced by social media websites and the mass digitization of academic and practitioner publications, hold enormous potential to address a range of pressing problems in STEM Education, but collecting and analyzing text-based data also presents unique challenges. Text mining labs address the following critical questions:",
     "crumbs": [
       "Home",
-      "Institute",
-      "What is Learning Analytics?"
+      "Curriculum",
+      "Text Mining"
     ]
   },
   {
-    "objectID": "what-is-la.html#laser-institute-keynote",
-    "href": "what-is-la.html#laser-institute-keynote",
-    "title": "What is Learning Analytics?",
-    "section": "LASER Institute Keynote",
-    "text": "LASER Institute Keynote",
+    "objectID": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
+    "href": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
+    "title": "Text Mining",
+    "section": "Module 1: Tidy Text & Word Counts (TM Basics)",
+    "text": "Module 1: Tidy Text & Word Counts (TM Basics)\nThis module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers’ experiences in professional development. Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
     "crumbs": [
       "Home",
-      "Institute",
-      "What is Learning Analytics?"
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
+    "href": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
+    "title": "Text Mining",
+    "section": "Module 2: Public Sentiment and School Reform (Dictionary Methods)",
+    "text": "Module 2: Public Sentiment and School Reform (Dictionary Methods)\nThis module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? investigates the public sentiment expressed toward the Next Generation Science Standards (NGSS) and compares the sentiment for NGSS and Common Core State Standards using X (twitter) data. This study by Rosenberg et al. (2021) can be found at https://osf.io/xymsd/. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
+    "href": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
+    "title": "Text Mining",
+    "section": "Module 3: Large Language Models for Qualitative Analysis",
+    "text": "Module 3: Large Language Models for Qualitative Analysis\nThis module wraps up our work with text mining and examines recent advances in using large language models to code qualitative data (i.e., interview transcripts, group discussions, and open-ended responses). Through our essential readings, we’ll learn about this technique. Our Text Mining Case Study: What are high school students’ machine learning literacy before and after participating in an AI curriculum? is inspired by the need to assess machine learning literacy and use automated assessment for real-time intervention in the field of AI education. Finally, the Large Language Model Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
+    "href": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
+    "title": "Text Mining",
+    "section": "Module 4: Topic Modeling in MOOC-Eds",
+    "text": "Module 4: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course. You can learn more about the work here (https://www.learntechlib.org/p/195234/). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#microcredential",
+    "href": "curriculum-text-mining.html#microcredential",
+    "title": "Text Mining",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
     ]
   },
   {
@@ -302,238 +506,27 @@
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html",
-    "href": "curriculum-knowledge-tracing.html",
-    "title": "Knowledge Tracing",
+    "objectID": "curriculum-orientation.html",
+    "href": "curriculum-orientation.html",
+    "title": "LASER Orientation",
     "section": "",
-    "text": "Overivew…",
+    "text": "Instructional materials for the LASER Orientation and other modules are linked below and come in three main flavors:",
     "crumbs": [
       "Home",
       "Curriculum",
-      "Knowledge Tracing"
+      "LASER Orientation"
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html#module-1-kt-basics",
-    "href": "curriculum-knowledge-tracing.html#module-1-kt-basics",
-    "title": "Knowledge Tracing",
-    "section": "Module 1: KT Basics",
-    "text": "Module 1: KT Basics\nLorem ipsum dolor…\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "objectID": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
+    "href": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
+    "title": "LASER Orientation",
+    "section": "Orientation Module: The LASER Toolkit",
+    "text": "Orientation Module: The LASER Toolkit\nThe Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research (Gandrud 2013) and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by Krumm, Means, and Bienkowski (2018) and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with Quarto, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.\n\n\n\n\nConceptual\nOverview\nThe LASER Toolkit & Reproducible Research\n\n\n\nCode Along\nThe Data-Intensive Research Workflow - R | Python\n\n\n\nReadings &\nReflection\nReproducible Research & DIR Workflow\n\n\n\nCase Study\nA Coding Case Study with Quarto | R Key and Python Key\n\n\n\nBadge\nLASER Orientation Badge",
     "crumbs": [
       "Home",
       "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-2-network-management-measurement",
-    "href": "curriculum-knowledge-tracing.html#module-2-network-management-measurement",
-    "title": "Knowledge Tracing",
-    "section": "Module 2: Network Management & Measurement",
-    "text": "Module 2: Network Management & Measurement\nLorem ipsum dolor…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-3-groups-positions-egocentric-analysis",
-    "href": "curriculum-knowledge-tracing.html#module-3-groups-positions-egocentric-analysis",
-    "title": "Knowledge Tracing",
-    "section": "Module 3: Groups, Positions, & Egocentric Analysis",
-    "text": "Module 3: Groups, Positions, & Egocentric Analysis\nLorem ipsum dolor…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-4-statistical-inference-network-models",
-    "href": "curriculum-knowledge-tracing.html#module-4-statistical-inference-network-models",
-    "title": "Knowledge Tracing",
-    "section": "Module 4: Statistical Inference & Network Models",
-    "text": "Module 4: Statistical Inference & Network Models\nLorem ipsum dolor…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#microcredential",
-    "href": "curriculum-knowledge-tracing.html#microcredential",
-    "title": "Knowledge Tracing",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the Knowledge Tracing Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your KT Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a KT context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#references",
-    "href": "curriculum-knowledge-tracing.html#references",
-    "title": "Knowledge Tracing",
-    "section": "References",
-    "text": "References",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html",
-    "href": "curriculum-design.html",
-    "title": "Modular by Design",
-    "section": "",
-    "text": "The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experineces. This design enables instructors to tailor content and activites for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#design-principles",
-    "href": "curriculum-design.html#design-principles",
-    "title": "Modular by Design",
-    "section": "Design Principles",
-    "text": "Design Principles\nThe guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in learning analytics and educational data science, is a close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets. This connection is essential for building the competencies necessary to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Guiding design principles the LASER curriculum include:\n\nResearch Connections. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.\nScaffolded Activities. Activities are carefully scaffolded to ease learners into the conceptual and technical aspects of learning analytics and to gradually release instructor supports.\nHands-On Programming. Experience using modern, industry standard analytic tools like R and Python to carry out essential data science workflow processes.\nReal-World Data. real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\nTopic Deep Dives. Each Module Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.\nLowered Barriers. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#modules-topics",
-    "href": "curriculum-design.html#modules-topics",
-    "title": "Modular by Design",
-    "section": "Modules Topics",
-    "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#module-activities",
-    "href": "curriculum-design.html#module-activities",
-    "title": "Modular by Design",
-    "section": "Module Activities",
-    "text": "Module Activities\nEach instructional module consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nIntroductory Presentations\n\nConceptual Overviews\nEach module includes a presentation(see example) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.\n\n\nCode-Alongs\nThe second presentation provides a short but highly structured coding (see example) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\n\nInstructional Deep Dives\n\nReadings & Reflection\nEssential Readings (see example) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.\n\n\nCoding Case Studies\nCase Study assignments (see example) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nOnline Tutorials\nOpenly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, recipes, and cheatsheets available on Posit Cloud, as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.\n\n\n\nAssessment\n\nBadges\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital Badges (see example) to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods.\n\n\nMicrocredentials\nMicrocredentials are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.",
-    "crumbs": [
-      "Home",
-      "Institute",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-activities.html",
-    "href": "curriculum-activities.html",
-    "title": "Module Activities",
-    "section": "",
-    "text": "Activities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\n\nEach module contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials."
-  },
-  {
-    "objectID": "curriculum-text-mining.html",
-    "href": "curriculum-text-mining.html",
-    "title": "Text Mining",
-    "section": "",
-    "text": "The transition to digital learning has made available new sources of data, providing researchers new opportunities for understanding and improving STEM learning. Data sources such as digital learning environments and administrative data systems, as well as data produced by social media websites and the mass digitization of academic and practitioner publications, hold enormous potential to address a range of pressing problems in STEM Education, but collecting and analyzing text-based data also presents unique challenges. Text mining labs address the following critical questions:",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-1-name",
-    "href": "curriculum-text-mining.html#module-1-name",
-    "title": "Text Mining",
-    "section": "Module 1: NAME",
-    "text": "Module 1: NAME\nModule 1 overveiw…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-2-name",
-    "href": "curriculum-text-mining.html#module-2-name",
-    "title": "Text Mining",
-    "section": "Module 2: NAME",
-    "text": "Module 2: NAME\nModule 2 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-3-name",
-    "href": "curriculum-text-mining.html#module-3-name",
-    "title": "Text Mining",
-    "section": "Module 3: NAME",
-    "text": "Module 3: NAME\nModule 3 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-4-name",
-    "href": "curriculum-text-mining.html#module-4-name",
-    "title": "Text Mining",
-    "section": "Module 4: NAME",
-    "text": "Module 4: NAME\nModule 4 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#microcredential",
-    "href": "curriculum-text-mining.html#microcredential",
-    "title": "Text Mining",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#references",
-    "href": "curriculum-text-mining.html#references",
-    "title": "Text Mining",
-    "section": "References",
-    "text": "References",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-1-name",
-    "href": "curriculum-knowledge-tracing.html#module-1-name",
-    "title": "Knowledge Tracing",
-    "section": "Module 1: NAME",
-    "text": "Module 1: NAME\nLorem ipsum dolor…\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
+      "LASER Orientation"
     ]
   },
   {
@@ -621,243 +614,58 @@
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html",
-    "href": "curriculum-la-workflow.html",
-    "title": "Learning Analtyics Workflow",
+    "objectID": "curriculum-design.html",
+    "href": "curriculum-design.html",
+    "title": "Modular by Design",
     "section": "",
-    "text": "Introduction…",
+    "text": "The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experiences. This design enables instructors to tailor content and activites for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
+      "Institute",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-1-name",
-    "href": "curriculum-la-workflow.html#module-1-name",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 1: NAME",
-    "text": "Module 1: NAME\nModule 1 overveiw…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "objectID": "curriculum-design.html#design-principles",
+    "href": "curriculum-design.html#design-principles",
+    "title": "Modular by Design",
+    "section": "Design Principles",
+    "text": "Design Principles\nThe guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in learning analytics and educational data science, is a close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets. This connection is essential for building the competencies necessary to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Guiding design principles the LASER curriculum include:\n\nResearch Connections. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.\nScaffolded Activities. Activities are carefully scaffolded to ease learners into the conceptual and technical aspects of learning analytics and to gradually release instructor supports.\nHands-On Programming. Experience using modern, industry standard analytic tools like R and Python to carry out essential data science workflow processes.\nReal-World Data. real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\nTopic Deep Dives. Each Module Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.\nLowered Barriers. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
+      "Institute",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-2-name",
-    "href": "curriculum-la-workflow.html#module-2-name",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 2: NAME",
-    "text": "Module 2: NAME\nModule 2 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "objectID": "curriculum-design.html#modules-topics",
+    "href": "curriculum-design.html#modules-topics",
+    "title": "Modular by Design",
+    "section": "Modules Topics",
+    "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nLarge Language Models\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nEpistemic Network Analysis (ENA)\nENA Basics\nVisualizing Networks\nQuantitative Analysis\nAdvanced Applications\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
+      "Institute",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-3-name",
-    "href": "curriculum-la-workflow.html#module-3-name",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 3: NAME",
-    "text": "Module 3: NAME\nModule 3 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
+    "objectID": "curriculum-design.html#module-activities",
+    "href": "curriculum-design.html#module-activities",
+    "title": "Modular by Design",
+    "section": "Module Activities",
+    "text": "Module Activities\nEach instructional module consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nIntroductory Presentations\n\nConceptual Overviews\nEach module includes a presentation(see example) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.\n\n\nCode-Alongs\nThe second presentation provides a short but highly structured coding (see example) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\n\nInstructional Deep Dives\n\nReadings & Reflection\nEssential Readings (see example) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.\n\n\nCoding Case Studies\nCase Study assignments (see example) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nOnline Tutorials\nOpenly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, recipes, and cheatsheets available on Posit Cloud, as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.\n\n\n\nAssessment\n\nBadges\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital Badges (see example) to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods.\n\n\nMicrocredentials\nMicrocredentials are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
+      "Institute",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-4-name",
-    "href": "curriculum-la-workflow.html#module-4-name",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 4: NAME",
-    "text": "Module 4: NAME\nModule 4 overview…\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
-    "objectID": "curriculum-la-workflow.html#microcredential",
-    "href": "curriculum-la-workflow.html#microcredential",
-    "title": "Learning Analtyics Workflow",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the LAW Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your LAW Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
-    "objectID": "curriculum-la-workflow.html#references",
-    "href": "curriculum-la-workflow.html#references",
-    "title": "Learning Analtyics Workflow",
-    "section": "References",
-    "text": "References",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
-    "href": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
-    "title": "Knowledge Tracing",
-    "section": "Module 1: Bayesian Knowledge Tracing",
-    "text": "Module 1: Bayesian Knowledge Tracing\nBayesian Knowledge Tracing (BKT) (Corbett and Anderson 1994) is the most widely used student knowledge modeling framework within digital learning platforms. The BKT model provides decent-quality predictions of future performance within or outside the learning systems, interpretable models, meaningful parameters, and the ability to be applied to a range of learning situations. The goal of our Essential Readings and Case Study is to help LASER Scholars gain a theoretical understanding and practical experience with BKT. Our BKT Case Study is based on Zambrano, Zhang & Baker (2024). You will use Python to build classic BKT models and explore some of the variations. Finally, you will complete the BKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
-    "href": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
-    "title": "Knowledge Tracing",
-    "section": "Module 2: Performance Factor Analysis",
-    "text": "Module 2: Performance Factor Analysis\nModule 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tracing (LKT) as alternative knowledge tracing methods. LKT utilizes Logistic Regression to investigate students’ performance. Unlike BKT, each item may involve multiple skills or knowledge components (KC). With the case study, you will learn to clean the dataset and build an LKT model. Our case study is based on the work of Tirronen and Tirronen (2020). This paper discusses the application of LKT in the programming education field and the case study will guide you to practice building your LKT model in R with the example dataset. Like module 1, you will complete the LKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
-    "href": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
-    "title": "Knowledge Tracing",
-    "section": "Module 3: Item Response Theory",
-    "text": "Module 3: Item Response Theory\nModule 3 wraps discuss Item Response Theory, a classic approach for assessment in tests. It is used to assess students’ current knowledge of a topic and it assumes no learning is occurring between items. Through exploring foundational principles, and building models in the case study, this module will equip you with valuable skills to understand the validity of educational assessments. Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
-    "href": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
-    "title": "Knowledge Tracing",
-    "section": "Module 4: Deep Knowledge Tracing",
-    "text": "Module 4: Deep Knowledge Tracing\nModule 4 discusses the application of deep neural networks in knowledge tracing, called Deep Knowledge Tracing (DKT). It is a growing area and has dozens of variants. While deep neural networks are becoming popular and every paper claims good performance, we must be cautious and carefully understand this technique and its strengths and weaknesses before using it. Our essential readings and case studies cover selected current issues and approaches in Deep Knowledge Tracing (DKT). In the hands-on activities, you’ll be working to add a dataset to the implementation of the DKT model from Gervet et al. (2020). Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Knowledge Tracing"
-    ]
-  },
-  {
-    "objectID": "curriculum-la-workflow.html#module-1-characteristics-of-data",
-    "href": "curriculum-la-workflow.html#module-1-characteristics-of-data",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 1: Characteristics of Data",
-    "text": "Module 1: Characteristics of Data\nIn Module 1, scholars will learn about different types of learning environments and the characteristics of data commonly used in educational research. The module offers an introduction to the fundamental concepts of learning analytics, tailored for those new to the field or seeking to enhance their basic R or Python programming skills, particularly within STEM education contexts. Scholars will examine various data types, including interaction between instructors and students, administrative and demographic data, and student affectivity, each crucial for developing educational strategies. The hands-on component involves navigating the initial steps of the Learning Analytics workflow, such as preparing data, installing necessary packages, loading data sets, and inspecting data structures. By the end of the module, participants will have a practical understanding of how to apply these concepts through coding exercises, setting the stage for advanced analytical tasks in future modules. The Data Prep badge provides an opportunity to show your skills using the case study data or a choice of data to wrangle using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
-    "objectID": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
-    "href": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 2: The Power of Data Viz",
-    "text": "Module 2: The Power of Data Viz\nIn Module 2, scholars explore the vital role of data visualization in learning analytics. This module underscores how visual representations of data can significantly simplify the complexity of educational data, making it more comprehensible and accessible for analysis. Scholars learn to appreciate the benefits of visualization in enhancing understanding, promoting engagement, aiding decision-making, and improving communication. The module covers various types of data visualizations, such as bar charts, line graphs, scatter plots, heatmaps, and network diagrams, each chosen for their effectiveness in illustrating specific data relationships and patterns. Real-world examples are provided to showcase practical applications and the impact of effective data visualization in educational contexts. Best practices are also discussed, emphasizing the importance of knowing the audience, opting for simple designs, choosing the correct types of visualizations, providing contextual clarity, using colors strategically, and iterating based on feedback to refine the visual outputs. The Exploratory LA badge provides an opportunity to show your skills using case study data or your choice of data to visualize using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
-    "objectID": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
-    "href": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 3: Learning Analytics Methods",
-    "text": "Module 3: Learning Analytics Methods\nIn Module 3, scholars explore a variety of methods used in learning analytics. The session begins by revisiting basic concepts about the types and characteristics of data in LA. It covers five main analytical methods: predictive analytics, social network analysis, discourse analysis, text analysis, and multimodal analysis. Predictive analytics aims to forecast student performance and enhance intervention strategies. Social network analysis examines social interactions to identify key influencers and optimize collaborative learning. Discourse analysis investigates communication within educational settings to understand student engagement in critical thinking. Text analysis applies natural language processing to assess and provide feedback on text-based assignments. Lastly, multimodal analysis integrates various data sources to provide a comprehensive view of the learning process, supporting personalized educational experiences. This overview equips scholars with the knowledge to apply these methods effectively in educational research and practice. The Modeling badge provides an opportunity to show your skills using case study data or your choice of data to model using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
-    "objectID": "curriculum-la-workflow.html#module-4-data-products",
-    "href": "curriculum-la-workflow.html#module-4-data-products",
-    "title": "Learning Analtyics Workflow",
-    "section": "Module 4: Data Products",
-    "text": "Module 4: Data Products\nIn Module 4, scholars will learn to communicate their analytical findings effectively, focusing on creating publication-ready products and considering ethical aspects of data presentation. They will be introduced to strategies for engaging education stakeholders through compelling data storytelling, ensuring the message is clear and accessible. The course also delves into the preparation of various communication mediums using tools like R Markdown and Flexdashboard to model and communicate insights. Additionally, this module emphasizes the importance of addressing ethical considerations such as data privacy, bias, and inclusive practices to ensure responsible use of data in educational settings. This framework prepares scholars to craft their messages thoughtfully, considering both their audience and the ethical dimensions of data use. The Communication badge provides an opportunity to show your skills using case study data or your choice of data to develop a dashboard using the skills you learned in this module.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
-    "href": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
-    "title": "Text Mining",
-    "section": "Module 1: Tidy Text & Word Counts (TM Basics)",
-    "text": "Module 1: Tidy Text & Word Counts (TM Basics)\nThis module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers’ experiences in professional development. Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-2-sentiment-and-school-reform-dictionary-methods",
-    "href": "curriculum-text-mining.html#module-2-sentiment-and-school-reform-dictionary-methods",
-    "title": "Text Mining",
-    "section": "Module 2: Sentiment and School Reform (Dictionary Methods)",
-    "text": "Module 2: Sentiment and School Reform (Dictionary Methods)\nThis module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? investigates the public sentiment expressed toward the Next Generation Science Standards (NGSS) and compares the sentiment for NGSS and Common Core State Standards using X (twitter) data. This study is by Rosenberg et al. (2021) and can be found at https://osf.io/xymsd/. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
-    "href": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
-    "title": "Text Mining",
-    "section": "Module 3: Large Language Models for Qualitative Analysis",
-    "text": "Module 3: Large Language Models for Qualitative Analysis\nThis module wraps up our work with text mining and examines recent advances in using large language models to code qualitative data (i.e., interview transcripts, group discussions, and open-ended responses). Through our essential readings, we’ll learn about this technique. Our Text Mining Case Study: What are high school students’ machine learning literacy before and after participating in an AI curriculum? is inspired by the need to assess machine learning literacy and use automated assessment for real-time intervention in the field of AI education. Finally, the Large Language Model Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
-    "href": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
-    "title": "Text Mining",
-    "section": "Module 4: Topic Modeling in MOOC-Eds",
-    "text": "Module 4: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course. You can learn more about the work here (https://www.learntechlib.org/p/195234/). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nDiscussion\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
-    "href": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
-    "title": "Text Mining",
-    "section": "Module 2: Public Sentiment and School Reform (Dictionary Methods)",
-    "text": "Module 2: Public Sentiment and School Reform (Dictionary Methods)\nThis module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? investigates the public sentiment expressed toward the Next Generation Science Standards (NGSS) and compares the sentiment for NGSS and Common Core State Standards using X (twitter) data. This study by Rosenberg et al. (2021) can be found at https://osf.io/xymsd/. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n\n\n\n\nBadge",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
+    "objectID": "curriculum-activities.html",
+    "href": "curriculum-activities.html",
+    "title": "Module Activities",
+    "section": "",
+    "text": "Activities for each instructional module are informed by lessons learned through PI Kellogg’s LASER Institute and LA Graduate Certificate program, and PI Baker’s experience offering BDEMOOC and other courses for over a decade. Modules will consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities will provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nInteractive Presentations\n\nEach module contain slide decks for two interactive presentations that provide an overview of key concepts, software packages and functions for data analysis. The first presentation focuses on a conceptual overview of key terminology, techniques, and applications. The second presentation provides a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. \n\n\nCoding Case Studies\nCase study assignments developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nReadings and Discussion\nEssential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module includes an exemplary research article that illustrates how LA applications and/or techniques highlighted in each module (e.g., data visualization, topic modeling) have been used in STEM education contexts. These articles are also used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Instructors will be provided guiding questions to help them facilitate discussion among learners and assess their understanding of module content.\n\n\nSoftware Tutorials\nOpenly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers available on Posit Cloud (CITATION) and Python and intelligent-tutor based assignments developed by UPenn that scaffold students in learning to use learning analytics methods (Aleven et al., 2017; Zhou et al., 2021). \n\n\nBadges & Microcredentials\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with digital badges to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods. Microcredential certificates will also be created for learners who have demonstrated their ability to consider the potential applications and challenges of learning analytics in society. Badging activities and corresponding badges developed for the LASER Institute will be expanded to include new modules created from UPenn materials."
   }
 ]
