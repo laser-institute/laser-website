@@ -3,7 +3,7 @@ title: "Learning Analtyics Workflow"
 bibliography: lit/references.bib
 ---
 
-![](images/law-micro.png){width="30%"}
+![](images/law-micro.png){width="25%"}
 
 The Learning Analytics Workflow modules are designed to equip STEM education researchers with the skills to apply these analytical methods to better understand and enhance student learning and educational environments. The modules offer a comprehensive overview of the learning analytics process, starting with the characteristics of educational data and progressing through data visualization, analytical methods, and communication of findings. The presentations, readings, and case studies for each module draw from leading texts, such as **Learning Analytics Goes to School** [@krumm2018], as well as current research in the field, providing participants with both theoretical knowledge and practical experience. Scholars will engage in hands-on coding exercises using R and Python, tailored to their respective programming preferences, ensuring they gain practical skills in data preparation, visualization, modeling, and communication.
 
@@ -29,7 +29,7 @@ In Module 1, scholars will learn about different types of learning environments 
 +-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/case-study.png){width="40"}          | **Case Study** | [The Data-Intensive Research Workflow](https://posit.cloud/spaces/493094/content/all?sort=name_asc) \| [R Key](https://laser-institute.github.io/la-workflow/Foundation_R/found-lab-casestudy-keys.html) \| [Python Key](https://laser-institute.github.io/la-workflow/Foundation_Py/found-casestudy-Py-key.html) |
 +-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/law-badge-1.png){width="50"}         | **Badge**      | Data Sources in Learning Analytics                                                                                                                                                                                                                                                                                |
+| ![](images/law-badge-1.png){width="50"}         | **Badge**      | Foundations of Learning Analytics                                                                                                                                                                                                                                                                                 |
 +-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 2: The Power of Data Viz
