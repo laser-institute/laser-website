@@ -4,17 +4,17 @@ title: "Welcome!"
 
 ![](images/laser-logo.png){width="50%"}
 
-The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.
+The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.
 
-To learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the **Institute** section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at [go.ncsu.edu/laser-institute](https://go.ncsu.edu/laser-institute).
+To learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the **Institute** section of this website for an overview of the program. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at [go.ncsu.edu/laser-institute](https://go.ncsu.edu/laser-institute).
 
 ## The LASER Curriculum
 
 This website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.
 
--   The **Curriculum** section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.
+-   The **Curriculum** section includes instructional modules for computational methods commonly employed in Learnign Anlaytics. Each module includes slide decks, essential readings, discussion questions, code-alongs, case studies, and assessment activities.
 
--   The **Instruction** section, you'll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course.
+-   The **Instruction** section provide supporting materials for instructors interested in adopting or adapting the LASER curriculum for their own students. This section includes information and resources on pedagogical design, computing infrastructure, sample teaching formats, and logistics for using LASER curriculum materials in your own webinar, workshops, or course.
 
 ## Acknowledgements
 

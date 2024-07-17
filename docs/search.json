@@ -107,7 +107,7 @@
     "href": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
     "title": "Knowledge Tracing",
     "section": "Module 1: Bayesian Knowledge Tracing",
-    "text": "Module 1: Bayesian Knowledge Tracing\nBayesian Knowledge Tracing (BKT) (Corbett and Anderson 1994) is the most widely used student knowledge modeling framework within digital learning platforms. The BKT model provides decent-quality predictions of future performance within or outside the learning systems, interpretable models, meaningful parameters, and the ability to be applied to a range of learning situations. The goal of our Essential Readings and Case Study is to help LASER Scholars gain a theoretical understanding and practical experience with BKT. Our BKT Case Study is based on Zambrano, Zhang, and Baker (2024). You will use Python to build classic BKT models and explore some of the variations. Finally, you will complete the BKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\nBKT with ASSISTment\n\n\n\nReadings &\nReflection\nEssential Readings\n\n\n\nCase Study\nBayesian Knowledge Tracing with Python | Answer Key\n\n\n\nBadge\nApplying BKT in Practice",
+    "text": "Module 1: Bayesian Knowledge Tracing\nBayesian Knowledge Tracing (BKT) (Corbett and Anderson 1994) is the most widely used student knowledge modeling framework within digital learning platforms. The BKT model provides decent-quality predictions of future performance within or outside the learning systems, interpretable models, meaningful parameters, and the ability to be applied to a range of learning situations. The goal of our Essential Readings and Case Study is to help LASER Scholars gain a theoretical understanding and practical experience with BKT. Our BKT Case Study is based on Zambrano, Zhang, and Baker (2024). You will use Python to build classic BKT models and explore some of the variations. Finally, you will complete the BKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\nBKT with ASSISTments\n\n\n\nReadings &\nReflection\nEssential Readings\n\n\n\nCase Study\nBayesian Knowledge Tracing with Python | Answer Key\n\n\n\nBadge\nApplying BKT in Practice",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -235,18 +235,6 @@
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#references",
-    "href": "curriculum-la-workflow.html#references",
-    "title": "Learning Analtyics Workflow",
-    "section": "References",
-    "text": "References",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Learning Analtyics Workflow"
-    ]
-  },
-  {
     "objectID": "institute-goals.html",
     "href": "institute-goals.html",
     "title": "Goals and Objectives",
@@ -299,14 +287,14 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying advanced techniques (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for a brief overview. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.\nTo learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the Institute section of this website for an overview of the program. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at go.ncsu.edu/laser-institute."
   },
   {
     "objectID": "index.html#the-laser-curriculum",
     "href": "index.html#the-laser-curriculum",
     "title": "Welcome!",
     "section": "The LASER Curriculum",
-    "text": "The LASER Curriculum\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes 28 instructional modules across 7 distinct computational methods including slide decks, essential readings, discussion questions, case studies or tutorials, and assessment activities.\nThe Instruction section, you’ll find supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for using LASER curriculum materials in your own webinar, workshops, or course."
+    "text": "The LASER Curriculum\nThis website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.\n\nThe Curriculum section includes instructional modules for computational methods commonly employed in Learnign Anlaytics. Each module includes slide decks, essential readings, discussion questions, code-alongs, case studies, and assessment activities.\nThe Instruction section provide supporting materials for instructors interested in adopting or adapting the LASER curriculum for their own students. This section includes information and resources on pedagogical design, computing infrastructure, sample teaching formats, and logistics for using LASER curriculum materials in your own webinar, workshops, or course."
   },
   {
     "objectID": "index.html#acknowledgements",
@@ -594,7 +582,7 @@
     "href": "curriculum-machine-learning.html#microcredential",
     "title": "Machine Learning",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential",
     "crumbs": [
       "Home",
       "Curriculum",

@@ -24,7 +24,7 @@ website:
         text: Instruction
     right:
       - icon: cloud-fill
-        href: https://posit.cloud
+        href: https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe
         aria-label: RStudio Cloud
       - icon: github
         href: https://github.com/laser-institute
