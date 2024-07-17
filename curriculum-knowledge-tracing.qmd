@@ -34,62 +34,62 @@ Bayesian Knowledge Tracing (BKT) [@corbett1994knowledge] is the most widely used
 
 Module 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tracing (LKT) as alternative knowledge tracing methods. LKT utilizes Logistic Regression to investigate students’ performance. Unlike BKT, each item may involve multiple skills or knowledge components (KC). With the case study, you will learn to clean the dataset and build an LKT model. Our case study is based on the work of @tirronen2020estimating. This paper discusses the application of LKT in the programming education field and the case study will guide you to practice building your LKT model in R with the example dataset. Like module 1, you will complete the LKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.
 
-+------------------------------------------+----------------+---+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |   |
-|                                          | Overview**     |   |
-+------------------------------------------+----------------+---+
-| ![](images/code-along.png){width="40"}   | **Code Along** |   |
-+------------------------------------------+----------------+---+
-| ![](images/reading.png){width="40"}      | **Readings &\  |   |
-|                                          | Reflection**   |   |
-+------------------------------------------+----------------+---+
-| ![](images/case-study.png){width="40"}   | **Case Study** |   |
-+------------------------------------------+----------------+---+
-| ![](images/sna-badge-2.png){width="40"}  | **Badge**      |   |
-+------------------------------------------+----------------+---+
++------------------------------------------+----------------+----------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
+|                                          | Overview**     |                |
++------------------------------------------+----------------+----------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** |                |
++------------------------------------------+----------------+----------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  |                |
+|                                          | Reflection**   |                |
++------------------------------------------+----------------+----------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** |                |
++------------------------------------------+----------------+----------------+
+| ![](images/sna-badge-2.png){width="40"}  | **Badge**      |                |
++------------------------------------------+----------------+----------------+
 
 ## Module 3: Item Response Theory
 
 Module 3 wraps discuss Item Response Theory, a classic approach for assessment in tests. It is used to assess students’ current knowledge of a topic and it assumes no learning is occurring between items. Through exploring foundational principles, and building models in the case study, this module will equip you with valuable skills to understand the validity of educational assessments. Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.
 
-+------------------------------------------+----------------+---+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |   |
-|                                          | Overview**     |   |
-+------------------------------------------+----------------+---+
-| ![](images/code-along.png){width="40"}   | **Code Along** |   |
-+------------------------------------------+----------------+---+
-| ![](images/reading.png){width="40"}      | **Readings &\  |   |
-|                                          | Discussion**   |   |
-+------------------------------------------+----------------+---+
-| ![](images/case-study.png){width="40"}   | **Case Study** |   |
-+------------------------------------------+----------------+---+
-| ![](images/sna-badge-3.png){width="40"}  | **Badge**      |   |
-+------------------------------------------+----------------+---+
++------------------------------------------+----------------+----------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
+|                                          | Overview**     |                |
++------------------------------------------+----------------+----------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** |                |
++------------------------------------------+----------------+----------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  |                |
+|                                          | Discussion**   |                |
++------------------------------------------+----------------+----------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** |                |
++------------------------------------------+----------------+----------------+
+| ![](images/sna-badge-3.png){width="40"}  | **Badge**      |                |
++------------------------------------------+----------------+----------------+
 
 ## Module 4: **Deep Knowledge Tracing**
 
 Module 4 discusses the application of deep neural networks in knowledge tracing, called Deep Knowledge Tracing (DKT). It is a growing area and has dozens of variants. While deep neural networks are becoming popular and every paper claims good performance, we must be cautious and carefully understand this technique and its strengths and weaknesses before using it. Our essential readings and case studies cover selected current issues and approaches in Deep Knowledge Tracing (DKT). In the hands-on activities, you'll be working to add a dataset to the implementation of the DKT model from @gervet2020deep. Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.
 
-+------------------------------------------+----------------+---+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |   |
-|                                          | Overview**     |   |
-+------------------------------------------+----------------+---+
-| ![](images/code-along.png){width="40"}   | **Code Along** |   |
-+------------------------------------------+----------------+---+
-| ![](images/reading.png){width="40"}      | **Readings &\  |   |
-|                                          | Discussion**   |   |
-+------------------------------------------+----------------+---+
-| ![](images/case-study.png){width="40"}   | **Case Study** |   |
-+------------------------------------------+----------------+---+
-| ![](images/sna-badge-4.jpg){width="40"}  | **Badge**      |   |
-+------------------------------------------+----------------+---+
++------------------------------------------+----------------+----------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
+|                                          | Overview**     |                |
++------------------------------------------+----------------+----------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** |                |
++------------------------------------------+----------------+----------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  |                |
+|                                          | Discussion**   |                |
++------------------------------------------+----------------+----------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** |                |
++------------------------------------------+----------------+----------------+
+| ![](images/sna-badge-4.jpg){width="40"}  | **Badge**      |                |
++------------------------------------------+----------------+----------------+
 
 ## Microcredential
 
 The culminating activity for the Knowledge Tracing Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your KT Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a KT context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
-|                                       |                     |     |
-|---------------------------------------|---------------------|-----|
-| ![](images/sna-micro.png){width="40"} | **Microcredential** |     |
++---------------------------------------+---------------------+-----------------+
+| ![](images/sna-micro.png){width="40"} | **Microcredential** |                 |
++---------------------------------------+---------------------+-----------------+
 
-## References
+## Essential Readings
