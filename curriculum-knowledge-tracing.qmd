@@ -7,12 +7,12 @@ bibliography: lit/references.bib
 
 The Knowledge Tracing Modules are designed to provide LASER Scholars with a comprehensive understanding and hands-on experience in various knowledge tracing methods used in digital learning platforms. Beginning with Bayesian Knowledge Tracing (BKT), scholars will build and explore classic BKT models using Python, gaining insights into its application across learning scenarios. The program then introduces Performance Factor Analysis (PFA) and Logistic Knowledge Tracing (LKT), where scholars will clean datasets and build LKT models, learning to analyze student performance involving multiple skills. Next, the modules cover Item Response Theory (IRT), equipping scholars with the principles and skills to validate educational assessments. Finally, the we wrap up this unit by diving into Deep Knowledge Tracing (DKT), where scholars will engage with deep neural network models, understanding their strengths and limitations. Throughout the modules, case studies, essential readings, and badge activities in ASSISTments will reinforce learning and application, preparing scholars to utilize these techniques effectively in educational research and practice.
 
-+------------------------------------+-----------------+------------------------------------------------------------------------------------+
-| ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/knowledge-tracing) |
-|                                    | **              |                                                                                    |
-+------------------------------------+-----------------+------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud** | Workspace for Students                                                             |
-+------------------------------------+-----------------+------------------------------------------------------------------------------------+
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/knowledge-tracing)                                    |
+|                                    | **              |                                                                                                                       |
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Students](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ## Module 1: Bayesian Knowledge Tracing
 
