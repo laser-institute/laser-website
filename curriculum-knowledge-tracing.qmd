@@ -40,7 +40,7 @@ Module 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tra
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Logistic Knowledge Tracing and PFA](https://yilinl.quarto.pub/pfa/#/title-slide) |
 |                                          | Overview**     |                                                                                            |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | [LKT walkthrough]https://yilinliu.quarto.pub/module-2-lkt-walkthrough/                                                                        |
+| ![](images/code-along.png){width="40"}   | **Code Along** | [LKT walkthrough](https://yilinliu.quarto.pub/module-2-lkt-walkthrough/)                                                                        |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)             |
 |                                          | Reflection**   |                                                                                            |
