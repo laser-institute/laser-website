@@ -76,7 +76,7 @@ Module 4 discusses the application of deep neural networks in knowledge tracing,
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Intro to Deep Knowledge Tracing](https://yilinl.quarto.pub/module-4-deep-knowledge-tracing/#/title-slide) |
 |                                          | Overview**     |                                                                                                            |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | [ASSISTments](https://www.assistments.org/account/login)                                                                                               |
+| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                                             |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)                             |
 |                                          | Discussion**   |                                                                                                            |
