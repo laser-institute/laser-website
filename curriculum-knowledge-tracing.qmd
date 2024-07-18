@@ -22,7 +22,7 @@ Bayesian Knowledge Tracing (BKT) [@corbett1994knowledge] is the most widely used
 | ![](images/conceptual-overview.png){width="40"} | **Conceptual\   | [Bayesian Knowledge Tracing](https://laser-institute.github.io/knowledge-tracing/module-1/kt-1-conceptual-overview.html#/title-slide)                                                          |
 |                                                 | Overview**      |                                                                                                                                                                                                |
 +-------------------------------------------------+-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}          | **Code Along**  | [BKT with ASSISTments](https://www.assistments.org/account/login)                                                                                                                              |
+| ![](images/code-along.png){width="40"}          | **Code Along**  | [BKT with ASSISTments](https://www.assistments.org/account/login)[BKT-BF walkthrough-PC](https://yilinliu.quarto.pub/module-1-bkt-bf-walkthrough-windows/)[BKT-BF walkthrough Mac](https://yilinliu.quarto.pub/module-1-bkt-bf-walkthrough-mac/)                                                                                                                              |
 +-------------------------------------------------+-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}             | **Readings &\   | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)                                                                                                                 |
 |                                                 | Reflection**    |                                                                                                                                                                                                |
@@ -37,15 +37,15 @@ Bayesian Knowledge Tracing (BKT) [@corbett1994knowledge] is the most widely used
 Module 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tracing (LKT) as alternative knowledge tracing methods. LKT utilizes Logistic Regression to investigate students’ performance. Unlike BKT, each item may involve multiple skills or knowledge components (KC). With the case study, you will learn to clean the dataset and build an LKT model. Our case study is based on the work of @tirronen2020estimating. This paper discusses the application of LKT in the programming education field and the case study will guide you to practice building your LKT model in R with the example dataset. Like module 1, you will complete the LKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.
 
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  | [Logistic Knowledge Tracing and PFA](https://yilinl.quarto.pub/bayesian-knowledge-tracing) |
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Logistic Knowledge Tracing and PFA](https://yilinl.quarto.pub/pfa/#/title-slide) |
 |                                          | Overview**     |                                                                                            |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                               |
+| ![](images/code-along.png){width="40"}   | **Code Along** | [LKT walkthrough](https://yilinliu.quarto.pub/module-2-lkt-walkthrough/)                                                                        |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)             |
 |                                          | Reflection**   |                                                                                            |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** | Coming soon!                                                                               |
+| ![](images/case-study.png){width="40"}   | **Case Study** | [PFA case study](https://yilinliu.quarto.pub/module-2-case-study/)                                                                              |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
 | ![](images/kt-badge-2.png){width="40"}   | **Badge**      | [LTK and PFA with ASSISTments](https://www.assistments.org/account/login)                  |
 +------------------------------------------+----------------+--------------------------------------------------------------------------------------------+
@@ -58,14 +58,14 @@ Module 3 wraps discuss Item Response Theory, a classic approach for assessment i
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Item Response Theory and ELO](https://yilinliu.quarto.pub/module-3-item-response-theory-and-elo/#/title-slide) |
 |                                          | Overview**     |                                                                                                                 |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                                                    |
+| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                                                      |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)                                  |
 |                                          | Discussion**   |                                                                                                                 |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** | Coming soon!                                                                                                    |
+| ![](images/case-study.png){width="40"}   | **Case Study** | [IRT in R](https://yilinliu.quarto.pub/module-3-case-study/)                                                                                                  |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------+
-| ![](images/kt-badge-3.png){width="40"}   | **Badge**      | [IRT and ELO with ASSISTments](ASSISTments)                                                                     |
+| ![](images/kt-badge-3.png){width="40"}   | **Badge**      | [Apply IRT in practice](https://yilinliu.quarto.pub/module-3-applying-irt-in-practice/)                                                                   |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------+
 
 ## Module 4: Deep Knowledge Tracing
@@ -76,14 +76,14 @@ Module 4 discusses the application of deep neural networks in knowledge tracing,
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Intro to Deep Knowledge Tracing](https://yilinl.quarto.pub/module-4-deep-knowledge-tracing/#/title-slide) |
 |                                          | Overview**     |                                                                                                            |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                                               |
+| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                                             |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)                             |
 |                                          | Discussion**   |                                                                                                            |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** | Coming soon!                                                                                               |
+| ![](images/case-study.png){width="40"}   | **Case Study** | [DKT in Python](https://yilinliu.quarto.pub/kt-4-case-study/)                                                                                             |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
-| ![](images/kt-badge-4.png){width="40"}   | **Badge**      | [DKR with ASSISTments](ASSISTments)                                                                        |
+| ![](images/kt-badge-4.png){width="40"}   | **Badge**      | [Apply DKT in Practice](https://yilinliu.quarto.pub/module-4-apply-dkt-in-researchpractice/)                                                                        |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
 
 ## Microcredential
