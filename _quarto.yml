@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "LASER Institute"
+  title: "LASER"
   page-navigation: true
   repo-url: https://github.com/laser-institute/laser-website
   repo-actions: [edit, issue]

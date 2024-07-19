@@ -1,23 +1,25 @@
 ---
-title: "Welcome!"
+title: ""
 ---
 
 ![](images/laser-logo.png){width="50%"}
 
-The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods (e.g., network analysis, text mining and machine learning) to support their existing research and develop new lines of inquiry.
+The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods to support their existing research.
 
-To learn more about how you can become involved as a participating scholar, guest speaker, or curriculum contributor, visit the **Institute** section of this website for an overview of the program. For more detailed information about eligibility, application process, team members, and past scholars, visit our project page at [go.ncsu.edu/laser-institute](https://go.ncsu.edu/laser-institute).
+This website contains all the materials needed to teach with, and learn from, the LASER Institute's instructional materials. The website is organized into three sections:
 
-## The LASER Curriculum
+-   **Institute**. The Institute section provides an overview of the program, including the LASER Insitute's goals and objectives, program components, design principles, curriculum topics, and the types of instructional activities.
 
-This website contains all the materials needed to teach with, and learn from, the curriculum developed for the LASER Institute.
+-   **Curriculum**. The curriculum section includes everything you need learn with LASER and is organized by research methods taught by the project team. Each method area consists of four instructional modules consisting of slide decks, essential readings, discussion questions, code-alongs, case studies, and assessment activities.
 
--   The **Curriculum** section includes instructional modules for computational methods commonly employed in Learnign Anlaytics. Each module includes slide decks, essential readings, discussion questions, code-alongs, case studies, and assessment activities.
-
--   The **Instruction** section provide supporting materials for instructors interested in adopting or adapting the LASER curriculum for their own students. This section includes information and resources on pedagogical design, computing infrastructure, sample teaching formats, and logistics for using LASER curriculum materials in your own webinar, workshops, or course.
+-   **Instruction**. The instruction section includes everything instructors need to teach with LASER. This section includes information and resources on pedagogical design, computing infrastructure, sample teaching formats, and logistics for using LASER curriculum materials for a webinar, workshop, or course.
 
 ## Acknowledgements
 
-The LASER This material is based upon work supported by the National Science Foundation under Grant No. [DRL-2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false), [DRL-2321128](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321128&HistoricalAwards=false), and [DRL-2321129](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321129&HistoricalAwards=false).
+Located at the [Friday Institute for Educational Innovation](https://fi.ncsu.edu), the LASER Institute is a collaborative effort between North Carolina State University, the University of Pennsylvania, the University of Florida, and the University of Tennessee, Knoxville.
+
+For more detailed information about the project team, advisory board members, past scholars, and program highlights, visit our project page at [go.ncsu.edu/laser-institute](https://go.ncsu.edu/laser-institute).
+
+This material is based upon work supported by the National Science Foundation under Grant No. [DRL-2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false), [DRL-2321128](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321128&HistoricalAwards=false), and [DRL-2321129](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321129&HistoricalAwards=false).
 
 ![](images/nsf.png){width="20%"}
