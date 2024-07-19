@@ -35,7 +35,7 @@ website:
     contents:
     - section: "Institute"
       contents:
-        - what-is-la.qmd
+        - institute-la.qmd
         - institute-goals.qmd
         - institute-workshop.qmd
         - institute-online.qmd
@@ -51,6 +51,7 @@ website:
     - section: "Instruction"
       contents:
         - instruction-intro.qmd
+        - instruction-format.qmd
     
 
   page-footer:

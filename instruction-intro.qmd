@@ -2,4 +2,66 @@
 title: "Teaching with LASER"
 ---
 
-Coming soon!
+LASER BEAM builds upon the existing NSF-funded LASER Institute [DRL-2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false) (2020-2023), which aims to deepen scholars’ understanding of LA methodologies, applications, and ethical issues as they relate to STEM education; develop their proficiency with analytic tools and software to apply advanced techniques to wrangle, explore, and model STEM education data; and expand their professional networks to help further their research and provide sustained, ongoing support beyond the program.
+
+### Instructional Goals
+
+LASER BEAM builds on prior grant efforts and aims to scale the impact of LASER by preparing two cohorts of scholars to teach students and faculty at their home institutions using LASER curriculum materials. To that end, the LASER project team has established the following goals for LASER BEAM:
+
+**Goal 1: Develop a modular curriculum adaptable to instructors’ needs**. This project aims to build on LASER Institute resources and other learning analytics resources developed at Penn to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts focus in part on gathering ongoing feedback from instructors to improve the curriculum.
+
+**Goal 2: Prepare faculty to utilize LASER curriculum resources**. Faculty participate in an intensive, week-long Summer Institute with sessions focused on: 1) training participants to understand and effectively use the curriculum materials and pedagogical approaches developed by the project team; 2) providing participants supplemental instruction as needed to fully understand the course content they will be teaching, and 3) developing a plan for training faculty, staff, and/or students at their home institutions. In addition, an Online Community supports instructors as they adapt and deploy materials.
+
+**Goal 3: Broaden educational opportunities in advanced methods**. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team provides faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.
+
+### Instructional Supports
+
+Daily activities during the Summer Institute will assist scholars in designing a customized instructional plan that they will implement during the academic year at their home institutions or beyond, where they consider how to incorporate LASER curriculum resources into their own contexts to teach learning analytics topics, techniques and approaches. The project team will collaborate with participants to choose relevant topics, modules and activities, effective teaching methods (pedagogy), and suitable technology from our training resources that meet the needs of their learners. The LASER BEAM team will also work with participants in aligning the chosen learning analytics topics, pedagogy, and technology with scholars’ context to ensure the modules are tailored to address the unique needs and preferences of their learners. 
+
+Design sessions will also provide opportunities for scholars to collaborate and plan with other participants to support developing their practice of teaching. After the Summer Institute, scholars will participate in monthly virtual check-ins to finalize plans that they will implement in the academic year.   
+
+#### **Designing Instructional Plans**
+
+As part of the LASER Institute program, scholars will design a customized instructional plan for teaching colleagues or students within or beyond their home institution. This aspect of the program provides an opportunity for scholars to apply their pedagogical knowledge and skills related to learning analytics using LASER materials. Instructional plans will be implemented during the academic year, preferably in the fall semester. 
+
+#### **Identifying a SHARK Goal**
+
+The first step in designing an instructional plan is to develop a SHARK Goal, which includes  identifying learning analytics topics and/or techniques and LASER materials that support teaching these topics, approaches and techniques. The SHARK Goal should address the following components:
+
+-   **Specific**. Identify specific learning analytics topics and/or techniques to teach others; 
+
+-   **How To**. Develop a plan for how to incorporate LASER materials into this instructional experience;
+
+-   **Attainable**. Ensure the plan is attainable during the academic year, preferably fall semester; 
+
+-   **Relevant**. Make sure the plan is relevant to their professional goals; and,
+
+-   **Keep Track**. Help to keep track of feedback, information, and insights gained to help improve the curriculum. 
+
+#### **Selecting an Instructional Format**
+
+In addition to developing a SHARK Goal, scholars select the format for their instruction. Formats will vary based on scholars’ SHARK Goal, which may include, but is not limited to, courses, webinars, and workshops. Scholars are encouraged to select formats that are appropriate for their institutional roles, contexts, expertise, professional goals and interests. For example, some scholars may want to incorporate LASER materials into an entire course that they currently teach or plan to teach. Other scholars may choose a format where the instructional plan will be implemented in one to four hours of instruction.
+
+-   **Courses**. Curriculum materials can be adopted and adapted by scholars to provide a 1-3 credit course at their home institutions.
+
+-   **Lessons or Units**. In addition, modules activities can be embedded as individual lessons or short units of instruction within existing courses or programs.
+
+-   **Workshop**. Others may wish to design professional development for faculty and/or other colleagues at their home institution that they implement in the form of a workshop. Another possibility is designing a presentation or workshop that is implemented at a professional conference.
+
+-   **Webinar**. Yet others may want to create professional development for colleagues at and beyond their home institution in the form of a virtual webinar.
+
+To assist scholars in developing and implementing their instruction plans, scholars are provided a range of resources such as example course syllabi and webinar and workshop templates.
+
+#### **Planning During the Summer Institute**
+
+Scholars will participate in daily Pedagogy and Design Sessions that will support them in creating an instructional plan. During the Summer Institute, templates will be provided to scholars to guide their planning. Scholars will use one of the following planning guides based on their SHARK Goal and selected format for implementation:
+
+-   [Syllabus Instructional Plan](https://docs.google.com/document/d/1q4RXARFeWG5xmgTQhZxwDlFwhqyOvjR9QcpKOG39Cq0/edit#heading=h.1vjy6yaqjtfe)
+
+-   [Instructional Plan (1-4 hrs)](https://docs.google.com/document/d/1QKIHpjJsnriMnWlHLFV0GFCELXyTmwDkRF3MOSWK5cE/edit)
+
+#### **Refining Plans and Implementation During the Academic Year**
+
+During the academic year, scholars will continue planning, refining and finalizing instructional plans that will be implemented during the academic year, preferably in the fall. Scholars will participate in monthly check-ins with the LASER BEAM team to finalize plans and implementation of instruction.
+
+\
