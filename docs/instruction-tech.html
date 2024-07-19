@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>LASER - Learning Analytics Workflow</title>
+<title>LASER - LASER Toolkit</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,27 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -50,8 +30,7 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./curriculum-network-analysis.html" rel="next">
-<link href="./curriculum-orientation.html" rel="prev">
+<link href="./instruction-format.html" rel="prev">
 <link href="./images/laser-icon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -165,7 +144,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./curriculum-orientation.html">Curriculum</a></li><li class="breadcrumb-item"><a href="./curriculum-la-workflow.html">Learning Analytics Workflow</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./instruction-intro.html">Instruction</a></li><li class="breadcrumb-item"><a href="./instruction-tech.html">LASER Toolkit</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -243,7 +222,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./curriculum-la-workflow.html" class="sidebar-item-text sidebar-link active">
+  <a href="./curriculum-la-workflow.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Learning Analytics Workflow</span></a>
   </div>
 </li>
@@ -291,7 +270,13 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./instruction-format.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Instructional Formats</span></a>
+ <span class="menu-text">Example Formats</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./instruction-tech.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">LASER Toolkit</span></a>
   </div>
 </li>
       </ul>
@@ -306,21 +291,25 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#module-1-characteristics-of-data" id="toc-module-1-characteristics-of-data" class="nav-link active" data-scroll-target="#module-1-characteristics-of-data">Module 1: Characteristics of Data</a></li>
-  <li><a href="#module-2-the-power-of-data-viz" id="toc-module-2-the-power-of-data-viz" class="nav-link" data-scroll-target="#module-2-the-power-of-data-viz">Module 2: The Power of Data Viz</a></li>
-  <li><a href="#module-3-learning-analytics-methods" id="toc-module-3-learning-analytics-methods" class="nav-link" data-scroll-target="#module-3-learning-analytics-methods">Module 3: Learning Analytics Methods</a></li>
-  <li><a href="#module-4-data-products" id="toc-module-4-data-products" class="nav-link" data-scroll-target="#module-4-data-products">Module 4: Data Products</a></li>
-  <li><a href="#microcredential" id="toc-microcredential" class="nav-link" data-scroll-target="#microcredential">Microcredential</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  <li><a href="#github" id="toc-github" class="nav-link active" data-scroll-target="#github">GitHub</a></li>
+  <li><a href="#posit-cloud" id="toc-posit-cloud" class="nav-link" data-scroll-target="#posit-cloud">Posit Cloud</a>
+  <ul class="collapse">
+  <li><a href="#laser-learners-workspace" id="toc-laser-learners-workspace" class="nav-link" data-scroll-target="#laser-learners-workspace">LASER Learners Workspace</a></li>
+  <li><a href="#laser-instructors-workspace" id="toc-laser-instructors-workspace" class="nav-link" data-scroll-target="#laser-instructors-workspace">LASER Instructors Workspace</a></li>
+  <li><a href="#posit-recipes-cheat-sheets" id="toc-posit-recipes-cheat-sheets" class="nav-link" data-scroll-target="#posit-recipes-cheat-sheets">Posit Recipes &amp; Cheat Sheets</a></li>
+  </ul></li>
+  <li><a href="#quarto" id="toc-quarto" class="nav-link" data-scroll-target="#quarto">Quarto</a></li>
+  <li><a href="#rstudio-ide" id="toc-rstudio-ide" class="nav-link" data-scroll-target="#rstudio-ide">RStudio IDE</a></li>
+  <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/curriculum-la-workflow.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/instruction-tech.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./curriculum-orientation.html">Curriculum</a></li><li class="breadcrumb-item"><a href="./curriculum-la-workflow.html">Learning Analytics Workflow</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./instruction-intro.html">Instruction</a></li><li class="breadcrumb-item"><a href="./instruction-tech.html">LASER Toolkit</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Learning Analytics Workflow</h1>
+<h1 class="title">LASER Toolkit</h1>
 </div>
 
 
@@ -337,193 +326,58 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 </header>
 
 
-<p><img src="images/law-micro.png" class="img-fluid" style="width:20.0%"></p>
-<p>The Learning Analytics Workflow modules are designed to equip STEM education researchers with the skills to apply these analytical methods to better understand and enhance student learning and educational environments. The modules offer a comprehensive overview of the learning analytics process, starting with the characteristics of educational data and progressing through data visualization, analytical methods, and communication of findings. The presentations, readings, and case studies for each module draw from leading texts, such as <strong>Learning Analytics Goes to School</strong> <span class="citation" data-cites="krumm2018">(<a href="#ref-krumm2018" role="doc-biblioref">Krumm, Means, and Bienkowski 2018</a>)</span>, as well as current research in the field, providing participants with both theoretical knowledge and practical experience. Scholars will engage in hands-on coding exercises using R and Python, tailored to their respective programming preferences, ensuring they gain practical skills in data preparation, visualization, modeling, and communication.</p>
-<table class="table">
-<tbody>
-<tr class="odd">
-<td><img src="images/github.png" class="img-fluid" width="40"></td>
-<td><strong>Github<br>
-</strong></td>
-<td><a href="https://github.com/laser-institute/text-mining">Repository for Instructors</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/posit.png" class="img-fluid" width="40"></td>
-<td><strong>Posit Cloud</strong></td>
-<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Workspace for Students</a></td>
-</tr>
-</tbody>
-</table>
-<section id="module-1-characteristics-of-data" class="level2">
-<h2 class="anchored" data-anchor-id="module-1-characteristics-of-data">Module 1: Characteristics of Data</h2>
-<p>In Module 1, scholars will learn about different types of learning environments and the characteristics of data commonly used in educational research. The module offers an introduction to the fundamental concepts of learning analytics, tailored for those new to the field or seeking to enhance their basic R or Python programming skills, particularly within STEM education contexts. Scholars will examine various data types, including interaction between instructors and students, administrative and demographic data, and student affectivity, each crucial for developing educational strategies. The hands-on component involves navigating the initial steps of the Learning Analytics workflow, such as preparing data, installing necessary packages, loading data sets, and inspecting data structures. By the end of the module, participants will have a practical understanding of how to apply these concepts through coding exercises, setting the stage for advanced analytical tasks in future modules. The Data Prep badge provides an opportunity to show your skills using the case study data or a choice of data to wrangle using the skills you learned in this module.</p>
-<table class="table">
-<tbody>
-<tr class="odd">
-<td><img src="images/conceptual-overview.png" class="img-fluid" width="40"></td>
-<td><strong>Conceptual<br>
-Overview</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_1/module1-conceptual_slides.html#/">Characteristics of Data in Learning Analytics</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/code-along.png" class="img-fluid" width="40"></td>
-<td><strong>Code Along</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_1/module1-code-along-slides.html#/">Preparing for Research and Wrangling Data in R</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/module_1_py/Module1-code-along-slides-Py.html#/section">Python</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/reading.png" class="img-fluid" width="40"></td>
-<td><strong>Readings &amp;<br>
-Reflection</strong></td>
-<td><a href="https://doi.org/10.4324/9781315650722">Chapter 2: Data Used in Educational Data-Intensive Research</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/case-study.png" class="img-fluid" width="40"></td>
-<td><strong>Case Study</strong></td>
-<td><a href="https://posit.cloud/spaces/493094/content/all?sort=name_asc">The Data-Intensive Research Workflow</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_R/found-lab-casestudy-keys.html">R Key</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/found-casestudy-Py-key.html">Python Key</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/law-badge-1.png" class="img-fluid" width="50"></td>
-<td><strong>Badge</strong></td>
-<td>Foundations of Learning Analytics</td>
-</tr>
-</tbody>
-</table>
+<p>The LASER Institute uses a suite of interactive tools for the design and delivery of instructional activities:</p>
+<section id="github" class="level2">
+<h2 class="anchored" data-anchor-id="github">GitHub</h2>
+<p><img src="images/github-logo.png" class="img-fluid" style="width:25.0%"></p>
+<p><a href="https://github.com">Github</a> is used for hosting the LASER website and instructional materials. All files and and source code for the is housed on the <a href="https://github.com/laser-institute">LASER Institute GitHub</a> organization site and deployed using <a href="https://pages.github.com">GitHub Pages</a>, an all-in-one platform deploying dynamic websites from Git. Housing all materials on GitHub allows for version control and collaborative editing of curriculum materials as well as the addition of new materials that may be developed by participants.</p>
+<p>Create a free GitHub account at: <a href="https://github.com/signup" class="uri">https://github.com/signup</a>.</p>
+<p><strong>Note</strong>: You can now connect Github CoPilot to your Posit Cloud projects individually. You must have access to&nbsp;<a href="https://github.com/features/copilot">Github CoPilot</a> through your&nbsp;<a href="https://github.com/">Github account</a>. Github’s CoPilot is a AI PairProgrammer that you can enable with RStudio. To read more about the set up check out Posit’s <a href="#0">User Guide</a>.</p>
 </section>
-<section id="module-2-the-power-of-data-viz" class="level2">
-<h2 class="anchored" data-anchor-id="module-2-the-power-of-data-viz">Module 2: The Power of Data Viz</h2>
-<p>In Module 2, scholars explore the vital role of data visualization in learning analytics. This module underscores how visual representations of data can significantly simplify the complexity of educational data, making it more comprehensible and accessible for analysis. Scholars learn to appreciate the benefits of visualization in enhancing understanding, promoting engagement, aiding decision-making, and improving communication. The module covers various types of data visualizations, such as bar charts, line graphs, scatter plots, heatmaps, and network diagrams, each chosen for their effectiveness in illustrating specific data relationships and patterns. Real-world examples are provided to showcase practical applications and the impact of effective data visualization in educational contexts. Best practices are also discussed, emphasizing the importance of knowing the audience, opting for simple designs, choosing the correct types of visualizations, providing contextual clarity, using colors strategically, and iterating based on feedback to refine the visual outputs. The Exploratory LA badge provides an opportunity to show your skills using case study data or your choice of data to visualize using the skills you learned in this module.</p>
-<table class="table">
-<tbody>
-<tr class="odd">
-<td><img src="images/presentation.png" class="img-fluid" width="40"></td>
-<td><strong>Conceptual<br>
-Overview</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_2/module-2-conceptual-slides-R.html#/">The Power of Data Visualization</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/code-along.png" class="img-fluid" width="40"></td>
-<td><strong>Code Along</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_2/module2-code-along-R.html#/">Exploratory Data Analysis Basics with R</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/module_2_py/Module2-code-along-slides-Py.html#/section">Python</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/reading.png" class="img-fluid" width="40"></td>
-<td><strong>Readings &amp;<br>
-Reflection</strong></td>
-<td><a href="https://doi.org/10.4324/9781315650722">Chapter 4: Legal and Ethical Issues in Learning Analytics</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/case-study.png" class="img-fluid" width="40"></td>
-<td><strong>Case Study</strong></td>
-<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Intro to Exploratory Data Analysis</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_R/found-lab-casestudy-keys.html">R Key</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/found-casestudy-Py-key.html">Python Key</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/law-badge-2.png" class="img-fluid" width="50"></td>
-<td><strong>Badge</strong></td>
-<td>Data Visualization Basics</td>
-</tr>
-</tbody>
-</table>
+<section id="posit-cloud" class="level2">
+<h2 class="anchored" data-anchor-id="posit-cloud">Posit Cloud</h2>
+<p><img src="images/posit.png" class="img-fluid" style="width:25.0%"></p>
+<p>The LASER Institute makes extensive use of, and highly recommends, <a href="https://posit.co/products/cloud/cloud/">Posit Cloud</a> for our LASER Learning modules. Posit Cloud lets you access Posit’s powerful set of data science tools, right in your browser with no installation or complex configuration required.</p>
+<p>Register for a free Posit Cloud account at: <a href="https://login.posit.cloud/register" class="uri">https://login.posit.cloud/register</a>.</p>
+<section id="laser-learners-workspace" class="level3">
+<h3 class="anchored" data-anchor-id="laser-learners-workspace">LASER Learners Workspace</h3>
+<p>The LASER Learners Workspace is where we host the interactive R and Python <a href="https://laser-institute.github.io/laser-website/curriculum-design.html#module-activities">module activities</a>. This workspace contains <a href="https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects">RStudio “projects”</a> for each method area, each with their own working directory, workspace, installed packages, and source documents.</p>
+<p>To access this workspace, use the following link: <a href="https://go.ncsu.edu/laser-learners">go.ncsu.edu/laser-learners</a>.</p>
 </section>
-<section id="module-3-learning-analytics-methods" class="level2">
-<h2 class="anchored" data-anchor-id="module-3-learning-analytics-methods">Module 3: Learning Analytics Methods</h2>
-<p>In Module 3, scholars explore a variety of methods used in learning analytics. The session begins by revisiting basic concepts about the types and characteristics of data in LA. It covers five main analytical methods: predictive analytics, social network analysis, discourse analysis, text analysis, and multimodal analysis. Predictive analytics aims to forecast student performance and enhance intervention strategies. Social network analysis examines social interactions to identify key influencers and optimize collaborative learning. Discourse analysis investigates communication within educational settings to understand student engagement in critical thinking. Text analysis applies natural language processing to assess and provide feedback on text-based assignments. Lastly, multimodal analysis integrates various data sources to provide a comprehensive view of the learning process, supporting personalized educational experiences. This overview equips scholars with the knowledge to apply these methods effectively in educational research and practice. The Modeling badge provides an opportunity to show your skills using case study data or your choice of data to model using the skills you learned in this module.</p>
-<table class="table">
-<tbody>
-<tr class="odd">
-<td><img src="images/presentation.png" class="img-fluid" width="40"></td>
-<td><strong>Conceptual<br>
-Overview</strong></td>
-<td><a href="Methods used in LA">Methods Used in Learning Analytics</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/code-along.png" class="img-fluid" width="40"></td>
-<td><strong>Code Along</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_3/module3-code-along-R.html#/">Modeling Basics with R</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/module_3_py/Module3-code-along-slides-Py.html#/title-slide">Python</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/reading.png" class="img-fluid" width="40"></td>
-<td><strong>Readings &amp;<br>
-Discussion</strong></td>
-<td><a href="https://doi.org/10.4324/9781315650722">Chapter 3: Methods Used in Learning Analytics</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/case-study.png" class="img-fluid" width="40"></td>
-<td><strong>Case Study</strong></td>
-<td><a href="https://posit.cloud/spaces/493094/content/all?sort=name_asc">Introduction to Modeling</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_R/found-lab-casestudy-keys.html">R Key</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/found-casestudy-Py-key.html">Python Key</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/law-badge-3.png" class="img-fluid" width="50"></td>
-<td><strong>Badge</strong></td>
-<td>TBD</td>
-</tr>
-</tbody>
-</table>
+<section id="laser-instructors-workspace" class="level3">
+<h3 class="anchored" data-anchor-id="laser-instructors-workspace">LASER Instructors Workspace</h3>
+<p>The LASER Instructors Workspaceis where instructors can customize and adapt the curriculum materials you plan to use for your own webinar, workshop or course.</p>
+<p>To access this workspace, use the following link: <a href="http://go.ncsu.edu/laser-instructors">go.ncsu.edu/laser-instructors</a></p>
 </section>
-<section id="module-4-data-products" class="level2">
-<h2 class="anchored" data-anchor-id="module-4-data-products">Module 4: Data Products</h2>
-<p>In Module 4, scholars will learn to communicate their analytical findings effectively, focusing on creating publication-ready products and considering ethical aspects of data presentation. They will be introduced to strategies for engaging education stakeholders through compelling data storytelling, ensuring the message is clear and accessible. The course also delves into the preparation of various communication mediums using tools like R Markdown and Flexdashboard to model and communicate insights. Additionally, this module emphasizes the importance of addressing ethical considerations such as data privacy, bias, and inclusive practices to ensure responsible use of data in educational settings. This framework prepares scholars to craft their messages thoughtfully, considering both their audience and the ethical dimensions of data use. The Communication badge provides an opportunity to show your skills using case study data or your choice of data to develop a dashboard using the skills you learned in this module.</p>
-<table class="table">
-<tbody>
-<tr class="odd">
-<td><img src="images/presentation.png" class="img-fluid" width="40"></td>
-<td><strong>Conceptual<br>
-Overview</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_4/module-4-conceptual-slides.html#/">Communicating with Stakeholder</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/code-along.png" class="img-fluid" width="40"></td>
-<td><strong>Code Along</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_4/Module4-code-along-R.html#/">Data Products with R</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/module_4_py/module4-code-along-Py.html#/title-slide">Python</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/reading.png" class="img-fluid" width="40"></td>
-<td><strong>Readings &amp;<br>
-Discussion</strong></td>
-<td><a href="https://doi.org/10.4324/9781315650722">Chapter 7: Five Phases of Data-Intensive Improvement</a></td>
-</tr>
-<tr class="even">
-<td><img src="images/case-study.png" class="img-fluid" width="40"></td>
-<td><strong>Case Study</strong></td>
-<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Building a Basic Data Dashboard</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_R/found-lab-casestudy-keys.html">R Key</a> | <a href="https://laser-institute.github.io/la-workflow/Foundation_Py/found-casestudy-Py-key.html">Python Key</a></td>
-</tr>
-<tr class="odd">
-<td><img src="images/law-badge-4.png" class="img-fluid" width="50"></td>
-<td><strong>Badge</strong></td>
-<td><a href="https://laser-institute.github.io/la-workflow/Foundation_R/module_4/Module4-badge-R-KEY.html">Data Products</a></td>
-</tr>
-</tbody>
-</table>
+<section id="posit-recipes-cheat-sheets" class="level3">
+<h3 class="anchored" data-anchor-id="posit-recipes-cheat-sheets">Posit Recipes &amp; Cheat Sheets</h3>
+<p>For R users, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, <a href="https://posit.cloud/learn/recipes">Posit Recipes</a> provide a collection of R code snippets and instructions featuring up-to-date best practices for coding in R. <a href="https://posit.co/resources/cheatsheets">Posit Cheat Sheets</a> also provide handy printable reference sheets to commonly used packages and their essential functions, including example code for testing them out.&nbsp;</p>
 </section>
-<section id="microcredential" class="level2">
-<h2 class="anchored" data-anchor-id="microcredential">Microcredential</h2>
-<p>The culminating activity for the LAW Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your LAW Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.</p>
-<table class="table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 27%">
-<col style="width: 21%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><img src="images/law-micro.png" class="img-fluid" width="50"></td>
-<td><strong>Microcredential</strong></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 </section>
-<section id="references" class="level2">
-
-
+<section id="quarto" class="level2">
+<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
+<p><img src="images/quarto.png" class="img-fluid" style="width:25.0%"></p>
+<p><a href="https://quarto.org/">Quarto</a> is an open-source scientific and technical publishing system used for creating reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more. Quarto can be used with R, Python, and other programming languages and is used extensively throughout the institute. All LASER Institute instructional materials, including this website, are created with Quarto.</p>
+<p><a href="https://quartopub.com">Quarto Pub</a> is a free and easy web publishing platform for Quarto docs. To publish the documents via Quarto Pub, however, you will first need to create an account.</p>
+<p>To create a Quarto Pub account, sign up here: <a href="https://quartopub.com/sign-up" class="uri">https://quartopub.com/sign-up</a></p>
+<p><strong>Note</strong>: If you are using RStudio Desktop, you may need to download and install Quarto here: <a href="https://quarto.org/docs/get-started/" class="uri">https://quarto.org/docs/get-started/</a></p>
+</section>
+<section id="rstudio-ide" class="level2">
+<h2 class="anchored" data-anchor-id="rstudio-ide">RStudio IDE</h2>
+<p><img src="images/rstudio.png" class="img-fluid" style="width:25.0%"></p>
+<p><a href="https://posit.co/products/open-source/rstudio">RStudio Desktop</a> is a free desktop application of the RStudio Integrated Developer Environment (IDE) that runs on Windows, MacOS or Linux. Its advantages over Posit Cloud include offline access, full control over the local environment, customization options, data privacy and security, and the ability to leverage the full resources of your local machine, such as CPU, memory, and storage. While we will be using RStudio through Posit Cloud for the LASER Institute, we recommend shifting to RStudio Desktop for your own research.&nbsp;</p>
+<p>Though we will primarily use Posit Cloud for data analysis activities using R or Python, you are welcome to adapt and complete these activities using a Integrated Developer Environment (IDE) of your preference such as <a href="https://jupyter.org/">Jupyter Labs</a>, <a href="https://visualstudio.microsoft.com/">Visual Studio</a>, <a href="https://colab.research.google.com/">Google Collab</a>, or <a href="https://www.jetbrains.com/pycharm/">PyCharm</a>. Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.</p>
+</section>
+<section id="slack" class="level2">
+<h2 class="anchored" data-anchor-id="slack">Slack</h2>
+<p><img src="images/slack.png" class="img-fluid" style="width:20.0%"></p>
+<p>Throughout the year, we provide ongoing asynchronous support and communication through Slack (<a href="http://slack.com/">http://slack.com</a>), a web-based app that allows for text messaging, voice and video calls, and media and file sharing either in private chats or as part of communities called “workspaces.” Slack runs on Web, Windows, Linux, MacOS, Android, Windows Phone and iOS.</p>
+<p>To join our LASER Institute workspace on Slack, create an account and visit: <a href="https://go.ncsu.edu/laser-slack" class="uri">https://go.ncsu.edu/laser-slack</a>.</p>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-krumm2018" class="csl-entry" role="listitem">
-Krumm, Andrew, Barbara Means, and Marie Bienkowski. 2018. <em>Learning Analytics Goes to School</em>. Routledge. <a href="https://doi.org/10.4324/9781315650722">https://doi.org/10.4324/9781315650722</a>.
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1057,14 +911,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./curriculum-orientation.html" class="pagination-link" aria-label="LASER Orientation">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">LASER Orientation</span>
+      <a href="./instruction-format.html" class="pagination-link" aria-label="Example Formats">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Example Formats</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./curriculum-network-analysis.html" class="pagination-link" aria-label="Social Network Analysis">
-        <span class="nav-page-text">Social Network Analysis</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -1075,7 +926,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/curriculum-la-workflow.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/instruction-tech.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">

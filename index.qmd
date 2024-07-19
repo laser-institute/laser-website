@@ -8,7 +8,7 @@ The Learning Analytics in STEM Education Research (LASER) Institute is a year-lo
 
 This website contains all the materials needed to teach with, and learn from, the LASER Institute's instructional materials. The website is organized into three sections:
 
--   **Institute**. The Institute section provides an overview of the program, including the LASER Insitute's goals and objectives, program components, design principles, curriculum topics, and the types of instructional activities.
+-   **Institute**. The Institute section provides an overview of the program, including the LASER Insitute's goals and objectives, in-person summer workshop and online learning components, and the design of curriculum modules and instruction activities.
 
 -   **Curriculum**. The curriculum section includes everything you need learn with LASER and is organized by research methods taught by the project team. Each method area consists of four instructional modules consisting of slide decks, essential readings, discussion questions, code-alongs, case studies, and assessment activities.
 

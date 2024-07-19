@@ -16,9 +16,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: institute-goals.qmd
+      - href: institute-la.qmd
         text: Institute  
-      - href: curriculum-design.qmd
+      - href: curriculum-orientation.qmd
         text: Curriculum
       - href: instruction-intro.qmd
         text: Instruction
@@ -52,6 +52,7 @@ website:
       contents:
         - instruction-intro.qmd
         - instruction-format.qmd
+        - instruction-tech.qmd
     
 
   page-footer:

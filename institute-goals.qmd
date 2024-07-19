@@ -1,53 +1,35 @@
 ---
-title: "Goals and Objectives"
+title: "Program Goals"
 ---
 
-The LASER Institute is a year-long professional development program for early- and mid-career researchers consisting of two core components:
+The LASER Institute is a year-long professional development program for early- and mid-career researchers that aims to build their capacity for leveraging new data sources and applying computational research methods to support their existing research. The overarching goal of the LASER Institute and associated curriculum materials is to build the capacity of participating scholars in three core areas:
 
-1.  **Summer Workshop**: An intensive 5-day program consisting of learning labs, guest speakers, planning sessions, and community-building activities.
+1.  **Disciplinary Knowledge**. Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.
 
-2.  **Online Community**: An online community of practice for ongoing networking and support throughout the year.
-
-## Program Goals
-
-The primary goal of the LASER Institute is to increase the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To accomplish this goal, participants in the LASER Institute will:
-
-1.  **Learn** from knowledgeable instructors with deep expertise in Learning Analytics and associated research methods.
-
-2.  **Teach** colleagues or students at their home institutions using curriculum materials developed for the LASER Institute.
-
-## Curriuclum Goals 
-
-The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.
-
-The LASER Institute and associated curriculum materials shared on this website are designed to build the capacity of participating scholars in three core areas:
-
-1.  **Disciplinary Knowledge**: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.
-
-2.  **Technical Skills**: Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.
+2.  **Technical Skills** Scholars will develop proficiency with R/Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analysis.
 
 3.  **Social Capital**: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education.
 
 ## Learning Objectives
 
-The LASER curriculum is designed to help faculty teach current and emerging STEM education researchers to:
+The LASER curriculum is intentionally designed and carefully scaffolded to help current and future educational researchers in to:
 
--   Understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;
+-   **Formulate Research Questions**. Learners will understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;
 
--   Identify relevant sources of education data to address both theoretical and practical issues in STEM education;
+-   **Leverage Digital Data**. Learners will be able to identify relevant sources of education data to address both theoretical and practical issues in STEM education;
 
--   Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;
+-   **Apply Computational Methods**. Learner will understand how LA techniques can be applied in STEM context and Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;
 
--   Evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;
+-   **Evaluate their Research**. Learners will be able to evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;
 
--   Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.
+-   **Collaborate with Practitioners**. Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.
 
-## Institute Activities
+## Broadening Impacts
 
-To help accomplish these goals and objectives, LASER BEAM aims to build on prior efforts and scale them to a much greater degree by through the following activites:
+Through renewed funding from the National Science Foundation ([DRL-2321128](#0), and [DRL-2321129](#0)), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:
 
-1.  **Develop a modular curriculum adaptable to instructors’ needs.** LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.
+1.  **Module Development.** LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.
 
-2.  **Prepare faculty to learn from and teach with LASER curriculum resources.** Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these componetns are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.
+2.  **Train the Trainer.** Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these components are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.
 
-3.  **Broaden educational opportunities in advanced methods.** Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.
+3.  **Teach it Forward.** Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.
