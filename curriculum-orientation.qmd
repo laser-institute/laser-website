@@ -7,11 +7,13 @@ bibliography: lit/references.bib
 
 Instructional materials for the LASER Orientation and other modules are linked below and come in three main flavors:
 
-1.  [**GitHub**](https://github.com/laser-institute) and associated repositories are where the all the raw materials for each module are saved and accessible to the public. Instructors are welcome to fork or clone this repository and adapt for their own purposes.
+1.  [GitHub](https://github.com/laser-institute) and associated repositories are where the all the raw materials for each module are saved and accessible to the public. Instructors are welcome to fork or clone this repository and adapt for their own purposes.
 
-2.  [**Posit Cloud**](https://posit.cloud) and accompanying workspaces are where students complete interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials.
+2.  [Posit Cloud](https://posit.cloud) and accompanying workspaces are where students complete interactive coding assignments including Code-Alongs, Case Studies, Badges and Microcredentials.
 
-3.  [**Github Pages**](https://pages.github.com) is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.
+3.  [Github Pages](https://pages.github.com) is used to create HTML versions of each activity (or previews of activities like Case Studies and Badges) and are linked under each module description below.
+
+To learn more about the suite of tools used for the design and delivery of instructional activities, visit the [LASER Toolkit](https://laser-institute.github.io/laser-website/instruction-tech.html) page.
 
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 | ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/network-analysis)                                     |

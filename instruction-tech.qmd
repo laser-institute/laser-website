@@ -16,7 +16,7 @@ Create a free GitHub account at: <https://github.com/signup>.
 
 ## Posit Cloud
 
-![](images/posit.png){width="25%"}
+![](images/posit-logo.png){width="25%"}
 
 The LASER Institute makes extensive use of, and highly recommends, [Posit Cloud](https://posit.co/products/cloud/cloud/) for our LASER Learning modules. Posit Cloud lets you access Posit’s powerful set of data science tools, right in your browser with no installation or complex configuration required.
 
