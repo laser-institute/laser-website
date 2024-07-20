@@ -1,97 +1,94 @@
 ---
-title: "Machine Learning"
-bibliography: lit/references.bib
+title: "Supervised Machine Learning"
 ---
 
 ![](images/ml-micro.png){width="20%"}
 
-Introduction...
+Machine learning is increasingly prevalent in our lives---and in educational contexts. Its role in educational research and practice is growing, albeit with some challenges and even controversy. These modules are designed to familiarize you with supervised machine learning (SML) and its applications in STEM education research. Throughout the module, we'll explore four key questions that correspond to the focus of each of the four modules. By the end, you will have a deep understanding of the key characteristics of supervised machine learning and how to implement supervised machine learning workflows in R and Python.
 
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/text-mining)                                          |
-|                                    | **              |                                                                                                                       |
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Students](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
++------------------------------------+-----------------+----------------------------------------------------------------------------------------------+
+| ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/supervised-machine-learning) |
+|                                    | **              |                                                                                              |
++------------------------------------+-----------------+----------------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Students](https://posit.cloud/spaces/493094/content/8451788)                  |
++------------------------------------+-----------------+----------------------------------------------------------------------------------------------+
 
-## Module 1: NAME
+## Module 1: Supervised Machine Learning Foundations
 
-Module 1 overview...
+How is prediction different from explanation? This lab provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).
 
-+-------------------------------------------------+----------------+---------------------------------------+
-| ![](images/conceptual-overview.png){width="40"} | **Conceptual\  |                                       |
-|                                                 | Overview**     |                                       |
-+-------------------------------------------------+----------------+---------------------------------------+
-| ![](images/code-along.png){width="40"}          | **Code Along** |                                       |
-+-------------------------------------------------+----------------+---------------------------------------+
-| ![](images/reading.png){width="40"}             | **Readings &\  |                                       |
-|                                                 | Reflection**   |                                       |
-+-------------------------------------------------+----------------+---------------------------------------+
-| ![](images/case-study.png){width="40"}          | **Case Study** |                                       |
-+-------------------------------------------------+----------------+---------------------------------------+
-| ![](images/ml-badge-1.png){width="45"}          | **Badge**      |                                       |
-+-------------------------------------------------+----------------+---------------------------------------+
++-------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Conceptual\      | [What is Supervised Machine Learning?](https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-conceptual-overview.html#/title-slide) |
+|                                                 | Overview**         |                                                                                                                                                            |
++-------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}          | **Code Along**     | [Same Model, Different Analytic Goals](https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-code-along.html)                       |
++-------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}             | **Readings &\      | [Considering Models for Inference and Models for Prediction](https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-readings.html)   |
+|                                                 | Reflection**       |                                                                                                                                                            |
++-------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study Key** | [Explaining or Predicting Graduation Rates Using IPEDS](https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-case-study-key.html)  |
++-------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/ml-badge-1.png){width="45"}          | **Badge**          | [Initial Interpretations of a Model's Predictions](https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-badge.html)                |
++-------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-## Module 2: NAME
+## Module 2: Workflows With Training and Testing Data
 
-Module 2 overview...
+Building on the foundations from Lab 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we'll explore the roles of training and testing data and when to use them in a SML workflow. We'll predict students' withdrawal from a course using the Open University Learning Analytics Dataset (OULAD).
 
-+------------------------------------------+----------------+----------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
-|                                          | Overview**     |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  |                |
-|                                          | Reflection**   |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/ml-badge-2.png){width="45"}   | **Badge**      |                |
-+------------------------------------------+----------------+----------------+
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Using Training and Testing Data in a Workflow](https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-conceptual-overview.html#/title-slide) |
+|                                          | Overview**     |                                                                                                                                                                     |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | [How to Split Data into Training and Testing Sets](https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-code-along.html)                    |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [What Makes Supervised Machine Learning Distinct](https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-readings.html)                       |
+|                                          | Reflection**   |                                                                                                                                                                     |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [Who Drops Online Courses? An Analysis Using the OULAD](https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-case-study-key.html)           |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/ml-badge-2.png){width="45"}   | **Badge**      | [Adding Additional Predictors to Improve Accuracy](https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-badge.html)                         |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-## Module 3: NAME
+## Module 3: Interpreting Metrics
 
-Module 3 overview...
+How is the interpretation of SML models different from more familiar models? In this lab, we'll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We'll again use the OULAD, augmenting the variables we used in Lab 1, and we'll introduce a more complex model---the random forest model---as an alternative to the regression models used in previous labs.
 
-+------------------------------------------+----------------+----------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
-|                                          | Overview**     |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  |                |
-|                                          | Discussion**   |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/ml-badge-3.png){width="45"}   | **Badge**      |                |
-+------------------------------------------+----------------+----------------+
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [How Good is Our Model, Really?](https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-conceptual-overview.html#/title-slide) |
+|                                          | Overview**     |                                                                                                                                                      |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | [Adding Classification Metrics to a Workflow](https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-code-along.html)          |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Considering Many Metrics](https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-readings.html)                               |
+|                                          | Discussion**   |                                                                                                                                                      |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [Beyond Accuracy: How to Calculate Metrics](https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-case-study-key.html)        |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/ml-badge-3.png){width="45"}   | **Badge**      | [Metrics for Continuous Outcome Variables](https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-badge.html)                  |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-## Module 4: NAME
+## Module 4: Improving Predictions Through Feature Engineering
 
-Module 4 overview...
+How can we improve our predictions? This lab introduces the concept of feature engineering to enhance model performance. We'll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We'll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps.
 
-+------------------------------------------+----------------+----------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
-|                                          | Overview**     |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  |                |
-|                                          | Discussion**   |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/ml-badge-4.png){width="45"}   | **Badge**      |                |
-+------------------------------------------+----------------+----------------+
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Making Better Predictions with Random Forests](https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-conceptual-overview.html#/title-slide) |
+|                                          | Overview**     |                                                                                                                                                                     |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | [How to Cross-Validate and Change the Model](https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-code-along.html)                          |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Diving Deep on Features and Feature Engineering](https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-readings.html)                       |
+|                                          | Discussion**   |                                                                                                                                                                     |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [Modeling Interactions Data with Random Forest](https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-case-study-key.html)                   |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/ml-badge-4.png){width="45"}   | **Badge**      | [Feature Engineering Activity Types](https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-badge.html)                                       |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Microcredential
 
-The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
+To earn the SML micro-credential, you will carry out an SML analysis using data of your choosing and report the results in a Quarto document. Emphasize *why* you are using SML (relative to regression or another approach) and use feature engineering and cross-validation to refine your model. Lastly, interpret your model carefully by going beyond reporting accuracy to report the specific metrics for the strength of your SML model's predictions, given the particular aims of your analysis.
 
-+--------------------------------------+---------------------+-----------------+
-| ![](images/ml-micro.png){width="45"} | **Microcredential** |                 |
-+--------------------------------------+---------------------+-----------------+
-
-## References
+|                                      |                     |                                                                                                                                                       |
+|--------------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](images/ml-micro.png){width="45"} | **Microcredential** | [Supervised Machine Learning Microcredential](https://laser-institute.github.io/supervised-machine-learning/microcredential/sml-microcredential.html) |
