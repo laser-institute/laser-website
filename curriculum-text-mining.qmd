@@ -22,82 +22,82 @@ The transition to digital learning has made available new sources of data, provi
 
 ## Module 1: Tidy Text & Word Counts (TM Basics)
 
-This module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers' experiences in professional development. Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
+This module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers' experiences in professional development [@kellogg2012race]. Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
-+-------------------------------------------------+----------------+-------------------+
-| ![](images/conceptual-overview.png){width="40"} | **Conceptual\  |                   |
-|                                                 | Overview**     |                   |
-+-------------------------------------------------+----------------+-------------------+
-| ![](images/code-along.png){width="40"}          | **Code Along** |                   |
-+-------------------------------------------------+----------------+-------------------+
-| ![](images/reading.png){width="40"}             | **Readings &\  |                   |
-|                                                 | Reflection**   |                   |
-+-------------------------------------------------+----------------+-------------------+
-| ![](images/case-study.png){width="40"}          | **Case Study** |                   |
-+-------------------------------------------------+----------------+-------------------+
-| ![](images/tm-badge-1.png){width="40"}          | **Badge**      |                   |
-+-------------------------------------------------+----------------+-------------------+
++-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Conceptual\  | [Text Mining Basics](https://laser-institute.github.io//text-mining/lab-1/slides/lab-1-slides.html)                                                   |
+|                                                 | Overview**     |                                                                                                                                                       |
++-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}          | **Code Along** | [Turning Texts into Numbers](https://laser-institute.github.io//text-mining/lab-1/lab-1-code-along-python.html)                                       |
++-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}             | **Readings &\  | [What is Text Mining?](https://laser-institute.github.io//text-mining/lab-1/lab-1-readings.html)                                                      |
+|                                                 | Reflection**   |                                                                                                                                                       |
++-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study** | [What do Teachers Find Most Valuable in Online Professional Development?](https://laser-institute.github.io//text-mining/lab-1/lab-1-case-study.html) |
++-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/tm-badge-1.png){width="40"}          | **Badge**      | [Text Mining Basics Badge](https://laser-institute.github.io//text-mining/lab-1/tm-lab-1-badge.html)                                                  |
++-------------------------------------------------+----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 2: Public Sentiment and School Reform (Dictionary Methods)
 
-This module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people's opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? investigates the public sentiment expressed toward the Next Generation Science Standards (NGSS) and compares the sentiment for NGSS and Common Core State Standards using X (twitter) data. This study by @rosenberg2021understanding can be found at <https://osf.io/xymsd/>. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
+This module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people's opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of @rosenberg2021understanding and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
-+------------------------------------------+----------------+----------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
-|                                          | Overview**     |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  |                |
-|                                          | Reflection**   |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/tm-badge-2.png){width="40"}   | **Badge**      |                |
-+------------------------------------------+----------------+----------------+
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Sentiment Analysis](https://laser-institute.github.io//text-mining/lab-2/slides/lab-2-slides.html)                                    |
+|                                          | Overview**     |                                                                                                                                        |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | [Choosing the Right Lexicon for Sentiment Analysis](https://laser-institute.github.io//text-mining/lab-2/lab-2-code-along-python.html) |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Dictionary-Based Methods](https://laser-institute.github.io//text-mining/lab-2/lab-2-readings.html)                                   |
+|                                          | Reflection**   |                                                                                                                                        |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [Do the Public Like NGSS?](https://laser-institute.github.io//text-mining/lab-2/lab-2-case-study.html)                                 |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/tm-badge-2.png){width="40"}   | **Badge**      | [Sentiment Analysis Badge](https://laser-institute.github.io//text-mining/lab-2/tm-lab-2-badge.html)                                   |
++------------------------------------------+----------------+----------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 3: Large Language Models for Qualitative Analysis
 
 This module wraps up our work with text mining and examines recent advances in using large language models to code qualitative data (i.e., interview transcripts, group discussions, and open-ended responses). Through our essential readings, we'll learn about this technique. Our Text Mining Case Study: What are high school students’ machine learning literacy before and after participating in an AI curriculum? is inspired by the need to assess machine learning literacy and use automated assessment for real-time intervention in the field of AI education. Finally, the Large Language Model Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
-+------------------------------------------+----------------+----------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
-|                                          | Overview**     |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  |                |
-|                                          | Discussion**   |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/tm-badge-3.png){width="40"}   | **Badge**      |                |
-+------------------------------------------+----------------+----------------+
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Large Language Models](https://laser-institute.github.io//text-mining/lab-3/lab-3-conceptual-overview-python.html)                            |
+|                                          | Overview**     |                                                                                                                                                |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | [In-Context Learning](https://laser-institute.github.io//text-mining/lab-3/lab-3-code-along-python.html)                                       |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [LLM for Qualitative Analysis](https://laser-institute.github.io//text-mining/lab-3/lab-3-readings.html)                                       |
+|                                          | Discussion**   |                                                                                                                                                |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [What are High School Students’ Machine Learning Literacy?](https://laser-institute.github.io//text-mining/lab-3/lab-3-case-study-python.html) |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/tm-badge-3.png){width="40"}   | **Badge**      | [Large Language Models Badge](https://laser-institute.github.io//text-mining/lab-3/lab-3-badge-python.html)                                    |
++------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Module 4: Topic Modeling in MOOC-Eds
 
-This module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course. You can learn more about the work here (<https://www.learntechlib.org/p/195234/>). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
+This module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course [@akoglu2019participating]. Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
-+------------------------------------------+----------------+----------------+
-| ![](images/presentation.png){width="40"} | **Conceptual\  |                |
-|                                          | Overview**     |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/reading.png){width="40"}      | **Readings &\  |                |
-|                                          | Discussion**   |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/case-study.png){width="40"}   | **Case Study** |                |
-+------------------------------------------+----------------+----------------+
-| ![](images/tm-badge-4.png){width="40"}   | **Badge**      |                |
-+------------------------------------------+----------------+----------------+
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------+
+| ![](images/presentation.png){width="40"} | **Conceptual\  | [Topic Modeling ](https://laser-institute.github.io//text-mining/lab-4/lab-4-slides.html)                                 |
+|                                          | Overview**     |                                                                                                                           |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}   | **Code Along** | [Latent Dirichlet Allocation](https://laser-institute.github.io//text-mining/lab-4/lab-4-code-along-python.html)          |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}      | **Readings &\  | [Introduction to Topic Modeling](https://laser-institute.github.io//text-mining/lab-4/lab-4-readings.html)                |
+|                                          | Discussion**   |                                                                                                                           |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}   | **Case Study** | [What are Participants Discussing in Forums?](https://laser-institute.github.io//text-mining/lab-4/lab-4-case-study.html) |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------+
+| ![](images/tm-badge-4.png){width="40"}   | **Badge**      | [Topic Modeling Badge](https://laser-institute.github.io//text-mining/lab-4/tm-lab-4-badge.html)                          |
++------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------+
 
 ## Microcredential
 
 The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
-+--------------------------------------+---------------------+-----------------+
-| ![](images/tm-micro.png){width="40"} | **Microcredential** |                 |
-+--------------------------------------+---------------------+-----------------+
++--------------------------------------+---------------------+-----------------------------------------------------------------------------------------------------------------------------+
+| ![](images/tm-micro.png){width="40"} | **Microcredential** | [Text Mining in Education](https://laser-institute.github.io//text-mining/tm-microcredential/tm-microcredential-badge.html) |
++--------------------------------------+---------------------+-----------------------------------------------------------------------------------------------------------------------------+
 
 ## References

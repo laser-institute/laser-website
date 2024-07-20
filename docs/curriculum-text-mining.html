@@ -50,7 +50,7 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./curriculum-machine-learning.html" rel="next">
+<link href="./curriculum-knowledge-tracing.html" rel="next">
 <link href="./curriculum-network-analysis.html" rel="prev">
 <link href="./images/laser-icon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -130,11 +130,11 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./institute-goals.html" aria-current="page"> 
+    <a class="nav-link active" href="./institute-la.html" aria-current="page"> 
 <span class="menu-text">Institute</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum-design.html"> 
+    <a class="nav-link" href="./curriculum-orientation.html"> 
 <span class="menu-text">Curriculum</span></a>
   </li>  
   <li class="nav-item">
@@ -203,7 +203,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./institute-goals.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Goals and Objectives</span></a>
+ <span class="menu-text">Program Goals</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -244,7 +244,13 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./curriculum-la-workflow.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Learning Analtyics Workflow</span></a>
+ <span class="menu-text">Learning Analytics Workflow</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./curriculum-machine-learning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Supervised Machine Learning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -257,12 +263,6 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
   <div class="sidebar-item-container"> 
   <a href="./curriculum-text-mining.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Text Mining</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./curriculum-machine-learning.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Machine Learning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -291,7 +291,13 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./instruction-format.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Instructional Formats</span></a>
+ <span class="menu-text">Example Formats</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./instruction-tech.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">LASER Toolkit</span></a>
   </div>
 </li>
       </ul>
@@ -363,80 +369,70 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 </table>
 <section id="module-1-tidy-text-word-counts-tm-basics" class="level2">
 <h2 class="anchored" data-anchor-id="module-1-tidy-text-word-counts-tm-basics">Module 1: Tidy Text &amp; Word Counts (TM Basics)</h2>
-<p>This module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers’ experiences in professional development. Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.</p>
+<p>This module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers’ experiences in professional development <span class="citation" data-cites="kellogg2012race">(<a href="#ref-kellogg2012race" role="doc-biblioref">Kellogg et al. 2012</a>)</span>. Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.</p>
 <table class="table">
-<colgroup>
-<col style="width: 56%">
-<col style="width: 19%">
-<col style="width: 22%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/conceptual-overview.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-1/slides/lab-1-slides.html">Text Mining Basics</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-1/lab-1-code-along-python.html">Turning Texts into Numbers</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Reflection</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-1/lab-1-readings.html">What is Text Mining?</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
 <td><strong>Case Study</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-1/lab-1-case-study.html">What do Teachers Find Most Valuable in Online Professional Development?</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/tm-badge-1.png" class="img-fluid" width="40"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-1/tm-lab-1-badge.html">Text Mining Basics Badge</a></td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="module-2-public-sentiment-and-school-reform-dictionary-methods" class="level2">
 <h2 class="anchored" data-anchor-id="module-2-public-sentiment-and-school-reform-dictionary-methods">Module 2: Public Sentiment and School Reform (Dictionary Methods)</h2>
-<p>This module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? investigates the public sentiment expressed toward the Next Generation Science Standards (NGSS) and compares the sentiment for NGSS and Common Core State Standards using X (twitter) data. This study by <span class="citation" data-cites="rosenberg2021understanding">Rosenberg et al. (<a href="#ref-rosenberg2021understanding" role="doc-biblioref">2021</a>)</span> can be found at <a href="https://osf.io/xymsd/" class="uri">https://osf.io/xymsd/</a>. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.</p>
+<p>This module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of <span class="citation" data-cites="rosenberg2021understanding">Rosenberg et al. (<a href="#ref-rosenberg2021understanding" role="doc-biblioref">2021</a>)</span> and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.</p>
 <table class="table">
-<colgroup>
-<col style="width: 55%">
-<col style="width: 21%">
-<col style="width: 21%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-2/slides/lab-2-slides.html">Sentiment Analysis</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-2/lab-2-code-along-python.html">Choosing the Right Lexicon for Sentiment Analysis</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Reflection</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-2/lab-2-readings.html">Dictionary-Based Methods</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
 <td><strong>Case Study</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-2/lab-2-case-study.html">Do the Public Like NGSS?</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/tm-badge-2.png" class="img-fluid" width="40"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-2/tm-lab-2-badge.html">Sentiment Analysis Badge</a></td>
 </tr>
 </tbody>
 </table>
@@ -445,78 +441,68 @@ Reflection</strong></td>
 <h2 class="anchored" data-anchor-id="module-3-large-language-models-for-qualitative-analysis">Module 3: Large Language Models for Qualitative Analysis</h2>
 <p>This module wraps up our work with text mining and examines recent advances in using large language models to code qualitative data (i.e., interview transcripts, group discussions, and open-ended responses). Through our essential readings, we’ll learn about this technique. Our Text Mining Case Study: What are high school students’ machine learning literacy before and after participating in an AI curriculum? is inspired by the need to assess machine learning literacy and use automated assessment for real-time intervention in the field of AI education. Finally, the Large Language Model Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.</p>
 <table class="table">
-<colgroup>
-<col style="width: 55%">
-<col style="width: 21%">
-<col style="width: 21%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-3/lab-3-conceptual-overview-python.html">Large Language Models</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-3/lab-3-code-along-python.html">In-Context Learning</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Discussion</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-3/lab-3-readings.html">LLM for Qualitative Analysis</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
 <td><strong>Case Study</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-3/lab-3-case-study-python.html">What are High School Students’ Machine Learning Literacy?</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/tm-badge-3.png" class="img-fluid" width="40"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-3/lab-3-badge-python.html">Large Language Models Badge</a></td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="module-4-topic-modeling-in-mooc-eds" class="level2">
 <h2 class="anchored" data-anchor-id="module-4-topic-modeling-in-mooc-eds">Module 4: Topic Modeling in MOOC-Eds</h2>
-<p>This module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course. You can learn more about the work here (<a href="https://www.learntechlib.org/p/195234/" class="uri">https://www.learntechlib.org/p/195234/</a>). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.</p>
+<p>This module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course <span class="citation" data-cites="akoglu2019participating">(<a href="#ref-akoglu2019participating" role="doc-biblioref">Akoglu, Lee, and Kellogg 2019</a>)</span>. Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.</p>
 <table class="table">
-<colgroup>
-<col style="width: 55%">
-<col style="width: 21%">
-<col style="width: 21%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-4/lab-4-slides.html">Topic Modeling&nbsp;</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-4/lab-4-code-along-python.html">Latent Dirichlet Allocation</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Discussion</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-4/lab-4-readings.html">Introduction to Topic Modeling</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
 <td><strong>Case Study</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-4/lab-4-case-study.html">What are Participants Discussing in Forums?</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/tm-badge-4.png" class="img-fluid" width="40"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/lab-4/tm-lab-4-badge.html">Topic Modeling Badge</a></td>
 </tr>
 </tbody>
 </table>
@@ -525,16 +511,11 @@ Discussion</strong></td>
 <h2 class="anchored" data-anchor-id="microcredential">Microcredential</h2>
 <p>The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.</p>
 <table class="table">
-<colgroup>
-<col style="width: 48%">
-<col style="width: 27%">
-<col style="width: 22%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/tm-micro.png" class="img-fluid" width="40"></td>
 <td><strong>Microcredential</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io//text-mining/tm-microcredential/tm-microcredential-badge.html">Text Mining in Education</a></td>
 </tr>
 </tbody>
 </table>
@@ -547,8 +528,14 @@ Discussion</strong></td>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-akoglu2019participating" class="csl-entry" role="listitem">
+Akoglu, Kemal, Hollylynne Lee, and Shaun Kellogg. 2019. <span>“Participating in a MOOC and Professional Learning Team: How a Blended Approach to Professional Development Makes a Difference.”</span> <em>Journal of Technology and Teacher Education</em> 27 (2): 129–63.
+</div>
+<div id="ref-kellogg2012race" class="csl-entry" role="listitem">
+Kellogg, Shaun, Jenifer Corn, Sherry Booth, Adrian Good, Jennifer Maxfield, Brandy Parker, Sara Pilzer, and Jennifer Tagsold. 2012. <span>“Race to the Top Online Professional Development Evaluation.”</span> <a href="https://www-data.fi.ncsu.edu/wp-content/uploads/2021/10/28134953/Race-to-the-Top-Online-Professional-Development-Evaluation-Year-1-Report.pdf">https://www-data.fi.ncsu.edu/wp-content/uploads/2021/10/28134953/Race-to-the-Top-Online-Professional-Development-Evaluation-Year-1-Report.pdf</a>.
+</div>
 <div id="ref-rosenberg2021understanding" class="csl-entry" role="listitem">
-Rosenberg, Joshua M, Conrad Borchers, Elizabeth B Dyer, Daniel Anderson, and Christian Fischer. 2021. <span>“Understanding Public Sentiment about Educational Reforms: The Next Generation Science Standards on Twitter.”</span> <em>AERA Open</em> 7: 23328584211024261.
+Rosenberg, Joshua M, Conrad Borchers, Elizabeth B Dyer, Daniel Anderson, and Christian Fischer. 2021. <span>“Understanding Public Sentiment about Educational Reforms: The Next Generation Science Standards on Twitter.”</span> <em>AERA Open</em> 7: 23328584211024261. <a href="https://osf.io/xymsd/">https://osf.io/xymsd/</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1089,8 +1076,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./curriculum-machine-learning.html" class="pagination-link" aria-label="Machine Learning">
-        <span class="nav-page-text">Machine Learning</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./curriculum-knowledge-tracing.html" class="pagination-link" aria-label="Knowledge Tracing">
+        <span class="nav-page-text">Knowledge Tracing</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

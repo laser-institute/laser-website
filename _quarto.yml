@@ -44,9 +44,9 @@ website:
       contents:
         - curriculum-orientation.qmd
         - curriculum-la-workflow.qmd
+        - curriculum-machine-learning.qmd
         - curriculum-network-analysis.qmd
         - curriculum-text-mining.qmd
-        - curriculum-machine-learning.qmd
         - curriculum-knowledge-tracing.qmd
     - section: "Instruction"
       contents:
