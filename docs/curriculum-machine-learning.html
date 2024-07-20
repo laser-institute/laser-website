@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>LASER - Machine Learning</title>
+<title>LASER - Supervised Machine Learning</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -110,11 +110,11 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./institute-goals.html" aria-current="page"> 
+    <a class="nav-link active" href="./institute-la.html" aria-current="page"> 
 <span class="menu-text">Institute</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum-design.html"> 
+    <a class="nav-link" href="./curriculum-orientation.html"> 
 <span class="menu-text">Curriculum</span></a>
   </li>  
   <li class="nav-item">
@@ -145,7 +145,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./curriculum-orientation.html">Curriculum</a></li><li class="breadcrumb-item"><a href="./curriculum-machine-learning.html">Machine Learning</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./curriculum-orientation.html">Curriculum</a></li><li class="breadcrumb-item"><a href="./curriculum-machine-learning.html">Supervised Machine Learning</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -183,7 +183,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./institute-goals.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Goals and Objectives</span></a>
+ <span class="menu-text">Program Goals</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -224,7 +224,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./curriculum-la-workflow.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Learning Analtyics Workflow</span></a>
+ <span class="menu-text">Learning Analytics Workflow</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -242,7 +242,7 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./curriculum-machine-learning.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Machine Learning</span></a>
+ <span class="menu-text">Supervised Machine Learning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -271,7 +271,13 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./instruction-format.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Instructional Formats</span></a>
+ <span class="menu-text">Example Formats</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./instruction-tech.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">LASER Toolkit</span></a>
   </div>
 </li>
       </ul>
@@ -286,21 +292,20 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#module-1-name" id="toc-module-1-name" class="nav-link active" data-scroll-target="#module-1-name">Module 1: NAME</a></li>
-  <li><a href="#module-2-name" id="toc-module-2-name" class="nav-link" data-scroll-target="#module-2-name">Module 2: NAME</a></li>
-  <li><a href="#module-3-name" id="toc-module-3-name" class="nav-link" data-scroll-target="#module-3-name">Module 3: NAME</a></li>
-  <li><a href="#module-4-name" id="toc-module-4-name" class="nav-link" data-scroll-target="#module-4-name">Module 4: NAME</a></li>
+  <li><a href="#module-1-supervised-machine-learning-foundations" id="toc-module-1-supervised-machine-learning-foundations" class="nav-link active" data-scroll-target="#module-1-supervised-machine-learning-foundations">Module 1: Supervised Machine Learning Foundations</a></li>
+  <li><a href="#module-2-workflows-with-training-and-testing-data" id="toc-module-2-workflows-with-training-and-testing-data" class="nav-link" data-scroll-target="#module-2-workflows-with-training-and-testing-data">Module 2: Workflows With Training and Testing Data</a></li>
+  <li><a href="#module-3-interpreting-metrics" id="toc-module-3-interpreting-metrics" class="nav-link" data-scroll-target="#module-3-interpreting-metrics">Module 3: Interpreting Metrics</a></li>
+  <li><a href="#module-4-improving-predictions-through-feature-engineering" id="toc-module-4-improving-predictions-through-feature-engineering" class="nav-link" data-scroll-target="#module-4-improving-predictions-through-feature-engineering">Module 4: Improving Predictions Through Feature Engineering</a></li>
   <li><a href="#microcredential" id="toc-microcredential" class="nav-link" data-scroll-target="#microcredential">Microcredential</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/curriculum-machine-learning.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./curriculum-orientation.html">Curriculum</a></li><li class="breadcrumb-item"><a href="./curriculum-machine-learning.html">Machine Learning</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./curriculum-orientation.html">Curriculum</a></li><li class="breadcrumb-item"><a href="./curriculum-machine-learning.html">Supervised Machine Learning</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Machine Learning</h1>
+<h1 class="title">Supervised Machine Learning</h1>
 </div>
 
 
@@ -318,202 +323,174 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 
 
 <p><img src="images/ml-micro.png" class="img-fluid" style="width:20.0%"></p>
-<p>Introduction…</p>
+<p>Machine learning is increasingly prevalent in our lives—and in educational contexts. Its role in educational research and practice is growing, albeit with some challenges and even controversy. These modules are designed to familiarize you with supervised machine learning (SML) and its applications in STEM education research. Throughout the module, we’ll explore four key questions that correspond to the focus of each of the four modules. By the end, you will have a deep understanding of the key characteristics of supervised machine learning and how to implement supervised machine learning workflows in R and Python.</p>
 <table class="table">
 <tbody>
 <tr class="odd">
 <td><img src="images/github.png" class="img-fluid" width="40"></td>
 <td><strong>Github<br>
 </strong></td>
-<td><a href="https://github.com/laser-institute/text-mining">Repository for Instructors</a></td>
+<td><a href="https://github.com/laser-institute/supervised-machine-learning">Repository for LASER Instructors</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/posit.png" class="img-fluid" width="40"></td>
 <td><strong>Posit Cloud</strong></td>
-<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Workspace for Students</a></td>
+<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Workspace for LASER Learners</a></td>
 </tr>
 </tbody>
 </table>
-<section id="module-1-name" class="level2">
-<h2 class="anchored" data-anchor-id="module-1-name">Module 1: NAME</h2>
-<p>Module 1 overview…</p>
+<section id="module-1-supervised-machine-learning-foundations" class="level2">
+<h2 class="anchored" data-anchor-id="module-1-supervised-machine-learning-foundations">Module 1: Supervised Machine Learning Foundations</h2>
+<p>How is prediction different from explanation? This lab provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).</p>
 <table class="table">
-<colgroup>
-<col style="width: 46%">
-<col style="width: 15%">
-<col style="width: 37%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/conceptual-overview.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-conceptual-overview.html#/title-slide">What is Supervised Machine Learning?</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-code-along.html">Same Model, Different Analytic Goals</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Reflection</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-readings.html">Considering Models for Inference and Models for Prediction</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
-<td><strong>Case Study</strong></td>
-<td></td>
+<td><strong>Case Study Key</strong></td>
+<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Explaining or Predicting Graduation Rates Using IPEDS</a> | <a href="https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-case-study-key.html">Answer Key</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/ml-badge-1.png" class="img-fluid" width="45"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-1/sml-1-badge.html">Initial Interpretations of a Model’s Predictions</a></td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="module-2-name" class="level2">
-<h2 class="anchored" data-anchor-id="module-2-name">Module 2: NAME</h2>
-<p>Module 2 overview…</p>
+<section id="module-2-workflows-with-training-and-testing-data" class="level2">
+<h2 class="anchored" data-anchor-id="module-2-workflows-with-training-and-testing-data">Module 2: Workflows With Training and Testing Data</h2>
+<p>Building on the foundations from Lab 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course using the Open University Learning Analytics Dataset (OULAD).</p>
 <table class="table">
-<colgroup>
-<col style="width: 55%">
-<col style="width: 21%">
-<col style="width: 21%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-conceptual-overview.html#/title-slide">Using Training and Testing Data in a Workflow</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-code-along.html">How to Split Data into Training and Testing Sets</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Reflection</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-readings.html">What Makes Supervised Machine Learning Distinct</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
 <td><strong>Case Study</strong></td>
-<td></td>
+<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Who Drops Online Courses? An Analysis Using the OULAD</a> | <a href="https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-case-study-key.html">Answer Key</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/ml-badge-2.png" class="img-fluid" width="45"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-2/sml-2-badge.html">Adding Additional Predictors to Improve Accuracy</a></td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="module-3-name" class="level2">
-<h2 class="anchored" data-anchor-id="module-3-name">Module 3: NAME</h2>
-<p>Module 3 overview…</p>
+<section id="module-3-interpreting-metrics" class="level2">
+<h2 class="anchored" data-anchor-id="module-3-interpreting-metrics">Module 3: Interpreting Metrics</h2>
+<p>How is the interpretation of SML models different from more familiar models? In this lab, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Lab 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous labs.</p>
 <table class="table">
-<colgroup>
-<col style="width: 55%">
-<col style="width: 21%">
-<col style="width: 21%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-conceptual-overview.html#/title-slide">How Good is Our Model, Really?</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-code-along.html">Adding Classification Metrics to a Workflow</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Discussion</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-readings.html">Considering Many Metrics</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
 <td><strong>Case Study</strong></td>
-<td></td>
+<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Beyond Accuracy: How to Calculate Metrics</a> | <a href="https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-case-study-key.html">Answer Key</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/ml-badge-3.png" class="img-fluid" width="45"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-3/sml-3-badge.html">Metrics for Continuous Outcome Variables</a></td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="module-4-name" class="level2">
-<h2 class="anchored" data-anchor-id="module-4-name">Module 4: NAME</h2>
-<p>Module 4 overview…</p>
+<section id="module-4-improving-predictions-through-feature-engineering" class="level2">
+<h2 class="anchored" data-anchor-id="module-4-improving-predictions-through-feature-engineering">Module 4: Improving Predictions Through Feature Engineering</h2>
+<p>How can we improve our predictions? This lab introduces the concept of feature engineering to enhance model performance. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps.</p>
 <table class="table">
-<colgroup>
-<col style="width: 55%">
-<col style="width: 21%">
-<col style="width: 21%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/presentation.png" class="img-fluid" width="40"></td>
 <td><strong>Conceptual<br>
 Overview</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-conceptual-overview.html#/title-slide">Making Better Predictions with Random Forests</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/code-along.png" class="img-fluid" width="40"></td>
 <td><strong>Code Along</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-code-along.html">How to Cross-Validate and Change the Model</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/reading.png" class="img-fluid" width="40"></td>
 <td><strong>Readings &amp;<br>
 Discussion</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-readings.html">Diving Deep on Features and Feature Engineering</a></td>
 </tr>
 <tr class="even">
 <td><img src="images/case-study.png" class="img-fluid" width="40"></td>
 <td><strong>Case Study</strong></td>
-<td></td>
+<td><a href="https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe">Modeling Interactions Data with Random Forest</a> | <a href="https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-case-study-key.html">Answer Key</a></td>
 </tr>
 <tr class="odd">
 <td><img src="images/ml-badge-4.png" class="img-fluid" width="45"></td>
 <td><strong>Badge</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/module-4/sml-4-badge.html">Feature Engineering Activity Types</a></td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="microcredential" class="level2">
 <h2 class="anchored" data-anchor-id="microcredential">Microcredential</h2>
-<p>The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.</p>
+<p>To earn the SML micro-credential, you will carry out an SML analysis using data of your choosing and report the results in a Quarto document. Emphasize <em>why</em> you are using SML (relative to regression or another approach) and use feature engineering and cross-validation to refine your model. Lastly, interpret your model carefully by going beyond reporting accuracy to report the specific metrics for the strength of your SML model’s predictions, given the particular aims of your analysis.</p>
 <table class="table">
-<colgroup>
-<col style="width: 48%">
-<col style="width: 27%">
-<col style="width: 22%">
-</colgroup>
 <tbody>
 <tr class="odd">
 <td><img src="images/ml-micro.png" class="img-fluid" width="45"></td>
 <td><strong>Microcredential</strong></td>
-<td></td>
+<td><a href="https://laser-institute.github.io/supervised-machine-learning/microcredential/sml-microcredential.html">Supervised Machine Learning Microcredential</a></td>
 </tr>
 </tbody>
 </table>
-</section>
-<section id="references" class="level2">
-<h2 class="anchored" data-anchor-id="references">References</h2>
 
 
 </section>

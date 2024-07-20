@@ -520,13 +520,13 @@
   {
     "objectID": "curriculum-machine-learning.html",
     "href": "curriculum-machine-learning.html",
-    "title": "Machine Learning",
+    "title": "Supervised Machine Learning",
     "section": "",
-    "text": "Introduction…",
+    "text": "Machine learning is increasingly prevalent in our lives—and in educational contexts. Its role in educational research and practice is growing, albeit with some challenges and even controversy. These modules are designed to familiarize you with supervised machine learning (SML) and its applications in STEM education research. Throughout the module, we’ll explore four key questions that correspond to the focus of each of the four modules. By the end, you will have a deep understanding of the key characteristics of supervised machine learning and how to implement supervised machine learning workflows in R and Python.",
     "crumbs": [
       "Home",
       "Curriculum",
-      "Machine Learning"
+      "Supervised Machine Learning"
     ]
   },
   {
@@ -580,13 +580,13 @@
   {
     "objectID": "curriculum-machine-learning.html#microcredential",
     "href": "curriculum-machine-learning.html#microcredential",
-    "title": "Machine Learning",
+    "title": "Supervised Machine Learning",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential",
+    "text": "Microcredential\nTo earn the SML micro-credential, you will carry out an SML analysis using data of your choosing and report the results in a Quarto document. Emphasize why you are using SML (relative to regression or another approach) and use feature engineering and cross-validation to refine your model. Lastly, interpret your model carefully by going beyond reporting accuracy to report the specific metrics for the strength of your SML model’s predictions, given the particular aims of your analysis.\n\n\n\n\nMicrocredential\nSupervised Machine Learning Microcredential",
     "crumbs": [
       "Home",
       "Curriculum",
-      "Machine Learning"
+      "Supervised Machine Learning"
     ]
   },
   {
@@ -1215,6 +1215,54 @@
       "Home",
       "Instruction",
       "Example Formats"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
+    "href": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
+    "title": "Supervised Machine Learning",
+    "section": "Module 1: Supervised Machine Learning Foundations",
+    "text": "Module 1: Supervised Machine Learning Foundations\nHow is prediction different from explanation? This lab provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).\n\n\n\n\nConceptual\nOverview\nWhat is Supervised Machine Learning?\n\n\n\nCode Along\nSame Model, Different Analytic Goals\n\n\n\nReadings &\nReflection\nConsidering Models for Inference and Models for Prediction\n\n\n\nCase Study Key\nExplaining or Predicting Graduation Rates Using IPEDS | Answer Key\n\n\n\nBadge\nInitial Interpretations of a Model’s Predictions",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-2-workflows-with-training-and-testing-data",
+    "href": "curriculum-machine-learning.html#module-2-workflows-with-training-and-testing-data",
+    "title": "Supervised Machine Learning",
+    "section": "Module 2: Workflows With Training and Testing Data",
+    "text": "Module 2: Workflows With Training and Testing Data\nBuilding on the foundations from Lab 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course using the Open University Learning Analytics Dataset (OULAD).\n\n\n\n\nConceptual\nOverview\nUsing Training and Testing Data in a Workflow\n\n\n\nCode Along\nHow to Split Data into Training and Testing Sets\n\n\n\nReadings &\nReflection\nWhat Makes Supervised Machine Learning Distinct\n\n\n\nCase Study\nWho Drops Online Courses? An Analysis Using the OULAD | Answer Key\n\n\n\nBadge\nAdding Additional Predictors to Improve Accuracy",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-3-interpreting-metrics",
+    "href": "curriculum-machine-learning.html#module-3-interpreting-metrics",
+    "title": "Supervised Machine Learning",
+    "section": "Module 3: Interpreting Metrics",
+    "text": "Module 3: Interpreting Metrics\nHow is the interpretation of SML models different from more familiar models? In this lab, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Lab 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous labs.\n\n\n\n\nConceptual\nOverview\nHow Good is Our Model, Really?\n\n\n\nCode Along\nAdding Classification Metrics to a Workflow\n\n\n\nReadings &\nDiscussion\nConsidering Many Metrics\n\n\n\nCase Study\nBeyond Accuracy: How to Calculate Metrics | Answer Key\n\n\n\nBadge\nMetrics for Continuous Outcome Variables",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-4-improving-predictions-through-feature-engineering",
+    "href": "curriculum-machine-learning.html#module-4-improving-predictions-through-feature-engineering",
+    "title": "Supervised Machine Learning",
+    "section": "Module 4: Improving Predictions Through Feature Engineering",
+    "text": "Module 4: Improving Predictions Through Feature Engineering\nHow can we improve our predictions? This lab introduces the concept of feature engineering to enhance model performance. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps.\n\n\n\n\nConceptual\nOverview\nMaking Better Predictions with Random Forests\n\n\n\nCode Along\nHow to Cross-Validate and Change the Model\n\n\n\nReadings &\nDiscussion\nDiving Deep on Features and Feature Engineering\n\n\n\nCase Study\nModeling Interactions Data with Random Forest | Answer Key\n\n\n\nBadge\nFeature Engineering Activity Types",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Supervised Machine Learning"
     ]
   }
 ]
