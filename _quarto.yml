@@ -53,7 +53,7 @@ website:
         - instruction-tech.qmd
         - instruction-course.qmd
         - instruction-workshop.qmd
-    
+        - instruction-webinar.qmd
 
   page-footer:
       left: "This page is built with [Quarto](https://quarto.org/) and hosted by [GitHub](https://pages.github.com)."

@@ -136,7 +136,7 @@
     "href": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
     "title": "Supervised Machine Learning",
     "section": "Module 1: Supervised Machine Learning Foundations",
-    "text": "Module 1: Supervised Machine Learning Foundations\nHow is prediction different from explanation? This lab provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).\n\n\n\n\nConceptual\nOverview\nWhat is Supervised Machine Learning?\n\n\n\nCode Along\nSame Model, Different Analytic Goals\n\n\n\nReadings &\nReflection\nConsidering Models for Inference and Models for Prediction\n\n\n\nCase Study Key\nExplaining or Predicting Graduation Rates Using IPEDS | Answer Key\n\n\n\nBadge\nInitial Interpretations of a Model’s Predictions\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "text": "Module 1: Supervised Machine Learning Foundations\nHow is prediction different from explanation? This module provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).\n\n\n\n\nConceptual\nOverview\nWhat is Supervised Machine Learning?\n\n\n\nCode Along\nSame Model, Different Analytic Goals\n\n\n\nReadings &\nReflection\nConsidering Models for Inference and Models for Prediction\n\n\n\nCase Study Key\nExplaining or Predicting Graduation Rates Using IPEDS | Answer Key\n\n\n\nBadge\nInitial Interpretations of a Model’s Predictions\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -148,7 +148,7 @@
     "href": "curriculum-machine-learning.html#module-2-workflows-with-training-and-testing-data",
     "title": "Supervised Machine Learning",
     "section": "Module 2: Workflows With Training and Testing Data",
-    "text": "Module 2: Workflows With Training and Testing Data\nBuilding on the foundations from Lab 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course using the Open University Learning Analytics Dataset (OULAD).\n\n\n\n\nConceptual\nOverview\nUsing Training and Testing Data in a Workflow\n\n\n\nCode Along\nHow to Split Data into Training and Testing Sets\n\n\n\nReadings &\nReflection\nWhat Makes Supervised Machine Learning Distinct\n\n\n\nCase Study\nWho Drops Online Courses? An Analysis Using the OULAD | Answer Key\n\n\n\nBadge\nAdding Additional Predictors to Improve Accuracy\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "text": "Module 2: Workflows With Training and Testing Data\nBuilding on the foundations from Module 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course using the Open University Learning Analytics Dataset (OULAD).\n\n\n\n\nConceptual\nOverview\nUsing Training and Testing Data in a Workflow\n\n\n\nCode Along\nHow to Split Data into Training and Testing Sets\n\n\n\nReadings &\nReflection\nWhat Makes Supervised Machine Learning Distinct\n\n\n\nCase Study\nWho Drops Online Courses? An Analysis Using the OULAD | Answer Key\n\n\n\nBadge\nAdding Additional Predictors to Improve Accuracy\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -160,7 +160,7 @@
     "href": "curriculum-machine-learning.html#module-3-interpreting-metrics",
     "title": "Supervised Machine Learning",
     "section": "Module 3: Interpreting Metrics",
-    "text": "Module 3: Interpreting Metrics\nHow is the interpretation of SML models different from more familiar models? In this lab, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Lab 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous labs.\n\n\n\n\nConceptual\nOverview\nHow Good is Our Model, Really?\n\n\n\nCode Along\nAdding Classification Metrics to a Workflow\n\n\n\nReadings &\nDiscussion\nConsidering Many Metrics\n\n\n\nCase Study\nBeyond Accuracy: How to Calculate Metrics | Answer Key\n\n\n\nBadge\nMetrics for Continuous Outcome Variables\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "text": "Module 3: Interpreting Metrics\nHow is the interpretation of SML models different from more familiar models? In this module, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Module 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous modules.\n\n\n\n\nConceptual\nOverview\nHow Good is Our Model, Really?\n\n\n\nCode Along\nAdding Classification Metrics to a Workflow\n\n\n\nReadings &\nDiscussion\nConsidering Many Metrics\n\n\n\nCase Study\nBeyond Accuracy: How to Calculate Metrics | Answer Key\n\n\n\nBadge\nMetrics for Continuous Outcome Variables\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -172,7 +172,7 @@
     "href": "curriculum-machine-learning.html#module-4-improving-predictions-through-feature-engineering",
     "title": "Supervised Machine Learning",
     "section": "Module 4: Improving Predictions Through Feature Engineering",
-    "text": "Module 4: Improving Predictions Through Feature Engineering\nHow can we improve our predictions? This lab introduces the concept of feature engineering to enhance model performance. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps.\n\n\n\n\nConceptual\nOverview\nMaking Better Predictions with Random Forests\n\n\n\nCode Along\nHow to Cross-Validate and Change the Model\n\n\n\nReadings &\nDiscussion\nDiving Deep on Features and Feature Engineering\n\n\n\nCase Study\nModeling Interactions Data with Random Forest | Answer Key\n\n\n\nBadge\nFeature Engineering Activity Types\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "text": "Module 4: Improving Predictions Through Feature Engineering\nHow can we improve our predictions? This module introduces the concept of feature engineering to enhance model performance. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps.\n\n\n\n\nConceptual\nOverview\nMaking Better Predictions with Random Forests\n\n\n\nCode Along\nHow to Cross-Validate and Change the Model\n\n\n\nReadings &\nDiscussion\nDiving Deep on Features and Feature Engineering\n\n\n\nCase Study\nModeling Interactions Data with Random Forest | Answer Key\n\n\n\nBadge\nFeature Engineering Activity Types\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "Curriculum",
@@ -216,118 +216,125 @@
     ]
   },
   {
-    "objectID": "institute-online.html",
-    "href": "institute-online.html",
-    "title": "Online Community",
+    "objectID": "institute-goals.html",
+    "href": "institute-goals.html",
+    "title": "Institute Goals",
     "section": "",
-    "text": "Ongoing support is provided to participants during the academic year to continue their professional learning and ensure they can successfully carry out instructional plans at their home institutions. The project team provides a range of activities designed to support participants and inform curriculum refinement throughout the year. These following are guided by findings from our prior research found to be strongly associated with successful online communities: \n\nMonthly Check-Ins\nThroughout fall and spring, the project team will facilitate formal monthly check-ins with participants on progress made towards implementing instructional plans developed duringthe Summer Workshop. The check-ins will also be used to gather feedback on curricular modules used by instructors. Guest speakers from our advisory board and other invited guests will also lead sessions on LA topics during check-ins. These sessions will be informed by the community, as well as more specialized topics in advanced methods.\n\n\nVirtual Module Sessions\nThese session are offered several times each month so participants can learn about research methods they were unable to experience during the Summer Institute, as well to model instructional use of the modules in a fully online context. The workshops are led by members of the project team as well as by past LASER Scholars.\n\n\nAsynchronous Activities\nFacilitated discussion channels and informal Q&As are hosted on our Slack workspace, which includes both current and past participants from prior LASER Institute cohorts. Discussions focus on shared problems of practice such as adapting instructional modules to local contexts or working with students who have limited programming experience, as well as topics related to module content such as R packages, conceptual overviews, and essential readings. \n\n\nResource Repositories\nA key deliverable of this grant is a freely available website that houses all the curriculum materials needed to teach, and learn from, the LASER curriculum. These materials consist of both project team and member-generated content hosted on GitHub and a new curriculum website currently under development. These website include materials for each module as well as supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up."
-  },
-  {
-    "objectID": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
-    "href": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
-    "title": "Workshop Example",
-    "section": "Learning to teach with (and learn from!) LASER",
-    "text": "Learning to teach with (and learn from!) LASER\nDate: Tuesday, March 19, 2024\nTime: 1:30pm - 5:00pm\nLocation: Room J\nProject Website: go.ncsu.edu/laser-institute\nCurriculum Website: go.ncsu.edu/laser-beam\nPosit Workspace: go.ncsu.edu/laser-learners",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#overview",
-    "href": "instruction-workshop.html#overview",
-    "title": "Workshop Example",
-    "section": "Overview",
-    "text": "Overview\nThe purpose of this interactive workshop is to provide a hands-on introduction to curriculum developed as part of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). The intended audience for this workshop includes early-career and experienced scholars seeking who currently teach, or have a desire to teach, learning analytics methodologies. The primary aim of this workshop is to support participants interested in incorporating LASER curriculum materials into webinars, workshops, courses or programs at their home institution.\nParticipants in this workshop will learn about the design and structure of the 25+ learning modules covering a range of topics and techniques like machine learning, network analysis, and text mining. Participants will also gain hands-on experience with instructional activities such as conceptual overviews, interactive code-alongs, tutorials, case studies using Python and R, essential readings and discussion activities, and badging and microcredential opportunities. Finally, participants will learn pedagogical tips and information on the computing infrastructure, technology stack, and logistics required for leveraging these materials for their own undergraduate, graduate or professional learning programs.\nKeywords: graduate education, professional learning, professional development, STEM education, machine learning, network analysis, text mining, relationship mining, knowledge tracing",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#workshop-schedule",
-    "href": "instruction-workshop.html#workshop-schedule",
-    "title": "Workshop Example",
-    "section": "Workshop Schedule",
-    "text": "Workshop Schedule\nThis session will be an interactive half-day workshop appropriate for 25-30 participants and will consist of the following schedule:\n\n1:30 - 2:00 pm\n\nLASER Team & Participant Introductions\nOverview of LASER Institute\nIntroduction to the LASER Curriculum\n\n2:00 - 3:00\n\nLASER Orientation Module\n\nConceptual Overview\nCode-Along\nCase Study (Answer Key)\n\n\n3:00 - 3:30 Coffee Break\n3:30 - 4:30\n\nLASER Orientation Continued\nSNA Curriculum Modules Exploration\nOpen Discussion\n\n4:45 - 5:00 Closing\n\nFeedback Survey\nNext steps",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#background",
-    "href": "instruction-workshop.html#background",
-    "title": "Workshop Example",
-    "section": "Background",
-    "text": "Background\nTo help address this need for researchers trained in LA and related methods, the Learning Analytics in STEM Education Research (LASER) Institute was developed with the primary goal of increasing the number and the capacity of scholars capable of leveraging new data sources and computational methods (e.g., network analysis, text mining and machine learning) to support their research. With a new round of funding from the National Science Foundation (ECR: BCSER), North Carolina State University and the University of Pennsylvania are refining, expanding, and repackaging instructional resources developed for the LASER Institute into “turnkey” curriculum materials that can be used and adapted by faculty in higher education to prepare the next generation of STEM scholars.",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#workshop-activities",
-    "href": "instruction-workshop.html#workshop-activities",
-    "title": "Workshop Example",
-    "section": "Workshop Activities",
-    "text": "Workshop Activities\nThe workshop will kick-off with a 30 minute introductory presentation that provides an overview of the purpose and goals of LASER Institute, including lessons learned from two virtual and one in-person cohorts of participating scholars.\nPart 1 of the workshop will provide participant hands-on experience with the following types of instructional activities included in each curriculum module:\n\nInteractive Presentations. Each module contains slide decks for two interactive presentations: the first consisting of a conceptual overview of key terminology, techniques, and applications; the second presentation providing a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques. \nCoding Case Studies. These interactive coding experiences can be completed by learners independently or in small groups and demonstrate key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data). \nReadings and Discussion. Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies.\nSoftware Tutorials. Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax.  \nBadges & Microcredentials. Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit.\n\nPart 2 of the workshop will consist of a presentation, facilitated discussion, and guided planning activities designed to support participants in setting up learning environments and adapting these materials for webinars, workshops, or courses at their home institution.",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#workshop-goals",
-    "href": "instruction-workshop.html#workshop-goals",
-    "title": "Workshop Example",
-    "section": "Workshop Goals",
-    "text": "Workshop Goals\nThe half-day workshop serves as an extension of the LASER Institute, with the primary goal of equipping participants with high-quality curriculum materials that can be used to train faculty and students at their home institutions. To achieve this goal, this workshop is organized into three parts. Part 1 introduces participants to the curriculum materials developed by the LASER team and provides hands-on activities to help participants understand curriculum content and instructional design. Part 2 focuses on the technology infrastructure required for teaching with these materials including set up for Posit Cloud, R Studio, and Quarto. In addition, facilitators will help participants select appropriate modules for their instructional goals and develop a tentative plan to use curriculum materials for webinars, workshops, and courses at their university or research institutions. \nFinally, we recognize that there is always room for improving these curriculum materials, particularly after use in a wider range of instructional settings. Therefore, a secondary aim of this workshop is to gather feedback from participating scholars both during and after the workshop to further refine the curriculum materials. Specifically, we will incorporate opportunities throughout the workshop to solicit feedback from participants on how curriculum materials might be improved or adapted to better fit their local context and meet the needs of learners at their home institutions.",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#post-workshop-engagement",
-    "href": "instruction-workshop.html#post-workshop-engagement",
-    "title": "Workshop Example",
-    "section": "Post Workshop Engagement",
-    "text": "Post Workshop Engagement\nParticipants will be invited to join the LASER community hub on Slack, which serves as a platform for building a community of practice and staying updated on future LASER events, resources and information. In addition, participants will be invited to participate in follow-up surveys designed to assess in what ways, and to what extent, participants have incorporated LASER curriculum materials into their own teaching and to gather feedback for improving these materials.",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#acknowledgement",
-    "href": "instruction-workshop.html#acknowledgement",
-    "title": "Workshop Example",
-    "section": "Acknowledgement",
-    "text": "Acknowledgement\n\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129.",
-    "crumbs": [
-      "Home",
-      "Instruction",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "institute-la.html",
-    "href": "institute-la.html",
-    "title": "What is Learning Analytics?",
-    "section": "",
-    "text": "For an in-depth perspective on Learning Analytics, watch the inaugural LASER Institute Keynote presentation by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).\n\nSoLAR Definition\nThe Society for Learning Analytics Research (SoLAR) defines Learning Analytics as the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs.\nAs a research and teaching field, Learning Analytics sits at the convergence of:\n\nLearning (e.g. educational research, learning and assessment sciences, educational technology);\nAnalytics (e.g. statistics, visualization, computer/data sciences, artificial intelligence); and,\nHuman-Centered Design (e.g. usability, participatory design, sociotechnical systems thinking)..\n\nLearning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.",
+    "text": "The LASER Institute is a year-long professional development program for early- and mid-career researchers that aims to build their capacity for leveraging new data sources and applying computational research methods to support their existing research. The overarching goal of the LASER Institute and associated curriculum materials is to build the capacity of participating scholars in three core areas:",
     "crumbs": [
       "Home",
       "Institute",
-      "What is Learning Analytics?"
+      "Institute Goals"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#learning-objectives",
+    "href": "institute-goals.html#learning-objectives",
+    "title": "Institute Goals",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nThe LASER curriculum is intentionally designed and carefully scaffolded to help current and future educational researchers in to:\n\nFormulate Research Questions. Learners will understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nLeverage Digital Data. Learners will be able to identify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply Computational Methods. Learner will understand how LA techniques can be applied in STEM context and Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate their Research. Learners will be able to evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with Practitioners. Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Institute Goals"
+    ]
+  },
+  {
+    "objectID": "institute-goals.html#broadening-impacts",
+    "href": "institute-goals.html#broadening-impacts",
+    "title": "Institute Goals",
+    "section": "Broadening Impacts",
+    "text": "Broadening Impacts\nThrough renewed funding from the National Science Foundation (DRL-2321128, and DRL-2321129), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:\n\nModule Development. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nTrain the Trainer. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these components are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nTeach it Forward. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
+    "crumbs": [
+      "Home",
+      "Institute",
+      "Institute Goals"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LASER",
+    "section": "",
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods to support their existing research.\nThis website contains all the materials needed to teach with, and learn from, the LASER Institute’s instructional materials. The website is organized into three sections:"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "LASER",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nLocated at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, the University of Pennsylvania, the University of Florida, and the University of Tennessee, Knoxville.\nFor more detailed information about the project team, advisory board members, past scholars, and program highlights, visit our project page at go.ncsu.edu/laser-institute.\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
+  },
+  {
+    "objectID": "curriculum-text-mining.html",
+    "href": "curriculum-text-mining.html",
+    "title": "Text Mining",
+    "section": "",
+    "text": "The transition to digital learning has made available new sources of data, providing researchers new opportunities for understanding and improving STEM learning. Data sources such as digital learning environments and administrative data systems, as well as data produced by social media websites and the mass digitization of academic and practitioner publications, hold enormous potential to address a range of pressing problems in STEM Education, but collecting and analyzing text-based data also presents unique challenges. Text mining labs address the following critical questions:",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
+    "href": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
+    "title": "Text Mining",
+    "section": "Module 1: Tidy Text & Word Counts (TM Basics)",
+    "text": "Module 1: Tidy Text & Word Counts (TM Basics)\nThis module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers’ experiences in professional development (Kellogg et al. 2012). Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nText Mining Basics\n\n\n\nCode Along\nTurning Texts into Numbers\n\n\n\nReadings &\nReflection\nWhat is Text Mining?\n\n\n\nCase Study\nWhat do Teachers Find Most Valuable in Online PD? | R Key | Python Key\n\n\n\nBadge\nText Mining Basics Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
+    "href": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
+    "title": "Text Mining",
+    "section": "Module 2: Public Sentiment and School Reform (Dictionary Methods)",
+    "text": "Module 2: Public Sentiment and School Reform (Dictionary Methods)\nThis module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of Rosenberg et al. (2021) and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nSentiment Analysis\n\n\n\nCode Along\nChoosing the Right Lexicon for Sentiment Analysis\n\n\n\nReadings &\nReflection\nDictionary-Based Methods\n\n\n\nCase Study\nDo the Public Like NGSS? | R Key | Python Key\n\n\n\nBadge\nSentiment Analysis Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
+    "href": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
+    "title": "Text Mining",
+    "section": "Module 3: Large Language Models for Qualitative Analysis",
+    "text": "Module 3: Large Language Models for Qualitative Analysis\nThis module wraps up our work with text mining and examines recent advances in using large language models to code qualitative data (i.e., interview transcripts, group discussions, and open-ended responses). Through our essential readings, we’ll learn about this technique. Our Text Mining Case Study: What are high school students’ machine learning literacy before and after participating in an AI curriculum? is inspired by the need to assess machine learning literacy and use automated assessment for real-time intervention in the field of AI education. Finally, the Large Language Model Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nLarge Language Models\n\n\n\nCode Along\nIn-Context Learning\n\n\n\nReadings &\nDiscussion\nLLM for Qualitative Analysis\n\n\n\nCase Study\nWhat are High School Students’ Machine Learning Literacy? | R Key | Python Key\n\n\n\nBadge\nLarge Language Models Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
+    "href": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
+    "title": "Text Mining",
+    "section": "Module 4: Topic Modeling in MOOC-Eds",
+    "text": "Module 4: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course (Akoglu, Lee, and Kellogg 2019). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTopic Modeling \n\n\n\nCode Along\nLatent Dirichlet Allocation\n\n\n\nReadings &\nDiscussion\nIntroduction to Topic Modeling\n\n\n\nCase Study\nWhat are Participants Discussing in Forums? | R Key | Python Key\n\n\n\nBadge\nTopic Modeling Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#microcredential",
+    "href": "curriculum-text-mining.html#microcredential",
+    "title": "Text Mining",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nText Mining in Education",
+    "crumbs": [
+      "Home",
+      "Curriculum",
+      "Text Mining"
     ]
   },
   {
@@ -653,125 +660,171 @@
     "text": "Creative Commons Attribution-ShareAlike 4.0 International Public License\nBy exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“Public License”). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.\n\nSection 1 – Definitions.\n\nAdapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.\nAdapter’s License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.\nBY-SA Compatible License means a license listed at creativecommons.org/compatiblelicenses, approved by Creative Commons as essentially the equivalent of this Public License.\nCopyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.\nEffective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.\nExceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.\nLicense Elements means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.\nLicensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.\nLicensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.\nLicensor means the individual(s) or entity(ies) granting rights under this Public License.\nShare means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.\nSui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.\nYou means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.\n\n\n\nSection 2 – Scope.\n\nLicense grant.\n\nSubject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:\n\nreproduce and Share the Licensed Material, in whole or in part; and\nproduce, reproduce, and Share Adapted Material.\n\nExceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.\nTerm. The term of this Public License is specified in Section 6(a).\nMedia and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.\nDownstream recipients.\nA. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.\n\n__Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.\n\nC. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.\nNo endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).\n\nOther rights.\n\nMoral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.\nPatent and trademark rights are not licensed under this Public License.\nTo the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.\n\n\n\n\nSection 3 – License Conditions.\nYour exercise of the Licensed Rights is expressly made subject to the following conditions.\n\nAttribution.\n\nIf You Share the Licensed Material (including in modified form), You must:\n\nretain the following if it is supplied by the Licensor with the Licensed Material:\n\n\n\nidentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);\na copyright notice;\na notice that refers to this Public License;\na notice that refers to the disclaimer of warranties;\na URI or hyperlink to the Licensed Material to the extent reasonably practicable;\n\n\n\nindicate if You modified the Licensed Material and retain an indication of any previous modifications; and\nindicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.\n\nYou may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.\nIf requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.\n\nShareAlike.\n\nIn addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.\n\nThe Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.\nYou must include the text of, or the URI or hyperlink to, the Adapter’s License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.\nYou may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter’s License You apply.\n\n\n\nSection 4 – Sui Generis Database Rights.\nWhere the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:\n\nfor the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;\nif You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and\nYou must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.\n\nFor the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.\n\n\nSection 5 – Disclaimer of Warranties and Limitation of Liability.\n\nUnless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.\nTo the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.\nThe disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\n\n\n\nSection 6 – Term and Termination.\n\nThis Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.\nWhere Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:\n\nautomatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or\nupon express reinstatement by the Licensor.\n\nFor the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.\nFor the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.\nSections 1, 5, 6, 7, and 8 survive termination of this Public License.\n\n\n\nSection 7 – Other Terms and Conditions.\n\nThe Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.\nAny arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.\n\n\n\nSection 8 – Interpretation.\n\nFor the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.\nTo the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.\nNo term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.\nNothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.\n\n\nCreative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.\nCreative Commons may be contacted at creativecommons.org"
   },
   {
-    "objectID": "curriculum-text-mining.html",
-    "href": "curriculum-text-mining.html",
-    "title": "Text Mining",
+    "objectID": "instruction-webinar.html",
+    "href": "instruction-webinar.html",
+    "title": "Webinar Example",
     "section": "",
-    "text": "The transition to digital learning has made available new sources of data, providing researchers new opportunities for understanding and improving STEM learning. Data sources such as digital learning environments and administrative data systems, as well as data produced by social media websites and the mass digitization of academic and practitioner publications, hold enormous potential to address a range of pressing problems in STEM Education, but collecting and analyzing text-based data also presents unique challenges. Text mining labs address the following critical questions:",
+    "text": "Welcome to An Introduction to Social Network Analysis and Education Research: Core Concepts and Applications with R! This webinar is not only part of the 2023 AERA Virtual Research Learning Series, but part of the broader work of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). To help you prepare for our workshop this Thursday, August 10, 2023, from 1:00pm to 5:00pm (EST), provided below is some information about the organizational aspects of the workshop as well as the technical components you will need to fully participate.",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Text Mining"
+      "Instruction",
+      "Webinar Example"
     ]
   },
   {
-    "objectID": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
-    "href": "curriculum-text-mining.html#module-1-tidy-text-word-counts-tm-basics",
-    "title": "Text Mining",
-    "section": "Module 1: Tidy Text & Word Counts (TM Basics)",
-    "text": "Module 1: Tidy Text & Word Counts (TM Basics)\nThis module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers’ experiences in professional development (Kellogg et al. 2012). Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nText Mining Basics\n\n\n\nCode Along\nTurning Texts into Numbers\n\n\n\nReadings &\nReflection\nWhat is Text Mining?\n\n\n\nCase Study\nWhat do Teachers Find Most Valuable in Online PD? | R Key | Python Key\n\n\n\nBadge\nText Mining Basics Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "instruction-webinar.html#overview",
+    "href": "instruction-webinar.html#overview",
+    "title": "Webinar Example",
+    "section": "Overview",
+    "text": "Overview\nThis workshop is designed to introduce education researchers with little or no background in SNA to social network theory, examples of network analysis in educational contexts, and applied experience analyzing real-world data sets. To support scholars’ conceptual understanding of SNA as both a theoretical perspective and an analytical method, the instructors will provide short presentations and facilitate peer discussion on topics ranging from broad applications of SNA in educational contexts to specific approaches for data collection and storage.\nThis course will also provide you with applied experience analyzing network data through code-alongs and interactive case studies that use widely adopted tools (e.g., R, RStudio, and GitHub) and demonstrate common techniques (e.g, network visualization, measurement, and modeling). Collectively, these activities will help you both appreciate and experience how SNA can be used to understand and improve student learning and the contexts in which learning occurs.",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Text Mining"
+      "Instruction",
+      "Webinar Example"
     ]
   },
   {
-    "objectID": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
-    "href": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
-    "title": "Text Mining",
-    "section": "Module 2: Public Sentiment and School Reform (Dictionary Methods)",
-    "text": "Module 2: Public Sentiment and School Reform (Dictionary Methods)\nThis module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of Rosenberg et al. (2021) and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nSentiment Analysis\n\n\n\nCode Along\nChoosing the Right Lexicon for Sentiment Analysis\n\n\n\nReadings &\nReflection\nDictionary-Based Methods\n\n\n\nCase Study\nDo the Public Like NGSS? | R Key | Python Key\n\n\n\nBadge\nSentiment Analysis Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "instruction-webinar.html#agenda-slides",
+    "href": "instruction-webinar.html#agenda-slides",
+    "title": "Webinar Example",
+    "section": "Agenda & Slides",
+    "text": "Agenda & Slides\n\n1:00 - 1:50 Introduction & Overview\n\nSNA LASER Learning Modules\n\n1:50 - 2:00 Break\n2:00 - 3:00 Lab 1: SNA for Newbies\n\nConceptual Overview\nCode-Along\n\n3:00 - 3:20 Break\n3:20 - 4:00 Lab 1: Case Study\n\nWho’s Friends with Who in Middle School\n\n4:00 - 5:00 Lab 2: Management & Measurement\n\nConceptual Overview\nCode-Along\n\n5:00 - 5:30 Dismiss/Break\n5:30 - 6:00 Afterparty!",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Text Mining"
+      "Instruction",
+      "Webinar Example"
     ]
   },
   {
-    "objectID": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
-    "href": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
-    "title": "Text Mining",
-    "section": "Module 3: Large Language Models for Qualitative Analysis",
-    "text": "Module 3: Large Language Models for Qualitative Analysis\nThis module wraps up our work with text mining and examines recent advances in using large language models to code qualitative data (i.e., interview transcripts, group discussions, and open-ended responses). Through our essential readings, we’ll learn about this technique. Our Text Mining Case Study: What are high school students’ machine learning literacy before and after participating in an AI curriculum? is inspired by the need to assess machine learning literacy and use automated assessment for real-time intervention in the field of AI education. Finally, the Large Language Model Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nLarge Language Models\n\n\n\nCode Along\nIn-Context Learning\n\n\n\nReadings &\nDiscussion\nLLM for Qualitative Analysis\n\n\n\nCase Study\nWhat are High School Students’ Machine Learning Literacy? | R Key | Python Key\n\n\n\nBadge\nLarge Language Models Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "instruction-webinar.html#laser-institute-toolkit",
+    "href": "instruction-webinar.html#laser-institute-toolkit",
+    "title": "Webinar Example",
+    "section": "LASER Institute Toolkit",
+    "text": "LASER Institute Toolkit\n\nPosit Cloud\nFor our broader LASER Institute program and for this workshop as well, we will make extensive use of Posit Cloud (https://posit.co/products/cloud/cloud/). Posit Cloud lets you access Posit’s powerful set of data science tools like the RStudio IDE (https://posit.co/products/open-source/rstudio), an integrated development environment (IDE) for R and Python that includes a console and syntax-highlighting editor, as well as tools for plotting, history, debugging, and workspace management. Since Posit Cloud is accessed right in your browser, there is no installation or complex configuration required.\nPrior to the workshop, you will need to register for a free Posit Cloud account at: https://login.posit.cloud/register.\n\nAERA SNA Workshop 2023 Workspace\nDuring the workshop, you will need to access our AERA SNA Workshop 2023, where we will host the network-analysis RStudio project and instructional materials it contains. To access this workspace, use the following link: go.ncsu.edu/laser-learner. RStudio projects make it straightforward to divide your work into multiple contexts, each with their own working directory, workspace, history, and source documents. To learn more, visit: https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects.\nIf you’ve accessed the workspace correctly, you should see something like this:\n\n\n\n\nPosit Primers & Cheat Sheets\nTo make this most of this workshop it is helpful to have some basic working knowledge of R. If you are new to R, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, Posit Recipes (https://posit.cloud/learn/recipes) provide an excellent series of interactive tutorials that range from R fundamentals like basic programming syntax to complex tasks like building interactive data dashboards. Specifically, we strongly encourage you to complete The Basics primer consisting of:\nPosit Cheat Sheets (https://posit.cloud/learn/cheat-sheets) also provide handy reference to commonly used packages and their essential functions, including example code for testing them out.",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Text Mining"
+      "Instruction",
+      "Webinar Example"
     ]
   },
   {
-    "objectID": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
-    "href": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
-    "title": "Text Mining",
-    "section": "Module 4: Topic Modeling in MOOC-Eds",
-    "text": "Module 4: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course (Akoglu, Lee, and Kellogg 2019). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTopic Modeling \n\n\n\nCode Along\nLatent Dirichlet Allocation\n\n\n\nReadings &\nDiscussion\nIntroduction to Topic Modeling\n\n\n\nCase Study\nWhat are Participants Discussing in Forums? | R Key | Python Key\n\n\n\nBadge\nTopic Modeling Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "instruction-webinar.html#learn-more",
+    "href": "instruction-webinar.html#learn-more",
+    "title": "Webinar Example",
+    "section": "Learn More",
+    "text": "Learn More\nFinally, if you are interested in learning more about the LASER Institute and are considering applying for our 2024 cohort, we encourage you to visit our LASER Institute website and the 2023 Welcome Packet.\nTake care and we’ll see you all soon!!\nShaun B. Kellogg, North Carolina State University\nOleksandra Poquet, Technical University of Munich\nBodong Chen, University of Pennsylvania\nJeanne M. McClure, North Carolina State University",
     "crumbs": [
       "Home",
-      "Curriculum",
-      "Text Mining"
+      "Instruction",
+      "Webinar Example"
     ]
   },
   {
-    "objectID": "curriculum-text-mining.html#microcredential",
-    "href": "curriculum-text-mining.html#microcredential",
-    "title": "Text Mining",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nText Mining in Education",
-    "crumbs": [
-      "Home",
-      "Curriculum",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LASER",
+    "objectID": "institute-la.html",
+    "href": "institute-la.html",
+    "title": "What is Learning Analytics?",
     "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods to support their existing research.\nThis website contains all the materials needed to teach with, and learn from, the LASER Institute’s instructional materials. The website is organized into three sections:"
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "LASER",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nLocated at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, the University of Pennsylvania, the University of Florida, and the University of Tennessee, Knoxville.\nFor more detailed information about the project team, advisory board members, past scholars, and program highlights, visit our project page at go.ncsu.edu/laser-institute.\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
-  },
-  {
-    "objectID": "institute-goals.html",
-    "href": "institute-goals.html",
-    "title": "Institute Goals",
-    "section": "",
-    "text": "The LASER Institute is a year-long professional development program for early- and mid-career researchers that aims to build their capacity for leveraging new data sources and applying computational research methods to support their existing research. The overarching goal of the LASER Institute and associated curriculum materials is to build the capacity of participating scholars in three core areas:",
+    "text": "For an in-depth perspective on Learning Analytics, watch the inaugural LASER Institute Keynote presentation by Dr. Alyssa Wise, professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE), and former professor of learning sciences and educational technology and director of New York University’s Learning Analytics Research Network (LEARN).\n\nSoLAR Definition\nThe Society for Learning Analytics Research (SoLAR) defines Learning Analytics as the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimizing learning and the environments in which it occurs.\nAs a research and teaching field, Learning Analytics sits at the convergence of:\n\nLearning (e.g. educational research, learning and assessment sciences, educational technology);\nAnalytics (e.g. statistics, visualization, computer/data sciences, artificial intelligence); and,\nHuman-Centered Design (e.g. usability, participatory design, sociotechnical systems thinking)..\n\nLearning Analytics builds on these well established disciplines, but also seeks to leverage new opportunities through new forms of digital data computational analysis techniques from data science and AI.",
     "crumbs": [
       "Home",
       "Institute",
-      "Institute Goals"
+      "What is Learning Analytics?"
     ]
   },
   {
-    "objectID": "institute-goals.html#learning-objectives",
-    "href": "institute-goals.html#learning-objectives",
-    "title": "Institute Goals",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nThe LASER curriculum is intentionally designed and carefully scaffolded to help current and future educational researchers in to:\n\nFormulate Research Questions. Learners will understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nLeverage Digital Data. Learners will be able to identify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply Computational Methods. Learner will understand how LA techniques can be applied in STEM context and Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate their Research. Learners will be able to evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with Practitioners. Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
+    "objectID": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
+    "href": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
+    "title": "Workshop Example",
+    "section": "Learning to teach with (and learn from!) LASER",
+    "text": "Learning to teach with (and learn from!) LASER\nDate: Tuesday, March 19, 2024\nTime: 1:30pm - 5:00pm\nLocation: Room J\nProject Website: go.ncsu.edu/laser-institute\nCurriculum Website: go.ncsu.edu/laser-beam\nPosit Workspace: go.ncsu.edu/laser-learners",
     "crumbs": [
       "Home",
-      "Institute",
-      "Institute Goals"
+      "Instruction",
+      "Workshop Example"
     ]
   },
   {
-    "objectID": "institute-goals.html#broadening-impacts",
-    "href": "institute-goals.html#broadening-impacts",
-    "title": "Institute Goals",
-    "section": "Broadening Impacts",
-    "text": "Broadening Impacts\nThrough renewed funding from the National Science Foundation (DRL-2321128, and DRL-2321129), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:\n\nModule Development. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nTrain the Trainer. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these components are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nTeach it Forward. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
+    "objectID": "instruction-workshop.html#overview",
+    "href": "instruction-workshop.html#overview",
+    "title": "Workshop Example",
+    "section": "Overview",
+    "text": "Overview\nThe purpose of this interactive workshop is to provide a hands-on introduction to curriculum developed as part of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). The intended audience for this workshop includes early-career and experienced scholars seeking who currently teach, or have a desire to teach, learning analytics methodologies. The primary aim of this workshop is to support participants interested in incorporating LASER curriculum materials into webinars, workshops, courses or programs at their home institution.\nParticipants in this workshop will learn about the design and structure of the 25+ learning modules covering a range of topics and techniques like machine learning, network analysis, and text mining. Participants will also gain hands-on experience with instructional activities such as conceptual overviews, interactive code-alongs, tutorials, case studies using Python and R, essential readings and discussion activities, and badging and microcredential opportunities. Finally, participants will learn pedagogical tips and information on the computing infrastructure, technology stack, and logistics required for leveraging these materials for their own undergraduate, graduate or professional learning programs.\nKeywords: graduate education, professional learning, professional development, STEM education, machine learning, network analysis, text mining, relationship mining, knowledge tracing",
     "crumbs": [
       "Home",
-      "Institute",
-      "Institute Goals"
+      "Instruction",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#workshop-schedule",
+    "href": "instruction-workshop.html#workshop-schedule",
+    "title": "Workshop Example",
+    "section": "Workshop Schedule",
+    "text": "Workshop Schedule\nThis session will be an interactive half-day workshop appropriate for 25-30 participants and will consist of the following schedule:\n\n1:30 - 2:00 pm\n\nLASER Team & Participant Introductions\nOverview of LASER Institute\nIntroduction to the LASER Curriculum\n\n2:00 - 3:00\n\nLASER Orientation Module\n\nConceptual Overview\nCode-Along\nCase Study (Answer Key)\n\n\n3:00 - 3:30 Coffee Break\n3:30 - 4:30\n\nLASER Orientation Continued\nSNA Curriculum Modules Exploration\nOpen Discussion\n\n4:45 - 5:00 Closing\n\nFeedback Survey\nNext steps",
+    "crumbs": [
+      "Home",
+      "Instruction",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#background",
+    "href": "instruction-workshop.html#background",
+    "title": "Workshop Example",
+    "section": "Background",
+    "text": "Background\nTo help address this need for researchers trained in LA and related methods, the Learning Analytics in STEM Education Research (LASER) Institute was developed with the primary goal of increasing the number and the capacity of scholars capable of leveraging new data sources and computational methods (e.g., network analysis, text mining and machine learning) to support their research. With a new round of funding from the National Science Foundation (ECR: BCSER), North Carolina State University and the University of Pennsylvania are refining, expanding, and repackaging instructional resources developed for the LASER Institute into “turnkey” curriculum materials that can be used and adapted by faculty in higher education to prepare the next generation of STEM scholars.",
+    "crumbs": [
+      "Home",
+      "Instruction",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#workshop-activities",
+    "href": "instruction-workshop.html#workshop-activities",
+    "title": "Workshop Example",
+    "section": "Workshop Activities",
+    "text": "Workshop Activities\nThe workshop will kick-off with a 30 minute introductory presentation that provides an overview of the purpose and goals of LASER Institute, including lessons learned from two virtual and one in-person cohorts of participating scholars.\nPart 1 of the workshop will provide participant hands-on experience with the following types of instructional activities included in each curriculum module:\n\nInteractive Presentations. Each module contains slide decks for two interactive presentations: the first consisting of a conceptual overview of key terminology, techniques, and applications; the second presentation providing a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques. \nCoding Case Studies. These interactive coding experiences can be completed by learners independently or in small groups and demonstrate key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data). \nReadings and Discussion. Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies.\nSoftware Tutorials. Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax.  \nBadges & Microcredentials. Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit.\n\nPart 2 of the workshop will consist of a presentation, facilitated discussion, and guided planning activities designed to support participants in setting up learning environments and adapting these materials for webinars, workshops, or courses at their home institution.",
+    "crumbs": [
+      "Home",
+      "Instruction",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#workshop-goals",
+    "href": "instruction-workshop.html#workshop-goals",
+    "title": "Workshop Example",
+    "section": "Workshop Goals",
+    "text": "Workshop Goals\nThe half-day workshop serves as an extension of the LASER Institute, with the primary goal of equipping participants with high-quality curriculum materials that can be used to train faculty and students at their home institutions. To achieve this goal, this workshop is organized into three parts. Part 1 introduces participants to the curriculum materials developed by the LASER team and provides hands-on activities to help participants understand curriculum content and instructional design. Part 2 focuses on the technology infrastructure required for teaching with these materials including set up for Posit Cloud, R Studio, and Quarto. In addition, facilitators will help participants select appropriate modules for their instructional goals and develop a tentative plan to use curriculum materials for webinars, workshops, and courses at their university or research institutions. \nFinally, we recognize that there is always room for improving these curriculum materials, particularly after use in a wider range of instructional settings. Therefore, a secondary aim of this workshop is to gather feedback from participating scholars both during and after the workshop to further refine the curriculum materials. Specifically, we will incorporate opportunities throughout the workshop to solicit feedback from participants on how curriculum materials might be improved or adapted to better fit their local context and meet the needs of learners at their home institutions.",
+    "crumbs": [
+      "Home",
+      "Instruction",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#post-workshop-engagement",
+    "href": "instruction-workshop.html#post-workshop-engagement",
+    "title": "Workshop Example",
+    "section": "Post Workshop Engagement",
+    "text": "Post Workshop Engagement\nParticipants will be invited to join the LASER community hub on Slack, which serves as a platform for building a community of practice and staying updated on future LASER events, resources and information. In addition, participants will be invited to participate in follow-up surveys designed to assess in what ways, and to what extent, participants have incorporated LASER curriculum materials into their own teaching and to gather feedback for improving these materials.",
+    "crumbs": [
+      "Home",
+      "Instruction",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#acknowledgement",
+    "href": "instruction-workshop.html#acknowledgement",
+    "title": "Workshop Example",
+    "section": "Acknowledgement",
+    "text": "Acknowledgement\n\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129.",
+    "crumbs": [
+      "Home",
+      "Instruction",
+      "Workshop Example"
     ]
   },
   {
