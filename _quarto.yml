@@ -37,8 +37,7 @@ website:
       contents:
         - institute-la.qmd
         - institute-goals.qmd
-        - institute-workshop.qmd
-        - institute-online.qmd
+        - institute-components.qmd
         - curriculum-design.qmd
     - section: "Curriculum"
       contents:
@@ -51,8 +50,9 @@ website:
     - section: "Instruction"
       contents:
         - instruction-intro.qmd
-        - instruction-format.qmd
         - instruction-tech.qmd
+        - instruction-course.qmd
+        - instruction-workshop.qmd
     
 
   page-footer:

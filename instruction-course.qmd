@@ -1,16 +1,8 @@
 ---
-title: "Example Formats"
+title: "Syllabus Example"
 ---
 
-Intro
-
-## Courses
-
-Full Courses
-
-## Syllabus Example
-
-### Course Overview
+## Introduction To Learning Analytics (ECI 586)
 
 As the use of digital resources continues to expand in education, an unprecedented amount of new data is becoming available to educational researchers and practitioners. In response, Learning Analytics (LA) has emerged over the past decade as an interdisciplinary field encompassing Learning (e.g. educational technology, learning and assessment sciences), Analytics (e.g. visualization, computer/data sciences), and Human-Centered Design (e.g. usability, participatory design).
 
@@ -20,7 +12,9 @@ This course will provide students with an overview of the field, examples of its
 
 **Course Prerequisites/Co-requisites:** This course has no prerequisites.
 
-### Time & Location
+**GitHub Repository**: <https://github.com/sbkellogg/eci-586>
+
+## Time & Location
 
 **Meeting Time:** This distance education course is predominantly asynchronous. Online tools are utilized throughout the course for communication and interaction. In addition, we will use Zoom for synchronous virtual office hours, web conferencing, or whole class discussions. For optional live class meet-ups, I will send out a poll the first week of class to find a time that works for the majority of students and record these meetings for students who are not able to attend.
 
@@ -28,7 +22,7 @@ This course will provide students with an overview of the field, examples of its
 
 Students must have Internet access and access to a Web browser (e.g., Safari, Firefox, Chrome) to participate in this course. The Moodle course site and Web-based software required for completing course projects may only be accessed online. It is strongly recommended that students have high-speed Internet access.
 
-### Instructor Information
+## Instructor Information
 
 **Name:** [Dr. Shaun Kellogg](https://www.fi.ncsu.edu/people/sbkellog)\
 **Email:** [shaun.kellogg\\\@ncsu.edu](https://sbkellogg.github.io/eci-586/shaun.kellogg@ncsu.edu)\
@@ -37,11 +31,11 @@ Students must have Internet access and access to a Web browser (e.g., Safari, Fi
 **Hours:** Appointments by [Calendly](https://calendly.com/sbkellogg/analytics) Monday-Friday 8:00-4:00\
 **Social:** [LinkedIn](https://www.linkedin.com/in/shaunbkellogg/) \| [GitHub](https://github.com/settings/profile)
 
-#### **Course Texts**
+## Course Texts
 
 There are several required textbooks for this course, all of which are freely available online or through the NCSU Library. Supplemental course readings and content (e.g. articles, videos) will also be provided at no cost through the Moodle course site. You will also be asked to locate articles of interest for our discussions and I highly recommend that you link Google Scholar to the NCSU Library: <https://www.lib.ncsu.edu/articles/google-scholar>.
 
-##### **Required**
+### Required
 
 1.  Krumm, A., Means, B., & Bienkowski, M. (2018). [*Learning analytics goes to school: A collaborative approach to improving education.*](https://catalog.lib.ncsu.edu/catalog/NCSU4862134) Routledge.
 
@@ -51,7 +45,7 @@ There are several required textbooks for this course, all of which are freely av
 
 4.  Carolan, B. V. (2013). [*Social network analysis and education: Theory, methods & applications*.](https://catalog.lib.ncsu.edu/catalog/NCSU2803782) Sage Publications.
 
-##### **Optional**
+### Optional
 
 1.  Sclater, N. (2017). [*Learning analytics explained*](https://catalog.lib.ncsu.edu/catalog/NCSU4863297). Taylor & Francis.
 
@@ -65,11 +59,11 @@ There are several required textbooks for this course, all of which are freely av
 
 6.  Cairo, A. (2016). [*The truthful art: Data, charts, and maps for communication*.](https://catalog.lib.ncsu.edu/catalog/NCSU3923006) New Riders.
 
-#### **Software**
+## Software
 
 Students should feel comfortable installing new software programs and navigating unfamiliar graphical user interfaces. It is also recommended that students in this class have some background knowledge of online learning environments (e.g. LMS, MOOCs, etc.).
 
-##### **Required Software**
+### Required Software
 
 This course requires R and R Studio, which will be used to provide hands-on experience with the concepts and skills addressed in course readings.
 
@@ -79,7 +73,7 @@ This course requires R and R Studio, which will be used to provide hands-on expe
 
 3.  **RPubs** ([https://rpubs.com)](https://rpubs.com/)) is a free and easy web publishing platform for R. Throughout the course, you will be using R Markdown documents ([https://rmarkdown.rstudio.com/)](https://rmarkdown.rstudio.com/)), which weave together narrative text and code to produce elegantly formatted, static and dynamic outputs formats including: [HTML](https://bookdown.org/yihui/rmarkdown/html-document.html), [PDF](https://bookdown.org/yihui/rmarkdown/pdf-document.html), [HTML5 slides](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html), [Tufte-style handouts](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html), [books](https://bookdown.org/), [dashboards](https://rmarkdown.rstudio.com/flexdashboard/), [shiny applications](https://bookdown.org/yihui/rmarkdown/shiny-documents.html), [research articles](https://github.com/rstudio/rticles), [websites](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html), and more. To publish these documents via RPubs, however, you will first need to create an account here: <https://rpubs.com/users/new.>
 
-##### **Optional Software**
+### Optional Software
 
 1.  **R** ([https://www.r-project.org](https://www.r-project.org/)) is an open-source language and computing environment for data manipulation, analysis, and visualization. Installation files for Windows, Mac, and Linux can be found at the website for the Comprehensive R Archive Network, <http://cran.r-project.org/>.
 
@@ -95,7 +89,7 @@ This course requires R and R Studio, which will be used to provide hands-on expe
 
 7.  **GitHub** is a web-based hosting service for version control using Git. You can create an account here: [https://github.com](https://github.com/)
 
-#### Course Goals
+## Course Goals
 
 Goals for the Introduction to Learning Analytics course are guided by the North Carolina State University motto: ***Think and Do***. Specifically, goals for this course are twofold:
 
@@ -103,7 +97,7 @@ Goals for the Introduction to Learning Analytics course are guided by the North 
 
 -   **Technical Skills.** Scholars will develop proficiency with the processes, tools, and techniques necessary to efficiently, effectively, and ethically apply Learning Analytics for understanding and improving learning and the contexts in which learning occurs.
 
-#### Student Learning Outcomes
+## Student Learning Outcomes
 
 The following learning objectives are aligned with the overarching objectives of the Graduate Certificate in Learning Analytics program and are embedded in each unit of the course. Students who complete this course will be able to:
 
@@ -117,12 +111,12 @@ The following learning objectives are aligned with the overarching objectives of
 
 -   **Communication:** Clearly communicate methods, analyses, findings, and recommendations that can provide actionable insight into learning contexts for a range of education stakeholders.
 
-#### **Course Structure & Schedule**
+## Course Structure & Schedule
 
 This course is divided into four units focused on conceptualizing Learning Analytics as a research discipline and developing the foundational skills for data exploration using a range of digital data sources. The first week of each unit introduces terminology, core concepts, and applications of Learning Analytics through readings, course videos, and discussion. In the second week, we focus on developing essential technical skills necessary for data-intensive Research workflows through R software tutorials. In the third week of each unit, we apply these skills to conduct an analysis and create a data product using publicly available educational datasets.
 
 | **Schedule** | **Topics**                                                                                                                                                                                                                         |
-|------------|------------------------------------------------------------|
+|----------------|--------------------------------------------------------|
 | **WELCOME**  | **OVERVIEW & INTRODUCTIONS**                                                                                                                                                                                                       |
 | Week 1       | Introductions, syllabus review, and software setup                                                                                                                                                                                 |
 | **UNIT 1**   | **WHAT IS LEARNING ANALYTICS?**                                                                                                                                                                                                    |
@@ -145,7 +139,7 @@ This course is divided into four units focused on conceptualizing Learning Analy
 | Week 14      | **Make-up Week:** Final opportunity for students to complete any missing work. This week should also be used to make significant progress on your final project.                                                                   |
 | Week 15      | **Final Project:** In lieu of a final exam, students will complete and Independent analysis and develop a data product (e.g. report, presentation, data dashboard, etc.) that demonstrates concepts learned throughout the course. |
 
-#### **Major Assignments & Assessment**
+## Major Assignments & Assessment
 
 1.  **Housekeeping (4 pts)**: Students will review the syllabus and “sign” the Online Learner Agreement sent at the beginning of the semester that outlines expectations for participating in an online course. Student will also be required to install necessary software and post a brief introduction of themselves and respond to their peers. 
 
@@ -167,7 +161,7 @@ Late work is accepted but may be penalized at 15% per week it is late. Assignmen
 
 **Course Feedback Expectations:** Please contact your instructor via email (shaun.kellogg\\\@ncsu.edu) with any questions about the course project or other assignments. Your instructor will strive to answer any emails within 24 hours (M-F) and 48 hours on the weekend, and grade submitted assignments within 5-7 days of the due date. In addition, students will be provided ongoing opportunities, and are strongly encouraged, to provide course feedback to help improve the design of current and future course implementations. 
 
-#### **NC State Policies**
+## NC State Policies
 
 **Academic Integrity:** Students are bound by the academic integrity policy as stated in the code of student conduct. Therefore, students are required to uphold the university pledge of honor and exercise honesty in completing any assignment. See the website for a full explanation: <http://www.ncsu.edu/policies/student_services/student_discipline/POL11.35.1.php>
 
@@ -185,7 +179,7 @@ Late work is accepted but may be penalized at 15% per week it is late. Assignmen
 
 **Disabilities**: Reasonable accommodations will be made for students with verifiable disabilities. In order to take advantage of available accommodations, students must register with the Disability Resource Office at Holmes Hall, Suite 304, Campus Box 7509, 919-515-7653. For more information on NC State’s policy on working with students with disabilities, please see the Academic Accommodations for Students with Disabilities Regulation (REG02.20.01).
 
-#### **Other Important Resources**
+## Other Important Resources
 
 -   **Keep Learning:** <https://dasa.ncsu.edu/students/keep-learning/>
 
@@ -202,107 +196,3 @@ Late work is accepted but may be penalized at 15% per week it is late. Assignmen
 -   **NC State Libraries** [Technology Lending Program](https://www.lib.ncsu.edu/devices)
 
 This site is open source. [Improve this page](https://github.com/sbkellogg/eci-586/edit/main/README.md).
-
-## Webinars and Workshops
-
-Intro
-
-### Workshop Example
-
-![](img/LASER_Hx.png){fig-align="left" width="30%"}
-
-**Date**: Tuesday, March 19, 2024
-
-**Time**: 1:30pm - 5:00pm
-
-**Location**: Room J
-
-**Project Website**: [go.ncsu.edu/laser-institute](https://go.ncsu.edu/laser-institute)
-
-**Curriculum Website**: [go.ncsu.edu/laser-beam](https://go.ncsu.edu/laser-beam)
-
-**Posit Workspace**: [go.ncsu.edu/laser-learners](https://go.ncsu.edu/laser-learners)
-
-## Overview
-
-The purpose of this interactive workshop is to provide a hands-on introduction to curriculum developed as part of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). The intended audience for this workshop includes early-career and experienced scholars seeking who currently teach, or have a desire to teach, learning analytics methodologies. **The primary aim of this workshop is to support participants interested in incorporating LASER curriculum materials into webinars, workshops, courses or programs at their home institution.**
-
-Participants in this workshop will learn about the design and structure of the 25+ learning modules covering a range of topics and techniques like machine learning, network analysis, and text mining. Participants will also gain hands-on experience with instructional activities such as conceptual overviews, interactive code-alongs, tutorials, case studies using Python and R, essential readings and discussion activities, and badging and microcredential opportunities. Finally, participants will learn pedagogical tips and information on the computing infrastructure, technology stack, and logistics required for leveraging these materials for their own undergraduate, graduate or professional learning programs.
-
-**Keywords**: graduate education, professional learning, professional development, STEM education, machine learning, network analysis, text mining, relationship mining, knowledge tracing
-
-## Workshop Schedule
-
-This session will be an interactive half-day workshop appropriate for 25-30 participants and will consist of the following schedule:
-
--   1:30 - 2:00 pm
-
-    -   LASER Team & Participant Introductions
-
-    -   [Overview of LASER Institute](https://go.ncsu.edu/laser-institute)
-
-    -   [Introduction to the LASER Curriculum](https://laser-institute.github.io/laser-website/curriculum-design.html)
-
--   2:00 - 3:00
-
-    -   [LASER Orientation Module](https://laser-institute.github.io/laser-website/curriculum-orientation.html)
-
-        -   [Conceptual Overview](https://laser-institute.github.io/laser-orientation/orientation-conceptual-overview.html)
-
-        -   [Code-Along](https://laser-institute.github.io/laser-orientation/orientation-code-along.html)
-
-        -   [Case Study](https://go.ncsu.edu/laser-learners) ([Answer Key](https://laser-institute.github.io/laser-orientation/orientation-case-study-key-R.html))
-
--   3:00 - 3:30 Coffee Break
-
--   3:30 - 4:30
-
-    -   LASER Orientation Continued
-
-    -   [SNA Curriculum Modules Exploration](https://laser-institute.github.io/laser-website/curriculum-network-analysis.html)
-
-    -   Open Discussion
-
--   4:45 - 5:00 Closing
-
-    -   [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSfmIwWVjipDZGGbXOYFBI6PejycdQzMkH95vd9g7m5831zfiQ/viewform?usp=sf_link)
-
-    -   Next steps
-
-## Background
-
-To help address this need for researchers trained in LA and related methods, the Learning Analytics in STEM Education Research (LASER) Institute was developed with the primary goal of increasing the number and the capacity of scholars capable of leveraging new data sources and computational methods (e.g., network analysis, text mining and machine learning) to support their research. With a new round of funding from the National Science Foundation (ECR: BCSER), North Carolina State University and the University of Pennsylvania are refining, expanding, and repackaging instructional resources developed for the LASER Institute into "turnkey" curriculum materials that can be used and adapted by faculty in higher education to prepare the next generation of STEM scholars. 
-
-## Workshop Activities
-
-The workshop will kick-off with a 30 minute introductory presentation that provides an overview of the purpose and goals of LASER Institute, including lessons learned from two virtual and one in-person cohorts of participating scholars.
-
-Part 1 of the workshop will provide participant hands-on experience with the following types of instructional activities included in each curriculum module:
-
--   **Interactive Presentations**. Each module contains slide decks for two interactive presentations: the first consisting of a conceptual overview of key terminology, techniques, and applications; the second presentation providing a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques. 
-
--   **Coding Case Studies**. These interactive coding experiences can be completed by learners independently or in small groups and demonstrate key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data). 
-
--   **Readings and Discussion**. Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies.
-
--   **Software Tutorials**. Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax.  
-
--   **Badges & Microcredentials**. Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit.
-
-Part 2 of the workshop will consist of a presentation, facilitated discussion, and guided planning activities designed to support participants in setting up learning environments and adapting these materials for webinars, workshops, or courses at their home institution. 
-
-## Workshop Goals
-
-The half-day workshop serves as an extension of the LASER Institute, with the primary goal of equipping participants with high-quality curriculum materials that can be used to train faculty and students at their home institutions. To achieve this goal, this workshop is organized into three parts. Part 1 introduces participants to the curriculum materials developed by the LASER team and provides hands-on activities to help participants understand curriculum content and instructional design. Part 2 focuses on the technology infrastructure required for teaching with these materials including set up for Posit Cloud, R Studio, and Quarto. In addition, facilitators will help participants select appropriate modules for their instructional goals and develop a tentative plan to use curriculum materials for webinars, workshops, and courses at their university or research institutions. 
-
-Finally, we recognize that there is always room for improving these curriculum materials, particularly after use in a wider range of instructional settings. Therefore, a secondary aim of this workshop is to gather feedback from participating scholars both during and after the workshop to further refine the curriculum materials. Specifically, we will incorporate opportunities throughout the workshop to solicit feedback from participants on how curriculum materials might be improved or adapted to better fit their local context and meet the needs of learners at their home institutions.
-
-## Post Workshop Engagement
-
-Participants will be invited to join the LASER community hub on Slack, which serves as a platform for building a community of practice and staying updated on future LASER events, resources and information. In addition, participants will be invited to participate in follow-up surveys designed to assess in what ways, and to what extent, participants have incorporated LASER curriculum materials into their own teaching and to gather feedback for improving these materials.
-
-## Acknowledgement
-
-![](img/nsf.jpg){width="30%"}
-
-The LASER This material is based upon work supported by the National Science Foundation under Grant No. [DRL-2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false), [DRL-2321128](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321128&HistoricalAwards=false), and [DRL-2321129](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321129&HistoricalAwards=false).

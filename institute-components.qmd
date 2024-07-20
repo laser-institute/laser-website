@@ -1,6 +1,14 @@
 ---
-title: "Summer Workshop"
+title: "Program Components"
 ---
+
+The LASER Institute is a year-long blended training program consisting of two core components:
+
+1.  **Summer Workshop**. Hosted at the Friday Institute (FI) in Raleigh, NC, the in-person Summer Institute is an intensive 5-day program consisting of tutorials, learning labs, guest speakers, community building activities, and instructional planning sessions.
+
+2.  **Online Community**. LASER Institute will leverage the FI’s online Professional Learning and Collaboration Environment (PLACE), as well as other communication and collaboration platforms (e.g., Zoom, Slack, GitHub), to cultivate an online community and provide ongoing support throughout the year.
+
+## Summer Workshop
 
 LASER BEAM participants begin their program with an intensive 5-day summer training program hosted by the [Friday Institute for Educational Innovation](https://fi.ncsu.edu) at North Carolina State University. The Summer Workshop takes place in July and is taught by NC State and Penn faculty and and includes invited presentations from Advisory Board members, as well as pre-workshop preparation (e.g., introductions and needs assessment) for participants beginning earlier that spring. To attend to the needs of STEM education faculty and researchers with varying degrees of expertise in LA, the Summer Institute provide both a *beginner* track and an *advanced* track to support faculty development, with approximately half of the participants in each track. The Summer Institute schedule outlined below provides an overview of the sequence of activities currently planned, recognizing that some adjustments be necessary based on the needs assessment and specific modules participants are interested in teaching and/or learning from. Each of these activities is described in more detail below.
 
@@ -10,15 +18,16 @@ As part of the application process, participants complete a needs assessment to 
 
 ### Summer Institute Schedule
 
-|                   |                  |                        |                        |                        |                        |
-|-------------------|------------------|------------------------|------------------------|------------------------|------------------------|
-| **EST**           | **Monday**       | **Tuesday**            | **Wednesday**          | **Thursday**           | **Friday**             |
-| **9:00 - 9:30**   | LASER Welcome    | Community Building     | Community Building     | Community Building     | Community Building     |
-| **9:40 - 11:00**  | Module Overview  | Module Session 1       | Module Session 2       | Module Session 3       | Module Session 4       |
-| **11:15 - 12:30** | Pedagogy Session | Module Session 1 cont. | Module Session 2 cont. | Module Session 3 cont. | Module Session 4 cont. |
-| **1:30 - 2:45**   | Guest Speaker    | Guest Speaker          | Guest Speaker          | Guest Speaker          | Guest Speaker          |
-| **3:00 - 3:45**   | Pedagogy Session | Pedagogy Session       | Pedagogy Session       | Pedagogy Session       | Evaluation             |
-| **4:00 - 5:00**   | Design Session   | Design Session         | Design Session         | Design Session         | Early Exit             |
+|                   |                       |                    |                    |                    |                    |
+|------------|------------|------------|------------|------------|------------|
+| **EST**           | **Monday**            | **Tuesday**        | **Wednesday**      | **Thursday**       | **Friday**         |
+| **9:00 - 9:30**   | LASER Welcome         | Community Building | Community Building | Community Building | Community Building |
+| **9:40 - 11:00**  | LASER Orientation     | Module Session 1   | Module Session 2   | Module Session 3   | Module Session 4   |
+| **11:15 - 12:30** | Orientation Continued | Module Session     | Module Session     | Module Session     | Module Session     |
+| **1:30 - 2:10**   | Guest Speaker         | Guest Speaker      | Guest Speaker      | Guest Speaker      | Guest Speaker      |
+| **2:15 - 3:00**   | Module Intro          | Module Session     | Module Session     | Module Session     | LASER Closing      |
+| **3:00 - 3:45**   | Pedagogy Session      | Pedagogy Session   | Pedagogy Session   | Pedagogy Session   | Evaluation         |
+| **4:00 - 5:00**   | Design Session        | Design Session     | Design Session     | Design Session     | Early Exit         |
 
 ### Community Building
 
@@ -39,3 +48,23 @@ Each day end with small group activities to assist participants in designing a c
 ### Guest Speakers
 
 These sessions draw upon the backgrounds and expertise of our Advisory Board members and other invited guests who have taught courses, workshops, and training events focused on LA and related methods. Sessions reinforce topics introduced in our module and pedagogy sessions, and help participants envision how LASER BEAM curriculum materials and activities might be adapted to fit their own contexts and institutional programs.
+
+## Online Community
+
+Ongoing support is provided to participants during the academic year to continue their professional learning and ensure they can successfully carry out instructional plans at their home institutions. The project team provides a range of activities designed to support participants and inform curriculum refinement throughout the year. These following are guided by findings from our prior research found to be strongly associated with successful online communities: 
+
+### Monthly Check-Ins
+
+Throughout fall and spring, the project team will facilitate formal monthly check-ins with participants on progress made towards implementing instructional plans developed duringthe Summer Workshop. The check-ins will also be used to gather feedback on curricular modules used by instructors. Guest speakers from our advisory board and other invited guests will also lead sessions on LA topics during check-ins. These sessions will be informed by the community, as well as more specialized topics in advanced methods.
+
+### Virtual Module Sessions
+
+These session are offered several times each month so participants can learn about research methods they were unable to experience during the Summer Institute, as well to model instructional use of the modules in a fully online context. The workshops are led by members of the project team as well as by past LASER Scholars.
+
+### Asynchronous Activities
+
+Facilitated discussion channels and informal Q&As are hosted on our [Slack workspace](http://laser-scholars.slack.com/), which includes both current and past participants from prior LASER Institute cohorts. Discussions focus on shared problems of practice such as adapting instructional modules to local contexts or working with students who have limited programming experience, as well as topics related to module content such as R packages, conceptual overviews, and essential readings. 
+
+### Resource Repositories
+
+A key deliverable of this grant is a freely available website that houses all the curriculum materials needed to teach, and learn from, the LASER curriculum. These materials consist of both project team and member-generated content hosted on [GitHub](https://github.com/laser-institute) and a [new curriculum website](https://laser-institute.github.io/laser-website/) currently under development. These website include materials for each module as well as supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up.

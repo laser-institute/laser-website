@@ -1,5 +1,5 @@
 ---
-title: "Program Goals"
+title: "Institute Goals"
 ---
 
 The LASER Institute is a year-long professional development program for early- and mid-career researchers that aims to build their capacity for leveraging new data sources and applying computational research methods to support their existing research. The overarching goal of the LASER Institute and associated curriculum materials is to build the capacity of participating scholars in three core areas:
