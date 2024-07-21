@@ -26,7 +26,15 @@ The LASER curriculum is intentionally designed and carefully scaffolded to help 
 
 ## Broadening Impacts
 
-Through renewed funding from the National Science Foundation ([DRL-2321128](#0), and [DRL-2321129](#0)), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:
+Through renewed funding from the National Science Foundation ([DRL-2321128](#0), and [DRL-2321129](#0)), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To address this goal, LASER BEAM has three primary objectives:
+
+-   **Learn from LASER**. A significant portion of the Summer Workshop and Fall Online Learning Community consists of module sessions focused on a range of research methods. Modules sessions are conducted in small groups and differentiated for participants based on your selected method of interest. 
+
+-   **Teach with LASER**. Each LASER Scholar works on a self-determined “SHARK” Goal and instructional plan for teaching other faculty or students at their home institutions. These plans are developed during the Summer Workshop and implemented during the academic year.
+
+-   **Network at LASER**. Community building activities are designed to facilitate personal and professional networking and include morning icebreakers and opportunities to connect and collaborate with fellow Scholars throughout the year.
+
+To support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:
 
 1.  **Module Development.** LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.
 
