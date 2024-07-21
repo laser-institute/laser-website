@@ -14,6 +14,10 @@ Create a free GitHub account at: <https://github.com/signup>.
 
 **Note**: You can now connect Github CoPilot to your Posit Cloud projects individually. You must have access to [Github CoPilot](https://github.com/features/copilot) through your [Github account](https://github.com/). Github’s CoPilot is a AI PairProgrammer that you can enable with RStudio. To read more about the set up check out Posit's [User Guide](#0).
 
+Visit our LASER Institute GitHub site at: [go.ncsu.edu/laser-github](https://go.ncsu.edu/laser-github)
+
+![](images/laser-github.png)
+
 ## Posit Cloud
 
 ![](images/posit-logo.png){width="25%"}
@@ -36,7 +40,19 @@ To access this workspace, use the following link: [go.ncsu.edu/laser-instructors
 
 ### Posit Recipes & Cheat Sheets
 
-For R users, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, [Posit Recipes](https://posit.cloud/learn/recipes) provide a collection of R code snippets and instructions featuring up-to-date best practices for coding in R. [Posit Cheat Sheets](https://posit.co/resources/cheatsheets) also provide handy printable reference sheets to commonly used packages and their essential functions, including example code for testing them out. 
+For R users, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, [Posit Recipes](https://posit.cloud/learn/recipes) provide a collection of R code snippets and instructions featuring up-to-date best practices for coding in R. [Posit Cheat Sheets](https://posit.co/resources/cheatsheets) also provide handy printable reference sheets to commonly used packages and their essential functions, including example code for testing them out.
+
+![](images/laser-posit.png)
+
+## RStudio IDE
+
+![](images/rstudio.png){width="25%"}
+
+[RStudio Desktop](https://posit.co/products/open-source/rstudio) is a free desktop application of the RStudio Integrated Developer Environment (IDE) that runs on Windows, MacOS or Linux. Its advantages over Posit Cloud include offline access, full control over the local environment, customization options, data privacy and security, and the ability to leverage the full resources of your local machine, such as CPU, memory, and storage. While we will be using RStudio through Posit Cloud for the LASER Institute, we recommend shifting to RStudio Desktop for your own research. 
+
+Though we will primarily use Posit Cloud for data analysis activities using R or Python, you are welcome to adapt and complete these activities using a Integrated Developer Environment (IDE) of your preference such as [Jupyter Labs](https://jupyter.org/), [Visual Studio](https://visualstudio.microsoft.com/), [Google Collab](https://colab.research.google.com/), or [PyCharm](https://www.jetbrains.com/pycharm/). Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.
+
+![](images/laser-rstudio.png)
 
 ## Quarto
 
@@ -50,13 +66,9 @@ To create a Quarto Pub account, sign up here: <https://quartopub.com/sign-up>
 
 **Note**: If you are using RStudio Desktop, you may need to download and install Quarto here: <https://quarto.org/docs/get-started/>
 
-## RStudio IDE
+To interact with a simple example data dashboard built with Quarto for LASER visit: <https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots>
 
-![](images/rstudio.png){width="25%"}
-
-[RStudio Desktop](https://posit.co/products/open-source/rstudio) is a free desktop application of the RStudio Integrated Developer Environment (IDE) that runs on Windows, MacOS or Linux. Its advantages over Posit Cloud include offline access, full control over the local environment, customization options, data privacy and security, and the ability to leverage the full resources of your local machine, such as CPU, memory, and storage. While we will be using RStudio through Posit Cloud for the LASER Institute, we recommend shifting to RStudio Desktop for your own research. 
-
-Though we will primarily use Posit Cloud for data analysis activities using R or Python, you are welcome to adapt and complete these activities using a Integrated Developer Environment (IDE) of your preference such as [Jupyter Labs](https://jupyter.org/), [Visual Studio](https://visualstudio.microsoft.com/), [Google Collab](https://colab.research.google.com/), or [PyCharm](https://www.jetbrains.com/pycharm/). Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.
+![](images/laser-dashboard.png)
 
 ## Slack
 
@@ -65,3 +77,5 @@ Though we will primarily use Posit Cloud for data analysis activities using R or
 Throughout the year, we provide ongoing asynchronous support and communication through Slack ([http://slack.com](http://slack.com/)), a web-based app that allows for text messaging, voice and video calls, and media and file sharing either in private chats or as part of communities called "workspaces." Slack runs on Web, Windows, Linux, MacOS, Android, Windows Phone and iOS.
 
 To join our LASER Institute workspace on Slack, create an account and visit: <https://go.ncsu.edu/laser-slack>.
+
+![](images/laser-slack.png)
