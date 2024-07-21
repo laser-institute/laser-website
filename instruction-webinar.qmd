@@ -2,7 +2,7 @@
 title: "Webinar Example"
 ---
 
-![](images/sna-micro.png){fig-align="left" width="30%"}
+![](images/sna-micro.png){fig-align="left" width="20%"}
 
 Welcome to **An Introduction to Social Network Analysis and Education Research: Core Concepts and Applications with R**! This webinar is not only part of the 2023 AERA Virtual Research Learning Series, but part of the broader work of the [Learning Analytics in STEM Education Research (LASER) Institute](https://fi.ncsu.edu/projects/laser-institute/), a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). To help you prepare for our workshop this Thursday, August 10, 2023, from 1:00pm to 5:00pm (EST), provided below is some information about the organizational aspects of the workshop as well as the technical components you will need to fully participate.
 

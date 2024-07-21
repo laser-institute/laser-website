@@ -2,7 +2,7 @@
 title: "Workshop Example"
 ---
 
-![](images/laser-hex.png){fig-align="left" width="30%"}
+![](images/laser-hex.png){fig-align="left" width="20%"}
 
 ## Learning to teach with (and learn from!) LASER
 
