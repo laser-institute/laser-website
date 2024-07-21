@@ -1,5 +1,6 @@
 ---
 title: "Program Components"
+bibliography: lit/references.bib
 ---
 
 The LASER Institute is a year-long blended training program consisting of two core components:
@@ -10,13 +11,15 @@ The LASER Institute is a year-long blended training program consisting of two co
 
 ## Summer Workshop
 
-LASER BEAM participants begin their program with an intensive 5-day summer training program hosted by the [Friday Institute for Educational Innovation](https://fi.ncsu.edu) at North Carolina State University. The Summer Workshop takes place in July and is taught by NC State and Penn faculty and and includes invited presentations from Advisory Board members, as well as pre-workshop preparation (e.g., introductions and needs assessment) for participants beginning earlier that spring. To attend to the needs of STEM education faculty and researchers with varying degrees of expertise in LA, the Summer Institute provide both a *beginner* track and an *advanced* track to support faculty development, with approximately half of the participants in each track. The Summer Institute schedule outlined below provides an overview of the sequence of activities currently planned, recognizing that some adjustments be necessary based on the needs assessment and specific modules participants are interested in teaching and/or learning from. Each of these activities is described in more detail below.
+LASER BEAM participants begin their program with an intensive 5-day summer training program hosted by the [Friday Institute for Educational Innovation](https://fi.ncsu.edu) at North Carolina State University. The Summer Workshop takes place in July and is taught by NC State and Penn faculty and and includes invited presentations from Advisory Board members, as well as pre-workshop preparation (e.g., introductions and needs assessment) for participants beginning earlier that spring.
+
+To attend to the needs of STEM education faculty and researchers with varying degrees of expertise in LA, the Summer Institute provide both a *beginner* track and an *advanced* track to support faculty development, with approximately half of the participants in each track. The Summer Institute schedule outlined below provides an overview of the sequence of activities currently planned, recognizing that some adjustments be necessary based on the needs assessment and specific modules participants are interested in teaching and/or learning from. Each of these activities is described in more detail below.
 
 ### Pre-Institute Preparation
 
 As part of the application process, participants complete a needs assessment to identify their teaching interests, experience with software packages, and skills and knowledge in relation to LA and advanced methods. This assessment be used to identify the appropriate track for their Summer Institute experience and help guide the content, structure and sequence of their 5-day professional development. Participants are also provided a [LASER Institute Welcome Packet](https://go.ncsu.edu/laser-packet) provided details about the program along with a pre-institute checklist to help the prepare for the institute. For example, participants on the beginner track are required to engage in pre-institute tutorials beginning in May and which must be completed prior to the workshop to demonstrate their preparation and commitment to LASER BEAM. Finally, all participants engage in an initial community building activity designed to familiarize participants with the social platform that be used throughout LASER BEAM as part of the Online Community and provide them with an opportunity to get to know each other prior to the Summer Institute.
 
-### Summer Institute Schedule
+### Workshop Schedule
 
 |                   |                       |                    |                    |                    |                    |
 |------------|------------|------------|------------|------------|------------|
@@ -31,15 +34,19 @@ As part of the application process, participants complete a needs assessment to 
 
 ### Community Building
 
-The research and the project team’s experience leading faculty and educator training programs suggest community building activities are critical in supporting and affirming sustained participation in LA and data science initiatives, particularly for novice learners and scholars from minoritized groups (Arif et al., 2021). Consequently, LASER BEAM incorporate identity-affirming activities each day of the workshop to help participants learn more about each other and create a sense of community (Booth & Kellogg, 2015; Deglau & O'Sullivan, 2006). By sharing their backgrounds, interests, and experiences, participants identify commonalities and differences. This create a space for participants to learn from each other and build on each other's strengths.
+[Community building activities](https://www.proquest.com/docview/2582586664?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals) are critical in supporting and affirming sustained participation in LA and data science initiatives, particularly for novice learners and scholars from underrepresented groups @arif2021ten. Consequently, LASER BEAM incorporate identity-affirming activities each day of the workshop to help participants learn more about each other and create a sense of community @booth2015value. By sharing their backgrounds, interests, and experiences, participants identify commonalities and differences. This create a space for participants to learn from each other and build on each other's strengths.
+
+![](images/summer-workshop.jpeg)
 
 ### Pedagogy Sessions
 
-Participants in both the beginner and advanced tracks engage in whole group sessions to support them in adapting materials for their own instructional programs. Sessions focus on a range of topics, from understanding the design principles behind the LASER BEAM curriculum to setting up the infrastructure necessary for learners to fully participate in module activities. Pedagogy sessions throughout the week focus on the nuts and bolts of teaching the curriculum, including topics such as tools and approaches for facilitating in-person and online discussion, assessment and grading of assignments, and logistics for instructional delivery. For example, on Day 1 (Monday) participants are introduced to Posit Cloud, a powerful set of data science and instructional tools that can be accessed through an internet browser and used for assigning, supporting, and assessing instructional activities such as the interactive coding case studies and tutorials highlighted in Section 2c.
+Participants in both the beginner and advanced tracks engage in whole group sessions to support them in adapting materials for their own instructional programs. Sessions focus on a range of topics, from understanding the design principles behind the LASER BEAM curriculum to setting up the infrastructure necessary for learners to fully participate in module activities. Pedagogy sessions throughout the week focus on the nuts and bolts of teaching the curriculum, including topics such as tools and approaches for facilitating in-person and online discussion, assessment and grading of assignments, and logistics for instructional delivery. For example, on Day 1 (Monday) participants are introduced to the [LASER Toolkit](https://laser-institute.github.io/laser-website/instruction-tech.html), a powerful set of data science and instructional tools that can be accessed through an internet browser and used for assigning, supporting, and assessing instructional activities such as the interactive coding case studies and tutorials highlighted in Section 2c.
 
 ### Module Sessions
 
-Module sessions be conducted in small groups and differentiated for participants in the beginner and the advanced track based upon the needs assessment administered prior to the Summer Institute. These sessions focus on the instructional materials from which participants both learn from and use to train learners at their home institutions. Participants in the beginner track focus on 4 introductory modules to develop their foundational knowledge and skills (see Section 2c) necessary for more advanced methods. Advanced track participants engage in 4 module sessions focused on more advanced topics such as text classification and deep knowledge tracing. Sessions be facilitated by members of the project team, who model instructional best practices for use of these materials and participants in both tracks work through select module activities just as would be expected from the students and faculty they plan to teach. Additionally, module sessions be offered in an online format through workshops in the fall and spring (see Online Community section). This allow the project team to both address topics not covered during the summer institute and to model instructional delivery in a purely online context.
+Sessions focused on learning from LASER curriculum modules are conducted in small groups and differentiated for participants in the beginner and the advanced track based upon the needs assessment administered prior to the Summer Institute. These sessions focus on the instructional materials from which participants both learn from and use to train learners at their home institutions. Participants in the beginner track focus on 4 introductory modules to develop their foundational knowledge and skills (see Section 2c) necessary for more advanced methods. Advanced track participants engage in 4 module sessions focused on more advanced topics such as text classification and deep knowledge tracing. Sessions be facilitated by members of the project team, who model instructional best practices for use of these materials and participants in both tracks work through select module activities just as would be expected from the students and faculty they plan to teach. Additionally, module sessions be offered in an online format through workshops in the fall and spring (see Online Community section). This allow the project team to both address topics not covered during the summer institute and to model instructional delivery in a purely online context.
+
+![](images/learning-modules.png)
 
 ### Design Sessions
 
@@ -49,9 +56,9 @@ Each day end with small group activities to assist participants in designing a c
 
 These sessions draw upon the backgrounds and expertise of our Advisory Board members and other invited guests who have taught courses, workshops, and training events focused on LA and related methods. Sessions reinforce topics introduced in our module and pedagogy sessions, and help participants envision how LASER BEAM curriculum materials and activities might be adapted to fit their own contexts and institutional programs.
 
-## Online Community
+## Fall Online Community
 
-Ongoing support is provided to participants during the academic year to continue their professional learning and ensure they can successfully carry out instructional plans at their home institutions. The project team provides a range of activities designed to support participants and inform curriculum refinement throughout the year. These following are guided by findings from our prior research found to be strongly associated with successful online communities: 
+Ongoing support is provided to participants during the academic year to continue their professional learning and ensure they can successfully carry out instructional plans at their home institutions. The project team provides a range of activities designed to support participants and inform curriculum refinement throughout the year. These following are guided by findings from our prior research found to be strongly associated with successful online communities:
 
 ### Monthly Check-Ins
 
@@ -61,10 +68,16 @@ Throughout fall and spring, the project team will facilitate formal monthly chec
 
 These session are offered several times each month so participants can learn about research methods they were unable to experience during the Summer Institute, as well to model instructional use of the modules in a fully online context. The workshops are led by members of the project team as well as by past LASER Scholars.
 
+![](images/online-community.png)
+
 ### Asynchronous Activities
 
 Facilitated discussion channels and informal Q&As are hosted on our [Slack workspace](http://laser-scholars.slack.com/), which includes both current and past participants from prior LASER Institute cohorts. Discussions focus on shared problems of practice such as adapting instructional modules to local contexts or working with students who have limited programming experience, as well as topics related to module content such as R packages, conceptual overviews, and essential readings. 
 
 ### Resource Repositories
 
-A key deliverable of this grant is a freely available website that houses all the curriculum materials needed to teach, and learn from, the LASER curriculum. These materials consist of both project team and member-generated content hosted on [GitHub](https://github.com/laser-institute) and a [new curriculum website](https://laser-institute.github.io/laser-website/) currently under development. These website include materials for each module as well as supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up.
+A key deliverable of this grant is a freely available website that houses all the curriculum materials needed to teach, and learn from, the LASER curriculum. These materials consist of both project team and member-generated content hosted on [GitHub](#0) and this website. These websites include materials for each module as well as supporting materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and logistics for set up.
+
+![](images/laser-github.png)
+
+## References
