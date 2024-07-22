@@ -58,7 +58,7 @@ Module 3 wraps discuss Item Response Theory, a classic approach for assessment i
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Item Response Theory and ELO](https://yilinliu.quarto.pub/module-3-item-response-theory-and-elo/#/title-slide) |
 |                                          | Overview**     |                                                                                                                 |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                                                      |
+| ![](images/code-along.png){width="40"}   | **Code Along** |                                                                                                       |
 +------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)                                  |
 |                                          | Discussion**   |                                                                                                                 |
@@ -76,7 +76,7 @@ Module 4 discusses the application of deep neural networks in knowledge tracing,
 | ![](images/presentation.png){width="40"} | **Conceptual\  | [Intro to Deep Knowledge Tracing](https://yilinl.quarto.pub/module-4-deep-knowledge-tracing/#/title-slide) |
 |                                          | Overview**     |                                                                                                            |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}   | **Code Along** | Coming soon!                                                                                             |
+| ![](images/code-along.png){width="40"}   | **Code Along** |                                                                                         |
 +------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}      | **Readings &\  | [Essential Readings](https://yilinliu.quarto.pub/kt-introduction/#/references)                             |
 |                                          | Discussion**   |                                                                                                            |
