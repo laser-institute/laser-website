@@ -2,7 +2,7 @@
 title: "Modular by Design"
 ---
 
-The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experiences. This design enables instructors to tailor content and activites for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.
+The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experiences. This design enables instructors to tailor content and activities for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.
 
 ## Design Principles
 
@@ -25,7 +25,7 @@ The guiding design principle of the LASER BEAM curriculum, setting it apart from
 LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.
 
 | Research Methods                     | **Module 1**   | Module 2             | Module 3                         | Module 4                 |
-|--------------------------------------|----------------|----------------------|----------------------------------|--------------------------|
+|---------------|---------------|---------------|---------------|---------------|
 | **LA Workflows**                     | Data Wrangling | Exploratory Analysis | Modeling Basics                  | Data Products            |
 | **Supervised Learning (SL)**         | SL Basics      | Feature Engineering  | Model Tuning                     | Diagnostic Metrics       |
 | **Unsupervised Methods**             | UM Basics      | Clustering           | Factor Analysis                  | Knowledge Structures     |
