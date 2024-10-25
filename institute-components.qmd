@@ -21,16 +21,16 @@ As part of the application process, participants complete a needs assessment to 
 
 ### Workshop Schedule
 
-|                   |                       |                    |                    |                    |                    |
-|-------------------|-----------------------|--------------------|--------------------|--------------------|--------------------|
-| **EST**           | **Monday**            | **Tuesday**        | **Wednesday**      | **Thursday**       | **Friday**         |
-| **9:00 - 9:30**   | LASER Welcome         | Community Building | Community Building | Community Building | Community Building |
-| **9:40 - 11:00**  | LASER Orientation     | Module Session 1   | Module Session 2   | Module Session 3   | Module Session 4   |
-| **11:15 - 12:30** | Orientation Continued | Module Session     | Module Session     | Module Session     | Module Session     |
-| **1:30 - 2:10**   | Guest Speaker         | Guest Speaker      | Guest Speaker      | Guest Speaker      | Guest Speaker      |
-| **2:15 - 3:00**   | Module Intro          | Module Session     | Module Session     | Module Session     | LASER Closing      |
-| **3:00 - 3:45**   | Pedagogy Session      | Pedagogy Session   | Pedagogy Session   | Pedagogy Session   | Evaluation         |
-| **4:00 - 5:00**   | Design Session        | Design Session     | Design Session     | Design Session     | Early Exit         |
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| **EST** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
+| **9:00 - 9:30** | LASER Welcome | Community Building | Community Building | Community Building | Community Building |
+| **9:40 - 11:00** | LASER Orientation | Module Session 1 | Module Session 2 | Module Session 3 | Module Session 4 |
+| **11:15 - 12:30** | Orientation Continued | Module Session | Module Session | Module Session | Module Session |
+| **1:30 - 2:10** | Guest Speaker | Guest Speaker | Guest Speaker | Guest Speaker | Guest Speaker |
+| **2:15 - 3:00** | Module Intro | Module Session | Module Session | Module Session | LASER Closing |
+| **3:00 - 3:45** | Pedagogy Session | Pedagogy Session | Pedagogy Session | Pedagogy Session | Evaluation |
+| **4:00 - 5:00** | Design Session | Design Session | Design Session | Design Session | Early Exit |
 
 ### Community Building
 
