@@ -27,7 +27,7 @@ The guiding design principle of the LASER BEAM curriculum, setting it apart from
 LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.
 
 | Research Methods | **Module 1** | Module 2 | Module 3 | Module 4 |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | **LA Workflows** | Data Wrangling | Exploratory Analysis | Modeling Basics | Data Products |
 | **Supervised Learning (SL)** | SL Basics | Feature Engineering  | Model Tuning | Diagnostic Metrics |
 | **Unsupervised Methods** | UM Basics | Clustering | Factor Analysis | Knowledge Structures |

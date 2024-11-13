@@ -11,7 +11,7 @@ The Learning Analytics Workflow modules are designed to equip STEM education res
 | ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/text-mining)                                          |
 |                                    | **              |                                                                                                                       |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Students](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ## Module 1: Characteristics of Data

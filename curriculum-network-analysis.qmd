@@ -11,7 +11,7 @@ Although social network analysis (SNA) and its educational antecedents date back
 | ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/network-analysis)                                     |
 |                                    | **              |                                                                                                                       |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Students](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ## Module 1: Network Analysis for Newbies

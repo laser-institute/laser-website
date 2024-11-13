@@ -11,7 +11,7 @@ The Knowledge Tracing Modules are designed to provide LASER Scholars with a comp
 | ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/knowledge-tracing)                                    |
 |                                    | **              |                                                                                                                       |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Students](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ## Module 1: Bayesian Knowledge Tracing

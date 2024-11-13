@@ -6,12 +6,12 @@ title: "Supervised Machine Learning"
 
 Machine learning is increasingly prevalent in our lives---and in educational contexts. Its role in educational research and practice is growing, albeit with some challenges and even controversy. These modules are designed to familiarize you with supervised machine learning (SML) and its applications in STEM education research. Throughout the module, we'll explore four key questions that correspond to the focus of each of the four modules. By the end, you will have a deep understanding of the key characteristics of supervised machine learning and how to implement supervised machine learning workflows in R and Python.
 
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/github.png){width="40"} | **Github\       | [Repository for LASER Instructors](https://github.com/laser-institute/supervised-machine-learning)                          |
-|                                    | **              |                                                                                                                             |
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for LASER Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------------+
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/supervised-machine-learning)                          |
+|                                    | **              |                                                                                                                       |
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ## Module 1: Supervised Machine Learning Foundations
 
