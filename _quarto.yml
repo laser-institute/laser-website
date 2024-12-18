@@ -33,13 +33,13 @@ website:
     style: "docked"
     search: true
     contents:
-    - section: "Institute"
+    - section: "INSTITUTE"
       contents:
         - institute-la.qmd
         - institute-goals.qmd
         - institute-components.qmd
         - curriculum-design.qmd
-    - section: "Curriculum"
+    - section: "CURRICULUM"
       contents:
         - curriculum-orientation.qmd
         - curriculum-la-workflow.qmd
@@ -47,7 +47,7 @@ website:
         - curriculum-network-analysis.qmd
         - curriculum-text-mining.qmd
         - curriculum-knowledge-tracing.qmd
-    - section: "Instruction"
+    - section: "INSTRUCTION"
       contents:
         - instruction-intro.qmd
         - instruction-tech.qmd
