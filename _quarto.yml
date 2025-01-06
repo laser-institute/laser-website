@@ -8,7 +8,7 @@ website:
   repo-url: https://github.com/laser-institute/laser-website
   repo-actions: [edit, issue]
   favicon: "images/laser-icon.png"
-  google-analytics: "G-6TQEEVEPKC"
+  google-analytics: "G-E2N8VR6P6V"
   
   navbar:
     background: "#427E93"
