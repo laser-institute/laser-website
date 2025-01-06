@@ -1,6 +1,6 @@
 - source: project
   quarto-pub:
     - id: 94e92e99-e897-450c-a7e2-4b6452ae6f09
-      url: 'https://sbkellogg.quarto.pub/laser-institute'
+      url: https://sbkellogg.quarto.pub/laser-institute
     - id: 0fe4330b-bda0-4b05-bb36-4b90cb3d37cc
-      url: 'https://laser-institute.quarto.pub/home'
+      url: https://laser-institute.quarto.pub/home
