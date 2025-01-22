@@ -27,7 +27,7 @@ The guiding design principle of the LASER BEAM curriculum, setting it apart from
 LASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.
 
 | Research Methods | **Module 1** | Module 2 | Module 3 | Module 4 |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | **LA Workflows** | Data Wrangling | Exploratory Analysis | Modeling Basics | Data Products |
 | **Supervised Learning (SL)** | SL Basics | Feature Engineering  | Model Tuning | Diagnostic Metrics |
 | **Unsupervised Methods** | UM Basics | Clustering | Factor Analysis | Knowledge Structures |
@@ -36,6 +36,7 @@ LASER modules cover a broad range of both introductory and advanced methods freq
 | **Knowledge Tracing (KT)** | KT Basics | BKT family  | PFA/LKT families | DKT family |
 | **Social Network Analysis (SNA)** | SNA Basics | Measurement | Positions & Groups | Network Modeling |
 | **Epistemic Network Analysis (ENA)** | ENA Basics | Visualizing Networks | Quantitative Analysis | Advanced Applications |
+| **Large Language Models (LLM)** | LLM Basics | TBD | TBD | TBD |
 
 Interwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners' understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.
 
@@ -47,11 +48,11 @@ Each instructional module consist of carefully scaffolded activities designed to
 
 #### Conceptual Overviews
 
-Each module includes a presentation([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide)) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.
+Each module includes a presentation ([see example](https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide)) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.
 
 #### Code-Alongs
 
-The second presentation provides a short but highly structured coding ([see example](https://laser-institute.github.io/network-analysis/module-1/sna-1-code-along-R.html)) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker's BDEMOOC, will also be provided on the LASER BEAM website to support independent learners. 
+The second presentation provides a short but highly structured coding ([see example](https://laser-institute.github.io/network-analysis/module-1/sna-1-code-along-R.html)) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker's BDEMOOC, will also be provided on the LASER BEAM website to support independent learners.
 
 ### Instructional Deep Dives
 
