@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,12 +38,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-58ee85a8f5aa268c836d8036af94fc1f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-93a62f67ff686694d76b8051418c558d.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -440,11 +440,11 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 <h3 class="anchored" data-anchor-id="introductory-presentations">Introductory Presentations</h3>
 <section id="conceptual-overviews" class="level4">
 <h4 class="anchored" data-anchor-id="conceptual-overviews">Conceptual Overviews</h4>
-<p>Each module includes a presentation (<a href="https://laser-institute.github.io/network-analysis/lab-1/sna-1-conceptual-overview.html#/title-slide">see example</a>) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunites for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.</p>
+<p>Each module includes a presentation (<a href="https://laser-institute.github.io/network-analysis/module-1/sna-1-conceptual-overview.html#/title-slide">see example</a>) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunities for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.</p>
 </section>
 <section id="code-alongs" class="level4">
 <h4 class="anchored" data-anchor-id="code-alongs">Code-Alongs</h4>
-<p>The second presentation provides a short but highly structured coding (<a href="https://laser-institute.github.io/network-analysis/module-1/sna-1-code-along-R.html">see example</a>) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners.&nbsp;</p>
+<p>The second presentation provides a short but highly structured coding (<a href="https://laser-institute.github.io/network-analysis/module-1/sna-1-code-along-R.html">see example</a>) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners.</p>
 </section>
 </section>
 <section id="instructional-deep-dives" class="level3">
@@ -704,6 +704,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -814,6 +816,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
