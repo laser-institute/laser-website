@@ -294,7 +294,7 @@
     "href": "curriculum-text-mining.html#module-2-public-sentiment-and-school-reform-dictionary-methods",
     "title": "Text Mining",
     "section": "Module 2: Public Sentiment and School Reform (Dictionary Methods)",
-    "text": "Module 2: Public Sentiment and School Reform (Dictionary Methods)\nThis module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of Rosenberg et al. (2021) and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nIntro to Dictionary-Based Methods\n\n\n\nCode Along\nWorking with Sentiment Lexicons\n\n\n\nReadings &\nReflection\nDictionary-Based Methods\n\n\n\nCase Study\nPublic Sentiment Towards State Standards? | Answer Key\n\n\n\nBadge\nAnalyzing Sentiment\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "text": "Module 2: Public Sentiment and School Reform (Dictionary Methods)\nThis module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people’s opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of Rosenberg et al. (2021) and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nIntro to Dictionary-Based Methods\n\n\n\nCode Along\nWorking with Sentiment Lexicons\n\n\n\nReadings &\nReflection\nDictionary-Based Methods\n\n\n\nCase Study\nPublic Sentiment Towards State Standards? | Answer Key\n\n\n\nBadge\nSentiment Analysis Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -330,7 +330,7 @@
     "href": "curriculum-text-mining.html#microcredential",
     "title": "Text Mining",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nText Mining in Education",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nText Mining in Education",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -1025,5 +1025,29 @@
     "title": "Goals and Objectives",
     "section": "",
     "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-3-topic-modeling-in-mooc-eds",
+    "href": "curriculum-text-mining.html#module-3-topic-modeling-in-mooc-eds",
+    "title": "Text Mining",
+    "section": "Module 3: Topic Modeling in MOOC-Eds",
+    "text": "Module 3: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by quantifying how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique, while our Module 3 Case Study is guided by the work from Friday Institute and explores ideas or issues that emerged in the discussion forums in a MOOC-ed course (Akoglu, Lee, and Kellogg 2019). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nAn Intro to Topic Modeling\n\n\n\nCode Along\nLatent Dirichlet Allocation\n\n\n\nReadings &\nDiscussion\nTopic Modeling and STEM Ed Research\n\n\n\nCase Study\nTopic Modeling in MOOC-Eds | Answer Key\n\n\n\nBadge\nTopic Modeling Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Text Mining"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-4-quantitative-enthnography",
+    "href": "curriculum-text-mining.html#module-4-quantitative-enthnography",
+    "title": "Text Mining",
+    "section": "Module 4: Quantitative Enthnography",
+    "text": "Module 4: Quantitative Enthnography\nOur final module concludes our exploration of text mining methods by introducing Quantitative Ethnography (QE) as well as Epistemic Network Analysis (ENA). ENA is a subset of QE and focuses on modeling the relationships between ideas within discourse. While automated topic modeling approaches such as Latent Dirichlet Allocation (LDA) are useful for identifying general themes in large text corpora, they do not capture the structure of meaning, that is, how ideas are connected within a conversation, a learning environment, or a collaborative task. This module will explore how QE and ENA fill this gap by providing a framework to analyze how concepts are linked in human discourse and how those connections reflect knowledge construction and problem-solving.\n\n\n\n\nConceptual\nOverview\nIntro to Quantitative Enthnography\n\n\n\nCode Along\nThe rENA Package\n\n\n\nReadings &\nDiscussion\nQuantitative Ethnography and ENA\n\n\n\nCase Study\nENA and Virtual Internship Conversations | Answer Key\n\n\n\nBadge\nEpistemic Network Analysis Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Text Mining"
+    ]
   }
 ]
