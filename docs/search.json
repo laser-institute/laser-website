@@ -136,7 +136,7 @@
     "href": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
     "title": "Supervised Machine Learning",
     "section": "Module 1: Supervised Machine Learning Foundations",
-    "text": "Module 1: Supervised Machine Learning Foundations\nHow is prediction different from explanation? This module provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).\n\n\n\n\nConceptual\nOverview\nWhat is Supervised Machine Learning? (Zoom recording)\n\n\n\nCode Along\nSame Model, Different Analytic Goals\n\n\n\nReadings &\nReflection\nConsidering Models for Inference and Models for Prediction\n\n\n\nCase Study Key\nExplaining or Predicting Graduation Rates Using IPEDS | Answer Key\n\n\n\nBadge\nInitial Interpretations of a Model’s Predictions\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "text": "Module 1: Supervised Machine Learning Foundations\nHow is prediction different from explanation? This module provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1,000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).\n\n\n\n\nConceptual\nOverview\nWhat is Supervised Machine Learning?\n\n\n\nCode Along\nSame Model, Different Analytic Goals\n\n\n\nReadings &\nReflection\nConsidering Models for Inference and Models for Prediction\n\n\n\nCase Study Key\nExplaining or Predicting Graduation Rates Using IPEDS | Answer Key\n\n\n\nBadge\nInitial Interpretations of a Model’s Predictions\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#module-2-workflows-with-training-and-testing-data",
-    "href": "curriculum-machine-learning.html#module-2-workflows-with-training-and-testing-data",
+    "objectID": "curriculum-machine-learning.html#module-2-using-workflows-with-training-and-testing-data",
+    "href": "curriculum-machine-learning.html#module-2-using-workflows-with-training-and-testing-data",
     "title": "Supervised Machine Learning",
-    "section": "Module 2: Workflows With Training and Testing Data",
-    "text": "Module 2: Workflows With Training and Testing Data\nBuilding on the foundations from Module 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course using the Open University Learning Analytics Dataset (OULAD).\n\n\n\n\nConceptual\nOverview\nUsing Training and Testing Data in a Workflow\n\n\n\nCode Along\nHow to Split Data into Training and Testing Sets\n\n\n\nReadings &\nReflection\nWhat Makes Supervised Machine Learning Distinct\n\n\n\nCase Study\nWho Drops Online Courses? An Analysis Using the OULAD | Answer Key\n\n\n\nBadge\nAdding Additional Predictors to Improve Accuracy\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "section": "Module 2: Using Workflows With Training and Testing Data",
+    "text": "Module 2: Using Workflows With Training and Testing Data\nBuilding on the foundations from Module 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course again using the Integrated Postsecondary Education Data System (IPEDS) data.\n\n\n\n\nConceptual\nOverview\nUsing Training and Testing Data in a Workflow\n\n\n\nCode Along\nHow to Split Data into Training and Testing Sets\n\n\n\nReadings &\nReflection\nWhat Makes Supervised Machine Learning Distinct\n\n\n\nCase Study\nWho Drops Online Courses? An Analysis Using the OULAD | Answer Key\n\n\n\nBadge\nAdding Additional Predictors to Improve Accuracy\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -156,11 +156,11 @@
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#module-3-interpreting-metrics",
-    "href": "curriculum-machine-learning.html#module-3-interpreting-metrics",
+    "objectID": "curriculum-machine-learning.html#module-3-interpreting-prediction-metrics",
+    "href": "curriculum-machine-learning.html#module-3-interpreting-prediction-metrics",
     "title": "Supervised Machine Learning",
-    "section": "Module 3: Interpreting Metrics",
-    "text": "Module 3: Interpreting Metrics\nHow is the interpretation of SML models different from more familiar models? In this module, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Module 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous modules.\n\n\n\n\nConceptual\nOverview\nHow Good is Our Model, Really?\n\n\n\nCode Along\nAdding Classification Metrics to a Workflow\n\n\n\nReadings &\nDiscussion\nConsidering Many Metrics\n\n\n\nCase Study\nBeyond Accuracy: How to Calculate Metrics | Answer Key\n\n\n\nBadge\nMetrics for Continuous Outcome Variables\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "section": "Module 3: Interpreting Prediction Metrics",
+    "text": "Module 3: Interpreting Prediction Metrics\nHow is the interpretation of SML models different from more familiar models? In this module, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Module 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous modules.\n\n\n\n\nConceptual\nOverview\nHow Good is Our Model, Really?\n\n\n\nCode Along\nAdding Classification Metrics to a Workflow\n\n\n\nReadings &\nDiscussion\nConsidering Many Metrics\n\n\n\nCase Study\nBeyond Accuracy: How to Calculate Metrics | Answer Key\n\n\n\nBadge\nMetrics for Continuous Outcome Variables\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -168,11 +168,11 @@
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#module-4-improving-predictions-through-feature-engineering",
-    "href": "curriculum-machine-learning.html#module-4-improving-predictions-through-feature-engineering",
+    "objectID": "curriculum-machine-learning.html#module-4-how-do-we-make-our-models-better",
+    "href": "curriculum-machine-learning.html#module-4-how-do-we-make-our-models-better",
     "title": "Supervised Machine Learning",
-    "section": "Module 4: Improving Predictions Through Feature Engineering",
-    "text": "Module 4: Improving Predictions Through Feature Engineering\nHow can we improve our predictions? This module introduces the concept of feature engineering to enhance model performance. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps.\n\n\n\n\nConceptual\nOverview\nMaking Better Predictions with Random Forests\n\n\n\nCode Along\nHow to Cross-Validate and Change the Model\n\n\n\nReadings &\nDiscussion\nDiving Deep on Features and Feature Engineering\n\n\n\nCase Study\nModeling Interactions Data with Random Forest | Answer Key\n\n\n\nBadge\nFeature Engineering Activity Types\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "section": "Module 4: How Do We Make Our Models Better?",
+    "text": "Module 4: How Do We Make Our Models Better?\nHow can we improve our predictions? This module introduces two ways: more sophisticated models and feature engineering. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps and we’ll fine tune a “boosted” decision tree model to improve our predictions.\n\n\n\n\nConceptual\nOverview\nMaking Better Predictions with Random Forests\n\n\n\nCode Along\nHow to Cross-Validate and Change the Model\n\n\n\nReadings &\nDiscussion\nDiving Deep on Features and Feature Engineering\n\n\n\nCase Study\nModeling Interactions Data with Random Forest | Answer Key\n\n\n\nBadge\nFeature Engineering Activity Types\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -302,11 +302,11 @@
     ]
   },
   {
-    "objectID": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
-    "href": "curriculum-text-mining.html#module-3-large-language-models-for-qualitative-analysis",
+    "objectID": "curriculum-text-mining.html#module-3-topic-modeling-in-mooc-eds",
+    "href": "curriculum-text-mining.html#module-3-topic-modeling-in-mooc-eds",
     "title": "Text Mining",
-    "section": "Module 3: Large Language Models for Qualitative Analysis",
-    "text": "Module 3: Large Language Models for Qualitative Analysis\nThis module wraps up our work with text mining and examines recent advances in using large language models to code qualitative data (i.e., interview transcripts, group discussions, and open-ended responses). Through our essential readings, we’ll learn about this technique. Our Text Mining Case Study: What are high school students’ machine learning literacy before and after participating in an AI curriculum? is inspired by the need to assess machine learning literacy and use automated assessment for real-time intervention in the field of AI education. Finally, the Large Language Model Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nLarge Language Models\n\n\n\nCode Along\nIn-Context Learning\n\n\n\nReadings &\nDiscussion\nLLM for Qualitative Analysis\n\n\n\nCase Study\nWhat are High School Students’ Machine Learning Literacy? | Python Key |\n\n\n\nBadge\nLarge Language Models Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "section": "Module 3: Topic Modeling in MOOC-Eds",
+    "text": "Module 3: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by quantifying how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique, while our Module 3 Case Study is guided by the work from Friday Institute and explores ideas or issues that emerged in the discussion forums in a MOOC-ed course (Akoglu, Lee, and Kellogg 2019). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nAn Intro to Topic Modeling\n\n\n\nCode Along\nLatent Dirichlet Allocation\n\n\n\nReadings &\nDiscussion\nTopic Modeling and STEM Ed Research\n\n\n\nCase Study\nTopic Modeling in MOOC-Eds | Answer Key\n\n\n\nBadge\nTopic Modeling Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -314,11 +314,11 @@
     ]
   },
   {
-    "objectID": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
-    "href": "curriculum-text-mining.html#module-4-topic-modeling-in-mooc-eds",
+    "objectID": "curriculum-text-mining.html#module-4-quantitative-enthnography",
+    "href": "curriculum-text-mining.html#module-4-quantitative-enthnography",
     "title": "Text Mining",
-    "section": "Module 4: Topic Modeling in MOOC-Eds",
-    "text": "Module 4: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by examining how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique. Our Text Mining Case Study: What are participants discussing in forums? is guided by the work from Friday Institute and it explores ideas or issues that emerged in the discussion forums in a MOOC-ed course (Akoglu, Lee, and Kellogg 2019). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nTopic Modeling \n\n\n\nCode Along\nLatent Dirichlet Allocation\n\n\n\nReadings &\nDiscussion\nIntroduction to Topic Modeling\n\n\n\nCase Study\nWhat are Participants Discussing in Forums? | R Key | Python Key\n\n\n\nBadge\nTopic Modeling Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "section": "Module 4: Quantitative Enthnography",
+    "text": "Module 4: Quantitative Enthnography\nOur final module concludes our exploration of text mining methods by introducing Quantitative Ethnography (QE) as well as Epistemic Network Analysis (ENA). ENA is a subset of QE and focuses on modeling the relationships between ideas within discourse. While automated topic modeling approaches such as Latent Dirichlet Allocation (LDA) are useful for identifying general themes in large text corpora, they do not capture the structure of meaning, that is, how ideas are connected within a conversation, a learning environment, or a collaborative task. This module will explore how QE and ENA fill this gap by providing a framework to analyze how concepts are linked in human discourse and how those connections reflect knowledge construction and problem-solving.\n\n\n\n\nConceptual\nOverview\nIntro to Quantitative Enthnography\n\n\n\nCode Along\nThe rENA Package\n\n\n\nReadings &\nDiscussion\nQuantitative Ethnography and ENA\n\n\n\nCase Study\nENA and Virtual Internship Conversations | Answer Key\n\n\n\nBadge\nEpistemic Network Analysis Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -1025,29 +1025,5 @@
     "title": "Goals and Objectives",
     "section": "",
     "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-3-topic-modeling-in-mooc-eds",
-    "href": "curriculum-text-mining.html#module-3-topic-modeling-in-mooc-eds",
-    "title": "Text Mining",
-    "section": "Module 3: Topic Modeling in MOOC-Eds",
-    "text": "Module 3: Topic Modeling in MOOC-Eds\nThis module focuses on identifying “topics” by quantifying how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique, while our Module 3 Case Study is guided by the work from Friday Institute and explores ideas or issues that emerged in the discussion forums in a MOOC-ed course (Akoglu, Lee, and Kellogg 2019). Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nAn Intro to Topic Modeling\n\n\n\nCode Along\nLatent Dirichlet Allocation\n\n\n\nReadings &\nDiscussion\nTopic Modeling and STEM Ed Research\n\n\n\nCase Study\nTopic Modeling in MOOC-Eds | Answer Key\n\n\n\nBadge\nTopic Modeling Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Text Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-text-mining.html#module-4-quantitative-enthnography",
-    "href": "curriculum-text-mining.html#module-4-quantitative-enthnography",
-    "title": "Text Mining",
-    "section": "Module 4: Quantitative Enthnography",
-    "text": "Module 4: Quantitative Enthnography\nOur final module concludes our exploration of text mining methods by introducing Quantitative Ethnography (QE) as well as Epistemic Network Analysis (ENA). ENA is a subset of QE and focuses on modeling the relationships between ideas within discourse. While automated topic modeling approaches such as Latent Dirichlet Allocation (LDA) are useful for identifying general themes in large text corpora, they do not capture the structure of meaning, that is, how ideas are connected within a conversation, a learning environment, or a collaborative task. This module will explore how QE and ENA fill this gap by providing a framework to analyze how concepts are linked in human discourse and how those connections reflect knowledge construction and problem-solving.\n\n\n\n\nConceptual\nOverview\nIntro to Quantitative Enthnography\n\n\n\nCode Along\nThe rENA Package\n\n\n\nReadings &\nDiscussion\nQuantitative Ethnography and ENA\n\n\n\nCase Study\nENA and Virtual Internship Conversations | Answer Key\n\n\n\nBadge\nEpistemic Network Analysis Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Text Mining"
-    ]
   }
 ]
