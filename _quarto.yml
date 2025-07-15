@@ -49,6 +49,8 @@ website:
         - curriculum-knowledge-tracing.qmd
     - section: "INSTRUCTION"
       contents:
+        - text: "Teaching Newcomers"
+          href: https://laser-institute.github.io/teaching-ds-presentation/#/title-slide
         - instruction-intro.qmd
         - instruction-tech.qmd
         - instruction-course.qmd

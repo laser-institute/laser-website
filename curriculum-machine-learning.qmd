@@ -97,6 +97,6 @@ How can we improve our predictions? This module introduces two ways: more sophis
 
 To earn the SML micro-credential, you will carry out an SML analysis using data of your choosing and report the results in a Quarto document. Emphasize *why* you are using SML (relative to regression or another approach) and use feature engineering and cross-validation to refine your model. Lastly, interpret your model carefully by going beyond reporting accuracy to report the specific metrics for the strength of your SML model's predictions, given the particular aims of your analysis.
 
-+--------------------------------------+---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                      |                     |                                                                                                                                                       |
+|--------------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![](images/ml-micro.png){width="45"} | **Microcredential** | [Supervised Machine Learning Microcredential](https://laser-institute.github.io/supervised-machine-learning/microcredential/sml-microcredential.html) |
-+--------------------------------------+---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
