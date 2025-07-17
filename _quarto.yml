@@ -49,13 +49,13 @@ website:
         - curriculum-knowledge-tracing.qmd
     - section: "INSTRUCTION"
       contents:
-        - text: "Teaching Newcomers"
-          href: https://laser-institute.github.io/teaching-ds-presentation/#/title-slide
         - instruction-intro.qmd
         - instruction-tech.qmd
         - instruction-course.qmd
         - instruction-workshop.qmd
         - instruction-webinar.qmd
+        - text: "Teaching Newcomers"
+          href: https://laser-institute.github.io/teaching-ds-presentation/#/title-slide
 
   page-footer:
       left: "This page is built with [Quarto](https://quarto.org/) and hosted by [GitHub](https://pages.github.com)."
