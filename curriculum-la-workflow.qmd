@@ -5,7 +5,7 @@ bibliography: lit/references.bib
 
 ![](images/law-micro.png){width="20%"}
 
-TEST The Learning Analytics Workflow modules are designed to equip STEM education researchers with the skills to apply these analytical methods to better understand and enhance student learning and educational environments. The modules offer a comprehensive overview of the learning analytics process, starting with the characteristics of educational data and progressing through data visualization, analytical methods, and communication of findings. The presentations, readings, and case studies for each module draw from leading texts, such as **Learning Analytics Goes to School** [@krumm2018], as well as current research in the field, providing participants with both theoretical knowledge and practical experience. Scholars will engage in hands-on coding exercises using R and Python, tailored to their respective programming preferences, ensuring they gain practical skills in data preparation, visualization, modeling, and communication.
+The Learning Analytics Workflow modules are designed to equip STEM education researchers with the skills to apply these analytical methods to better understand and enhance student learning and educational environments. The modules offer a comprehensive overview of the learning analytics process, starting with the characteristics of educational data and progressing through data visualization, analytical methods, and communication of findings. The presentations, readings, and case studies for each module draw from leading texts, such as **Learning Analytics Goes to School** [@krumm2018], as well as current research in the field, providing participants with both theoretical knowledge and practical experience. Scholars will engage in hands-on coding exercises using R and Python, tailored to their respective programming preferences, ensuring they gain practical skills in data preparation, visualization, modeling, and communication.
 
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 | ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/text-mining)                                          |
@@ -98,8 +98,8 @@ In Module 4, scholars will learn to communicate their analytical findings effect
 
 The culminating activity for the LAW Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your LAW Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
-+---------------------------------------+---------------------+---------------------------------------------------------------------------------------------------------------------------+
+|  |  |  |
+|----|----|----|
 | ![](images/law-micro.png){width="50"} | **Microcredential** | [The Learning Analytics Workflow](https://laser-institute.github.io/la-workflow/microcredential/law-microcredential.html) |
-+---------------------------------------+---------------------+---------------------------------------------------------------------------------------------------------------------------+
 
 ## References
