@@ -1,0 +1,47 @@
+---
+title: "Relationship Mining"
+bibliography: lit/references.bib
+---
+
+\[Badge Placeholder\]
+
+\[Curricular Overview\] Relationship mining labs address the following critical questions:
+
+1.  
+
++------------------------------------+-----------------+----------------------------+
+| ![](images/github.png){width="40"} | **Github\       | Repository for Instructors |
+|                                    | **              |                            |
++------------------------------------+-----------------+----------------------------+
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | Workspace for Learners     |
++------------------------------------+-----------------+----------------------------+
+
+## Module x: \[Title\]
+
+\[Module Overview\]
+
++-------------------------------------------------+-------------------+----------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Conceptual\     |                                        |
+|                                                 | Overview**        |                                        |
++-------------------------------------------------+-------------------+----------------------------------------+
+| ![](images/code-along.png){width="40"}          | **Code Along**    |                                        |
++-------------------------------------------------+-------------------+----------------------------------------+
+| ![](images/reading.png){width="40"}             | **Readings &\     |                                        |
+|                                                 | Reflection**      |                                        |
++-------------------------------------------------+-------------------+----------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study**    | \[Case Study Title\] \| \[Answer Key\] |
++-------------------------------------------------+-------------------+----------------------------------------+
+| ![](images/tm-badge-1.png){width="40"}          | **Badge**         |                                        |
++-------------------------------------------------+-------------------+----------------------------------------+
+| ![](images/survey.png){width="47" height="40"}  | **Module Survey** | Feedback Form After Finishing Module   |
++-------------------------------------------------+-------------------+----------------------------------------+
+
+## Microcredential
+
+The culminating activity for the Relationship Mining modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Relationship Mining Microcredential, you must demonstrate your ability to formulate a relevant research question for relationship mining, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
+
++--------------------------------------+---------------------+--------------------------+
+| ![](images/tm-micro.png){width="40"} | **Microcredential** | Text Mining in Education |
++--------------------------------------+---------------------+--------------------------+
+
+## References
