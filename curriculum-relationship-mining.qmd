@@ -40,8 +40,8 @@ bibliography: lit/references.bib
 
 The culminating activity for the Relationship Mining modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Relationship Mining Microcredential, you must demonstrate your ability to formulate a relevant research question for relationship mining, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
-+--------------------------------------+---------------------+--------------------------+
+|  |  |  |
+|----|----|----|
 | ![](images/tm-micro.png){width="40"} | **Microcredential** | Text Mining in Education |
-+--------------------------------------+---------------------+--------------------------+
 
 ## References
