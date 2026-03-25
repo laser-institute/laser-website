@@ -115,29 +115,29 @@ The following learning objectives are aligned with the overarching objectives of
 
 This course is divided into four units focused on conceptualizing Learning Analytics as a research discipline and developing the foundational skills for data exploration using a range of digital data sources. The first week of each unit introduces terminology, core concepts, and applications of Learning Analytics through readings, course videos, and discussion. In the second week, we focus on developing essential technical skills necessary for data-intensive Research workflows through R software tutorials. In the third week of each unit, we apply these skills to conduct an analysis and create a data product using publicly available educational datasets.
 
-| **Schedule** | **Topics**                                                                                                                                                                                                                         |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **WELCOME**  | **OVERVIEW & INTRODUCTIONS**                                                                                                                                                                                                       |
-| Week 1       | Introductions, syllabus review, and software setup                                                                                                                                                                                 |
-| **UNIT 1**   | **WHAT IS LEARNING ANALYTICS?**                                                                                                                                                                                                    |
-| Week 2       | **Readings & Discussion:** Introduction to Learning Analytics as a discipline, including a little history, key concepts, learning theories, methodologies, etc.)                                                                   |
-| Week 3       | **R Toolkit Tutorial**: Software tutorials on critical packages and key functions used to import, wrangle, explore, model, and report “tidy” data.                                                                                 |
-| Week 4       | **Case Study**: A look into student-level data from online classes provided by a state-wide virtual public school.                                                                                                                 |
-| **UNIT 2**   | **PARTNERSHIPS & PREDICTIVE ANALYTICS**                                                                                                                                                                                            |
-| Week 5       | **Readings & Discussion:** An examination of the use of data visualization and dashboards in Learning Analytics to understand and improve student learning.                                                                        |
-| Week 6       | **R Toolkit Tutorial**: A deeper dive into the “grammar of graphics” and development of foundational skills for creating interactive data apps.                                                                                    |
-| Week 7       | **Case Study**: An exploration of aggregate student data to examine educational inequities and changes over time.                                                                                                                  |
-| **UNIT 3**   | **TEXT AS DATA**                                                                                                                                                                                                                   |
-| Week 8       | **Readings & Discussion:** Introduction to text mining in education, including a key concepts and common techniques, and their application in educational settings.                                                                |
-| Week 9       | **R Toolkit Tutorial**: An introduction to the Shiny package and development of interactive data apps.                                                                                                                             |
-| Week 10      | **Case Study**: A focus on text processing, word frequencies, and sentiment lexicons to examine public opinions on Twitter around the Common Core and Next Generation Science Standards.                                           |
-| **UNIT 4**   | **A NETWORK PERSPECTIVE**                                                                                                                                                                                                          |
-| Week 11      | **Readings & Discussion:** Introduction to social network analysis in education, including a key concepts and common techniques, and applications in educational settings.                                                         |
-| Week 12      | **R Toolkit Tutorial**: Software tutorials on critical packages and key functions used to import, wrangle, explore, model, and report relational data.                                                                             |
-| Week 13      | **Case Study**: A focus on network data formats, descriptives, and sociograms to examine peer interaction in Massively Open Online Course for Educators (MOOC-Eds).                                                                |
-| **WRAP UP**  | **MAKE UP & FINAL PROJECTS**                                                                                                                                                                                                       |
-| Week 14      | **Make-up Week:** Final opportunity for students to complete any missing work. This week should also be used to make significant progress on your final project.                                                                   |
-| Week 15      | **Final Project:** In lieu of a final exam, students will complete and Independent analysis and develop a data product (e.g. report, presentation, data dashboard, etc.) that demonstrates concepts learned throughout the course. |
+| **Schedule** | **Topics** |
+|----|----|
+| **WELCOME** | **OVERVIEW & INTRODUCTIONS** |
+| Week 1 | Introductions, syllabus review, and software setup |
+| **UNIT 1** | **WHAT IS LEARNING ANALYTICS?** |
+| Week 2 | **Readings & Discussion:** Introduction to Learning Analytics as a discipline, including a little history, key concepts, learning theories, methodologies, etc.) |
+| Week 3 | **R Toolkit Tutorial**: Software tutorials on critical packages and key functions used to import, wrangle, explore, model, and report “tidy” data. |
+| Week 4 | **Case Study**: A look into student-level data from online classes provided by a state-wide virtual public school. |
+| **UNIT 2** | **PARTNERSHIPS & PREDICTIVE ANALYTICS** |
+| Week 5 | **Readings & Discussion:** An examination of the use of data visualization and dashboards in Learning Analytics to understand and improve student learning. |
+| Week 6 | **R Toolkit Tutorial**: A deeper dive into the “grammar of graphics” and development of foundational skills for creating interactive data apps. |
+| Week 7 | **Case Study**: An exploration of aggregate student data to examine educational inequities and changes over time. |
+| **UNIT 3** | **TEXT AS DATA** |
+| Week 8 | **Readings & Discussion:** Introduction to text mining in education, including a key concepts and common techniques, and their application in educational settings. |
+| Week 9 | **R Toolkit Tutorial**: An introduction to the Shiny package and development of interactive data apps. |
+| Week 10 | **Case Study**: A focus on text processing, word frequencies, and sentiment lexicons to examine public opinions on Twitter around the Common Core and Next Generation Science Standards. |
+| **UNIT 4** | **A NETWORK PERSPECTIVE** |
+| Week 11 | **Readings & Discussion:** Introduction to social network analysis in education, including a key concepts and common techniques, and applications in educational settings. |
+| Week 12 | **R Toolkit Tutorial**: Software tutorials on critical packages and key functions used to import, wrangle, explore, model, and report relational data. |
+| Week 13 | **Case Study**: A focus on network data formats, descriptives, and sociograms to examine peer interaction in Massively Open Online Course for Educators (MOOC-Eds). |
+| **WRAP UP** | **MAKE UP & FINAL PROJECTS** |
+| Week 14 | **Make-up Week:** Final opportunity for students to complete any missing work. This week should also be used to make significant progress on your final project. |
+| Week 15 | **Final Project:** In lieu of a final exam, students will complete and Independent analysis and develop a data product (e.g. report, presentation, data dashboard, etc.) that demonstrates concepts learned throughout the course. |
 
 ## Major Assignments & Assessment
 
