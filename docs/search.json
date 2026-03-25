@@ -1121,5 +1121,40 @@
       "CURRICULUM",
       "Structure Discovery"
     ]
+  },
+  {
+    "objectID": "curriculum-relationship-mining PLACEHOLDER.html",
+    "href": "curriculum-relationship-mining PLACEHOLDER.html",
+    "title": "Relationship Mining",
+    "section": "",
+    "text": "COMING SOON"
+  },
+  {
+    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html",
+    "href": "curriculum-structure-discovery-PLACEHOLDER.html",
+    "title": "Structure Discovery",
+    "section": "",
+    "text": "COMING SOON"
+  },
+  {
+    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html#module-x-title",
+    "href": "curriculum-structure-discovery-PLACEHOLDER.html#module-x-title",
+    "title": "Structure Discovery",
+    "section": "Module x: [Title]",
+    "text": "Module x: [Title]\n[Module Overview]\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n[Case Study Title] | [Answer Key]\n\n\n\nBadge\n\n\n\n\nModule Survey\nFeedback Form After Finishing Module"
+  },
+  {
+    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html#microcredential",
+    "href": "curriculum-structure-discovery-PLACEHOLDER.html#microcredential",
+    "title": "Structure Discovery",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the Structure Discovery Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Structure Discovery Microcredential, you must demonstrate your ability to formulate a relevant research question for structure discovery, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nText Mining in Education"
+  },
+  {
+    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html#references",
+    "href": "curriculum-structure-discovery-PLACEHOLDER.html#references",
+    "title": "Structure Discovery",
+    "section": "References",
+    "text": "References"
   }
 ]

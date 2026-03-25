@@ -47,8 +47,8 @@ website:
         - curriculum-network-analysis.qmd
         - curriculum-text-mining.qmd
         - curriculum-knowledge-tracing.qmd
-        - curriculum-structure-discovery.qmd
-        - curriculum-relationship-mining.qmd
+        - curriculum-structure-discovery-PLACEHOLDER.qmd
+        - curriculum-relationship-mining-PLACEHOLDER.qmd
     - section: "INSTRUCTION"
       contents:
         - instruction-intro.qmd
