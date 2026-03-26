@@ -1,269 +1,382 @@
 [
   {
-    "objectID": "curriculum-network-analysis.html",
-    "href": "curriculum-network-analysis.html",
-    "title": "Social Network Analysis",
+    "objectID": "curriculum-relationship-mining.html",
+    "href": "curriculum-relationship-mining.html",
+    "title": "Relationship Mining",
     "section": "",
-    "text": "Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. The SNA modules are designed to prepare STEM education researchers to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each module draw from the excellent book, Social Network Analysis and Education (Carolan 2014). Collectively, the modules provide education researchers with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.",
+    "text": "[Badge Image Placeholder]\nRelationship mining reveals meaningful patterns and associations within datasets through three key techniques: Correlation Mining, Association Rule Mining, and Sequential Pattern Mining. These complementary approaches form a powerful toolkit for uncovering hidden data relationships that drive strategic decision-making in business intelligence and recommendation systems.",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Social Network Analysis"
+      "Relationship Mining"
     ]
   },
   {
-    "objectID": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
-    "href": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
-    "title": "Social Network Analysis",
-    "section": "Module 1: Network Analysis for Newbies",
-    "text": "Module 1: Network Analysis for Newbies\nThe first module is a gentle introduction to data collection, management and visualization. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key SNA concepts and terminology, as well as develop a basic comfort level with representing networks visually. Our SNA Case Study: Who’s Friends with Who in Middle School is guided by the work of Pittinsky and Carolan Pittinsky and Carolan (2008) and compares teacher perceptions and student reports of classroom middle school friendship and helps reinforce the importance of treating behavioral and cognitive classroom friendship networks and ties as distinct. Finally, the Intro to SNA Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nAn Introduction to Social Network Analysis\n\n\n\nCode Along\nData Structures & Sociograms in R | Python\n\n\n\nReadings &\nReflection\nBackground and Basic Concepts\n\n\n\nCase Study\nWho’s Friends with Who in Middle School | R Key | Python Key\n\n\n\nBadge\nIntro to SNA\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-relationship-mining.html#module-1-correlation-mining",
+    "href": "curriculum-relationship-mining.html#module-1-correlation-mining",
+    "title": "Relationship Mining",
+    "section": "Module 1: Correlation Mining",
+    "text": "Module 1: Correlation Mining\nCorrelation mining quantifies statistical relationships between variables using metrics like Pearson’s coefficient, indicating how changes in one variable relate to another without implying causation.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Social Network Analysis"
+      "Relationship Mining"
     ]
   },
   {
-    "objectID": "curriculum-network-analysis.html#module-2-network-management-measurement",
-    "href": "curriculum-network-analysis.html#module-2-network-management-measurement",
-    "title": "Social Network Analysis",
-    "section": "Module 2: Network Management & Measurement",
-    "text": "Module 2: Network Management & Measurement\nModule 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs is based on a study by Kellogg, Booth, and Oliver (2014) and compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelmann (2015) as part of the Friday Institute’s work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nData Collection & Quality\n\n\n\nCode Along\nDensity, Reciprocity, & Centrality with R | Python\n\n\n\nReadings &\nReflection\nData Management & Network Measurement\n\n\n\nCase Study\nA Tale of Two MOOCs | R Key | Python Key\n\n\n\nBadge\nNetwork Measurement Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-relationship-mining.html#module-2-association-rule-mining",
+    "href": "curriculum-relationship-mining.html#module-2-association-rule-mining",
+    "title": "Relationship Mining",
+    "section": "Module 2: Association Rule Mining",
+    "text": "Module 2: Association Rule Mining\nAssociation Rule Mining (ARM) discovers co-occurrence relationships as “if-then” rules, measuring strengths through support, confidence, and lift metrics to reveal product affinities and purchasing patterns.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Social Network Analysis"
+      "Relationship Mining"
     ]
   },
   {
-    "objectID": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
-    "href": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
-    "title": "Social Network Analysis",
-    "section": "Module 3: Groups, Positions, & Egocentric Analysis",
-    "text": "Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Hashtag Common Core is inspired by the work of Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project. Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nGroup Identification in Networks\n\n\n\nCode Along\nComponents, Cliques & Key Actors with R | Python\n\n\n\nReadings &\nDiscussion\nGroups, Positions, and Egocentric Analysis\n\n\n\nCase Study\nHashtag Common Core | R Key | Python Key\n\n\n\nBadge\nGroups & Egos\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-relationship-mining.html#module-3-sequential-pattern-mining",
+    "href": "curriculum-relationship-mining.html#module-3-sequential-pattern-mining",
+    "title": "Relationship Mining",
+    "section": "Module 3: Sequential Pattern Mining",
+    "text": "Module 3: Sequential Pattern Mining\nSequential Pattern Mining (SPM) identifies frequently occurring ordered sequences of events across time-series data, essential for predicting behaviors in applications from customer purchases to website navigation.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Social Network Analysis"
+      "Relationship Mining"
     ]
   },
   {
-    "objectID": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
-    "href": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
-    "title": "Social Network Analysis",
-    "section": "Module 4: Statistical Inference & Network Models",
-    "text": "Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nNetwork Inference & Applications\n\n\n\nCode Along\nIntro to ERGMs with R | Python\n\n\n\nReadings &\nDiscussion\nNetwork Modeling & Inference\n\n\n\nCase Study\nBirds of a Feather Lead Together | R Key | Python Key\n\n\n\nBadge\nModels & Inference\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Social Network Analysis"
-    ]
-  },
-  {
-    "objectID": "curriculum-network-analysis.html#microcredential",
-    "href": "curriculum-network-analysis.html#microcredential",
-    "title": "Social Network Analysis",
+    "objectID": "curriculum-relationship-mining.html#microcredential",
+    "href": "curriculum-relationship-mining.html#microcredential",
+    "title": "Relationship Mining",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nSocial Network Analysis and Education",
+    "text": "Microcredential\nThe culminating activity for the Relationship Mining modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Relationship Mining Microcredential, you must demonstrate your ability to formulate a relevant research question for relationship mining, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n[Image placeholder]\nMicrocredential\nText Mining in Education",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Social Network Analysis"
+      "Relationship Mining"
     ]
   },
   {
-    "objectID": "curriculum-design.html",
-    "href": "curriculum-design.html",
-    "title": "Modular by Design",
+    "objectID": "curriculum-relationship-mining.html#references",
+    "href": "curriculum-relationship-mining.html#references",
+    "title": "Relationship Mining",
+    "section": "References",
+    "text": "References",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Relationship Mining"
+    ]
+  },
+  {
+    "objectID": "institute-intro.html",
+    "href": "institute-intro.html",
+    "title": "Goals and Objectives",
     "section": "",
-    "text": "The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experiences. This design enables instructors to tailor content and activities for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
-    "crumbs": [
-      "Home",
-      "INSTITUTE",
-      "Modular by Design"
-    ]
+    "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
   },
   {
-    "objectID": "curriculum-design.html#design-principles",
-    "href": "curriculum-design.html#design-principles",
-    "title": "Modular by Design",
-    "section": "Design Principles",
-    "text": "Design Principles\nThe guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in learning analytics and educational data science, is a close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets. This connection is essential for building the competencies necessary to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Guiding design principles the LASER curriculum include:\n\nResearch Connections. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.\nScaffolded Activities. Carefully scaffolded activities designed to ease learners into the conceptual and technical aspects and gradually release instructor support.\nHands-On Programming. Experience using modern, industry standard analytic tools like R and Python to carry out essential data science workflow processes.\nReal-World Data. Use of real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\nTopic Deep Dives. Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.\nLowered Barriers. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.\nEmpower Researcher Identity. Scholar agency in connecting instruction to practice, selecting and shaping their data, and developing social and professional identities as learning analytics researchers.",
-    "crumbs": [
-      "Home",
-      "INSTITUTE",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#modules-topics",
-    "href": "curriculum-design.html#modules-topics",
-    "title": "Modular by Design",
-    "section": "Modules Topics",
-    "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nEpistemic Network Analsis\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
-    "crumbs": [
-      "Home",
-      "INSTITUTE",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-design.html#module-activities",
-    "href": "curriculum-design.html#module-activities",
-    "title": "Modular by Design",
-    "section": "Module Activities",
-    "text": "Module Activities\nEach instructional module consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nIntroductory Presentations\n\nConceptual Overviews\nEach module includes a presentation (see example) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunities for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.\n\n\nCode-Alongs\nThe second presentation provides a short but highly structured coding (see example) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners.\n\n\n\nInstructional Deep Dives\n\nReadings & Reflection\nEssential Readings (see example) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.\n\n\nCoding Case Studies\nCase Study assignments (see example) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nOnline Tutorials\nOpenly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, recipes, and cheatsheets available on Posit Cloud, as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.\n\n\n\nAssessment\n\nBadges\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with physical and digital Badges (see example) to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods.\n\n\nMicrocredentials\nMicrocredentials (see example) are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.",
-    "crumbs": [
-      "Home",
-      "INSTITUTE",
-      "Modular by Design"
-    ]
-  },
-  {
-    "objectID": "curriculum-machine-learning.html",
-    "href": "curriculum-machine-learning.html",
-    "title": "Supervised Machine Learning",
+    "objectID": "instruction-intro.html",
+    "href": "instruction-intro.html",
+    "title": "Teaching with LASER",
     "section": "",
-    "text": "Machine learning is increasingly prevalent in our lives—and in educational contexts. Its role in educational research and practice is growing, albeit with some challenges and even controversy. These modules are designed to familiarize you with supervised machine learning (SML) and its applications in STEM education research. Throughout the module, we’ll explore four key questions that correspond to the focus of each of the four modules. By the end, you will have a deep understanding of the key characteristics of supervised machine learning and how to implement supervised machine learning workflows in R and Python.",
+    "text": "LASER scholars participated in daily activities during the Summer Institute and ongoing activities throughout the year to help them design a customized instructional plan. This plan is implemented during the academic year at their home institutions or other contexts. As part of these activities, the project team collaborates with participants to choose relevant topics, modules and activities, effective teaching methods (pedagogy), and suitable technology from our training resources that meet the needs of their learners.\nThe LASER BEAM team will also work with participants in aligning the chosen learning analytics topics, pedagogy, and technology with scholars’ context to ensure the modules are tailored to address the unique needs and preferences of their learners.\nDesign sessions will also provide opportunities for scholars to collaborate and plan with other participants to support developing their practice of teaching. After the Summer Institute, scholars will participate in monthly virtual check-ins to finalize plans that they will implement in the academic year.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Supervised Machine Learning"
+      "INSTRUCTION",
+      "Teaching with LASER"
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
-    "href": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
-    "title": "Supervised Machine Learning",
-    "section": "Module 1: Supervised Machine Learning Foundations",
-    "text": "Module 1: Supervised Machine Learning Foundations\nHow is prediction different from explanation? This module provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1,000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).\n\n\n\n\nConceptual\nOverview\nWhat is Supervised Machine Learning?\n\n\n\nCode Along\nSame Model, Different Analytic Goals\n\n\n\nReadings &\nReflection\nConsidering Models for Inference and Models for Prediction\n\n\n\nCase Study Key\nExplaining or Predicting Graduation Rates Using IPEDS | Answer Key\n\n\n\nBadge\nInitial Interpretations of a Model’s Predictions\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "objectID": "instruction-intro.html#shark-goals",
+    "href": "instruction-intro.html#shark-goals",
+    "title": "Teaching with LASER",
+    "section": "SHARK Goals",
+    "text": "SHARK Goals\n\nIf you’ve seen the movie Austin Powers, you’ll remember that Dr. Evil famously demanded “to have sharks with frickin’ laser beams attached to their heads!” Based on this ridiculous idea, our initial logo shown above included a shark above the program name, but our final design shown on the title page is (slightly) more subtle.\nWe also carried this idea through for our version of SMART goals, i.e., SHARK Goals, which is an instructional goal that you will establish during the Summer Workshop. Specifically, scholars will participate in Pedagogy and Design Sessions that will help them create an instructional plan for teaching colleagues or students within or beyond their home institution.\nThe first step in designing an instructional plan is to develop a SHARK Goal, which includes identifying learning analytics topics and/or techniques and LASER materials that support teaching these topics, approaches and techniques. The SHARK Goal should address the following components:\n\nSpecific. Identify specific learning analytics topics and/or techniques to teach others; \nHow To. Develop a plan for how to incorporate LASER materials into this instructional experience;\nAttainable. Ensure the plan is attainable during the academic year, preferably fall semester; \nRelevant. Make sure the plan is relevant to their professional goals; and,\nKeep Track. Help to keep track of feedback, information, and insights gained to help improve the curriculum.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Supervised Machine Learning"
+      "INSTRUCTION",
+      "Teaching with LASER"
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#module-2-using-workflows-with-training-and-testing-data",
-    "href": "curriculum-machine-learning.html#module-2-using-workflows-with-training-and-testing-data",
-    "title": "Supervised Machine Learning",
-    "section": "Module 2: Using Workflows With Training and Testing Data",
-    "text": "Module 2: Using Workflows With Training and Testing Data\nBuilding on the foundations from Module 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course again using the Integrated Postsecondary Education Data System (IPEDS) data.\n\n\n\n\nConceptual\nOverview\nUsing Training and Testing Data in a Workflow\n\n\n\nCode Along\nHow to Split Data into Training and Testing Sets\n\n\n\nReadings &\nReflection\nWhat Makes Supervised Machine Learning Distinct\n\n\n\nCase Study\nWho Drops Online Courses? An Analysis Using the OULAD | Answer Key\n\n\n\nBadge\nAdding Additional Predictors to Improve Accuracy\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "objectID": "instruction-intro.html#instructional-formats",
+    "href": "instruction-intro.html#instructional-formats",
+    "title": "Teaching with LASER",
+    "section": "Instructional Formats",
+    "text": "Instructional Formats\nIn addition to developing a SHARK Goal, scholars select the format for their instruction. Formats will vary based on scholars’ SHARK Goal, which may include, but is not limited to, courses, webinars, and workshops. Scholars are encouraged to select formats that are appropriate for their institutional roles, contexts, expertise, professional goals and interests. For example, some scholars may want to incorporate LASER materials into an entire course that they currently teach or plan to teach. Other scholars may choose a format where the instructional plan will be implemented in one to four hours of instruction.\n\nCourses. Curriculum materials can be adopted and adapted by scholars to provide a 1-3 credit course at their home institutions.\nLessons or Units. In addition, modules activities can be embedded as individual lessons or short units of instruction within existing courses or programs.\nWorkshop. Others may wish to design professional development for faculty and/or other colleagues at their home institution that they implement in the form of a workshop. Another possibility is designing a presentation or workshop that is implemented at a professional conference.\nWebinar. Yet others may want to create professional development for colleagues at and beyond their home institution in the form of a virtual webinar.\n\nTo assist scholars in developing and implementing their instruction plans, scholars are provided a range of resources such as example course syllabi and webinar and workshop templates.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Supervised Machine Learning"
+      "INSTRUCTION",
+      "Teaching with LASER"
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#module-3-interpreting-prediction-metrics",
-    "href": "curriculum-machine-learning.html#module-3-interpreting-prediction-metrics",
-    "title": "Supervised Machine Learning",
-    "section": "Module 3: Interpreting Prediction Metrics",
-    "text": "Module 3: Interpreting Prediction Metrics\nHow is the interpretation of SML models different from more familiar models? In this module, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Module 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous modules.\n\n\n\n\nConceptual\nOverview\nHow Good is Our Model, Really?\n\n\n\nCode Along\nAdding Classification Metrics to a Workflow\n\n\n\nReadings &\nDiscussion\nConsidering Many Metrics\n\n\n\nCase Study\nBeyond Accuracy: How to Calculate Metrics | Answer Key\n\n\n\nBadge\nMetrics for Continuous Outcome Variables\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "objectID": "instruction-intro.html#plan-development",
+    "href": "instruction-intro.html#plan-development",
+    "title": "Teaching with LASER",
+    "section": "Plan Development",
+    "text": "Plan Development\nBased on their SHARK goal and selected format, scholars design a customized instructional plan for teaching colleagues or students within or beyond their home institution. This aspect of the program provides an opportunity for scholars to apply their pedagogical knowledge and skills related to learning analytics using LASER materials. Instructional plans will be implemented during the academic year, preferably in the fall semester. \nScholars participate in daily Pedagogy and Design Sessions during the that will support them in creating an instructional plan. During the Summer Institute, templates will be provided to scholars to guide their planning. Scholars will use one of the following planning guides based on their SHARK Goal and selected format for implementation:\n\nSyllabus Instructional Plan\nInstructional Plan (1-4 hrs)\n\nDuring the academic year, scholars will continue planning, refining and finalizing instructional plans that will be implemented during the academic year, preferably in the fall. Scholars will participate in monthly check-ins with the LASER BEAM team to finalize plans and implementation of instruction.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Supervised Machine Learning"
+      "INSTRUCTION",
+      "Teaching with LASER"
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#module-4-how-do-we-make-our-models-better",
-    "href": "curriculum-machine-learning.html#module-4-how-do-we-make-our-models-better",
-    "title": "Supervised Machine Learning",
-    "section": "Module 4: How Do We Make Our Models Better?",
-    "text": "Module 4: How Do We Make Our Models Better?\nHow can we improve our predictions? This module introduces two ways: more sophisticated models and feature engineering. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps and we’ll fine tune a “boosted” decision tree model to improve our predictions.\n\n\n\n\nConceptual\nOverview\nMaking Better Predictions with Random Forests\n\n\n\nCode Along\nHow to Cross-Validate and Change the Model\n\n\n\nReadings &\nDiscussion\nDiving Deep on Features and Feature Engineering\n\n\n\nCase Study\nModeling Interactions Data with Random Forest | Answer Key\n\n\n\nBadge\nFeature Engineering Activity Types\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "objectID": "curriculum-knowledge-tracing.html",
+    "href": "curriculum-knowledge-tracing.html",
+    "title": "Knowledge Tracing",
+    "section": "",
+    "text": "The Knowledge Tracing Modules are designed to provide LASER Scholars with a comprehensive understanding and hands-on experience in various knowledge tracing methods used in digital learning platforms. Beginning with Bayesian Knowledge Tracing (BKT), scholars will build and explore classic BKT models using Python, gaining insights into its application across learning scenarios. The program then introduces Performance Factor Analysis (PFA) and Logistic Knowledge Tracing (LKT), where scholars will clean datasets and build LKT models, learning to analyze student performance involving multiple skills. Next, the modules cover Item Response Theory (IRT), equipping scholars with the principles and skills to validate educational assessments. Finally, the we wrap up this unit by diving into Deep Knowledge Tracing (DKT), where scholars will engage with deep neural network models, understanding their strengths and limitations. Throughout the modules, case studies, essential readings, and badge activities in ASSISTments will reinforce learning and application, preparing scholars to utilize these techniques effectively in educational research and practice.",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Supervised Machine Learning"
+      "Knowledge Tracing"
     ]
   },
   {
-    "objectID": "curriculum-machine-learning.html#microcredential",
-    "href": "curriculum-machine-learning.html#microcredential",
-    "title": "Supervised Machine Learning",
+    "objectID": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
+    "href": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
+    "title": "Knowledge Tracing",
+    "section": "Module 1: Bayesian Knowledge Tracing",
+    "text": "Module 1: Bayesian Knowledge Tracing\nBayesian Knowledge Tracing (BKT) (Corbett and Anderson 1994) is the most widely used student knowledge modeling framework within digital learning platforms. The BKT model provides decent-quality predictions of future performance within or outside the learning systems, interpretable models, meaningful parameters, and the ability to be applied to a range of learning situations. The goal of our Essential Readings and Case Study is to help LASER Scholars gain a theoretical understanding and practical experience with BKT. Our BKT Case Study is based on Zambrano, Zhang, and Baker (2024). You will use Python to build classic BKT models and explore some of the variations. Finally, you will complete the BKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\nBKT via ASSISTments | BKT-BF for PC | BKT-BF for Mac\n\n\n\nReadings &\nReflection\nEssential Readings\n\n\n\nCase Study\nBKT with Python | Answer Key\n\n\n\nBadge\nApplying BKT in Practice\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
+    "href": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
+    "title": "Knowledge Tracing",
+    "section": "Module 2: Performance Factor Analysis",
+    "text": "Module 2: Performance Factor Analysis\nModule 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tracing (LKT) as alternative knowledge tracing methods. LKT utilizes Logistic Regression to investigate students’ performance. Unlike BKT, each item may involve multiple skills or knowledge components (KC). With the case study, you will learn to clean the dataset and build an LKT model. Our case study is based on the work of Tirronen and Tirronen (2020). This paper discusses the application of LKT in the programming education field and the case study will guide you to practice building your LKT model in R with the example dataset. Like module 1, you will complete the LKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nLogistic Knowledge Tracing and PFA\n\n\n\nCode Along\nLKT Walkthrough\n\n\n\nReadings &\nReflection\nEssential Readings\n\n\n\nCase Study\nPFA Case Study\n\n\n\nBadge\nLTK and PFA with ASSISTments\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
+    "href": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
+    "title": "Knowledge Tracing",
+    "section": "Module 3: Item Response Theory",
+    "text": "Module 3: Item Response Theory\nModule 3 wraps discuss Item Response Theory, a classic approach for assessment in tests. It is used to assess students’ current knowledge of a topic and it assumes no learning is occurring between items. Through exploring foundational principles, and building models in the case study, this module will equip you with valuable skills to understand the validity of educational assessments. Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\nConceptual\nOverview\nItem Response Theory and ELO\n\n\n\nCode Along\nComing soon!\n\n\n\nReadings &\nDiscussion\nEssential Readings\n\n\n\nCase Study\nIRT in R\n\n\n\nBadge\nApply IRT in Practice\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
+    "href": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
+    "title": "Knowledge Tracing",
+    "section": "Module 4: Deep Knowledge Tracing",
+    "text": "Module 4: Deep Knowledge Tracing\nModule 4 discusses the application of deep neural networks in knowledge tracing, called Deep Knowledge Tracing (DKT). It is a growing area and has dozens of variants. While deep neural networks are becoming popular and every paper claims good performance, we must be cautious and carefully understand this technique and its strengths and weaknesses before using it. Our essential readings and case studies cover selected current issues and approaches in Deep Knowledge Tracing (DKT). In the hands-on activities, you’ll be working to add a dataset to the implementation of the DKT model from Gervet et al. (2020). Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\nConceptual\nOverview\nIntro to Deep Knowledge Tracing\n\n\n\nCode Along\nComing soon!\n\n\n\nReadings &\nDiscussion\nEssential Readings\n\n\n\nCase Study\nDKT in Python\n\n\n\nBadge\nApply DKT in Practice\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#microcredential",
+    "href": "curriculum-knowledge-tracing.html#microcredential",
+    "title": "Knowledge Tracing",
     "section": "Microcredential",
-    "text": "Microcredential\nTo earn the SML micro-credential, you will carry out an SML analysis using data of your choosing and report the results in a Quarto document. Emphasize why you are using SML (relative to regression or another approach) and use feature engineering and cross-validation to refine your model. Lastly, interpret your model carefully by going beyond reporting accuracy to report the specific metrics for the strength of your SML model’s predictions, given the particular aims of your analysis.\n\n\n\n\nMicrocredential\nSupervised Machine Learning Microcredential",
+    "text": "Microcredential\nThe culminating activity for the Knowledge Tracing Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your KT Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a KT context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nComing soon!",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Supervised Machine Learning"
+      "Knowledge Tracing"
     ]
   },
   {
-    "objectID": "curriculum-orientation.html",
-    "href": "curriculum-orientation.html",
-    "title": "LASER Orientation",
+    "objectID": "curriculum-la-workflow.html",
+    "href": "curriculum-la-workflow.html",
+    "title": "Learning Analytics Workflow",
     "section": "",
-    "text": "Instructional materials for the LASER Orientation and other modules are linked below and make extensive use of the following tools:\nTo learn more about the suite of tools used for the design and delivery of instructional activities, visit the LASER Toolkit page.",
+    "text": "The Learning Analytics Workflow modules are designed to equip STEM education researchers with the skills to apply these analytical methods to better understand and enhance student learning and educational environments. The modules offer a comprehensive overview of the learning analytics process, starting with the characteristics of educational data and progressing through data visualization, analytical methods, and communication of findings. The presentations, readings, and case studies for each module draw from leading texts, such as Learning Analytics Goes to School (Krumm, Means, and Bienkowski 2018), as well as current research in the field, providing participants with both theoretical knowledge and practical experience. Scholars will engage in hands-on coding exercises using R and Python, tailored to their respective programming preferences, ensuring they gain practical skills in data preparation, visualization, modeling, and communication.",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "LASER Orientation"
+      "Learning Analytics Workflow"
     ]
   },
   {
-    "objectID": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
-    "href": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
-    "title": "LASER Orientation",
-    "section": "Orientation Module: The LASER Toolkit",
-    "text": "Orientation Module: The LASER Toolkit\nThe Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research (Gandrud 2013) and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by Krumm, Means, and Bienkowski (2018) and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with Quarto, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.\n\n\n\n\nConceptual\nOverview\nThe LASER Toolkit & Reproducible Research\n\n\n\nCode Along\nThe Data-Intensive Research Workflow in R | Python\n\n\n\nReadings &\nReflection\nReproducible Research & DIR Workflow\n\n\n\nCase Study\nA Coding Case Study with Quarto | R Key | Python Key\n\n\n\nBadge\nLASER Orientation Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-la-workflow.html#module-1-characteristics-of-data",
+    "href": "curriculum-la-workflow.html#module-1-characteristics-of-data",
+    "title": "Learning Analytics Workflow",
+    "section": "Module 1: Characteristics of Data",
+    "text": "Module 1: Characteristics of Data\nIn Module 1, scholars will learn about different types of learning environments and the characteristics of data commonly used in educational research. The module offers an introduction to the fundamental concepts of learning analytics, tailored for those new to the field or seeking to enhance their basic R or Python programming skills, particularly within STEM education contexts. Scholars will examine various data types, including interaction between instructors and students, administrative and demographic data, and student affectivity, each crucial for developing educational strategies. The hands-on component involves navigating the initial steps of the Learning Analytics workflow, such as preparing data, installing necessary packages, loading data sets, and inspecting data structures. By the end of the module, participants will have a practical understanding of how to apply these concepts through coding exercises, setting the stage for advanced analytical tasks in future modules. The Data Prep badge provides an opportunity to show your skills using the case study data or a choice of data to wrangle using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nCharacteristics of Data in Learning Analytics\n\n\n\nCode Along\nPreparing for Research and Wrangling Data in R | Python\n\n\n\nReadings &\nReflection\nChapter 2: Data Used in Educational Data-Intensive Research\n\n\n\nCase Study\nThe Data-Intensive Research Workflow | R Key | Python Key\n\n\n\nBadge\nFoundations of Learning Analytics with R | Python\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "LASER Orientation"
+      "Learning Analytics Workflow"
     ]
   },
   {
-    "objectID": "institute-goals.html",
-    "href": "institute-goals.html",
-    "title": "Institute Goals",
+    "objectID": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
+    "href": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
+    "title": "Learning Analytics Workflow",
+    "section": "Module 2: The Power of Data Viz",
+    "text": "Module 2: The Power of Data Viz\nIn Module 2, scholars explore the vital role of data visualization in learning analytics. This module underscores how visual representations of data can significantly simplify the complexity of educational data, making it more comprehensible and accessible for analysis. Scholars learn to appreciate the benefits of visualization in enhancing understanding, promoting engagement, aiding decision-making, and improving communication. The module covers various types of data visualizations, such as bar charts, line graphs, scatter plots, heatmaps, and network diagrams, each chosen for their effectiveness in illustrating specific data relationships and patterns. Real-world examples are provided to showcase practical applications and the impact of effective data visualization in educational contexts. Best practices are also discussed, emphasizing the importance of knowing the audience, opting for simple designs, choosing the correct types of visualizations, providing contextual clarity, using colors strategically, and iterating based on feedback to refine the visual outputs. The Exploratory LA badge provides an opportunity to show your skills using case study data or your choice of data to visualize using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nThe Power of Data Visualization\n\n\n\nCode Along\nExploratory Data Analysis Basics with R | Python\n\n\n\nReadings &\nReflection\nChapter 4: Legal and Ethical Issues in Learning Analytics\n\n\n\nCase Study\nIntro to Exploratory Data Analysis | R Key | Python Key\n\n\n\nBadge\nData Visualization Basics with R | Python\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Learning Analytics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
+    "href": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
+    "title": "Learning Analytics Workflow",
+    "section": "Module 3: Learning Analytics Methods",
+    "text": "Module 3: Learning Analytics Methods\nIn Module 3, scholars explore a variety of methods used in learning analytics. The session begins by revisiting basic concepts about the types and characteristics of data in LA. It covers five main analytical methods: predictive analytics, social network analysis, discourse analysis, text analysis, and multimodal analysis. Predictive analytics aims to forecast student performance and enhance intervention strategies. Social network analysis examines social interactions to identify key influencers and optimize collaborative learning. Discourse analysis investigates communication within educational settings to understand student engagement in critical thinking. Text analysis applies natural language processing to assess and provide feedback on text-based assignments. Lastly, multimodal analysis integrates various data sources to provide a comprehensive view of the learning process, supporting personalized educational experiences. This overview equips scholars with the knowledge to apply these methods effectively in educational research and practice. The Modeling badge provides an opportunity to show your skills using case study data or your choice of data to model using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nMethods Used in Learning Analytics\n\n\n\nCode Along\nModeling Basics with R | Python\n\n\n\nReadings &\nDiscussion\nChapter 3: Methods Used in Learning Analytics\n\n\n\nCase Study\nIntroduction to Modeling | R Key | Python Key\n\n\n\nBadge\nData Sources in Learning Analytics with R | Python\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Learning Analytics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#module-4-data-products",
+    "href": "curriculum-la-workflow.html#module-4-data-products",
+    "title": "Learning Analytics Workflow",
+    "section": "Module 4: Data Products",
+    "text": "Module 4: Data Products\nIn Module 4, scholars will learn to communicate their analytical findings effectively, focusing on creating publication-ready products and considering ethical aspects of data presentation. They will be introduced to strategies for engaging education stakeholders through compelling data storytelling, ensuring the message is clear and accessible. The course also delves into the preparation of various communication mediums using tools like R Markdown and Flexdashboard to model and communicate insights. Additionally, this module emphasizes the importance of addressing ethical considerations such as data privacy, bias, and inclusive practices to ensure responsible use of data in educational settings. This framework prepares scholars to craft their messages thoughtfully, considering both their audience and the ethical dimensions of data use. The Communication badge provides an opportunity to show your skills using case study data or your choice of data to develop a dashboard using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nCommunicating with Stakeholder\n\n\n\nCode Along\nData Products with R | Python\n\n\n\nReadings &\nDiscussion\nChapter 7: Five Phases of Data-Intensive Improvement\n\n\n\nCase Study\nBuilding a Basic Data Dashboard | R Key | Python Key\n\n\n\nBadge\nData Products\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Learning Analytics Workflow"
+    ]
+  },
+  {
+    "objectID": "curriculum-la-workflow.html#microcredential",
+    "href": "curriculum-la-workflow.html#microcredential",
+    "title": "Learning Analytics Workflow",
+    "section": "Microcredential",
+    "text": "Microcredential\nThe culminating activity for the LAW Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your LAW Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nThe Learning Analytics Workflow",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Learning Analytics Workflow"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
+    "href": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
+    "title": "Workshop Example",
+    "section": "Learning to teach with (and learn from!) LASER",
+    "text": "Learning to teach with (and learn from!) LASER\nDate: Tuesday, March 19, 2024\nTime: 1:30pm - 5:00pm\nLocation: Room J\nProject Website: go.ncsu.edu/laser-institute\nCurriculum Website: go.ncsu.edu/laser-beam\nPosit Workspace: go.ncsu.edu/laser-learners",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#overview",
+    "href": "instruction-workshop.html#overview",
+    "title": "Workshop Example",
+    "section": "Overview",
+    "text": "Overview\nThe purpose of this interactive workshop is to provide a hands-on introduction to curriculum developed as part of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). The intended audience for this workshop includes early-career and experienced scholars seeking who currently teach, or have a desire to teach, learning analytics methodologies. The primary aim of this workshop is to support participants interested in incorporating LASER curriculum materials into webinars, workshops, courses or programs at their home institution.\nParticipants in this workshop will learn about the design and structure of the 25+ learning modules covering a range of topics and techniques like machine learning, network analysis, and text mining. Participants will also gain hands-on experience with instructional activities such as conceptual overviews, interactive code-alongs, tutorials, case studies using Python and R, essential readings and discussion activities, and badging and microcredential opportunities. Finally, participants will learn pedagogical tips and information on the computing infrastructure, technology stack, and logistics required for leveraging these materials for their own undergraduate, graduate or professional learning programs.\nKeywords: graduate education, professional learning, professional development, STEM education, machine learning, network analysis, text mining, relationship mining, knowledge tracing",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#workshop-schedule",
+    "href": "instruction-workshop.html#workshop-schedule",
+    "title": "Workshop Example",
+    "section": "Workshop Schedule",
+    "text": "Workshop Schedule\nThis session will be an interactive half-day workshop appropriate for 25-30 participants and will consist of the following schedule:\n\n1:30 - 2:00 pm\n\nLASER Team & Participant Introductions\nOverview of LASER Institute\nIntroduction to the LASER Curriculum\n\n2:00 - 3:00\n\nLASER Orientation Module\n\nConceptual Overview\nCode-Along\nCase Study (Answer Key)\n\n\n3:00 - 3:30 Coffee Break\n3:30 - 4:30\n\nLASER Orientation Continued\nSNA Curriculum Modules Exploration\nOpen Discussion\n\n4:45 - 5:00 Closing\n\nFeedback Survey\nNext steps",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#background",
+    "href": "instruction-workshop.html#background",
+    "title": "Workshop Example",
+    "section": "Background",
+    "text": "Background\nTo help address this need for researchers trained in LA and related methods, the Learning Analytics in STEM Education Research (LASER) Institute was developed with the primary goal of increasing the number and the capacity of scholars capable of leveraging new data sources and computational methods (e.g., network analysis, text mining and machine learning) to support their research. With a new round of funding from the National Science Foundation (ECR: BCSER), North Carolina State University and the University of Pennsylvania are refining, expanding, and repackaging instructional resources developed for the LASER Institute into “turnkey” curriculum materials that can be used and adapted by faculty in higher education to prepare the next generation of STEM scholars.",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#workshop-activities",
+    "href": "instruction-workshop.html#workshop-activities",
+    "title": "Workshop Example",
+    "section": "Workshop Activities",
+    "text": "Workshop Activities\nThe workshop will kick-off with a 30 minute introductory presentation that provides an overview of the purpose and goals of LASER Institute, including lessons learned from two virtual and one in-person cohorts of participating scholars.\nPart 1 of the workshop will provide participant hands-on experience with the following types of instructional activities included in each curriculum module:\n\nInteractive Presentations. Each module contains slide decks for two interactive presentations: the first consisting of a conceptual overview of key terminology, techniques, and applications; the second presentation providing a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques. \nCoding Case Studies. These interactive coding experiences can be completed by learners independently or in small groups and demonstrate key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data). \nReadings and Discussion. Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies.\nSoftware Tutorials. Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax.  \nBadges & Microcredentials. Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit.\n\nPart 2 of the workshop will consist of a presentation, facilitated discussion, and guided planning activities designed to support participants in setting up learning environments and adapting these materials for webinars, workshops, or courses at their home institution.",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#workshop-goals",
+    "href": "instruction-workshop.html#workshop-goals",
+    "title": "Workshop Example",
+    "section": "Workshop Goals",
+    "text": "Workshop Goals\nThe half-day workshop serves as an extension of the LASER Institute, with the primary goal of equipping participants with high-quality curriculum materials that can be used to train faculty and students at their home institutions. To achieve this goal, this workshop is organized into three parts. Part 1 introduces participants to the curriculum materials developed by the LASER team and provides hands-on activities to help participants understand curriculum content and instructional design. Part 2 focuses on the technology infrastructure required for teaching with these materials including set up for Posit Cloud, R Studio, and Quarto. In addition, facilitators will help participants select appropriate modules for their instructional goals and develop a tentative plan to use curriculum materials for webinars, workshops, and courses at their university or research institutions. \nFinally, we recognize that there is always room for improving these curriculum materials, particularly after use in a wider range of instructional settings. Therefore, a secondary aim of this workshop is to gather feedback from participating scholars both during and after the workshop to further refine the curriculum materials. Specifically, we will incorporate opportunities throughout the workshop to solicit feedback from participants on how curriculum materials might be improved or adapted to better fit their local context and meet the needs of learners at their home institutions.",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#post-workshop-engagement",
+    "href": "instruction-workshop.html#post-workshop-engagement",
+    "title": "Workshop Example",
+    "section": "Post Workshop Engagement",
+    "text": "Post Workshop Engagement\nParticipants will be invited to join the LASER community hub on Slack, which serves as a platform for building a community of practice and staying updated on future LASER events, resources and information. In addition, participants will be invited to participate in follow-up surveys designed to assess in what ways, and to what extent, participants have incorporated LASER curriculum materials into their own teaching and to gather feedback for improving these materials.",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "instruction-workshop.html#acknowledgement",
+    "href": "instruction-workshop.html#acknowledgement",
+    "title": "Workshop Example",
+    "section": "Acknowledgement",
+    "text": "Acknowledgement\n\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129.",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html",
+    "href": "curriculum-structure-discovery-PLACEHOLDER.html",
+    "title": "Structure Discovery",
     "section": "",
-    "text": "The LASER Institute is a year-long professional development program for early- and mid-career researchers that aims to build their capacity for leveraging new data sources and applying computational research methods to support their existing research. The overarching goal of the LASER Institute and associated curriculum materials is to build the capacity of participating scholars in three core areas:",
+    "text": "COMING SOON",
     "crumbs": [
       "Home",
-      "INSTITUTE",
-      "Institute Goals"
+      "CURRICULUM",
+      "Structure Discovery"
     ]
-  },
-  {
-    "objectID": "institute-goals.html#learning-objectives",
-    "href": "institute-goals.html#learning-objectives",
-    "title": "Institute Goals",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nThe LASER curriculum is intentionally designed and carefully scaffolded to help current and future educational researchers:\n\nFormulate Research Questions. Learners will understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nLeverage Digital Data. Learners will be able to identify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply Computational Methods. Learner will understand how LA techniques can be applied in STEM context and Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate their Research. Learners will be able to evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with Practitioners. Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
-    "crumbs": [
-      "Home",
-      "INSTITUTE",
-      "Institute Goals"
-    ]
-  },
-  {
-    "objectID": "institute-goals.html#broadening-impacts",
-    "href": "institute-goals.html#broadening-impacts",
-    "title": "Institute Goals",
-    "section": "Broadening Impacts",
-    "text": "Broadening Impacts\nThrough renewed funding from the National Science Foundation (DRL-2321128, and DRL-2321129), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To address this goal, LASER BEAM has three primary objectives:\n\nLearn from LASER. A significant portion of the Summer Workshop and Fall Online Learning Community consists of module sessions focused on a range of research methods. Modules sessions are conducted in small groups and differentiated for participants based on your selected method of interest. \nTeach with LASER. Each LASER Scholar works on a self-determined “SHARK” Goal and instructional plan for teaching other faculty or students at their home institutions. These plans are developed during the Summer Workshop and implemented during the academic year.\nNetwork at LASER. Community building activities are designed to facilitate personal and professional networking and include morning icebreakers and opportunities to connect and collaborate with fellow Scholars throughout the year.\n\nTo support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:\n\nModule Development. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nTrain the Trainer. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these components are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nTeach it Forward. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
-    "crumbs": [
-      "Home",
-      "INSTITUTE",
-      "Institute Goals"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LASER",
-    "section": "",
-    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods to support their existing research.\nThis website contains all the materials needed to teach with, and learn from, the LASER Institute’s instructional materials. The website is organized into three sections:"
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "LASER",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nLocated at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, the University of Pennsylvania, the University of Florida, and the University of Tennessee, Knoxville.\nFor more detailed information about the project team, advisory board members, past scholars, and program highlights, visit our project page at go.ncsu.edu/laser-institute.\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
   },
   {
     "objectID": "curriculum-text-mining.html",
@@ -590,6 +703,13 @@
     ]
   },
   {
+    "objectID": "curriculum-relationship-mining-PLACEHOLDER.html",
+    "href": "curriculum-relationship-mining-PLACEHOLDER.html",
+    "title": "Relationship Mining",
+    "section": "",
+    "text": "COMING SOON"
+  },
+  {
     "objectID": "CODE_OF_CONDUCT.html",
     "href": "CODE_OF_CONDUCT.html",
     "title": "Contributor Covenant Code of Conduct",
@@ -732,447 +852,269 @@
     ]
   },
   {
-    "objectID": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
-    "href": "instruction-workshop.html#learning-to-teach-with-and-learn-from-laser",
-    "title": "Workshop Example",
-    "section": "Learning to teach with (and learn from!) LASER",
-    "text": "Learning to teach with (and learn from!) LASER\nDate: Tuesday, March 19, 2024\nTime: 1:30pm - 5:00pm\nLocation: Room J\nProject Website: go.ncsu.edu/laser-institute\nCurriculum Website: go.ncsu.edu/laser-beam\nPosit Workspace: go.ncsu.edu/laser-learners",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#overview",
-    "href": "instruction-workshop.html#overview",
-    "title": "Workshop Example",
-    "section": "Overview",
-    "text": "Overview\nThe purpose of this interactive workshop is to provide a hands-on introduction to curriculum developed as part of the Learning Analytics in STEM Education Research (LASER) Institute, a professional development program for early and mid-career researchers funded by the National Science Foundation (ECR: BCSER). The intended audience for this workshop includes early-career and experienced scholars seeking who currently teach, or have a desire to teach, learning analytics methodologies. The primary aim of this workshop is to support participants interested in incorporating LASER curriculum materials into webinars, workshops, courses or programs at their home institution.\nParticipants in this workshop will learn about the design and structure of the 25+ learning modules covering a range of topics and techniques like machine learning, network analysis, and text mining. Participants will also gain hands-on experience with instructional activities such as conceptual overviews, interactive code-alongs, tutorials, case studies using Python and R, essential readings and discussion activities, and badging and microcredential opportunities. Finally, participants will learn pedagogical tips and information on the computing infrastructure, technology stack, and logistics required for leveraging these materials for their own undergraduate, graduate or professional learning programs.\nKeywords: graduate education, professional learning, professional development, STEM education, machine learning, network analysis, text mining, relationship mining, knowledge tracing",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#workshop-schedule",
-    "href": "instruction-workshop.html#workshop-schedule",
-    "title": "Workshop Example",
-    "section": "Workshop Schedule",
-    "text": "Workshop Schedule\nThis session will be an interactive half-day workshop appropriate for 25-30 participants and will consist of the following schedule:\n\n1:30 - 2:00 pm\n\nLASER Team & Participant Introductions\nOverview of LASER Institute\nIntroduction to the LASER Curriculum\n\n2:00 - 3:00\n\nLASER Orientation Module\n\nConceptual Overview\nCode-Along\nCase Study (Answer Key)\n\n\n3:00 - 3:30 Coffee Break\n3:30 - 4:30\n\nLASER Orientation Continued\nSNA Curriculum Modules Exploration\nOpen Discussion\n\n4:45 - 5:00 Closing\n\nFeedback Survey\nNext steps",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#background",
-    "href": "instruction-workshop.html#background",
-    "title": "Workshop Example",
-    "section": "Background",
-    "text": "Background\nTo help address this need for researchers trained in LA and related methods, the Learning Analytics in STEM Education Research (LASER) Institute was developed with the primary goal of increasing the number and the capacity of scholars capable of leveraging new data sources and computational methods (e.g., network analysis, text mining and machine learning) to support their research. With a new round of funding from the National Science Foundation (ECR: BCSER), North Carolina State University and the University of Pennsylvania are refining, expanding, and repackaging instructional resources developed for the LASER Institute into “turnkey” curriculum materials that can be used and adapted by faculty in higher education to prepare the next generation of STEM scholars.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#workshop-activities",
-    "href": "instruction-workshop.html#workshop-activities",
-    "title": "Workshop Example",
-    "section": "Workshop Activities",
-    "text": "Workshop Activities\nThe workshop will kick-off with a 30 minute introductory presentation that provides an overview of the purpose and goals of LASER Institute, including lessons learned from two virtual and one in-person cohorts of participating scholars.\nPart 1 of the workshop will provide participant hands-on experience with the following types of instructional activities included in each curriculum module:\n\nInteractive Presentations. Each module contains slide decks for two interactive presentations: the first consisting of a conceptual overview of key terminology, techniques, and applications; the second presentation providing a short but highly structured code-along activity that demonstrates key packages and functions required for specific data analysis techniques. \nCoding Case Studies. These interactive coding experiences can be completed by learners independently or in small groups and demonstrate key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data). \nReadings and Discussion. Essential readings are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies.\nSoftware Tutorials. Openly accessible software tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax.  \nBadges & Microcredentials. Each module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit.\n\nPart 2 of the workshop will consist of a presentation, facilitated discussion, and guided planning activities designed to support participants in setting up learning environments and adapting these materials for webinars, workshops, or courses at their home institution.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#workshop-goals",
-    "href": "instruction-workshop.html#workshop-goals",
-    "title": "Workshop Example",
-    "section": "Workshop Goals",
-    "text": "Workshop Goals\nThe half-day workshop serves as an extension of the LASER Institute, with the primary goal of equipping participants with high-quality curriculum materials that can be used to train faculty and students at their home institutions. To achieve this goal, this workshop is organized into three parts. Part 1 introduces participants to the curriculum materials developed by the LASER team and provides hands-on activities to help participants understand curriculum content and instructional design. Part 2 focuses on the technology infrastructure required for teaching with these materials including set up for Posit Cloud, R Studio, and Quarto. In addition, facilitators will help participants select appropriate modules for their instructional goals and develop a tentative plan to use curriculum materials for webinars, workshops, and courses at their university or research institutions. \nFinally, we recognize that there is always room for improving these curriculum materials, particularly after use in a wider range of instructional settings. Therefore, a secondary aim of this workshop is to gather feedback from participating scholars both during and after the workshop to further refine the curriculum materials. Specifically, we will incorporate opportunities throughout the workshop to solicit feedback from participants on how curriculum materials might be improved or adapted to better fit their local context and meet the needs of learners at their home institutions.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#post-workshop-engagement",
-    "href": "instruction-workshop.html#post-workshop-engagement",
-    "title": "Workshop Example",
-    "section": "Post Workshop Engagement",
-    "text": "Post Workshop Engagement\nParticipants will be invited to join the LASER community hub on Slack, which serves as a platform for building a community of practice and staying updated on future LASER events, resources and information. In addition, participants will be invited to participate in follow-up surveys designed to assess in what ways, and to what extent, participants have incorporated LASER curriculum materials into their own teaching and to gather feedback for improving these materials.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "instruction-workshop.html#acknowledgement",
-    "href": "instruction-workshop.html#acknowledgement",
-    "title": "Workshop Example",
-    "section": "Acknowledgement",
-    "text": "Acknowledgement\n\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Workshop Example"
-    ]
-  },
-  {
-    "objectID": "curriculum-la-workflow.html",
-    "href": "curriculum-la-workflow.html",
-    "title": "Learning Analytics Workflow",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LASER",
     "section": "",
-    "text": "The Learning Analytics Workflow modules are designed to equip STEM education researchers with the skills to apply these analytical methods to better understand and enhance student learning and educational environments. The modules offer a comprehensive overview of the learning analytics process, starting with the characteristics of educational data and progressing through data visualization, analytical methods, and communication of findings. The presentations, readings, and case studies for each module draw from leading texts, such as Learning Analytics Goes to School (Krumm, Means, and Bienkowski 2018), as well as current research in the field, providing participants with both theoretical knowledge and practical experience. Scholars will engage in hands-on coding exercises using R and Python, tailored to their respective programming preferences, ensuring they gain practical skills in data preparation, visualization, modeling, and communication.",
+    "text": "The Learning Analytics in STEM Education Research (LASER) Institute is a year-long professional development program for early and mid-career scholars funded by the National Science Foundation. The LASER Institute aims to increase the number of early and mid-career scholars capable of leveraging new data sources and applying computational research methods to support their existing research.\nThis website contains all the materials needed to teach with, and learn from, the LASER Institute’s instructional materials. The website is organized into three sections:"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "LASER",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nLocated at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, the University of Pennsylvania, the University of Florida, and the University of Tennessee, Knoxville.\nFor more detailed information about the project team, advisory board members, past scholars, and program highlights, visit our project page at go.ncsu.edu/laser-institute.\nThis material is based upon work supported by the National Science Foundation under Grant No. DRL-2025090, DRL-2321128, and DRL-2321129."
+  },
+  {
+    "objectID": "institute-goals.html",
+    "href": "institute-goals.html",
+    "title": "Institute Goals",
+    "section": "",
+    "text": "The LASER Institute is a year-long professional development program for early- and mid-career researchers that aims to build their capacity for leveraging new data sources and applying computational research methods to support their existing research. The overarching goal of the LASER Institute and associated curriculum materials is to build the capacity of participating scholars in three core areas:",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Learning Analytics Workflow"
+      "INSTITUTE",
+      "Institute Goals"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-1-characteristics-of-data",
-    "href": "curriculum-la-workflow.html#module-1-characteristics-of-data",
-    "title": "Learning Analytics Workflow",
-    "section": "Module 1: Characteristics of Data",
-    "text": "Module 1: Characteristics of Data\nIn Module 1, scholars will learn about different types of learning environments and the characteristics of data commonly used in educational research. The module offers an introduction to the fundamental concepts of learning analytics, tailored for those new to the field or seeking to enhance their basic R or Python programming skills, particularly within STEM education contexts. Scholars will examine various data types, including interaction between instructors and students, administrative and demographic data, and student affectivity, each crucial for developing educational strategies. The hands-on component involves navigating the initial steps of the Learning Analytics workflow, such as preparing data, installing necessary packages, loading data sets, and inspecting data structures. By the end of the module, participants will have a practical understanding of how to apply these concepts through coding exercises, setting the stage for advanced analytical tasks in future modules. The Data Prep badge provides an opportunity to show your skills using the case study data or a choice of data to wrangle using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nCharacteristics of Data in Learning Analytics\n\n\n\nCode Along\nPreparing for Research and Wrangling Data in R | Python\n\n\n\nReadings &\nReflection\nChapter 2: Data Used in Educational Data-Intensive Research\n\n\n\nCase Study\nThe Data-Intensive Research Workflow | R Key | Python Key\n\n\n\nBadge\nFoundations of Learning Analytics with R | Python\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "institute-goals.html#learning-objectives",
+    "href": "institute-goals.html#learning-objectives",
+    "title": "Institute Goals",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nThe LASER curriculum is intentionally designed and carefully scaffolded to help current and future educational researchers:\n\nFormulate Research Questions. Learners will understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;\nLeverage Digital Data. Learners will be able to identify relevant sources of education data to address both theoretical and practical issues in STEM education;\nApply Computational Methods. Learner will understand how LA techniques can be applied in STEM context and Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;\nEvaluate their Research. Learners will be able to evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;\nCollaborate with Practitioners. Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Learning Analytics Workflow"
+      "INSTITUTE",
+      "Institute Goals"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
-    "href": "curriculum-la-workflow.html#module-2-the-power-of-data-viz",
-    "title": "Learning Analytics Workflow",
-    "section": "Module 2: The Power of Data Viz",
-    "text": "Module 2: The Power of Data Viz\nIn Module 2, scholars explore the vital role of data visualization in learning analytics. This module underscores how visual representations of data can significantly simplify the complexity of educational data, making it more comprehensible and accessible for analysis. Scholars learn to appreciate the benefits of visualization in enhancing understanding, promoting engagement, aiding decision-making, and improving communication. The module covers various types of data visualizations, such as bar charts, line graphs, scatter plots, heatmaps, and network diagrams, each chosen for their effectiveness in illustrating specific data relationships and patterns. Real-world examples are provided to showcase practical applications and the impact of effective data visualization in educational contexts. Best practices are also discussed, emphasizing the importance of knowing the audience, opting for simple designs, choosing the correct types of visualizations, providing contextual clarity, using colors strategically, and iterating based on feedback to refine the visual outputs. The Exploratory LA badge provides an opportunity to show your skills using case study data or your choice of data to visualize using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nThe Power of Data Visualization\n\n\n\nCode Along\nExploratory Data Analysis Basics with R | Python\n\n\n\nReadings &\nReflection\nChapter 4: Legal and Ethical Issues in Learning Analytics\n\n\n\nCase Study\nIntro to Exploratory Data Analysis | R Key | Python Key\n\n\n\nBadge\nData Visualization Basics with R | Python\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "institute-goals.html#broadening-impacts",
+    "href": "institute-goals.html#broadening-impacts",
+    "title": "Institute Goals",
+    "section": "Broadening Impacts",
+    "text": "Broadening Impacts\nThrough renewed funding from the National Science Foundation (DRL-2321128, and DRL-2321129), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To address this goal, LASER BEAM has three primary objectives:\n\nLearn from LASER. A significant portion of the Summer Workshop and Fall Online Learning Community consists of module sessions focused on a range of research methods. Modules sessions are conducted in small groups and differentiated for participants based on your selected method of interest. \nTeach with LASER. Each LASER Scholar works on a self-determined “SHARK” Goal and instructional plan for teaching other faculty or students at their home institutions. These plans are developed during the Summer Workshop and implemented during the academic year.\nNetwork at LASER. Community building activities are designed to facilitate personal and professional networking and include morning icebreakers and opportunities to connect and collaborate with fellow Scholars throughout the year.\n\nTo support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:\n\nModule Development. LASER BEAM aims to create a modular curriculum composed of 25-30 distinct instructional modules that can be incorporated into semester-long courses or used individually for workshops, webinars, or other training venues. To ensure that materials can be readily adapted and implemented in a wide range of contexts, evaluation efforts will focus in part on gathering ongoing feedback from instructors to improve the curriculum.\nTrain the Trainer. Faculty will participate in an intensive, week-long Summer Institute with ongoing supports during the academic year. Both of these components are designed to prepare them in these advanced methods and to incorporate curriculum resources into graduate-level programs, courses, or workshops at their home university or research institution.\nTeach it Forward. Ultimately, LASER BEAM aims to greatly expand the number of STEM education researchers who have the expertise necessary to leverage LA and big data to support their research. To that end, the project team will provide faculty ongoing support throughout the academic year to pilot curriculum resources within graduate-level programs, courses, or workshops at their local university or research institution.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Learning Analytics Workflow"
+      "INSTITUTE",
+      "Institute Goals"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
-    "href": "curriculum-la-workflow.html#module-3-learning-analytics-methods",
-    "title": "Learning Analytics Workflow",
-    "section": "Module 3: Learning Analytics Methods",
-    "text": "Module 3: Learning Analytics Methods\nIn Module 3, scholars explore a variety of methods used in learning analytics. The session begins by revisiting basic concepts about the types and characteristics of data in LA. It covers five main analytical methods: predictive analytics, social network analysis, discourse analysis, text analysis, and multimodal analysis. Predictive analytics aims to forecast student performance and enhance intervention strategies. Social network analysis examines social interactions to identify key influencers and optimize collaborative learning. Discourse analysis investigates communication within educational settings to understand student engagement in critical thinking. Text analysis applies natural language processing to assess and provide feedback on text-based assignments. Lastly, multimodal analysis integrates various data sources to provide a comprehensive view of the learning process, supporting personalized educational experiences. This overview equips scholars with the knowledge to apply these methods effectively in educational research and practice. The Modeling badge provides an opportunity to show your skills using case study data or your choice of data to model using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nMethods Used in Learning Analytics\n\n\n\nCode Along\nModeling Basics with R | Python\n\n\n\nReadings &\nDiscussion\nChapter 3: Methods Used in Learning Analytics\n\n\n\nCase Study\nIntroduction to Modeling | R Key | Python Key\n\n\n\nBadge\nData Sources in Learning Analytics with R | Python\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-orientation.html",
+    "href": "curriculum-orientation.html",
+    "title": "LASER Orientation",
+    "section": "",
+    "text": "Instructional materials for the LASER Orientation and other modules are linked below and make extensive use of the following tools:\nTo learn more about the suite of tools used for the design and delivery of instructional activities, visit the LASER Toolkit page.",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Learning Analytics Workflow"
+      "LASER Orientation"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#module-4-data-products",
-    "href": "curriculum-la-workflow.html#module-4-data-products",
-    "title": "Learning Analytics Workflow",
-    "section": "Module 4: Data Products",
-    "text": "Module 4: Data Products\nIn Module 4, scholars will learn to communicate their analytical findings effectively, focusing on creating publication-ready products and considering ethical aspects of data presentation. They will be introduced to strategies for engaging education stakeholders through compelling data storytelling, ensuring the message is clear and accessible. The course also delves into the preparation of various communication mediums using tools like R Markdown and Flexdashboard to model and communicate insights. Additionally, this module emphasizes the importance of addressing ethical considerations such as data privacy, bias, and inclusive practices to ensure responsible use of data in educational settings. This framework prepares scholars to craft their messages thoughtfully, considering both their audience and the ethical dimensions of data use. The Communication badge provides an opportunity to show your skills using case study data or your choice of data to develop a dashboard using the skills you learned in this module.\n\n\n\n\nConceptual\nOverview\nCommunicating with Stakeholder\n\n\n\nCode Along\nData Products with R | Python\n\n\n\nReadings &\nDiscussion\nChapter 7: Five Phases of Data-Intensive Improvement\n\n\n\nCase Study\nBuilding a Basic Data Dashboard | R Key | Python Key\n\n\n\nBadge\nData Products\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
+    "href": "curriculum-orientation.html#orientation-module-the-laser-toolkit",
+    "title": "LASER Orientation",
+    "section": "Orientation Module: The LASER Toolkit",
+    "text": "Orientation Module: The LASER Toolkit\nThe Orientation Module is designed to get learners up and running with the concepts, tools, and processes that guide the LASER curriculum. The orientation begins with a Conceptual Overview focused on the benefits of reproducible research (Gandrud 2013) and tools used by LASER to for this purpose. The Code-Along is a gentle introduction to R/Python and the data-intensive research workflow introduced by Krumm, Means, and Bienkowski (2018) and covered in greater depth by . The coding Case Study expands upon the code-along and introduces working with Quarto, an open-source scientific and technical publishing system. Finally, learners earn their first LASER Badge by publishing their work to the web.\n\n\n\n\nConceptual\nOverview\nThe LASER Toolkit & Reproducible Research\n\n\n\nCode Along\nThe Data-Intensive Research Workflow in R | Python\n\n\n\nReadings &\nReflection\nReproducible Research & DIR Workflow\n\n\n\nCase Study\nA Coding Case Study with Quarto | R Key | Python Key\n\n\n\nBadge\nLASER Orientation Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Learning Analytics Workflow"
+      "LASER Orientation"
     ]
   },
   {
-    "objectID": "curriculum-la-workflow.html#microcredential",
-    "href": "curriculum-la-workflow.html#microcredential",
-    "title": "Learning Analytics Workflow",
+    "objectID": "curriculum-machine-learning.html",
+    "href": "curriculum-machine-learning.html",
+    "title": "Supervised Machine Learning",
+    "section": "",
+    "text": "Machine learning is increasingly prevalent in our lives—and in educational contexts. Its role in educational research and practice is growing, albeit with some challenges and even controversy. These modules are designed to familiarize you with supervised machine learning (SML) and its applications in STEM education research. Throughout the module, we’ll explore four key questions that correspond to the focus of each of the four modules. By the end, you will have a deep understanding of the key characteristics of supervised machine learning and how to implement supervised machine learning workflows in R and Python.",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
+    "href": "curriculum-machine-learning.html#module-1-supervised-machine-learning-foundations",
+    "title": "Supervised Machine Learning",
+    "section": "Module 1: Supervised Machine Learning Foundations",
+    "text": "Module 1: Supervised Machine Learning Foundations\nHow is prediction different from explanation? This module provides a gentle introduction to supervised machine learning by drawing out similarities to and differences from a regression modeling approach. The case study will involve modeling the graduation rate across 1,000s of higher education institutions in the United States using data from the Integrated Postsecondary Education Data System (IPEDS).\n\n\n\n\nConceptual\nOverview\nWhat is Supervised Machine Learning?\n\n\n\nCode Along\nSame Model, Different Analytic Goals\n\n\n\nReadings &\nReflection\nConsidering Models for Inference and Models for Prediction\n\n\n\nCase Study Key\nExplaining or Predicting Graduation Rates Using IPEDS | Answer Key\n\n\n\nBadge\nInitial Interpretations of a Model’s Predictions\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-2-using-workflows-with-training-and-testing-data",
+    "href": "curriculum-machine-learning.html#module-2-using-workflows-with-training-and-testing-data",
+    "title": "Supervised Machine Learning",
+    "section": "Module 2: Using Workflows With Training and Testing Data",
+    "text": "Module 2: Using Workflows With Training and Testing Data\nBuilding on the foundations from Module 1, this session delves deeper into the workflows we will use when we are using a SML approach. Particularly, we’ll explore the roles of training and testing data and when to use them in a SML workflow. We’ll predict students’ withdrawal from a course again using the Integrated Postsecondary Education Data System (IPEDS) data.\n\n\n\n\nConceptual\nOverview\nUsing Training and Testing Data in a Workflow\n\n\n\nCode Along\nHow to Split Data into Training and Testing Sets\n\n\n\nReadings &\nReflection\nWhat Makes Supervised Machine Learning Distinct\n\n\n\nCase Study\nWho Drops Online Courses? An Analysis Using the OULAD | Answer Key\n\n\n\nBadge\nAdding Additional Predictors to Improve Accuracy\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-3-interpreting-prediction-metrics",
+    "href": "curriculum-machine-learning.html#module-3-interpreting-prediction-metrics",
+    "title": "Supervised Machine Learning",
+    "section": "Module 3: Interpreting Prediction Metrics",
+    "text": "Module 3: Interpreting Prediction Metrics\nHow is the interpretation of SML models different from more familiar models? In this module, we’ll explore and work to understand the confusion matrix that can and the various metrics (e.g., precision, recall, PPV, NPV, F-score, and AUC) that are used to interpret how good at making dichotomous predictions SML models are. We’ll again use the OULAD, augmenting the variables we used in Module 1, and we’ll introduce a more complex model—the random forest model—as an alternative to the regression models used in previous modules.\n\n\n\n\nConceptual\nOverview\nHow Good is Our Model, Really?\n\n\n\nCode Along\nAdding Classification Metrics to a Workflow\n\n\n\nReadings &\nDiscussion\nConsidering Many Metrics\n\n\n\nCase Study\nBeyond Accuracy: How to Calculate Metrics | Answer Key\n\n\n\nBadge\nMetrics for Continuous Outcome Variables\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#module-4-how-do-we-make-our-models-better",
+    "href": "curriculum-machine-learning.html#module-4-how-do-we-make-our-models-better",
+    "title": "Supervised Machine Learning",
+    "section": "Module 4: How Do We Make Our Models Better?",
+    "text": "Module 4: How Do We Make Our Models Better?\nHow can we improve our predictions? This module introduces two ways: more sophisticated models and feature engineering. We’ll explore techniques for creating new variables and refining existing ones to improve prediction accuracy. We also explore cross-validation to revise and refine our model without biasing its predictions. We’ll work with the finest-grained OULAD data—interaction data—to demonstrate key feature engineering steps and we’ll fine tune a “boosted” decision tree model to improve our predictions.\n\n\n\n\nConceptual\nOverview\nMaking Better Predictions with Random Forests\n\n\n\nCode Along\nHow to Cross-Validate and Change the Model\n\n\n\nReadings &\nDiscussion\nDiving Deep on Features and Feature Engineering\n\n\n\nCase Study\nModeling Interactions Data with Random Forest | Answer Key\n\n\n\nBadge\nFeature Engineering Activity Types\n\n\n\nModule Survey\nFeedback Form after Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Supervised Machine Learning"
+    ]
+  },
+  {
+    "objectID": "curriculum-machine-learning.html#microcredential",
+    "href": "curriculum-machine-learning.html#microcredential",
+    "title": "Supervised Machine Learning",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the LAW Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your LAW Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nThe Learning Analytics Workflow",
+    "text": "Microcredential\nTo earn the SML micro-credential, you will carry out an SML analysis using data of your choosing and report the results in a Quarto document. Emphasize why you are using SML (relative to regression or another approach) and use feature engineering and cross-validation to refine your model. Lastly, interpret your model carefully by going beyond reporting accuracy to report the specific metrics for the strength of your SML model’s predictions, given the particular aims of your analysis.\n\n\n\n\nMicrocredential\nSupervised Machine Learning Microcredential",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Learning Analytics Workflow"
+      "Supervised Machine Learning"
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html",
-    "href": "curriculum-knowledge-tracing.html",
-    "title": "Knowledge Tracing",
+    "objectID": "curriculum-design.html",
+    "href": "curriculum-design.html",
+    "title": "Modular by Design",
     "section": "",
-    "text": "The Knowledge Tracing Modules are designed to provide LASER Scholars with a comprehensive understanding and hands-on experience in various knowledge tracing methods used in digital learning platforms. Beginning with Bayesian Knowledge Tracing (BKT), scholars will build and explore classic BKT models using Python, gaining insights into its application across learning scenarios. The program then introduces Performance Factor Analysis (PFA) and Logistic Knowledge Tracing (LKT), where scholars will clean datasets and build LKT models, learning to analyze student performance involving multiple skills. Next, the modules cover Item Response Theory (IRT), equipping scholars with the principles and skills to validate educational assessments. Finally, the we wrap up this unit by diving into Deep Knowledge Tracing (DKT), where scholars will engage with deep neural network models, understanding their strengths and limitations. Throughout the modules, case studies, essential readings, and badge activities in ASSISTments will reinforce learning and application, preparing scholars to utilize these techniques effectively in educational research and practice.",
+    "text": "The LASER Institute curriculum is modular by design and consists of instructional modules that can be assembled into multiple distinct semester-long courses, incorporated into existing courses, or used individually for workshops, webinars, or other learning experiences. This design enables instructors to tailor content and activities for learners with different disciplinary backgrounds and to incorporate them as needed into new or existing programs, thereby expanding high-quality educational opportunities in LA for institutions that lack the resources to create these materials from scratch.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Knowledge Tracing"
+      "INSTITUTE",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
-    "href": "curriculum-knowledge-tracing.html#module-1-bayesian-knowledge-tracing",
-    "title": "Knowledge Tracing",
-    "section": "Module 1: Bayesian Knowledge Tracing",
-    "text": "Module 1: Bayesian Knowledge Tracing\nBayesian Knowledge Tracing (BKT) (Corbett and Anderson 1994) is the most widely used student knowledge modeling framework within digital learning platforms. The BKT model provides decent-quality predictions of future performance within or outside the learning systems, interpretable models, meaningful parameters, and the ability to be applied to a range of learning situations. The goal of our Essential Readings and Case Study is to help LASER Scholars gain a theoretical understanding and practical experience with BKT. Our BKT Case Study is based on Zambrano, Zhang, and Baker (2024). You will use Python to build classic BKT models and explore some of the variations. Finally, you will complete the BKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nBayesian Knowledge Tracing\n\n\n\nCode Along\nBKT via ASSISTments | BKT-BF for PC | BKT-BF for Mac\n\n\n\nReadings &\nReflection\nEssential Readings\n\n\n\nCase Study\nBKT with Python | Answer Key\n\n\n\nBadge\nApplying BKT in Practice\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-design.html#design-principles",
+    "href": "curriculum-design.html#design-principles",
+    "title": "Modular by Design",
+    "section": "Design Principles",
+    "text": "Design Principles\nThe guiding design principle of the LASER BEAM curriculum, setting it apart from existing programs in learning analytics and educational data science, is a close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets. This connection is essential for building the competencies necessary to carry out high-quality education research in STEM fields and to enable researchers to integrate methodological strategies and practices with theoretical and practical issues in STEM education. Guiding design principles the LASER curriculum include:\n\nResearch Connections. A close connection between exemplary STEM education research and hands-on experience analyzing real-world datasets.\nScaffolded Activities. Carefully scaffolded activities designed to ease learners into the conceptual and technical aspects and gradually release instructor support.\nHands-On Programming. Experience using modern, industry standard analytic tools like R and Python to carry out essential data science workflow processes.\nReal-World Data. Use of real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\nTopic Deep Dives. Opportunities for participants to explore key topics in-depth through Essential Readings and coding Case Studies.\nLowered Barriers. Activities are designed to lower the barriers faced by researchers with little programming experience or research backgrounds in advanced methods.\nEmpower Researcher Identity. Scholar agency in connecting instruction to practice, selecting and shaping their data, and developing social and professional identities as learning analytics researchers.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Knowledge Tracing"
+      "INSTITUTE",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
-    "href": "curriculum-knowledge-tracing.html#module-2-performance-factor-analysis",
-    "title": "Knowledge Tracing",
-    "section": "Module 2: Performance Factor Analysis",
-    "text": "Module 2: Performance Factor Analysis\nModule 2 introduces Performance Factor Analysis (PFA) and logistic knowledge tracing (LKT) as alternative knowledge tracing methods. LKT utilizes Logistic Regression to investigate students’ performance. Unlike BKT, each item may involve multiple skills or knowledge components (KC). With the case study, you will learn to clean the dataset and build an LKT model. Our case study is based on the work of Tirronen and Tirronen (2020). This paper discusses the application of LKT in the programming education field and the case study will guide you to practice building your LKT model in R with the example dataset. Like module 1, you will complete the LKT Badge activity in ASSISTments and develop research questions utilizing a Large Language Model.\n\n\n\n\nConceptual\nOverview\nLogistic Knowledge Tracing and PFA\n\n\n\nCode Along\nLKT Walkthrough\n\n\n\nReadings &\nReflection\nEssential Readings\n\n\n\nCase Study\nPFA Case Study\n\n\n\nBadge\nLTK and PFA with ASSISTments\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-design.html#modules-topics",
+    "href": "curriculum-design.html#modules-topics",
+    "title": "Modular by Design",
+    "section": "Modules Topics",
+    "text": "Modules Topics\nLASER modules cover a broad range of both introductory and advanced methods frequently leveraged by LA researchers and explicitly illustrate how these methods have been applied in STEM education research. Introductory modules will focus on basic concepts pertaining to each research method and proficiency with software tools commonly employed in LA and data science more broadly (i.e., R, Python, GitHub, APIs) and focus on topics pertaining to data-intensive research workflows (Krumm et al., 2018). Modules addressing advanced methods focus on a range of exploratory and modeling techniques including supervised machine learning, unsupervised learning, relationship mining, topic modeling and LLMs, knowledge tracing and knowledge graphs, and social and epistemic network analysis.\n\n\n\n\n\n\n\n\n\n\nResearch Methods\nModule 1\nModule 2\nModule 3\nModule 4\n\n\n\n\nLA Workflows\nData Wrangling\nExploratory Analysis\nModeling Basics\nData Products\n\n\nSupervised Learning (SL)\nSL Basics\nFeature Engineering \nModel Tuning\nDiagnostic Metrics\n\n\nUnsupervised Methods\nUM Basics\nClustering\nFactor Analysis\nKnowledge Structures\n\n\nRelationship Mining (RM)\nRM Basics\nCorrelation Mining\nAssociation and Sequential Rules\nAssociation Rule Metrics\n\n\nKnowledge Tracing (KT)\nKT Basics\nBKT family \nPFA/LKT families\nDKT family\n\n\nSocial Network Analysis (SNA)\nSNA Basics\nMeasurement\nPositions & Groups\nNetwork Modeling\n\n\nText Mining (TM)\nTM Basics\nTopic Modeling\nText Classification\nEpistemic Network Analsis\n\n\n\nInterwoven within and across modules, and as appropriate to each method, are topics designed to deepen learners’ understanding of LA approaches, applications, and legal and ethical issues. Specifically, topics will include but are not limited to reproducible research and open-science standards; types of data used in LA and the methods for their collection; applications of LA to STEM educational contexts such as recommendation and intelligent tutoring systems, adaptive learning and curriculum design, and students at risk of failing a course; and legal and ethical considerations such as student privacy, data ethics and algorithmic bias. In addition, learners are introduced to frameworks and approaches such as research-practice partnerships to prepare them to work closely with educational organizations to improve STEM outcomes at the local, district and state level.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Knowledge Tracing"
+      "INSTITUTE",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
-    "href": "curriculum-knowledge-tracing.html#module-3-item-response-theory",
-    "title": "Knowledge Tracing",
-    "section": "Module 3: Item Response Theory",
-    "text": "Module 3: Item Response Theory\nModule 3 wraps discuss Item Response Theory, a classic approach for assessment in tests. It is used to assess students’ current knowledge of a topic and it assumes no learning is occurring between items. Through exploring foundational principles, and building models in the case study, this module will equip you with valuable skills to understand the validity of educational assessments. Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\nConceptual\nOverview\nItem Response Theory and ELO\n\n\n\nCode Along\nComing soon!\n\n\n\nReadings &\nDiscussion\nEssential Readings\n\n\n\nCase Study\nIRT in R\n\n\n\nBadge\nApply IRT in Practice\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-design.html#module-activities",
+    "href": "curriculum-design.html#module-activities",
+    "title": "Modular by Design",
+    "section": "Module Activities",
+    "text": "Module Activities\nEach instructional module consist of carefully scaffolded activities designed to prepare participants for collaborative, data-intensive research, and to lower the barriers faced by scholars with little programming experience or research backgrounds in advanced methods. These activities provide opportunities for participants to explore key topics in-depth and gain hands-on experience using analytic tools like R and Python to carry out essential data science workflow processes, including advanced methods for machine learning and text mining. In each module, participants will also explore how these methods have been applied by researchers in STEM education contexts and work with corresponding real-world datasets from a wide range of sources such as MOOCs, student information systems, and log data from digital learning platforms.\n\nIntroductory Presentations\n\nConceptual Overviews\nEach module includes a presentation (see example) that introduces of key concepts, terminology, and applications as they relate to each corresponding research methods and their associated techniques. Conceptual Overviews are facilitated by instructors and include opportunities for discussions, questions, and practical activities, enabling participants to demonstrate their grasp of the material. This session aims to equip learners with the knowledge to apply these advanced research methods in their work, fostering innovation in STEM education.\n\n\nCode-Alongs\nThe second presentation provides a short but highly structured coding (see example) activity that demonstrates key packages and functions required for specific data analysis techniques highlighted in each unit and an exemplary research study. Both presentations include prompts for discussion to check participant understanding and connect content with their personal and professional research interests. Recorded versions of these presentations, as well as select presentations from Baker’s BDEMOOC, will also be provided on the LASER BEAM website to support independent learners.\n\n\n\nInstructional Deep Dives\n\nReadings & Reflection\nEssential Readings (see example) are curated for participants to help them dive deeper into LA concepts, techniques, and applications introduced in presentation and case studies. Each module also includes an exemplary research paper that illustrates how techniques highlighted in each module have been applied in STEM education contexts. These papers are often used to guide coding case studies and help connect technical skills required for advanced methods with authentic research applications. Accompanying these readings are guiding questions that can be used for personal reflection or to help instructors facilitate discussion and assess their understanding of module content.\n\n\nCoding Case Studies\nCase Study assignments (see example) developed by the project team are interactive coding experiences that can be completed by learners independently or in small groups. These activities demonstrate how key data-intensive research workflow processes (i.e., wrangling, visualizing, summarizing, modeling, and communicating data) featured in exemplary STEM education research studies are implemented in R or Python. Coding case studies also provide a holistic setting to explore important foundational LA topics integral to data analysis such as reproducible research, use of APIs, student privacy, ethical consideration, and diversity and inclusion in STEM education.\n\n\nOnline Tutorials\nOpenly accessible online tutorials are curated for each module and are intended to help learners develop technical proficiency with essential software packages, functions, and programming syntax introduced during conceptual overviews, code-alongs, and case studies. Tutorials include, but are not limited to, interactive R primers, recipes, and cheatsheets available on Posit Cloud, as well as Python and intelligent-tutor based assignments that scaffold students in learning to use learning analytics methods.\n\n\n\nAssessment\n\nBadges\nEach module includes a summative assessment activity designed to help learners reflect on how the concepts and techniques introduced in each lab might apply to their own STEM education research, where they can demonstrate their technical proficiency with the analytical techniques and methods addressed in each unit. Instructors are provided with physical and digital Badges (see example) to award students upon successful completion of assessments. At the instructor’s discretion, badges can be sequenced into microcredentials that can be used to certify learners’ successful demonstration and/or application of LA methods.\n\n\nMicrocredentials\nMicrocredentials (see example) are designed for individuals seeking to validate their expertise in learning analytics are are offered for each research methods.To earn a microcredential, participants are required to demonstrate a comprehensive understanding and showcase their ability to effectively utilize learning analytics to gather, analyze, and communciate educational data to support their own research.",
     "crumbs": [
       "Home",
-      "CURRICULUM",
-      "Knowledge Tracing"
+      "INSTITUTE",
+      "Modular by Design"
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
-    "href": "curriculum-knowledge-tracing.html#module-4-deep-knowledge-tracing",
-    "title": "Knowledge Tracing",
-    "section": "Module 4: Deep Knowledge Tracing",
-    "text": "Module 4: Deep Knowledge Tracing\nModule 4 discusses the application of deep neural networks in knowledge tracing, called Deep Knowledge Tracing (DKT). It is a growing area and has dozens of variants. While deep neural networks are becoming popular and every paper claims good performance, we must be cautious and carefully understand this technique and its strengths and weaknesses before using it. Our essential readings and case studies cover selected current issues and approaches in Deep Knowledge Tracing (DKT). In the hands-on activities, you’ll be working to add a dataset to the implementation of the DKT model from Gervet et al. (2020). Finally, the badge activity will help you reflect on how these techniques could be applied to research and practice.\n\n\n\n\nConceptual\nOverview\nIntro to Deep Knowledge Tracing\n\n\n\nCode Along\nComing soon!\n\n\n\nReadings &\nDiscussion\nEssential Readings\n\n\n\nCase Study\nDKT in Python\n\n\n\nBadge\nApply DKT in Practice\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "objectID": "curriculum-network-analysis.html",
+    "href": "curriculum-network-analysis.html",
+    "title": "Social Network Analysis",
+    "section": "",
+    "text": "Although social network analysis (SNA) and its educational antecedents date back to the early 1900s, the popularity of social networking sites like Twitter and Facebook have raised awareness of, and renewed interests in, social networks and their influence. As the use of digital resources continues to expand in education, data collected by these educational technologies has also greatly facilitated the application of network analysis to teaching and learning. The SNA modules are designed to prepare STEM education researchers to apply network analysis in order to better understand and improve student learning and the contexts in which learning occurs. The presentations, readings, and case studies for each module draw from the excellent book, Social Network Analysis and Education (Carolan 2014). Collectively, the modules provide education researchers with an overview of social network theory, examples of network analysis in STEM educational contexts, and applied experience with widely adopted tools and techniques.",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Knowledge Tracing"
+      "Social Network Analysis"
     ]
   },
   {
-    "objectID": "curriculum-knowledge-tracing.html#microcredential",
-    "href": "curriculum-knowledge-tracing.html#microcredential",
-    "title": "Knowledge Tracing",
+    "objectID": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
+    "href": "curriculum-network-analysis.html#module-1-network-analysis-for-newbies",
+    "title": "Social Network Analysis",
+    "section": "Module 1: Network Analysis for Newbies",
+    "text": "Module 1: Network Analysis for Newbies\nThe first module is a gentle introduction to data collection, management and visualization. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key SNA concepts and terminology, as well as develop a basic comfort level with representing networks visually. Our SNA Case Study: Who’s Friends with Who in Middle School is guided by the work of Pittinsky and Carolan Pittinsky and Carolan (2008) and compares teacher perceptions and student reports of classroom middle school friendship and helps reinforce the importance of treating behavioral and cognitive classroom friendship networks and ties as distinct. Finally, the Intro to SNA Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nAn Introduction to Social Network Analysis\n\n\n\nCode Along\nData Structures & Sociograms in R | Python\n\n\n\nReadings &\nReflection\nBackground and Basic Concepts\n\n\n\nCase Study\nWho’s Friends with Who in Middle School | R Key | Python Key\n\n\n\nBadge\nIntro to SNA\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-2-network-management-measurement",
+    "href": "curriculum-network-analysis.html#module-2-network-management-measurement",
+    "title": "Social Network Analysis",
+    "section": "Module 2: Network Management & Measurement",
+    "text": "Module 2: Network Management & Measurement\nModule 2 moves beyond basic concepts of network analysis and takes a closer look at the collection, management, and measurement of network data. Our Essential Readings examine the different levels at which social networks can be analyzed, as well as common network measures for describing properties of complete networks. Our Case Study: A Tale of Two MOOCs is based on a study by Kellogg, Booth, and Oliver (2014) and compares discussion networks from two courses using an open educational dataset prepared by Kellogg and Edelmann (2015) as part of the Friday Institute’s work around Massively Open Online Courses for Educators (MOOC-Eds). Finally, the Measurement Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nData Collection & Quality\n\n\n\nCode Along\nDensity, Reciprocity, & Centrality with R | Python\n\n\n\nReadings &\nReflection\nData Management & Network Measurement\n\n\n\nCase Study\nA Tale of Two MOOCs | R Key | Python Key\n\n\n\nBadge\nNetwork Measurement Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
+    "href": "curriculum-network-analysis.html#module-3-groups-positions-egocentric-analysis",
+    "title": "Social Network Analysis",
+    "section": "Module 3: Groups, Positions, & Egocentric Analysis",
+    "text": "Module 3: Groups, Positions, & Egocentric Analysis\nModule 3 shifts the focus from complete network analysis and zooms in on methods and measures for analyzing groups, positions, and individual actors. Our Essential Readings and case study explore both “top-down” and “bottom-up” approaches to identify a network’s groups and extend measures introduced in the previous lab to identify individuals central to the network. Our SNA Case Study: Hashtag Common Core is inspired by the work of Supovitz et al. (2017) who examined groups and key actors that emerged during the intense Twitter debate surrounding the Common Core State Standards. You can learn more about their work on the expansive and interactive website for the #COMMONCORE Project. Finally, the Groups & Egos Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nGroup Identification in Networks\n\n\n\nCode Along\nComponents, Cliques & Key Actors with R | Python\n\n\n\nReadings &\nDiscussion\nGroups, Positions, and Egocentric Analysis\n\n\n\nCase Study\nHashtag Common Core | R Key | Python Key\n\n\n\nBadge\nGroups & Egos\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
+    "href": "curriculum-network-analysis.html#module-4-statistical-inference-network-models",
+    "title": "Social Network Analysis",
+    "section": "Module 4: Statistical Inference & Network Models",
+    "text": "Module 4: Statistical Inference & Network Models\nModule 4 wraps up our work with SNA and examines recent advances in inferential statistics that can be used to make predictions from social network data and test hypotheses we have about a network of interest. Through our Essential Readings, we’ll learn about different techniques that make use of simulations to model network data and how these statistical models are used to address questions that more completely reflect the complexity of educational settings. For example, our SNA Case Study: Birds of a Feather Lead Together is inspired by the work of Daly and Finnigan (2011) makes use of Exponential Random Graph Models (ERGMs) to examine social processes (e.g. reciprocity and homophily) that might explain how school and district-level leaders select peers for collaboration or confidential exchanges. Finally, the Models & Inference Badge provides an opportunity create your own data product and to reflect on how theses concepts and techniques might apply to your own research.\n\n\n\n\nConceptual\nOverview\nNetwork Inference & Applications\n\n\n\nCode Along\nIntro to ERGMs with R | Python\n\n\n\nReadings &\nDiscussion\nNetwork Modeling & Inference\n\n\n\nCase Study\nBirds of a Feather Lead Together | R Key | Python Key\n\n\n\nBadge\nModels & Inference\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Social Network Analysis"
+    ]
+  },
+  {
+    "objectID": "curriculum-network-analysis.html#microcredential",
+    "href": "curriculum-network-analysis.html#microcredential",
+    "title": "Social Network Analysis",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the Knowledge Tracing Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your KT Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a KT context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nComing soon!",
+    "text": "Microcredential\nThe culminating activity for the SNA Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your SNA Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a social network context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nSocial Network Analysis and Education",
     "crumbs": [
       "Home",
       "CURRICULUM",
-      "Knowledge Tracing"
+      "Social Network Analysis"
     ]
-  },
-  {
-    "objectID": "instruction-intro.html",
-    "href": "instruction-intro.html",
-    "title": "Teaching with LASER",
-    "section": "",
-    "text": "LASER scholars participated in daily activities during the Summer Institute and ongoing activities throughout the year to help them design a customized instructional plan. This plan is implemented during the academic year at their home institutions or other contexts. As part of these activities, the project team collaborates with participants to choose relevant topics, modules and activities, effective teaching methods (pedagogy), and suitable technology from our training resources that meet the needs of their learners.\nThe LASER BEAM team will also work with participants in aligning the chosen learning analytics topics, pedagogy, and technology with scholars’ context to ensure the modules are tailored to address the unique needs and preferences of their learners.\nDesign sessions will also provide opportunities for scholars to collaborate and plan with other participants to support developing their practice of teaching. After the Summer Institute, scholars will participate in monthly virtual check-ins to finalize plans that they will implement in the academic year.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Teaching with LASER"
-    ]
-  },
-  {
-    "objectID": "instruction-intro.html#shark-goals",
-    "href": "instruction-intro.html#shark-goals",
-    "title": "Teaching with LASER",
-    "section": "SHARK Goals",
-    "text": "SHARK Goals\n\nIf you’ve seen the movie Austin Powers, you’ll remember that Dr. Evil famously demanded “to have sharks with frickin’ laser beams attached to their heads!” Based on this ridiculous idea, our initial logo shown above included a shark above the program name, but our final design shown on the title page is (slightly) more subtle.\nWe also carried this idea through for our version of SMART goals, i.e., SHARK Goals, which is an instructional goal that you will establish during the Summer Workshop. Specifically, scholars will participate in Pedagogy and Design Sessions that will help them create an instructional plan for teaching colleagues or students within or beyond their home institution.\nThe first step in designing an instructional plan is to develop a SHARK Goal, which includes identifying learning analytics topics and/or techniques and LASER materials that support teaching these topics, approaches and techniques. The SHARK Goal should address the following components:\n\nSpecific. Identify specific learning analytics topics and/or techniques to teach others; \nHow To. Develop a plan for how to incorporate LASER materials into this instructional experience;\nAttainable. Ensure the plan is attainable during the academic year, preferably fall semester; \nRelevant. Make sure the plan is relevant to their professional goals; and,\nKeep Track. Help to keep track of feedback, information, and insights gained to help improve the curriculum.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Teaching with LASER"
-    ]
-  },
-  {
-    "objectID": "instruction-intro.html#instructional-formats",
-    "href": "instruction-intro.html#instructional-formats",
-    "title": "Teaching with LASER",
-    "section": "Instructional Formats",
-    "text": "Instructional Formats\nIn addition to developing a SHARK Goal, scholars select the format for their instruction. Formats will vary based on scholars’ SHARK Goal, which may include, but is not limited to, courses, webinars, and workshops. Scholars are encouraged to select formats that are appropriate for their institutional roles, contexts, expertise, professional goals and interests. For example, some scholars may want to incorporate LASER materials into an entire course that they currently teach or plan to teach. Other scholars may choose a format where the instructional plan will be implemented in one to four hours of instruction.\n\nCourses. Curriculum materials can be adopted and adapted by scholars to provide a 1-3 credit course at their home institutions.\nLessons or Units. In addition, modules activities can be embedded as individual lessons or short units of instruction within existing courses or programs.\nWorkshop. Others may wish to design professional development for faculty and/or other colleagues at their home institution that they implement in the form of a workshop. Another possibility is designing a presentation or workshop that is implemented at a professional conference.\nWebinar. Yet others may want to create professional development for colleagues at and beyond their home institution in the form of a virtual webinar.\n\nTo assist scholars in developing and implementing their instruction plans, scholars are provided a range of resources such as example course syllabi and webinar and workshop templates.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Teaching with LASER"
-    ]
-  },
-  {
-    "objectID": "instruction-intro.html#plan-development",
-    "href": "instruction-intro.html#plan-development",
-    "title": "Teaching with LASER",
-    "section": "Plan Development",
-    "text": "Plan Development\nBased on their SHARK goal and selected format, scholars design a customized instructional plan for teaching colleagues or students within or beyond their home institution. This aspect of the program provides an opportunity for scholars to apply their pedagogical knowledge and skills related to learning analytics using LASER materials. Instructional plans will be implemented during the academic year, preferably in the fall semester. \nScholars participate in daily Pedagogy and Design Sessions during the that will support them in creating an instructional plan. During the Summer Institute, templates will be provided to scholars to guide their planning. Scholars will use one of the following planning guides based on their SHARK Goal and selected format for implementation:\n\nSyllabus Instructional Plan\nInstructional Plan (1-4 hrs)\n\nDuring the academic year, scholars will continue planning, refining and finalizing instructional plans that will be implemented during the academic year, preferably in the fall. Scholars will participate in monthly check-ins with the LASER BEAM team to finalize plans and implementation of instruction.",
-    "crumbs": [
-      "Home",
-      "INSTRUCTION",
-      "Teaching with LASER"
-    ]
-  },
-  {
-    "objectID": "institute-intro.html",
-    "href": "institute-intro.html",
-    "title": "Goals and Objectives",
-    "section": "",
-    "text": "As the use of digital teaching and learning resources continues to expand, the volume and variety of data available to researchers presents new opportunities for understanding and improving STEM education. The LASER Institute aims to increase the capacity of early and mid-career scholars to leverage new data sources and apply advanced methods to support their research and teaching. Located at the Friday Institute for Educational Innovation, the LASER Institute is a collaborative effort between North Carolina State University, University of Pennsylvania, University of Florida and the University of Tennessee, Knoxville.\nThe LASER Institute focuses on building the capacity of scholars to conduct high-quality research in three primary domains:\n\nDisciplinary Knowledge: Scholars will deepen their understanding of LA methodologies, literature, applications and ethical issues as they relate to STEM education and equity.\nTechnical Skills: Scholars will develop proficiency with R, Python, Quarto, GitHub and other tools used for collaboration, reproducible research and computational analyses.\nSocial Capital: Scholars will expand their professional networks, connecting with researchers and experts in LA related fields, as well as other scholars focused on STEM education."
-  },
-  {
-    "objectID": "curriculum-relationship-mining.html",
-    "href": "curriculum-relationship-mining.html",
-    "title": "Relationship Mining",
-    "section": "",
-    "text": "[Badge Image Placeholder]\nRelationship mining reveals meaningful patterns and associations within datasets through three key techniques: Correlation Mining, Association Rule Mining, and Sequential Pattern Mining. These complementary approaches form a powerful toolkit for uncovering hidden data relationships that drive strategic decision-making in business intelligence and recommendation systems."
-  },
-  {
-    "objectID": "curriculum-relationship-mining.html#module-x-title",
-    "href": "curriculum-relationship-mining.html#module-x-title",
-    "title": "Relationship Mining",
-    "section": "Module x: [Title]",
-    "text": "Module x: [Title]\n[Module Overview]\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n[Case Study Title] | [Answer Key]\n\n\n\nBadge\n\n\n\n\nModule Survey\nFeedback Form After Finishing Module"
-  },
-  {
-    "objectID": "curriculum-relationship-mining.html#microcredential",
-    "href": "curriculum-relationship-mining.html#microcredential",
-    "title": "Relationship Mining",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the Relationship Mining modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Relationship Mining Microcredential, you must demonstrate your ability to formulate a relevant research question for relationship mining, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n[Image placeholder]\nMicrocredential\nText Mining in Education"
-  },
-  {
-    "objectID": "curriculum-relationship-mining.html#references",
-    "href": "curriculum-relationship-mining.html#references",
-    "title": "Relationship Mining",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "curriculum-structure-discovery.html",
-    "href": "curriculum-structure-discovery.html",
-    "title": "Structure Discovery",
-    "section": "",
-    "text": "[Badge Placeholder]\n[Curricular Overview] Structure discovery labs address the following critical questions:",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Structure Discovery"
-    ]
-  },
-  {
-    "objectID": "curriculum-structure-discovery.html#module-x-title",
-    "href": "curriculum-structure-discovery.html#module-x-title",
-    "title": "Structure Discovery",
-    "section": "Module x: [Title]",
-    "text": "Module x: [Title]\n[Module Overview]\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n[Case Study Title] | [Answer Key]\n\n\n\nBadge\n\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Structure Discovery"
-    ]
-  },
-  {
-    "objectID": "curriculum-structure-discovery.html#microcredential",
-    "href": "curriculum-structure-discovery.html#microcredential",
-    "title": "Structure Discovery",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the Structure Discovery Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Structure Discovery Microcredential, you must demonstrate your ability to formulate a relevant research question for structure discovery, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nText Mining in Education",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Structure Discovery"
-    ]
-  },
-  {
-    "objectID": "curriculum-structure-discovery.html#references",
-    "href": "curriculum-structure-discovery.html#references",
-    "title": "Structure Discovery",
-    "section": "References",
-    "text": "References",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Structure Discovery"
-    ]
-  },
-  {
-    "objectID": "curriculum-relationship-mining PLACEHOLDER.html",
-    "href": "curriculum-relationship-mining PLACEHOLDER.html",
-    "title": "Relationship Mining",
-    "section": "",
-    "text": "COMING SOON"
-  },
-  {
-    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html",
-    "href": "curriculum-structure-discovery-PLACEHOLDER.html",
-    "title": "Structure Discovery",
-    "section": "",
-    "text": "COMING SOON",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Structure Discovery"
-    ]
-  },
-  {
-    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html#module-x-title",
-    "href": "curriculum-structure-discovery-PLACEHOLDER.html#module-x-title",
-    "title": "Structure Discovery",
-    "section": "Module x: [Title]",
-    "text": "Module x: [Title]\n[Module Overview]\n\n\n\n\n\n\n\n\n\nConceptual\nOverview\n\n\n\n\nCode Along\n\n\n\n\nReadings &\nReflection\n\n\n\n\nCase Study\n[Case Study Title] | [Answer Key]\n\n\n\nBadge\n\n\n\n\nModule Survey\nFeedback Form After Finishing Module"
-  },
-  {
-    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html#microcredential",
-    "href": "curriculum-structure-discovery-PLACEHOLDER.html#microcredential",
-    "title": "Structure Discovery",
-    "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the Structure Discovery Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Structure Discovery Microcredential, you must demonstrate your ability to formulate a relevant research question for structure discovery, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nText Mining in Education"
-  },
-  {
-    "objectID": "curriculum-structure-discovery-PLACEHOLDER.html#references",
-    "href": "curriculum-structure-discovery-PLACEHOLDER.html#references",
-    "title": "Structure Discovery",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "curriculum-relationship-mining-PLACEHOLDER.html",
-    "href": "curriculum-relationship-mining-PLACEHOLDER.html",
-    "title": "Relationship Mining",
-    "section": "",
-    "text": "COMING SOON",
-    "crumbs": [
-      "Home",
-      "CURRICULUM",
-      "Relationship Mining"
-    ]
-  },
-  {
-    "objectID": "curriculum-relationship-mining.html#module-1-correlation-mining",
-    "href": "curriculum-relationship-mining.html#module-1-correlation-mining",
-    "title": "Relationship Mining",
-    "section": "Module 1: Correlation Mining",
-    "text": "Module 1: Correlation Mining\nCorrelation mining quantifies statistical relationships between variables using metrics like Pearson’s coefficient, indicating how changes in one variable relate to another without implying causation.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey"
-  },
-  {
-    "objectID": "curriculum-relationship-mining.html#module-2-association-rule-mining",
-    "href": "curriculum-relationship-mining.html#module-2-association-rule-mining",
-    "title": "Relationship Mining",
-    "section": "Module 2: Association Rule Mining",
-    "text": "Module 2: Association Rule Mining\nAssociation Rule Mining (ARM) discovers co-occurrence relationships as “if-then” rules, measuring strengths through support, confidence, and lift metrics to reveal product affinities and purchasing patterns.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey"
-  },
-  {
-    "objectID": "curriculum-relationship-mining.html#module-3-sequential-pattern-mining",
-    "href": "curriculum-relationship-mining.html#module-3-sequential-pattern-mining",
-    "title": "Relationship Mining",
-    "section": "Module 3: Sequential Pattern Mining",
-    "text": "Module 3: Sequential Pattern Mining\nSequential Pattern Mining (SPM) identifies frequently occurring ordered sequences of events across time-series data, essential for predicting behaviors in applications from customer purchases to website navigation.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey"
   }
 ]
