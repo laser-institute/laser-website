@@ -1,0 +1,193 @@
+---
+title: "Relationship Mining"
+bibliography: lit/references.bib
+---
+
+\[Badge Image Placeholder\]
+
+Welcome to Structure Discovery, where we explore the foundations of unsupervised machine learning with a focus on discovering patterns in educational data without labels.
+
+Structure Discovery focuses on how we can use unsupervised machine learning to uncover hidden patterns, groupings, and structures within complex educational datasets, without relying on predefined labels or outcomes. In this workshop, we will go through 4 modules where participants will gain both a conceptual foundation and practical experience with key unsupervised learning techniques that are widely used in learning analytics and educational research.
+
+We will be using R, specifically with Integrated Development Environment (IDEs), RStudio or Positron.
+
++------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
+| ![](images/github.png){width="40"} | [**Github**](https://github.com/laser-institute/structure-discovery)**\                                        | Repository for Instructors |
+|                                    | **                                                                                                             |                            |
++------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
+| ![](images/posit.png){width="40"}  | [**Posit Cloud**](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) | Workspace for Learners     |
++------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
+
+# Structure Discovery
+
+Welcome to Structure Discovery, where we explore the foundations of unsupervised machine learning with a focus on discovering patterns in educational data without labels.
+
+Structure Discovery focuses on how we can use unsupervised machine learning to uncover hidden patterns, groupings, and structures within complex educational datasets, without relying on predefined labels or outcomes. In this workshop, we will go through 4 modules where participants will gain both a conceptual foundation and practical experience with key unsupervised learning techniques that are widely used in learning analytics and educational research.
+
+We will be using R, specifically with Integrated Development Environment (IDEs), RStudio or Positron.
+
+# Installation Guide: R, RStudio, and Positron
+
+This provides step-by-step instructions for setting up your local environment for data science. This repository supports development in both **RStudio** and **Positron IDE** (my personal favorite).
+
+Note: While RStudio is highly mature, Positron is in active development (currently version 2026.03.0). You may encounter UI changes, but the core installation logic remains consistent across the 2026 release cycle.
+
+------------------------------------------------------------------------
+
+## Prerequisites: The R Engine
+
+You must install the R language engine **before** installing an IDE. Positron requires R version 4.2.0 or higher.
+
++---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
+| Operating System          | Download Link                                                                             | Architecture          |
++:==========================+:==========================================================================================+:======================+
+| **Windows 10/11**         | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/)                          | x64                   |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
+| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)   | M1, M2, M3, M4        |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
+| **macOS (Intel)**         | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs            |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
+| **Linux**                 | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/)                              | Distro-specific       |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
+
+------------------------------------------------------------------------
+
+## Choose Your IDE
+
+### Option A: RStudio Desktop (Stable)
+
+Recommended for users focused exclusively on R, RMarkdown, and Shiny applications.
+
+1.  Go to the [RStudio Download Page](https://posit.co/download/rstudio-desktop/).
+2.  Select the installer for your OS:
+    -   [Windows Installer](https://rstudio.org/download/latest/stable/desktop/windows/RStudio-latest.exe)
+    -   [macOS Disk Image](https://rstudio.org/download/latest/stable/desktop/mac/RStudio-latest.dmg)
+3.  Run the installer and follow the default prompts.
+
+### Option B: Positron IDE (Modern/Polyglot)
+
+Recommended for users who work with both **R and Python** and prefer a VS Code-based workflow.
+
+1.  Navigate to the [Positron Releases Page](https://positron.posit.co/download.html).
+2.  Download the version corresponding to your OS.
+3.  **Important:** After installation, launch Positron and click the **Interpreter** icon (top right) to select your R version.
+
+## Module 1: Introduction
+
+This module contains:
+
+-   A slide-based overview introducing the core concepts of structure discovery. This includes key distinctions from supervised learning, common techniques (e.g., clustering, dimensionality reduction), and examples of real-world applications.
+
+-   A guided coding activity using a real-world dataset. Students apply multiple structure discovery algorithms (e.g., k-means) and interpret results related to student performance. 🧠 Tip: Ideal for hands-on learning following the conceptual overview. We will encourage experimentation with different algorithms (e.g., cluster vs. factor analysis).
+
+-   A research article which demonstrates the application of unsupervised methods (e.g., clustering) in an educational context. 🔍 Suggested use: Students can annotate the reading, identify methods used, and reflect on findings in small group discussions.
+
+-   Case study
+
+-   A self-paced badge activity that promotes a deeper understanding of structure discovery methods.
+
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | [**Conceptual\                                                                                                                                                          |
+|                                                 | Overview**](https://ecloude.quarto.pub/module-1-structure-discovery/#/title-slide)                                                                                      |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}          | [**Code Along**](https://laserkt.quarto.pub/unsupervised-learning-activity---student-performance-with-assistments-b0d3/)                                                |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}             | [**Essential Reading**](https://github.com/laser-institute/UNsupervised-machine-learning/blob/master/Module-1-Intro/lit/Rahman%20et%20al.%20(2024)%20Case%20Review.pdf) |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study**                                                                                                                                                          |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \[Placeholder\]                                 | [**Badge Activity**](https://laserkt.quarto.pub/module-1-badge-discovering-patterns-without-labels-03e7/)                                                               |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/survey.png){width="47" height="40"}  | [**Module Survey**](https://www.surveymonkey.com/r/LAWF_Mod4_July24)                                                                                                    |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Module 2: Clustering
+
+This module contains:
+
+-   A slide deck covering core clustering concepts, algorithms, and use cases in education.
+
+-   A guided coding analysis of a real-world study applying clustering to educational data.
+
+-   A foundational research article demonstrating how clustering techniques are applied in real-world educational research.
+
+-   Case study
+
+-   A self-paced badge activity to connect clusering to your own research or teaching practices.
+
++-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | [**Conceptual\                                                                                                                                |
+|                                                 | Overview**](https://ecloude.quarto.pub/module-2-structure-discovery/#/title-slide)                                                            |
++-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}          | [**Code Along**](https://laserkt.quarto.pub/module-2-case-review-activity-clustering-9c4d/)                                                   |
++-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}             | [**Essential Reading**](https://github.com/laser-institute/Structure_Discovery/blob/master/Module-2-Clustering/lit/kmeans%20case%20study.pdf) |
++-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study**                                                                                                                                |
++-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| \[Placeholder\]                                 | [**Badge Activity**](https://laserkt.quarto.pub/module-2-badge-activity-094f/)                                                                |
++-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/survey.png){width="47" height="40"}  | [**Module Survey**](https://www.surveymonkey.com/r/LAWF_Mod4_July24)                                                                          |
++-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Module 3: Clustering Validation
+
+This module contains:
+
+-   Slides introducing key concepts in validating clustering results, including metrics like silhouette analysis and many others.
+
+-   A guided coding activity using real data to apply clustering validation metrics and interpret results.
+
+-   A key reading demonstrating how clustering validation techniques are applied in practice. In this code-along, you will gain an understanding of how to assess and interpret the quality of clustering solutions.
+
+-   Case study
+
+-   A self-paced badge activity connecting clustering validation to your own research or instructional practice.
+
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Conceptual\                                                                  |
+|                                                 | Overview**                                                                     |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}          | **Code Along**                                                                 |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}             | **Readings &\                                                                  |
+|                                                 | Reflection**                                                                   |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study**                                                                 |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| \[Placeholder\]                                 | [**Badge Activity**](https://laserkt.quarto.pub/module-3-badge-activity-2b85/) |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/survey.png){width="47" height="40"}  | **Module Survey**                                                              |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+
+## Module 4: Advanced Clustering Algorithms
+
+This module contains:
+
+-   Slides introducing advanced clustering methods (e.g., hierarchical clustering, spectral clustering, Gaussian mixture models, etc.) and their applications in educational data.
+
+-   A guided coding activity exploring advanced clustering techniques, with space for discussion and reflection.
+
+-   A key reading showcasing the use of advanced clustering techniques in educational research. This reading helps contextualize when and why to use more sophisticated models.
+
+-   Case study
+
+-   A self-paced badge activity connecting advanced clustering approaches to your own research or teaching.
+
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Conceptual\                                                                  |
+|                                                 | Overview**                                                                     |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/code-along.png){width="40"}          | **Code Along**                                                                 |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/reading.png){width="40"}             | **Readings &\                                                                  |
+|                                                 | Reflection**                                                                   |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/case-study.png){width="40"}          | **Case Study**                                                                 |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| \[Placeholder\]                                 | [**Badge Activity**](https://laserkt.quarto.pub/module-4-badge-activity-27bc/) |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+| ![](images/survey.png){width="47" height="40"}  | **Module Survey**                                                              |
++-------------------------------------------------+--------------------------------------------------------------------------------+
+
+## References
