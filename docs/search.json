@@ -1031,7 +1031,7 @@
     "href": "curriculum-relationship-mining.html",
     "title": "Relationship Mining",
     "section": "",
-    "text": "[Badge Placeholder]\n[Curricular Overview] Relationship mining labs address the following critical questions:"
+    "text": "[Badge Image Placeholder]\nRelationship mining reveals meaningful patterns and associations within datasets through three key techniques: Correlation Mining, Association Rule Mining, and Sequential Pattern Mining. These complementary approaches form a powerful toolkit for uncovering hidden data relationships that drive strategic decision-making in business intelligence and recommendation systems."
   },
   {
     "objectID": "curriculum-relationship-mining.html#module-x-title",
@@ -1045,7 +1045,7 @@
     "href": "curriculum-relationship-mining.html#microcredential",
     "title": "Relationship Mining",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the Relationship Mining modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Relationship Mining Microcredential, you must demonstrate your ability to formulate a relevant research question for relationship mining, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nText Mining in Education"
+    "text": "Microcredential\nThe culminating activity for the Relationship Mining modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Relationship Mining Microcredential, you must demonstrate your ability to formulate a relevant research question for relationship mining, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n[Image placeholder]\nMicrocredential\nText Mining in Education"
   },
   {
     "objectID": "curriculum-relationship-mining.html#references",
@@ -1153,5 +1153,26 @@
       "CURRICULUM",
       "Relationship Mining"
     ]
+  },
+  {
+    "objectID": "curriculum-relationship-mining.html#module-1-correlation-mining",
+    "href": "curriculum-relationship-mining.html#module-1-correlation-mining",
+    "title": "Relationship Mining",
+    "section": "Module 1: Correlation Mining",
+    "text": "Module 1: Correlation Mining\nCorrelation mining quantifies statistical relationships between variables using metrics like Pearson’s coefficient, indicating how changes in one variable relate to another without implying causation.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey"
+  },
+  {
+    "objectID": "curriculum-relationship-mining.html#module-2-association-rule-mining",
+    "href": "curriculum-relationship-mining.html#module-2-association-rule-mining",
+    "title": "Relationship Mining",
+    "section": "Module 2: Association Rule Mining",
+    "text": "Module 2: Association Rule Mining\nAssociation Rule Mining (ARM) discovers co-occurrence relationships as “if-then” rules, measuring strengths through support, confidence, and lift metrics to reveal product affinities and purchasing patterns.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey"
+  },
+  {
+    "objectID": "curriculum-relationship-mining.html#module-3-sequential-pattern-mining",
+    "href": "curriculum-relationship-mining.html#module-3-sequential-pattern-mining",
+    "title": "Relationship Mining",
+    "section": "Module 3: Sequential Pattern Mining",
+    "text": "Module 3: Sequential Pattern Mining\nSequential Pattern Mining (SPM) identifies frequently occurring ordered sequences of events across time-series data, essential for predicting behaviors in applications from customer purchases to website navigation.\n\n\n\n\nConceptual\nOverview\n\n\n\nCode Along\n\n\n\nReadings &\nReflection\n\n\n\nCase Study\n\n\n[Image placeholder]\nBadge\n\n\n\nModule Survey"
   }
 ]
