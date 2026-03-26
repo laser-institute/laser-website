@@ -1,6 +1,0 @@
----
-title: "Relationship Mining"
-bibliography: lit/references.bib
----
-
-# COMING SOON
