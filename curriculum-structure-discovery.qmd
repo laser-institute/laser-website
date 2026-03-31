@@ -3,8 +3,6 @@ title: "Structure Discovery"
 bibliography: lit/references.bib
 ---
 
-# Structure Discovery
-
 \[Badge Image Placeholder\]
 
 Welcome to the Structure Discovery module, where we explore the foundations of unsupervised machine learning with a focus on discovering patterns in educational data without labels.
