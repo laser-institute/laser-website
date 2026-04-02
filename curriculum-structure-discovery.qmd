@@ -1,15 +1,15 @@
 ---
-title: "Relationship Mining"
+title: "Structure Discovery"
 bibliography: lit/references.bib
 ---
 
 \[Badge Image Placeholder\]
 
-Welcome to Structure Discovery, where we explore the foundations of unsupervised machine learning with a focus on discovering patterns in educational data without labels.
+Welcome to the Structure Discovery module, where we explore the foundations of unsupervised machine learning with a focus on discovering patterns in educational data without labels.
 
-Structure Discovery focuses on how we can use unsupervised machine learning to uncover hidden patterns, groupings, and structures within complex educational datasets, without relying on predefined labels or outcomes. In this workshop, we will go through 4 modules where participants will gain both a conceptual foundation and practical experience with key unsupervised learning techniques that are widely used in learning analytics and educational research.
+Structure discovery focuses on how we can use unsupervised machine learning to uncover hidden patterns, groupings, and structures within complex educational datasets, without relying on predefined labels or outcomes. In this workshop, we will go through 4 modules where participants will gain both a conceptual foundation and practical experience with key unsupervised learning techniques that are widely used in learning analytics and educational research.
 
-We will be using R, specifically with Integrated Development Environment (IDEs), RStudio or Positron.
+We will be using R, specifically with the integrated development environments (IDEs) RStudio or Positron.
 
 +------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
 | ![](images/github.png){width="40"} | [**Github**](https://github.com/laser-institute/structure-discovery)**\                                        | Repository for Instructors |
@@ -17,14 +17,6 @@ We will be using R, specifically with Integrated Development Environment (IDEs),
 +------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
 | ![](images/posit.png){width="40"}  | [**Posit Cloud**](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) | Workspace for Learners     |
 +------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
-
-# Structure Discovery
-
-Welcome to Structure Discovery, where we explore the foundations of unsupervised machine learning with a focus on discovering patterns in educational data without labels.
-
-Structure Discovery focuses on how we can use unsupervised machine learning to uncover hidden patterns, groupings, and structures within complex educational datasets, without relying on predefined labels or outcomes. In this workshop, we will go through 4 modules where participants will gain both a conceptual foundation and practical experience with key unsupervised learning techniques that are widely used in learning analytics and educational research.
-
-We will be using R, specifically with Integrated Development Environment (IDEs), RStudio or Positron.
 
 # Installation Guide: R, RStudio, and Positron
 
@@ -38,17 +30,17 @@ Note: While RStudio is highly mature, Positron is in active development (current
 
 You must install the R language engine **before** installing an IDE. Positron requires R version 4.2.0 or higher.
 
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
-| Operating System          | Download Link                                                                             | Architecture          |
-+:==========================+:==========================================================================================+:======================+
-| **Windows 10/11**         | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/)                          | x64                   |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
-| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)   | M1, M2, M3, M4        |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
-| **macOS (Intel)**         | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs            |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
-| **Linux**                 | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/)                              | Distro-specific       |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------------+
++---------------------------+-------------------------------------------------------------------------------------------+-----------------+
+| Operating System          | Download Link                                                                             | Architecture    |
++:==========================+:==========================================================================================+:================+
+| **Windows 10/11**         | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/)                          | x64             |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------+
+| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)   | M1, M2, M3, M4  |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------+
+| **macOS (Intel)**         | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs      |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------+
+| **Linux**                 | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/)                              | Distro-specific |
++---------------------------+-------------------------------------------------------------------------------------------+-----------------+
 
 ------------------------------------------------------------------------
 
