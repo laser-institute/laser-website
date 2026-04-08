@@ -45,10 +45,10 @@ This module is a gentle introduction to getting our text “tidy” so we can pe
 This module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people's opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of @rosenberg2021understanding and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
 +------------------------------------------------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/presentation.png){width="40"}       | **Conceptual\     | Intro to Dictionary-Based Methods                                                                                                                                                                                           |
+| ![](images/presentation.png){width="40"}       | **Conceptual\     | [Intro to Dictionary-Based Methods](https://laser-institute.github.io//text-mining/module-2/module-2-conceptual-overview.html#/title-slide)                                                                                 |
 |                                                | Overview**        |                                                                                                                                                                                                                             |
 +------------------------------------------------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}         | **Code Along**    | Working with Sentiment Lexicons                                                                                                                                                                                             |
+| ![](images/code-along.png){width="40"}         | **Code Along**    | [Working with Sentiment Lexicons](https://laser-institute.github.io//text-mining/module-2/module-2-code-along.html#/title-slide)                                                                                            |
 +------------------------------------------------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}            | **Readings &\     | [Dictionary-Based Methods](https://laser-institute.github.io//text-mining/module-2/tm-2-readings.html)                                                                                                                      |
 |                                                | Reflection**      |                                                                                                                                                                                                                             |
@@ -104,8 +104,8 @@ Our final module concludes our exploration of text mining methods by introducing
 
 The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
-|  |  |  |
-|----|----|----|
-| ![](images/tm-micro.png){width="40"} | **Microcredential** | Text Mining in Education |
++--------------------------------------+----------------------+--------------------------+
+| ![](images/tm-micro.png){width="40"} | **Microcredential**  | Text Mining in Education |
++--------------------------------------+----------------------+--------------------------+
 
 ## References
