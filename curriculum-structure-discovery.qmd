@@ -11,12 +11,12 @@ Structure discovery focuses on how we can use unsupervised machine learning to u
 
 We will be using R, specifically with the integrated development environments (IDEs) RStudio or Positron.
 
-+------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
-| ![](images/github.png){width="40"} | [**Github**](https://github.com/laser-institute/structure-discovery)**\                                        | Repository for Instructors |
-|                                    | **                                                                                                             |                            |
-+------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
-| ![](images/posit.png){width="40"}  | [**Posit Cloud**](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) | Workspace for Learners     |
-+------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
++------------------------------------+----------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/github.png){width="40"} | **Github\                              | [Repository for Instructors](https://github.com/laser-institute/structure-discovery)                                  |
+|                                    | **                                     |                                                                                                                       |
++------------------------------------+----------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}  | **Posit Cloud**                        | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
++------------------------------------+----------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
 
 # Installation Guide: R, RStudio, and Positron
 
