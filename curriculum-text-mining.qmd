@@ -65,10 +65,14 @@ This module moves beyond basic concepts of text mining and takes a closer look a
 This module focuses on identifying “topics” by quantifying how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique, while our Module 3 Case Study is guided by the work from Friday Institute and explores ideas or issues that emerged in the discussion forums in a MOOC-ed course [@akoglu2019participating]. Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
 +------------------------------------------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<<<<<<< HEAD
 | ![](images/presentation.png){width="40"}       | **Conceptual\     | [An Intro to Topic Modeling](https://laser-institute.github.io//text-mining/module-3/module-3-conceptual-overview.html)                                                                                      |
+=======
+| ![](images/presentation.png){width="40"}       | **Conceptual\     | [Intro to Topic Modeling](https://laser-institute.github.io//text-mining/module-3/module-3-conceptual-overview.html#/title-slide)                                                                            |
+>>>>>>> f8c36819a99876816371f49ad70b92af502115c8
 |                                                | Overview**        |                                                                                                                                                                                                              |
 +------------------------------------------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/code-along.png){width="40"}         | **Code Along**    | [Latent Dirichlet Allocation](https://laser-institute.github.io//text-mining/lab-4/lab-4-code-along-python.html)                                                                                             |
+| ![](images/code-along.png){width="40"}         | **Code Along**    | [Latent Dirichlet Allocation](https://laser-institute.github.io//text-mining/module-3/module-3-code-along.html#/title-slide)                                                                                 |
 +------------------------------------------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/reading.png){width="40"}            | **Readings &\     | [Topic Modeling and STEM Ed Research](https://laser-institute.github.io//text-mining/module-3/tm-3-readings.html)                                                                                            |
 |                                                | Discussion**      |                                                                                                                                                                                                              |
@@ -104,8 +108,14 @@ Our final module concludes our exploration of text mining methods by introducing
 
 The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
+<<<<<<< HEAD
 +--------------------------------------+---------------------+-------------------------------------------------------------------------------------------------------------------+
 | ![](images/tm-micro.png){width="40"} | **Microcredential** | [Text Mining in Education](https://laser-institute.github.io//text-mining/module-5/tm-microcredential-badge.html) |
 +--------------------------------------+---------------------+-------------------------------------------------------------------------------------------------------------------+
+=======
++--------------------------------------+---------------------+--------------------------+
+| ![](images/tm-micro.png){width="40"} | **Microcredential** | Text Mining in Education |
++--------------------------------------+---------------------+--------------------------+
+>>>>>>> f8c36819a99876816371f49ad70b92af502115c8
 
 ## References
