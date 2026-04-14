@@ -832,7 +832,7 @@
     "href": "curriculum-text-mining.html#microcredential",
     "title": "Text Mining",
     "section": "Microcredential",
-    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\n\n\n\n\n\nMicrocredential\nText Mining in Education",
+    "text": "Microcredential\nThe culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.\n\n\n\n\nMicrocredential\nText Mining in Education",
     "crumbs": [
       "Home",
       "CURRICULUM",
@@ -1192,6 +1192,18 @@
       "Home",
       "INSTRUCTION",
       "Workshop Example"
+    ]
+  },
+  {
+    "objectID": "curriculum-text-mining.html#module-4-quantitative-ethnography",
+    "href": "curriculum-text-mining.html#module-4-quantitative-ethnography",
+    "title": "Text Mining",
+    "section": "Module 4: Quantitative Ethnography",
+    "text": "Module 4: Quantitative Ethnography\nOur final module concludes our exploration of text mining methods by introducing Quantitative Ethnography (QE) as well as Epistemic Network Analysis (ENA). ENA is a subset of QE and focuses on modeling the relationships between ideas within discourse. While automated topic modeling approaches such as Latent Dirichlet Allocation (LDA) are useful for identifying general themes in large text corpora, they do not capture the structure of meaning, that is, how ideas are connected within a conversation, a learning environment, or a collaborative task. This module will explore how QE and ENA fill this gap by providing a framework to analyze how concepts are linked in human discourse and how those connections reflect knowledge construction and problem-solving.\n\n\n\n\nConceptual\nOverview\nIntro to Quantitative Ethnography\n\n\n\nCode Along\nThe rENA Package\n\n\n\nReadings &\nDiscussion\nQuantitative Ethnography and ENA\n\n\n\nCase Study\nENA and Virtual Internship Conversations | Answer Key\n\n\n\nBadge\nEpistemic Network Analysis Badge\n\n\n\nModule Survey\nFeedback Form After Finishing Module",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Text Mining"
     ]
   }
 ]
