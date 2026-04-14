@@ -7,14 +7,14 @@ bibliography: lit/references.bib
 
 Relationship mining reveals meaningful patterns and associations within datasets through three key techniques: Correlation Mining, Association Rule Mining, and Sequential Pattern Mining. These complementary approaches form a powerful toolkit for uncovering hidden data relationships that drive strategic decision-making in business intelligence and recommendation systems. Note: While this module was rendered using Quarto via RStudio/Posit Cloud, it mainly focuses on Python as its main language.
 
-+-------------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
-| ![](images/github.png){width="40"}              | [**Github**](https://github.com/laser-institute/Relationship-Mining?tab=readme-ov-file)**\                     | Repository for Instructors |
-|                                                 | **                                                                                                             |                            |
-+-------------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
-| ![](images/posit.png){width="40"}               | [**Posit Cloud**](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) | Workspace for Learners     |
-+-------------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
-| ![](images/conceptual-overview.png){width="40"} | [**Relationship Mining Basics**](https://laserkt.quarto.pub/module-6-relationship-mining-basics/#/title-slide) | Slides                     |
-+-------------------------------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------+
++-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/github.png){width="40"}              | **Github\                            | [Repository for Instructors](https://github.com/laser-institute/Relationship-Mining?tab=readme-ov-file)               |
+|                                                 | **                                   |                                                                                                                       |
++-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}               | **Posit Cloud**                      | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
++-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Relationship Mining Basics**       | [Slide Deck](https://laserkt.quarto.pub/module-6-relationship-mining-basics/#/title-slide)                            |
++-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ## Module 1: Correlation Mining
 
