@@ -18,27 +18,27 @@ We also carried this idea through for our version of SMART goals, i.e., SHARK Go
 
 The first step in designing an instructional plan is to develop a SHARK Goal, which includes identifying learning analytics topics and/or techniques and LASER materials that support teaching these topics, approaches and techniques. The SHARK Goal should address the following components:
 
--   **Specific**. Identify specific learning analytics topics and/or techniques to teach others; 
+- [**S**]{.underline}pecific. Identify specific learning analytics topics and/or techniques to teach others; 
 
--   **How To**. Develop a plan for how to incorporate LASER materials into this instructional experience;
+- [**H**]{.underline}ow to. Develop a plan for how to incorporate LASER materials into this instructional experience;
 
--   **Attainable**. Ensure the plan is attainable during the academic year, preferably fall semester; 
+- [**A**]{.underline}ttainable. Ensure the plan is attainable during the academic year, preferably fall semester; 
 
--   **Relevant**. Make sure the plan is relevant to their professional goals; and,
+- [**R**]{.underline}elevant. Make sure the plan is relevant to their professional goals; and,
 
--   **Keep Track**. Help to keep track of feedback, information, and insights gained to help improve the curriculum. 
+- [**K**]{.underline}eep track. Help to keep track of feedback, information, and insights gained to help improve the curriculum. 
 
 ## Instructional Formats
 
 In addition to developing a SHARK Goal, scholars select the format for their instruction. Formats will vary based on scholars’ SHARK Goal, which may include, but is not limited to, courses, webinars, and workshops. Scholars are encouraged to select formats that are appropriate for their institutional roles, contexts, expertise, professional goals and interests. For example, some scholars may want to incorporate LASER materials into an entire course that they currently teach or plan to teach. Other scholars may choose a format where the instructional plan will be implemented in one to four hours of instruction.
 
--   **Courses**. Curriculum materials can be adopted and adapted by scholars to provide a 1-3 credit course at their home institutions.
+- **Courses**. Curriculum materials can be adopted and adapted by scholars to provide a 1-3 credit course at their home institutions.
 
--   **Lessons or Units**. In addition, modules activities can be embedded as individual lessons or short units of instruction within existing courses or programs.
+- **Lessons or Units**. In addition, modules activities can be embedded as individual lessons or short units of instruction within existing courses or programs.
 
--   **Workshop**. Others may wish to design professional development for faculty and/or other colleagues at their home institution that they implement in the form of a workshop. Another possibility is designing a presentation or workshop that is implemented at a professional conference.
+- **Workshop**. Others may wish to design professional development for faculty and/or other colleagues at their home institution that they implement in the form of a workshop. Another possibility is designing a presentation or workshop that is implemented at a professional conference.
 
--   **Webinar**. Yet others may want to create professional development for colleagues at and beyond their home institution in the form of a virtual webinar.
+- **Webinar**. Yet others may want to create professional development for colleagues at and beyond their home institution in the form of a virtual webinar.
 
 To assist scholars in developing and implementing their instruction plans, scholars are provided a range of resources such as example course syllabi and webinar and workshop templates.
 
@@ -48,8 +48,8 @@ Based on their SHARK goal and selected format, scholars design a customized inst
 
 Scholars participate in daily Pedagogy and Design Sessions during the that will support them in creating an instructional plan. During the Summer Institute, templates will be provided to scholars to guide their planning. Scholars will use one of the following planning guides based on their SHARK Goal and selected format for implementation:
 
--   [Syllabus Instructional Plan](https://docs.google.com/document/d/1q4RXARFeWG5xmgTQhZxwDlFwhqyOvjR9QcpKOG39Cq0/edit#heading=h.1vjy6yaqjtfe)
+- [Syllabus Instructional Plan](https://docs.google.com/document/d/1q4RXARFeWG5xmgTQhZxwDlFwhqyOvjR9QcpKOG39Cq0/edit#heading=h.1vjy6yaqjtfe)
 
--   [Instructional Plan (1-4 hrs)](https://docs.google.com/document/d/1QKIHpjJsnriMnWlHLFV0GFCELXyTmwDkRF3MOSWK5cE/edit)
+- [Instructional Plan (1-4 hrs)](https://docs.google.com/document/d/1QKIHpjJsnriMnWlHLFV0GFCELXyTmwDkRF3MOSWK5cE/edit)
 
 During the academic year, scholars will continue planning, refining and finalizing instructional plans that will be implemented during the academic year, preferably in the fall. Scholars will participate in monthly check-ins with the LASER BEAM team to finalize plans and implementation of instruction.

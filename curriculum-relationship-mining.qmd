@@ -7,20 +7,23 @@ bibliography: lit/references.bib
 
 Relationship mining reveals meaningful patterns and associations within datasets through three key techniques: Correlation Mining, Association Rule Mining, and Sequential Pattern Mining. These complementary approaches form a powerful toolkit for uncovering hidden data relationships that drive strategic decision-making in business intelligence and recommendation systems. Note: While this module was rendered using Quarto via RStudio/Posit Cloud, it mainly focuses on Python as its main language.
 
-+-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/github.png){width="40"}              | **Github\                            | [Repository for Instructors](https://github.com/laser-institute/Relationship-Mining?tab=readme-ov-file)               |
-|                                                 | **                                   |                                                                                                                       |
-+-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}               | **Posit Cloud**                      | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
-+-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/conceptual-overview.png){width="40"} | **Relationship Mining Basics**       | [Slide Deck](https://laserkt.quarto.pub/module-6-relationship-mining-basics/#/title-slide)                            |
-+-------------------------------------------------+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+|                                                 |                                |                                                                                                                       |
++=================================================+================================+=======================================================================================================================+
+| ![](images/github.png){width="40"}              | **Github\**                    | [Repository for Instructors](https://github.com/laser-institute/Relationship-Mining?tab=readme-ov-file)               |
++-------------------------------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}               | **Posit Cloud**                | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
++-------------------------------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/conceptual-overview.png){width="40"} | **Relationship Mining Basics** | [Slide Deck](https://laserkt.quarto.pub/module-6-relationship-mining-basics/#/title-slide)                            |
++-------------------------------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ## Module 1: Correlation Mining
 
 Correlation mining quantifies statistical relationships between variables using metrics like Pearson's coefficient, indicating how changes in one variable relate to another without implying causation.
 
 +-------------------------------------------------+------------------------------------------------------------------------------------------------------+
+|                                                 |                                                                                                      |
++=================================================+======================================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | [**Conceptual\                                                                                       |
 |                                                 | Overview**](https://laserkt.quarto.pub/module-6-correlation-mining/#/title-slide)                    |
 +-------------------------------------------------+------------------------------------------------------------------------------------------------------+
@@ -39,6 +42,8 @@ Correlation mining quantifies statistical relationships between variables using 
 Association Rule Mining (ARM) discovers co-occurrence relationships as "if-then" rules, measuring strengths through support, confidence, and lift metrics to reveal product affinities and purchasing patterns.
 
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+|                                                 |                                                                                                                                         |
++=================================================+=========================================================================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | [**Conceptual\                                                                                                                          |
 |                                                 | Overview**](https://laserkt.quarto.pub/module-2-association-rule-mining/#/title-slide)                                                  |
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
@@ -57,6 +62,8 @@ Association Rule Mining (ARM) discovers co-occurrence relationships as "if-then"
 Sequential Pattern Mining (SPM) identifies frequently occurring ordered sequences of events across time-series data, essential for predicting behaviors in applications from customer purchases to website navigation.
 
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+|                                                 |                                                                                                                                         |
++=================================================+=========================================================================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | [**Conceptual\                                                                                                                          |
 |                                                 | Overview**](https://laserkt.quarto.pub/module-3-sequential-pattern-mining-4cd0/#/title-slide)                                           |
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
@@ -74,8 +81,8 @@ Sequential Pattern Mining (SPM) identifies frequently occurring ordered sequence
 
 The culminating activity for the Relationship Mining modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your Relationship Mining Microcredential, you must demonstrate your ability to formulate a relevant research question for relationship mining, effectively manage and analyze data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
-+-----------------------+--------------------------------------------------------------------------+-----------------------------+
+|  |  |  |
+|----|----|----|
 | \[Image placeholder\] | [**Microcredential**](https://laserkt.quarto.pub/relmin-badge-activity/) | Relmin Track Badge Activity |
-+-----------------------+--------------------------------------------------------------------------+-----------------------------+
 
 ## References

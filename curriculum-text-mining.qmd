@@ -14,17 +14,20 @@ The transition to digital learning has made available new sources of data, provi
 5.  How can we set up a research agenda that drives innovations in STEM education research with text data?
 
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/github.png){width="40"} | **Github\       | [Repository for Instructors](https://github.com/laser-institute/text-mining)                                          |
-|                                    | **              |                                                                                                                       |
+|                                    |                 |                                                                                                                       |
++====================================+=================+=======================================================================================================================+
+| ![](images/github.png){width="40"} | **Github\**     | [Repository for Instructors](https://github.com/laser-institute/text-mining)                                          |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 | ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
-## Module 1: Tidy Text & Word Counts (TM Basics)
+## Module 1: Text Mining Basics
 
 This module is a gentle introduction to getting our text “tidy” so we can perform some basic word counts, look at words that occur at a higher rate in a group of documents, examine words that are unique to those document groups, and create visualizations such as word cloud. The focus of our Essential Readings and case study in this lab is to help LASER Scholars gain a general understanding of key text mining concepts and terminology, as well as develop a basic comfort level with quantifying text data and working with text data. Our Text Mining Case Study: What aspects of online professional development offerings do teachers find most valuable? is guided by the work from Friday Institute and it examines teachers' experiences in professional development [@kellogg2012race]. Finally, the Intro to Text Mining Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
 +-------------------------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                 |                   |                                                                                                                                                                                                                                     |
++=================================================+===================+=====================================================================================================================================================================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | **Conceptual\     | [Text Mining Basics](https://laser-institute.github.io//text-mining/module-1/module-1-conceptual-overview.html#/title-slide)                                                                                                        |
 |                                                 | Overview**        |                                                                                                                                                                                                                                     |
 +-------------------------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -40,11 +43,13 @@ This module is a gentle introduction to getting our text “tidy” so we can pe
 | ![](images/survey.png){width="47" height="40"}  | **Module Survey** | [Feedback Form After Finishing Module](https://www.surveymonkey.com/r/TM_Mod1_July24)                                                                                                                                               |
 +-------------------------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-## Module 2: Public Sentiment and School Reform (Dictionary Methods)
+## Module 2: Dictionary-Based Methods
 
 This module moves beyond basic concepts of text mining and takes a closer look at a dictionary-based text mining technique, sentiment analysis. Our Essential Readings examine the topic of opinion mining or sentiment analysis. This technique is very helpful for us to understand people's opinions about things such as a policy. Our Text mining Case Study: Do the public like NGSS? is guided by the work of @rosenberg2021understanding and compares public sentiment expressed toward the Next Generation Science Standards (NGSS) and Common Core State Standards using X (twitter) data. Finally, the Sentiment Analysis Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
 +------------------------------------------------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                |                   |                                                                                                                                                                                                                             |
++================================================+===================+=============================================================================================================================================================================================================================+
 | ![](images/presentation.png){width="40"}       | **Conceptual\     | [Intro to Dictionary-Based Methods](https://laser-institute.github.io//text-mining/module-2/module-2-conceptual-overview.html#/title-slide)                                                                                 |
 |                                                | Overview**        |                                                                                                                                                                                                                             |
 +------------------------------------------------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -60,11 +65,13 @@ This module moves beyond basic concepts of text mining and takes a closer look a
 | ![](images/survey.png){width="47" height="40"} | **Module Survey** | [Feedback Form After Finishing Module](https://www.surveymonkey.com/r/TM_Mod2_July24)                                                                                                                                       |
 +------------------------------------------------+-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-## Module 3: Topic Modeling in MOOC-Eds
+## Module 3: Topic Modeling
 
 This module focuses on identifying “topics” by quantifying how words cohere into different latent, or hidden, themes based on patterns of co-occurrence of words within documents. Our Essential Readings introduces this unsupervised machine learning technique, while our Module 3 Case Study is guided by the work from Friday Institute and explores ideas or issues that emerged in the discussion forums in a MOOC-ed course [@akoglu2019participating]. Finally, the Topic Modeling Badge provides an opportunity to create your own data product and to reflect on how these concepts and techniques might apply to your own research.
 
 +--------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                  |                         |                                                                                                                                                                                                              |
++==================================================+=========================+==============================================================================================================================================================================================================+
 | ![](images/clipboard-2412759175.png){width="40"} | **Conceptual Overview** | [Intro to Topic Modeling](https://laser-institute.github.io//text-mining/module-3/module-3-conceptual-overview.html#/title-slide)                                                                            |
 +--------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/code-along.png){width="40"}           | **Code Along**          | [Latent Dirichlet Allocation](https://laser-institute.github.io//text-mining/module-3/module-3-code-along.html#/title-slide)                                                                                 |
@@ -81,9 +88,13 @@ This module focuses on identifying “topics” by quantifying how words cohere 
 
 ## Module 4: Quantitative Ethnography
 
-Our final module concludes our exploration of text mining methods by introducing Quantitative Ethnography (QE) as well as Epistemic Network Analysis (ENA). ENA is a subset of QE and focuses on modeling the relationships between ideas within discourse. While automated topic modeling approaches such as Latent Dirichlet Allocation (LDA) are useful for identifying general themes in large text corpora, they do not capture the structure of meaning, that is, how ideas are connected within a conversation, a learning environment, or a collaborative task. This module will explore how QE and ENA fill this gap by providing a framework to analyze how concepts are linked in human discourse and how those connections reflect knowledge construction and problem-solving.
+Our final module concludes our exploration of text mining methods by introducing Quantitative Ethnography (QE) and Epistemic Network Analysis (ENA). ENA is an analysis used in QE and focuses on modeling the relationships between ideas within discourse. While automated topic modeling approaches such as Latent Dirichlet Allocation (LDA) are useful for identifying general themes in large text corpora, they do not capture the structure of meaning, that is, how ideas are connected within a conversation, a learning environment, or a collaborative task.
+
+This module will explore how QE and ENA fill this gap by providing a framework to analyze how concepts are linked in human discourse and how those connections reflect knowledge construction and problem-solving.
 
 +------------------------------------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                |                   |                                                                                                                                                                                                                            |
++================================================+===================+============================================================================================================================================================================================================================+
 | ![](images/presentation.png){width="40"}       | **Conceptual\     | [Intro to Quantitative Ethnography](https://laser-institute.github.io//text-mining/module-4/module-4-conceptual-overview.html)                                                                                             |
 |                                                | Overview**        |                                                                                                                                                                                                                            |
 +------------------------------------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -103,8 +114,10 @@ Our final module concludes our exploration of text mining methods by introducing
 
 The culminating activity for the TM Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your TM Microcredential, you must demonstrate your ability to formulate a relevant research question for text mining, effectively manage and analyze text data, and clearly communicate your key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
 
-|  |  |  |
-|----|----|----|
-| ![](images/tm-micro.png){width="40"} | **Microcredential** | [Text Mining in Education](https://laser-institute.github.io//text-mining/module-5/tm-microcredential-badge.html) |
++--------------------------------------+----------------------+-------------------------------------------------------------------------------------------------------------------+
+|                                      |                      |                                                                                                                   |
++======================================+======================+===================================================================================================================+
+| ![](images/tm-micro.png){width="40"} | **Microcredential**  | [Text Mining in Education](https://laser-institute.github.io//text-mining/module-5/tm-microcredential-badge.html) |
++--------------------------------------+----------------------+-------------------------------------------------------------------------------------------------------------------+
 
 ## References

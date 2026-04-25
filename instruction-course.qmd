@@ -4,7 +4,7 @@ title: "Syllabus Example"
 
 ## Introduction To Learning Analytics (ECI 586)
 
-As the use of digital resources continues to expand in education, an unprecedented amount of new data is becoming available to educational researchers and practitioners. In response, Learning Analytics (LA) has emerged over the past decade as an interdisciplinary field encompassing Learning (e.g. educational technology, learning and assessment sciences), Analytics (e.g. visualization, computer/data sciences), and Human-Centered Design (e.g. usability, participatory design).
+As the use of digital resources continues to expand in education, an unprecedented amount of new data is becoming available to educational researchers and practitioners. In response, learning analytics (LA) has emerged over the past decade as an interdisciplinary field encompassing Learning (e.g. educational technology, learning and assessment sciences), Analytics (e.g. visualization, computer/data sciences), and Human-Centered Design (e.g. usability, participatory design).
 
 This course will provide students with an overview of the field, examples of its use in educational contexts, and applied experience with tools and techniques for analyzing new sources of data from new perspectives. As participants gain experience in the collection, analysis, and reporting of data throughout the course, they will be better prepared to help educational organizations understand and improve learning and the contexts in which learning occurs.
 
@@ -93,30 +93,30 @@ This course requires R and R Studio, which will be used to provide hands-on expe
 
 Goals for the Introduction to Learning Analytics course are guided by the North Carolina State University motto: ***Think and Do***. Specifically, goals for this course are twofold:
 
--   **Disciplinary Knowledge.** Students will deepen their understanding of Learning Analytics as an emerging approach within the field of Learning Analytics, including its application in a wide range of education settings.
+- **Disciplinary Knowledge.** Students will deepen their understanding of Learning Analytics as an emerging approach within the field of Learning Analytics, including its application in a wide range of education settings.
 
--   **Technical Skills.** Scholars will develop proficiency with the processes, tools, and techniques necessary to efficiently, effectively, and ethically apply Learning Analytics for understanding and improving learning and the contexts in which learning occurs.
+- **Technical Skills.** Scholars will develop proficiency with the processes, tools, and techniques necessary to efficiently, effectively, and ethically apply Learning Analytics for understanding and improving learning and the contexts in which learning occurs.
 
 ## Student Learning Outcomes
 
 The following learning objectives are aligned with the overarching objectives of the Graduate Certificate in Learning Analytics program and are embedded in each unit of the course. Students who complete this course will be able to:
 
--   **Conceptual Foundations:** Describe Learning Analytics as a discipline (e.g. history, concepts, theories, methodologies, stakeholders, legal and ethical issues) and how it has been applied to important problems, questions, and issues in education;
+- **Conceptual Foundations:** Describe Learning Analytics as a discipline (e.g. history, concepts, theories, methodologies, stakeholders, legal and ethical issues) and how it has been applied to important problems, questions, and issues in education;
 
--   **Data Sources & Measures:** Identify and appropriately use educational data sources (e.g. Student Information and Learning Management Systems) and key student metrics;
+- **Data Sources & Measures:** Identify and appropriately use educational data sources (e.g. Student Information and Learning Management Systems) and key student metrics;
 
--   **Tool Proficiency:** Efficiently and effectively apply up-to-date software and tools (i.e. R or Tableau) to implement Learning Analytics workflows for preparing, analyzing, and sharing data;
+- **Tool Proficiency:** Efficiently and effectively apply up-to-date software and tools (i.e. R or Tableau) to implement Learning Analytics workflows for preparing, analyzing, and sharing data;
 
--   **Processes & Techniques**: Understand and apply data visualization approaches and techniques (e.g. interactive visualization and data dashboards) in order to understand and improve learning and the contexts in which learning occurs; and,
+- **Processes & Techniques**: Understand and apply data visualization approaches and techniques (e.g. interactive visualization and data dashboards) in order to understand and improve learning and the contexts in which learning occurs; and,
 
--   **Communication:** Clearly communicate methods, analyses, findings, and recommendations that can provide actionable insight into learning contexts for a range of education stakeholders.
+- **Communication:** Clearly communicate methods, analyses, findings, and recommendations that can provide actionable insight into learning contexts for a range of education stakeholders.
 
 ## Course Structure & Schedule
 
 This course is divided into four units focused on conceptualizing Learning Analytics as a research discipline and developing the foundational skills for data exploration using a range of digital data sources. The first week of each unit introduces terminology, core concepts, and applications of Learning Analytics through readings, course videos, and discussion. In the second week, we focus on developing essential technical skills necessary for data-intensive Research workflows through R software tutorials. In the third week of each unit, we apply these skills to conduct an analysis and create a data product using publicly available educational datasets.
 
 | **Schedule** | **Topics** |
-|----|----|
+|------------------------------------|------------------------------------|
 | **WELCOME** | **OVERVIEW & INTRODUCTIONS** |
 | Week 1 | Introductions, syllabus review, and software setup |
 | **UNIT 1** | **WHAT IS LEARNING ANALYTICS?** |
@@ -167,13 +167,13 @@ Late work is accepted but may be penalized at 15% per week it is late. Assignmen
 
 **N.C. State University Policies, Regulations, and Rules (PRR)**: Students are responsible for reviewing the PRRs which pertain to their course rights and responsibilities. These include:
 
--   <http://policies.ncsu.edu/policy/pol-04-25-05> (Equal Opportunity and Non-Discrimination Policy Statement),
+- <http://policies.ncsu.edu/policy/pol-04-25-05> (Equal Opportunity and Non-Discrimination Policy Statement),
 
--   <http://oied.ncsu.edu/oied/policies.php>  (Office for Institutional Equity and Diversity),
+- <http://oied.ncsu.edu/oied/policies.php>  (Office for Institutional Equity and Diversity),
 
--   <http://policies.ncsu.edu/policy/pol-1135-01> (Code of Student Conduct), and
+- <http://policies.ncsu.edu/policy/pol-1135-01> (Code of Student Conduct), and
 
--   <http://policies.ncsu.edu/regulation/reg-02-50-03> (Grades and Grade Point Average).
+- <http://policies.ncsu.edu/regulation/reg-02-50-03> (Grades and Grade Point Average).
 
 **University Non-Discrimination Policies:** It is the policy of the State of North Carolina to provide equality of opportunity in education and employment for all students and employees. Accordingly, the university does not practice or condone unlawful discrimination in any form against students, employees or applicants on the grounds of race, color, religion, creed, sex, national origin, age, disability, or veteran status. In addition, North Carolina State University regards discrimination based on sexual orientation to be inconsistent with its goal of providing a welcoming environment in which all its students, faculty, and staff may learn and work up to their full potential.
 
@@ -181,18 +181,18 @@ Late work is accepted but may be penalized at 15% per week it is late. Assignmen
 
 ## Other Important Resources
 
--   **Keep Learning:** <https://dasa.ncsu.edu/students/keep-learning/>
+- **Keep Learning:** <https://dasa.ncsu.edu/students/keep-learning/>
 
--   **Protect the Pack FAQs:** <https://www.ncsu.edu/coronavirus/frequently-asked-question>
+- **Protect the Pack FAQs:** <https://www.ncsu.edu/coronavirus/frequently-asked-question>
 
--   **NC State Protect the Pack Resources for Students:** [Resources for Students \| Protect the Pack](https://www.ncsu.edu/coronavirus/reactivating-campus/resources-for-students/)
+- **NC State Protect the Pack Resources for Students:** [Resources for Students \| Protect the Pack](https://www.ncsu.edu/coronavirus/reactivating-campus/resources-for-students/)
 
--   **NC State Keep Learning, tips for students opting to take courses remotely:** [Keep Learning Tips for Remote Learning](https://dasa.ncsu.edu/students/keep-learning/)
+- **NC State Keep Learning, tips for students opting to take courses remotely:** [Keep Learning Tips for Remote Learning](https://dasa.ncsu.edu/students/keep-learning/)
 
--   **Introduction to Zoom for students:** <https://youtu.be/5LbPzzPbYEw>
+- **Introduction to Zoom for students:** <https://youtu.be/5LbPzzPbYEw>
 
--   **Learning with Moodle, a student’s guide to using Moodle:** <https://moodle-projects.wolfware.ncsu.edu/course/view.php?id=226>
+- **Learning with Moodle, a student’s guide to using Moodle:** <https://moodle-projects.wolfware.ncsu.edu/course/view.php?id=226>
 
--   **NC State Libraries** [Technology Lending Program](https://www.lib.ncsu.edu/devices)
+- **NC State Libraries** [Technology Lending Program](https://www.lib.ncsu.edu/devices)
 
 This site is open source. [Improve this page](https://github.com/sbkellogg/eci-586/edit/main/README.md).

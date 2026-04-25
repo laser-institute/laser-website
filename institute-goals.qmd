@@ -14,25 +14,25 @@ The LASER Institute is a year-long professional development program for early- a
 
 The LASER curriculum is intentionally designed and carefully scaffolded to help current and future educational researchers:
 
--   **Formulate Research Questions**. Learners will understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;
+- **Formulate Research Questions**. Learners will understand which research questions/issues appropriately addressed by LA as compared to other analytical approaches and advanced methods;
 
--   **Leverage Digital Data**. Learners will be able to identify relevant sources of education data to address both theoretical and practical issues in STEM education;
+- **Leverage Digital Data**. Learners will be able to identify relevant sources of education data to address both theoretical and practical issues in STEM education;
 
--   **Apply Computational Methods**. Learner will understand how LA techniques can be applied in STEM context and Apply computational techniques (e.g., machine learning and text mining) using a choice of packages (R or Python) to prepare, explore, and model education data;
+- **Apply Computational Methods**. Learner will understand how LA techniques can be applied in STEM context and Apply computational techniques (e.g., machine learning and text mining) using a choice of computational tools (R or Python) to prepare, explore, and model education data;
 
--   **Evaluate their Research**. Learners will be able to evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;
+- **Evaluate their Research**. Learners will be able to evaluate the technical feasibility, ethical issues, and societal constraints in using analytics to support STEM teaching and learning;
 
--   **Collaborate with Practitioners**. Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.
+- **Collaborate with Practitioners**. Collaborate with educational organizations to help them learn from their own data and identify new ways to support students.
 
 ## Broadening Impacts
 
 Through renewed funding from the National Science Foundation ([DRL-2321128](#0), and [DRL-2321129](#0)), the next iteration of the LASER Institute: Broadening Education in Advanced Methods (LASER BEAM) aims to greatly expand the the number of education researchers capable of leveraging advanced research methods to understand and improve student learning. To address this goal, LASER BEAM has three primary objectives:
 
--   **Learn from LASER**. A significant portion of the Summer Workshop and Fall Online Learning Community consists of module sessions focused on a range of research methods. Modules sessions are conducted in small groups and differentiated for participants based on your selected method of interest. 
+- **Learn from LASER**. A significant portion of the Summer Workshop and Fall Online Learning Community consists of module sessions focused on a range of research methods. Modules sessions are conducted in small groups and differentiated for participants based on your selected method of interest. 
 
--   **Teach with LASER**. Each LASER Scholar works on a self-determined “SHARK” Goal and instructional plan for teaching other faculty or students at their home institutions. These plans are developed during the Summer Workshop and implemented during the academic year.
+- **Teach with LASER**. Each LASER Scholar works on a self-determined “SHARK” Goal and instructional plan for teaching other faculty or students at their home institutions. These plans are developed during the Summer Workshop and implemented during the academic year.
 
--   **Network at LASER**. Community building activities are designed to facilitate personal and professional networking and include morning icebreakers and opportunities to connect and collaborate with fellow Scholars throughout the year.
+- **Network at LASER**. Community building activities are designed to facilitate personal and professional networking and include morning icebreakers and opportunities to connect and collaborate with fellow Scholars throughout the year.
 
 To support participants in both learning and teaching with the LASER curriculum, this grant has three major activities designed to broaden the impact of this work:
 

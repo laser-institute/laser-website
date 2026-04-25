@@ -11,12 +11,13 @@ Structure discovery focuses on how we can use unsupervised machine learning to u
 
 We will be using R, specifically with the integrated development environments (IDEs) RStudio or Positron.
 
-+------------------------------------+----------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/github.png){width="40"} | **Github\                              | [Repository for Instructors](https://github.com/laser-institute/structure-discovery)                                  |
-|                                    | **                                     |                                                                                                                       |
-+------------------------------------+----------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud**                        | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
-+------------------------------------+----------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
+|                                    |                 |                                                                                                                       |
++====================================+=================+=======================================================================================================================+
+| ![](images/github.png){width="40"} | **Github**      | [Repository for Instructors](https://github.com/laser-institute/structure-discovery)                                  |
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
+| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
++------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
 # Installation Guide: R, RStudio, and Positron
 
@@ -52,8 +53,8 @@ Recommended for users focused exclusively on R, RMarkdown, and Shiny application
 
 1.  Go to the [RStudio Download Page](https://posit.co/download/rstudio-desktop/).
 2.  Select the installer for your OS:
-    -   [Windows Installer](https://rstudio.org/download/latest/stable/desktop/windows/RStudio-latest.exe)
-    -   [macOS Disk Image](https://rstudio.org/download/latest/stable/desktop/mac/RStudio-latest.dmg)
+    - [Windows Installer](https://rstudio.org/download/latest/stable/desktop/windows/RStudio-latest.exe)
+    - [macOS Disk Image](https://rstudio.org/download/latest/stable/desktop/mac/RStudio-latest.dmg)
 3.  Run the installer and follow the default prompts.
 
 ### Option B: Positron IDE (Modern/Polyglot)
@@ -64,21 +65,23 @@ Recommended for users who work with both **R and Python** and prefer a VS Code-b
 2.  Download the version corresponding to your OS.
 3.  **Important:** After installation, launch Positron and click the **Interpreter** icon (top right) to select your R version.
 
-## Module 1: Introduction
+## Module 1: Structure Discovery Basics
 
 This module contains:
 
--   A slide-based overview introducing the core concepts of structure discovery. This includes key distinctions from supervised learning, common techniques (e.g., clustering, dimensionality reduction), and examples of real-world applications.
+- A slide-based overview introducing the core concepts of structure discovery. This includes key distinctions between supervised machine learning (ML) from unsupervised ML, as well as an overview of common unsupervised ML techniques (e.g., clustering, dimensionality reduction), and examples of real-world applications.
 
--   A guided coding activity using a real-world dataset. Students apply multiple structure discovery algorithms (e.g., k-means) and interpret results related to student performance. 🧠 Tip: Ideal for hands-on learning following the conceptual overview. We will encourage experimentation with different algorithms (e.g., cluster vs. factor analysis).
+- A guided coding activity using a real-world dataset. Students apply multiple structure discovery algorithms (e.g., K-means) and interpret results related to student performance. 🧠 Tip: Ideal for hands-on learning following the conceptual overview. We will encourage experimentation with different algorithms (e.g., cluster vs. factor analysis).
 
--   A research article which demonstrates the application of unsupervised methods (e.g., clustering) in an educational context. 🔍 Suggested use: Students can annotate the reading, identify methods used, and reflect on findings in small group discussions.
+- A research article which demonstrates the application of unsupervised methods (e.g., clustering) in an educational context. 🔍 Suggested use: Students can annotate the reading, identify methods used, and reflect on findings in small group discussions.
 
--   Case study
+- Case study
 
--   A self-paced badge activity that promotes a deeper understanding of structure discovery methods.
+- A self-paced badge activity that promotes a deeper understanding of structure discovery methods.
 
 +-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                 |                                                                                                                                                                         |
++=================================================+=========================================================================================================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | [**Conceptual\                                                                                                                                                          |
 |                                                 | Overview**](https://ecloude.quarto.pub/module-1-structure-discovery/#/title-slide)                                                                                      |
 +-------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -97,17 +100,19 @@ This module contains:
 
 This module contains:
 
--   A slide deck covering core clustering concepts, algorithms, and use cases in education.
+- A slide deck covering core clustering concepts, algorithms, and use cases in education.
 
--   A guided coding analysis of a real-world study applying clustering to educational data.
+- A guided coding analysis of a real-world study applying clustering to educational data.
 
--   A foundational research article demonstrating how clustering techniques are applied in real-world educational research.
+- A foundational research article demonstrating how clustering techniques are applied in real-world educational research.
 
--   Case study
+- Case study
 
--   A self-paced badge activity to connect clusering to your own research or teaching practices.
+- A self-paced badge activity to connect clustering to your own research or teaching practices.
 
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                 |                                                                                                                                               |
++=================================================+===============================================================================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | [**Conceptual\                                                                                                                                |
 |                                                 | Overview**](https://ecloude.quarto.pub/module-2-structure-discovery/#/title-slide)                                                            |
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
@@ -126,17 +131,19 @@ This module contains:
 
 This module contains:
 
--   Slides introducing key concepts in validating clustering results, including metrics like silhouette analysis and many others.
+- Slides introducing key concepts in validating clustering results, including metrics like silhouette analysis and many others.
 
--   A guided coding activity using real data to apply clustering validation metrics and interpret results.
+- A guided coding activity using real data to apply clustering validation metrics and interpret results.
 
--   A key reading demonstrating how clustering validation techniques are applied in practice. In this code-along, you will gain an understanding of how to assess and interpret the quality of clustering solutions.
+- A key reading demonstrating how clustering validation techniques are applied in practice. In this code-along, you will gain an understanding of how to assess and interpret the quality of clustering solutions.
 
--   Case study
+- Case study
 
--   A self-paced badge activity connecting clustering validation to your own research or instructional practice.
+- A self-paced badge activity connecting clustering validation to your own research or instructional practice.
 
 +-------------------------------------------------+--------------------------------------------------------------------------------+
+|                                                 |                                                                                |
++=================================================+================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | **Conceptual\                                                                  |
 |                                                 | Overview**                                                                     |
 +-------------------------------------------------+--------------------------------------------------------------------------------+
@@ -156,17 +163,19 @@ This module contains:
 
 This module contains:
 
--   Slides introducing advanced clustering methods (e.g., hierarchical clustering, spectral clustering, Gaussian mixture models, etc.) and their applications in educational data.
+- Slides introducing advanced clustering methods (e.g., hierarchical clustering, spectral clustering, Gaussian mixture models, etc.) and their applications in educational data.
 
--   A guided coding activity exploring advanced clustering techniques, with space for discussion and reflection.
+- A guided coding activity exploring advanced clustering techniques, with space for discussion and reflection.
 
--   A key reading showcasing the use of advanced clustering techniques in educational research. This reading helps contextualize when and why to use more sophisticated models.
+- A key reading showcasing the use of advanced clustering techniques in educational research. This reading helps contextualize when and why to use more sophisticated models.
 
--   Case study
+- Case study
 
--   A self-paced badge activity connecting advanced clustering approaches to your own research or teaching.
+- A self-paced badge activity connecting advanced clustering approaches to your own research or teaching.
 
 +-------------------------------------------------+--------------------------------------------------------------------------------+
+|                                                 |                                                                                |
++=================================================+================================================================================+
 | ![](images/conceptual-overview.png){width="40"} | **Conceptual\                                                                  |
 |                                                 | Overview**                                                                     |
 +-------------------------------------------------+--------------------------------------------------------------------------------+
