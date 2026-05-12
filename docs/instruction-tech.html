@@ -482,13 +482,19 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#github" id="toc-github" class="nav-link active" data-scroll-target="#github">GitHub</a></li>
-  <li><a href="#posit-cloud" id="toc-posit-cloud" class="nav-link" data-scroll-target="#posit-cloud">Posit Cloud</a>
+  <li><a href="#the-r-language-development-environment" id="toc-the-r-language-development-environment" class="nav-link" data-scroll-target="#the-r-language-development-environment">The R Language &amp; Development Environment</a>
   <ul class="collapse">
+  <li><a href="#prerequisite-the-r-engine" id="toc-prerequisite-the-r-engine" class="nav-link" data-scroll-target="#prerequisite-the-r-engine">Prerequisite: The R Engine</a></li>
+  <li><a href="#choose-your-ide" id="toc-choose-your-ide" class="nav-link" data-scroll-target="#choose-your-ide">Choose Your IDE</a>
+  <ul class="collapse">
+  <li><a href="#option-a-rstudio-desktop-stable" id="toc-option-a-rstudio-desktop-stable" class="nav-link" data-scroll-target="#option-a-rstudio-desktop-stable">Option A: RStudio Desktop (Stable)</a></li>
+  <li><a href="#option-b-positron-ide-modernpolyglot" id="toc-option-b-positron-ide-modernpolyglot" class="nav-link" data-scroll-target="#option-b-positron-ide-modernpolyglot">Option B: Positron IDE (Modern/Polyglot)</a></li>
+  <li><a href="#option-c-other-ide" id="toc-option-c-other-ide" class="nav-link" data-scroll-target="#option-c-other-ide">Option C: Other IDE</a></li>
+  </ul></li>
+  </ul></li>
   <li><a href="#laser-learners-workspace" id="toc-laser-learners-workspace" class="nav-link" data-scroll-target="#laser-learners-workspace">LASER Learners Workspace</a></li>
   <li><a href="#laser-instructors-workspace" id="toc-laser-instructors-workspace" class="nav-link" data-scroll-target="#laser-instructors-workspace">LASER Instructors Workspace</a></li>
   <li><a href="#posit-recipes-cheat-sheets" id="toc-posit-recipes-cheat-sheets" class="nav-link" data-scroll-target="#posit-recipes-cheat-sheets">Posit Recipes &amp; Cheat Sheets</a></li>
-  </ul></li>
-  <li><a href="#rstudio-ide" id="toc-rstudio-ide" class="nav-link" data-scroll-target="#rstudio-ide">RStudio IDE</a></li>
   <li><a href="#quarto" id="toc-quarto" class="nav-link" data-scroll-target="#quarto">Quarto</a></li>
   <li><a href="#slack" id="toc-slack" class="nav-link" data-scroll-target="#slack">Slack</a></li>
   </ul>
@@ -518,8 +524,8 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 
 
 <p>The LASER Institute uses a suite of interactive tools for the design and delivery of instructional activities:</p>
-<section id="github" class="level2">
-<h2 class="anchored" data-anchor-id="github">GitHub</h2>
+<section id="github" class="level1">
+<h1>GitHub</h1>
 <p><img src="images/github-logo.png" class="img-fluid" style="width:25.0%"></p>
 <p><a href="https://github.com">Github</a> is used for hosting the LASER website and instructional materials. All files and and source code for the is housed on the <a href="https://github.com/laser-institute">LASER Institute GitHub</a> organization site and deployed using <a href="https://pages.github.com">GitHub Pages</a>, an all-in-one platform deploying dynamic websites from Git. Housing all materials on GitHub allows for version control and collaborative editing of curriculum materials as well as the addition of new materials that may be developed by participants.</p>
 <p>Create a free GitHub account at: <a href="https://github.com/signup" class="uri">https://github.com/signup</a>.</p>
@@ -527,49 +533,101 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 <p>Visit our LASER Institute GitHub site at: <a href="https://go.ncsu.edu/laser-github">go.ncsu.edu/laser-github</a></p>
 <p><img src="images/laser-github.png" class="img-fluid"></p>
 </section>
-<section id="posit-cloud" class="level2">
-<h2 class="anchored" data-anchor-id="posit-cloud">Posit Cloud</h2>
-<p><img src="images/posit-logo.png" class="img-fluid" style="width:25.0%"></p>
-<p>The LASER Institute makes extensive use of, and highly recommends, <a href="https://posit.co/products/cloud/cloud/">Posit Cloud</a> for our LASER Learning modules. Posit Cloud lets you access Posit’s powerful set of data science tools, right in your browser with no installation or complex configuration required.</p>
-<p>Register for a free Posit Cloud account at: <a href="https://login.posit.cloud/register" class="uri">https://login.posit.cloud/register</a>.</p>
-<section id="laser-learners-workspace" class="level3">
-<h3 class="anchored" data-anchor-id="laser-learners-workspace">LASER Learners Workspace</h3>
+<section id="the-r-language-development-environment" class="level1">
+<h1>The R Language &amp; Development Environment</h1>
+<p>This provides step-by-step instructions for setting up your local environment for data science. LASER’s repository supports development in the <strong>RStudio</strong> and <strong>Positron</strong> integrated development environment (IDE).</p>
+<section id="prerequisite-the-r-engine" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisite-the-r-engine">Prerequisite: The R Engine</h2>
+<p>You must install the R language engine <strong>before</strong> installing an IDE. Positron requires R version 4.2.0 or higher.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Operating System</th>
+<th style="text-align: left;">Download Link</th>
+<th style="text-align: left;">Architecture</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Windows 10/11</strong></td>
+<td style="text-align: left;"><a href="https://cran.r-project.org/bin/windows/base/">Download R 4.4.x</a></td>
+<td style="text-align: left;">x64</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>macOS (Apple Silicon)</strong></td>
+<td style="text-align: left;"><a href="https://cran.r-project.org/bin/macosx/big-sur-arm64/base/">Download R-4.4.x-arm64.pkg</a></td>
+<td style="text-align: left;">M1, M2, M3, M4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>macOS (Intel)</strong></td>
+<td style="text-align: left;"><a href="https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/">Download R-4.4.x-x86_64.pkg</a></td>
+<td style="text-align: left;">Intel Macs</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Linux</strong></td>
+<td style="text-align: left;"><a href="https://cran.r-project.org/bin/linux/">CRAN Linux Binaries</a></td>
+<td style="text-align: left;">Distro-specific</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="choose-your-ide" class="level2">
+<h2 class="anchored" data-anchor-id="choose-your-ide">Choose Your IDE</h2>
+<section id="option-a-rstudio-desktop-stable" class="level3">
+<h3 class="anchored" data-anchor-id="option-a-rstudio-desktop-stable">Option A: RStudio Desktop (Stable)</h3>
+<p>Recommended for users focused exclusively on R, RMarkdown, and Shiny applications.</p>
+<ol type="1">
+<li>Go to the <a href="https://posit.co/download/rstudio-desktop/">RStudio Download Page</a>.</li>
+<li>Select the installer for your OS:
+<ul>
+<li><a href="https://rstudio.org/download/latest/stable/desktop/windows/RStudio-latest.exe">Windows Installer</a></li>
+<li><a href="https://rstudio.org/download/latest/stable/desktop/mac/RStudio-latest.dmg">macOS Disk Image</a></li>
+</ul></li>
+<li>Run the installer and follow the default prompts.</li>
+</ol>
+</section>
+<section id="option-b-positron-ide-modernpolyglot" class="level3">
+<h3 class="anchored" data-anchor-id="option-b-positron-ide-modernpolyglot">Option B: Positron IDE (Modern/Polyglot)</h3>
+<p>While RStudio is highly mature, Positron is in active development. You may encounter UI changes, but the core installation logic remains consistent across the 2026 release cycle. Positron is recommended for users who work with both <strong>R and Python</strong> and prefer a VS Code-based workflow.</p>
+<ol type="1">
+<li>Navigate to the <a href="https://positron.posit.co/download.html">Positron Releases Page</a>.</li>
+<li>Download the version corresponding to your OS.</li>
+<li><strong>Important:</strong> After installation, launch Positron and click the <strong>Interpreter</strong> icon (top right) to select your R version.</li>
+</ol>
+</section>
+<section id="option-c-other-ide" class="level3">
+<h3 class="anchored" data-anchor-id="option-c-other-ide">Option C: Other IDE</h3>
+<p>You are welcome to adapt and complete these activities using a IDE of your preference such as <a href="https://jupyter.org/">Jupyter Labs</a>, <a href="https://visualstudio.microsoft.com/">Visual Studio</a>, <a href="https://colab.research.google.com/">Google Collab</a>, or <a href="https://www.jetbrains.com/pycharm/">PyCharm</a>. Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.</p>
+</section>
+</section>
+</section>
+<section id="laser-learners-workspace" class="level1">
+<h1>LASER Learners Workspace</h1>
 <p>The LASER Learners Workspace is where we host the interactive R and Python <a href="https://laser-institute.github.io/laser-website/curriculum-design.html#module-activities">module activities</a>. This workspace contains <a href="https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects">RStudio “projects”</a> for each method area, each with their own working directory, workspace, installed packages, and source documents.</p>
 <p>To access this workspace, use the following link: <a href="https://go.ncsu.edu/laser-learners">go.ncsu.edu/laser-learners</a>.</p>
-</section>
-<section id="laser-instructors-workspace" class="level3">
-<h3 class="anchored" data-anchor-id="laser-instructors-workspace">LASER Instructors Workspace</h3>
-<p>The LASER Instructors Workspaceis where instructors can customize and adapt the curriculum materials you plan to use for your own webinar, workshop or course.</p>
-<p>To access this workspace, use the following link: <a href="http://go.ncsu.edu/laser-instructors">go.ncsu.edu/laser-instructors</a></p>
-</section>
-<section id="posit-recipes-cheat-sheets" class="level3">
-<h3 class="anchored" data-anchor-id="posit-recipes-cheat-sheets">Posit Recipes &amp; Cheat Sheets</h3>
-<p>For R users, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, <a href="https://posit.cloud/learn/recipes">Posit Recipes</a> provide a collection of R code snippets and instructions featuring up-to-date best practices for coding in R. <a href="https://posit.co/resources/cheatsheets">Posit Cheat Sheets</a> also provide handy printable reference sheets to commonly used packages and their essential functions, including example code for testing them out.</p>
-<p><img src="images/laser-posit.png" class="img-fluid"></p>
-</section>
-</section>
-<section id="rstudio-ide" class="level2">
-<h2 class="anchored" data-anchor-id="rstudio-ide">RStudio IDE</h2>
-<p><img src="images/rstudio.png" class="img-fluid" style="width:25.0%"></p>
-<p><a href="https://posit.co/products/open-source/rstudio">RStudio Desktop</a> is a free desktop application of the RStudio Integrated Developer Environment (IDE) that runs on Windows, MacOS or Linux. Its advantages over Posit Cloud include offline access, full control over the local environment, customization options, data privacy and security, and the ability to leverage the full resources of your local machine, such as CPU, memory, and storage. While we will be using RStudio through Posit Cloud for the LASER Institute, we recommend shifting to RStudio Desktop for your own research.&nbsp;</p>
-<p>Though we will primarily use Posit Cloud for data analysis activities using R or Python, you are welcome to adapt and complete these activities using a Integrated Developer Environment (IDE) of your preference such as <a href="https://jupyter.org/">Jupyter Labs</a>, <a href="https://visualstudio.microsoft.com/">Visual Studio</a>, <a href="https://colab.research.google.com/">Google Collab</a>, or <a href="https://www.jetbrains.com/pycharm/">PyCharm</a>. Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.</p>
 <p><img src="images/laser-rstudio.png" class="img-fluid"></p>
 </section>
-<section id="quarto" class="level2">
-<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
+<section id="laser-instructors-workspace" class="level1">
+<h1>LASER Instructors Workspace</h1>
+<p>The <a href="http://go.ncsu.edu/laser-instructors">LASER Instructors Workspace</a> is where instructors can customize and adapt the curriculum materials you plan to use for your own webinar, workshop, or course.</p>
+</section>
+<section id="posit-recipes-cheat-sheets" class="level1">
+<h1>Posit Recipes &amp; Cheat Sheets</h1>
+<p>For R users, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, <a href="https://posit.cloud/learn/recipes">Posit Recipes</a> provide a collection of R code snippets and instructions featuring up-to-date best practices for coding in R. <a href="https://posit.co/resources/cheatsheets">Posit Cheat Sheets</a> also provide handy printable reference sheets to commonly used packages and their essential functions, including example code for testing them out.</p>
+</section>
+<section id="quarto" class="level1">
+<h1>Quarto</h1>
 <p><img src="images/quarto.png" class="img-fluid" style="width:25.0%"></p>
 <p><a href="https://quarto.org/">Quarto</a> is an open-source scientific and technical publishing system used for creating reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more. Quarto can be used with R, Python, and other programming languages and is used extensively throughout the institute. All LASER Institute instructional materials, including this website, are created with Quarto.</p>
-<p><a href="https://quartopub.com">Quarto Pub</a> is a free and easy web publishing platform for Quarto docs. To publish the documents via Quarto Pub, however, you will first need to create an account.</p>
-<p>To create a Quarto Pub account, sign up here: <a href="https://quartopub.com/sign-up" class="uri">https://quartopub.com/sign-up</a></p>
-<p><strong>Note</strong>: If you are using RStudio Desktop, you may need to download and install Quarto here: <a href="https://quarto.org/docs/get-started/" class="uri">https://quarto.org/docs/get-started/</a></p>
-<p>To interact with a simple example data dashboard built with Quarto for LASER visit: <a href="https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots" class="uri">https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots</a></p>
-<p><img src="images/laser-dashboard.png" class="img-fluid"></p>
+<p><a href="https://quartopub.com">Quarto Pub</a> is a free and easy web publishing platform for Quarto docs. To publish the documents via Quarto Pub, however, you will first need to <a href="https://quartopub.com/sign-up">create an account</a>.</p>
+<p><strong>Note</strong>: If you are using RStudio Desktop, you may need to download and <a href="https://quarto.org/docs/get-started/">install Quarto</a> first.</p>
+<p>Here is an <a href="https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots">example data dashboard</a> built with Quarto for LASER:</p>
+<p><a href="https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots"><img src="images/laser-dashboard.png" class="img-fluid"></a></p>
 </section>
-<section id="slack" class="level2">
-<h2 class="anchored" data-anchor-id="slack">Slack</h2>
+<section id="slack" class="level1">
+<h1>Slack</h1>
 <p><img src="images/slack.png" class="img-fluid" style="width:20.0%"></p>
-<p>Throughout the year, we provide ongoing asynchronous support and communication through Slack (<a href="http://slack.com/">http://slack.com</a>), a web-based app that allows for text messaging, voice and video calls, and media and file sharing either in private chats or as part of communities called “workspaces.” Slack runs on Web, Windows, Linux, MacOS, Android, Windows Phone and iOS.</p>
-<p>To join our LASER Institute workspace on Slack, create an account and visit: <a href="https://go.ncsu.edu/laser-slack" class="uri">https://go.ncsu.edu/laser-slack</a>.</p>
+<p>Throughout the year, we provide ongoing asynchronous support and communication through <a href="https://slack.com/">Slack</a>, an app that allows for text messaging, voice and video calls, and media and file sharing either in private chats or as part of communities called “workspaces.” Slack runs on all major platforms and devices (e.g., web browser, decktop, iOS, Android, etc.). Create a Slack account to join our <a href="https://go.ncsu.edu/laser-slack">LASER Institute workspace</a>.</p>
 <p><img src="images/laser-slack.png" class="img-fluid"></p>
 
 

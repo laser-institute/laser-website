@@ -4,7 +4,7 @@ title: "LASER Toolkit"
 
 The LASER Institute uses a suite of interactive tools for the design and delivery of instructional activities:
 
-## GitHub
+# GitHub
 
 ![](images/github-logo.png){width="25%"}
 
@@ -18,64 +18,79 @@ Visit our LASER Institute GitHub site at: [go.ncsu.edu/laser-github](https://go.
 
 ![](images/laser-github.png)
 
-## Posit Cloud
+# The R Language & Development Environment
 
-![](images/posit-logo.png){width="25%"}
+This provides step-by-step instructions for setting up your local environment for data science. LASER's repository supports development in the **RStudio** and **Positron** integrated development environment (IDE).
 
-The LASER Institute makes extensive use of, and highly recommends, [Posit Cloud](https://posit.co/products/cloud/cloud/) for our LASER Learning modules. Posit Cloud lets you access Posit’s powerful set of data science tools, right in your browser with no installation or complex configuration required.
+## Prerequisite: The R Engine
 
-Register for a free Posit Cloud account at: <https://login.posit.cloud/register>.
+You must install the R language engine **before** installing an IDE. Positron requires R version 4.2.0 or higher.
 
-### LASER Learners Workspace
+| Operating System | Download Link | Architecture |
+|:---------------|:---------------------------------------|:---------------|
+| **Windows 10/11** | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/) | x64 |
+| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/) | M1, M2, M3, M4 |
+| **macOS (Intel)** | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs |
+| **Linux** | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/) | Distro-specific |
+
+## Choose Your IDE
+
+### Option A: RStudio Desktop (Stable)
+
+Recommended for users focused exclusively on R, RMarkdown, and Shiny applications.
+
+1.  Go to the [RStudio Download Page](https://posit.co/download/rstudio-desktop/).
+2.  Select the installer for your OS:
+    - [Windows Installer](https://rstudio.org/download/latest/stable/desktop/windows/RStudio-latest.exe)
+    - [macOS Disk Image](https://rstudio.org/download/latest/stable/desktop/mac/RStudio-latest.dmg)
+3.  Run the installer and follow the default prompts.
+
+### Option B: Positron IDE (Modern/Polyglot)
+
+While RStudio is highly mature, Positron is in active development. You may encounter UI changes, but the core installation logic remains consistent across the 2026 release cycle. Positron is recommended for users who work with both **R and Python** and prefer a VS Code-based workflow.
+
+1.  Navigate to the [Positron Releases Page](https://positron.posit.co/download.html).
+2.  Download the version corresponding to your OS.
+3.  **Important:** After installation, launch Positron and click the **Interpreter** icon (top right) to select your R version.
+
+### Option C: Other IDE
+
+You are welcome to adapt and complete these activities using a IDE of your preference such as [Jupyter Labs](https://jupyter.org/), [Visual Studio](https://visualstudio.microsoft.com/), [Google Collab](https://colab.research.google.com/), or [PyCharm](https://www.jetbrains.com/pycharm/). Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.
+
+# LASER Learners Workspace
 
 The LASER Learners Workspace is where we host the interactive R and Python [module activities](https://laser-institute.github.io/laser-website/curriculum-design.html#module-activities). This workspace contains [RStudio “projects”](https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects) for each method area, each with their own working directory, workspace, installed packages, and source documents.
 
 To access this workspace, use the following link: [go.ncsu.edu/laser-learners](https://go.ncsu.edu/laser-learners).
 
-### LASER Instructors Workspace
+![](images/laser-rstudio.png)
 
-The LASER Instructors Workspaceis where instructors can customize and adapt the curriculum materials you plan to use for your own webinar, workshop or course.
+# LASER Instructors Workspace
 
-To access this workspace, use the following link: [go.ncsu.edu/laser-instructors](http://go.ncsu.edu/laser-instructors)
+The [LASER Instructors Workspace](http://go.ncsu.edu/laser-instructors) is where instructors can customize and adapt the curriculum materials you plan to use for your own webinar, workshop, or course.
 
-### Posit Recipes & Cheat Sheets
+# Posit Recipes & Cheat Sheets
 
 For R users, we highly recommend taking advantage of the great resources provided through Posit Cloud for learning R. For example, [Posit Recipes](https://posit.cloud/learn/recipes) provide a collection of R code snippets and instructions featuring up-to-date best practices for coding in R. [Posit Cheat Sheets](https://posit.co/resources/cheatsheets) also provide handy printable reference sheets to commonly used packages and their essential functions, including example code for testing them out.
 
-![](images/laser-posit.png)
-
-## RStudio IDE
-
-![](images/rstudio.png){width="25%"}
-
-[RStudio Desktop](https://posit.co/products/open-source/rstudio) is a free desktop application of the RStudio Integrated Developer Environment (IDE) that runs on Windows, MacOS or Linux. Its advantages over Posit Cloud include offline access, full control over the local environment, customization options, data privacy and security, and the ability to leverage the full resources of your local machine, such as CPU, memory, and storage. While we will be using RStudio through Posit Cloud for the LASER Institute, we recommend shifting to RStudio Desktop for your own research. 
-
-Though we will primarily use Posit Cloud for data analysis activities using R or Python, you are welcome to adapt and complete these activities using a Integrated Developer Environment (IDE) of your preference such as [Jupyter Labs](https://jupyter.org/), [Visual Studio](https://visualstudio.microsoft.com/), [Google Collab](https://colab.research.google.com/), or [PyCharm](https://www.jetbrains.com/pycharm/). Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.
-
-![](images/laser-rstudio.png)
-
-## Quarto
+# Quarto
 
 ![](images/quarto.png){width="25%"}
 
 [Quarto](https://quarto.org/) is an open-source scientific and technical publishing system used for creating reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more. Quarto can be used with R, Python, and other programming languages and is used extensively throughout the institute. All LASER Institute instructional materials, including this website, are created with Quarto.
 
-[Quarto Pub](https://quartopub.com) is a free and easy web publishing platform for Quarto docs. To publish the documents via Quarto Pub, however, you will first need to create an account.
+[Quarto Pub](https://quartopub.com) is a free and easy web publishing platform for Quarto docs. To publish the documents via Quarto Pub, however, you will first need to [create an account](https://quartopub.com/sign-up).
 
-To create a Quarto Pub account, sign up here: <https://quartopub.com/sign-up>
+**Note**: If you are using RStudio Desktop, you may need to download and [install Quarto](https://quarto.org/docs/get-started/) first.
 
-**Note**: If you are using RStudio Desktop, you may need to download and install Quarto here: <https://quarto.org/docs/get-started/>
+Here is an [example data dashboard](https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots) built with Quarto for LASER:
 
-To interact with a simple example data dashboard built with Quarto for LASER visit: <https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots>
+[![](images/laser-dashboard.png)](https://sbkellogg.quarto.pub/final-grades-and-hours-logged/#plots)
 
-![](images/laser-dashboard.png)
-
-## Slack
+# Slack
 
 ![](images/slack.png){width="20%"}
 
-Throughout the year, we provide ongoing asynchronous support and communication through Slack ([http://slack.com](http://slack.com/)), a web-based app that allows for text messaging, voice and video calls, and media and file sharing either in private chats or as part of communities called "workspaces." Slack runs on Web, Windows, Linux, MacOS, Android, Windows Phone and iOS.
-
-To join our LASER Institute workspace on Slack, create an account and visit: <https://go.ncsu.edu/laser-slack>.
+Throughout the year, we provide ongoing asynchronous support and communication through [Slack](https://slack.com/), an app that allows for text messaging, voice and video calls, and media and file sharing either in private chats or as part of communities called "workspaces." Slack runs on all major platforms and devices (e.g., web browser, decktop, iOS, Android, etc.). Create a Slack account to join our [LASER Institute workspace](https://go.ncsu.edu/laser-slack).
 
 ![](images/laser-slack.png)

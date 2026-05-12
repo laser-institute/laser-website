@@ -1193,5 +1193,29 @@
       "CURRICULUM",
       "Social Network Analysis"
     ]
+  },
+  {
+    "objectID": "instruction-tech.html#prerequisite-the-r-engine",
+    "href": "instruction-tech.html#prerequisite-the-r-engine",
+    "title": "LASER Toolkit",
+    "section": "Prerequisite: The R Engine",
+    "text": "Prerequisite: The R Engine\nYou must install the R language engine before installing an IDE. Positron requires R version 4.2.0 or higher.\n\n\n\nOperating System\nDownload Link\nArchitecture\n\n\n\n\nWindows 10/11\nDownload R 4.4.x\nx64\n\n\nmacOS (Apple Silicon)\nDownload R-4.4.x-arm64.pkg\nM1, M2, M3, M4\n\n\nmacOS (Intel)\nDownload R-4.4.x-x86_64.pkg\nIntel Macs\n\n\nLinux\nCRAN Linux Binaries\nDistro-specific",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "LASER Toolkit"
+    ]
+  },
+  {
+    "objectID": "instruction-tech.html#choose-your-ide",
+    "href": "instruction-tech.html#choose-your-ide",
+    "title": "LASER Toolkit",
+    "section": "Choose Your IDE",
+    "text": "Choose Your IDE\n\nOption A: RStudio Desktop (Stable)\nRecommended for users focused exclusively on R, RMarkdown, and Shiny applications.\n\nGo to the RStudio Download Page.\nSelect the installer for your OS:\n\nWindows Installer\nmacOS Disk Image\n\nRun the installer and follow the default prompts.\n\n\n\nOption B: Positron IDE (Modern/Polyglot)\nWhile RStudio is highly mature, Positron is in active development. You may encounter UI changes, but the core installation logic remains consistent across the 2026 release cycle. Positron is recommended for users who work with both R and Python and prefer a VS Code-based workflow.\n\nNavigate to the Positron Releases Page.\nDownload the version corresponding to your OS.\nImportant: After installation, launch Positron and click the Interpreter icon (top right) to select your R version.\n\n\n\nOption C: Other IDE\nYou are welcome to adapt and complete these activities using a IDE of your preference such as Jupyter Labs, Visual Studio, Google Collab, or PyCharm. Please note that support by the project team for the alternative IDEs is very limited so we will rely on those in our scholar community with expertise to assist.",
+    "crumbs": [
+      "Home",
+      "INSTRUCTION",
+      "LASER Toolkit"
+    ]
   }
 ]
