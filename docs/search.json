@@ -1199,7 +1199,7 @@
     "href": "instruction-tech.html#prerequisite-the-r-engine",
     "title": "LASER Toolkit",
     "section": "Prerequisite: The R Engine",
-    "text": "Prerequisite: The R Engine\nYou must install the R language engine before installing an IDE. Positron requires R version 4.2.0 or higher.\n\n\n\nOperating System\nDownload Link\nArchitecture\n\n\n\n\nWindows 10/11\nDownload R 4.4.x\nx64\n\n\nmacOS (Apple Silicon)\nDownload R-4.4.x-arm64.pkg\nM1, M2, M3, M4\n\n\nmacOS (Intel)\nDownload R-4.4.x-x86_64.pkg\nIntel Macs\n\n\nLinux\nCRAN Linux Binaries\nDistro-specific",
+    "text": "Prerequisite: The R Engine\nYou must install the R language engine before installing an IDE. Positron requires R version 4.2.0 or higher.\n\n\n\nOperating System\nArchitecture\n\n\n\n\nWindows 10/11\nx64\n\n\nmacOS (Apple Silicon)\nM1, M2, M3, M4\n\n\nmacOS (Intel)\nIntel Macs\n\n\nLinux\nDistro-specific",
     "crumbs": [
       "Home",
       "INSTRUCTION",

@@ -10,13 +10,9 @@ The LASER Institute uses a suite of interactive tools for the design and deliver
 
 [Github](https://github.com) is used for hosting the LASER website and instructional materials. All files and and source code for the is housed on the [LASER Institute GitHub](https://github.com/laser-institute) organization site and deployed using [GitHub Pages](https://pages.github.com), an all-in-one platform deploying dynamic websites from Git. Housing all materials on GitHub allows for version control and collaborative editing of curriculum materials as well as the addition of new materials that may be developed by participants.
 
-Create a free GitHub account at: <https://github.com/signup>.
+**Note**: You can now connect Github CoPilot to your Posit Cloud projects individually. You must have access to [Github CoPilot](#0) through your [Github account](#0). Github’s CoPilot is a AI PairProgrammer that you can enable with RStudio. To read more about the set up check out Posit's [User Guide](#0).
 
-**Note**: You can now connect Github CoPilot to your Posit Cloud projects individually. You must have access to [Github CoPilot](https://github.com/features/copilot) through your [Github account](https://github.com/). Github’s CoPilot is a AI PairProgrammer that you can enable with RStudio. To read more about the set up check out Posit's [User Guide](#0).
-
-Visit our LASER Institute GitHub site at: [go.ncsu.edu/laser-github](https://go.ncsu.edu/laser-github)
-
-![](images/laser-github.png)
+[![](images/laser-github.png)](https://go.ncsu.edu/laser-github)
 
 # The R Language & Development Environment
 
@@ -26,12 +22,12 @@ This provides step-by-step instructions for setting up your local environment fo
 
 You must install the R language engine **before** installing an IDE. Positron requires R version 4.2.0 or higher.
 
-| Operating System | Download Link | Architecture |
-|:---------------|:---------------------------------------|:---------------|
-| **Windows 10/11** | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/) | x64 |
-| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/) | M1, M2, M3, M4 |
-| **macOS (Intel)** | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs |
-| **Linux** | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/) | Distro-specific |
+| Operating System | Architecture |
+|:----------------|:----------------|
+| [**Windows 10/11**](https://cran.r-project.org/bin/windows/base/) | x64 |
+| [**macOS (Apple Silicon)**](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/) | M1, M2, M3, M4 |
+| [**macOS (Intel)**](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs |
+| [**Linux**](CRAN Linux Binaries) | Distro-specific |
 
 ## Choose Your IDE
 
