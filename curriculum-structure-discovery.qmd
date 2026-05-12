@@ -19,52 +19,6 @@ We will be using R, specifically with the integrated development environments (I
 | ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
 +------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
 
-# Installation Guide: R, RStudio, and Positron
-
-This provides step-by-step instructions for setting up your local environment for data science. This repository supports development in both **RStudio** and **Positron IDE** (my personal favorite).
-
-Note: While RStudio is highly mature, Positron is in active development (currently version 2026.03.0). You may encounter UI changes, but the core installation logic remains consistent across the 2026 release cycle.
-
-------------------------------------------------------------------------
-
-## Prerequisites: The R Engine
-
-You must install the R language engine **before** installing an IDE. Positron requires R version 4.2.0 or higher.
-
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| Operating System          | Download Link                                                                             | Architecture    |
-+:==========================+:==========================================================================================+:================+
-| **Windows 10/11**         | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/)                          | x64             |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)   | M1, M2, M3, M4  |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| **macOS (Intel)**         | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs      |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| **Linux**                 | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/)                              | Distro-specific |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-
-------------------------------------------------------------------------
-
-## Choose Your IDE
-
-### Option A: RStudio Desktop (Stable)
-
-Recommended for users focused exclusively on R, RMarkdown, and Shiny applications.
-
-1.  Go to the [RStudio Download Page](https://posit.co/download/rstudio-desktop/).
-2.  Select the installer for your OS:
-    - [Windows Installer](https://rstudio.org/download/latest/stable/desktop/windows/RStudio-latest.exe)
-    - [macOS Disk Image](https://rstudio.org/download/latest/stable/desktop/mac/RStudio-latest.dmg)
-3.  Run the installer and follow the default prompts.
-
-### Option B: Positron IDE (Modern/Polyglot)
-
-Recommended for users who work with both **R and Python** and prefer a VS Code-based workflow.
-
-1.  Navigate to the [Positron Releases Page](https://positron.posit.co/download.html).
-2.  Download the version corresponding to your OS.
-3.  **Important:** After installation, launch Positron and click the **Interpreter** icon (top right) to select your R version.
-
 ## Module 1: Structure Discovery Basics
 
 This module contains:

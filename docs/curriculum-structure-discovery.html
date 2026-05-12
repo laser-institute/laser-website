@@ -481,20 +481,11 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#installation-guide-r-rstudio-and-positron" id="toc-installation-guide-r-rstudio-and-positron" class="nav-link active" data-scroll-target="#installation-guide-r-rstudio-and-positron">Installation Guide: R, RStudio, and Positron</a>
-  <ul class="collapse">
-  <li><a href="#prerequisites-the-r-engine" id="toc-prerequisites-the-r-engine" class="nav-link" data-scroll-target="#prerequisites-the-r-engine">Prerequisites: The R Engine</a></li>
-  <li><a href="#choose-your-ide" id="toc-choose-your-ide" class="nav-link" data-scroll-target="#choose-your-ide">Choose Your IDE</a>
-  <ul class="collapse">
-  <li><a href="#option-a-rstudio-desktop-stable" id="toc-option-a-rstudio-desktop-stable" class="nav-link" data-scroll-target="#option-a-rstudio-desktop-stable">Option A: RStudio Desktop (Stable)</a></li>
-  <li><a href="#option-b-positron-ide-modernpolyglot" id="toc-option-b-positron-ide-modernpolyglot" class="nav-link" data-scroll-target="#option-b-positron-ide-modernpolyglot">Option B: Positron IDE (Modern/Polyglot)</a></li>
-  </ul></li>
-  <li><a href="#module-1-structure-discovery-basics" id="toc-module-1-structure-discovery-basics" class="nav-link" data-scroll-target="#module-1-structure-discovery-basics">Module 1: Structure Discovery Basics</a></li>
+  <li><a href="#module-1-structure-discovery-basics" id="toc-module-1-structure-discovery-basics" class="nav-link active" data-scroll-target="#module-1-structure-discovery-basics">Module 1: Structure Discovery Basics</a></li>
   <li><a href="#module-2-clustering" id="toc-module-2-clustering" class="nav-link" data-scroll-target="#module-2-clustering">Module 2: Clustering</a></li>
   <li><a href="#module-3-clustering-validation" id="toc-module-3-clustering-validation" class="nav-link" data-scroll-target="#module-3-clustering-validation">Module 3: Clustering Validation</a></li>
   <li><a href="#module-4-advanced-clustering-algorithms" id="toc-module-4-advanced-clustering-algorithms" class="nav-link" data-scroll-target="#module-4-advanced-clustering-algorithms">Module 4: Advanced Clustering Algorithms</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
-  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/laser-institute/laser-website/edit/main/curriculum-structure-discovery.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/laser-institute/laser-website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -539,72 +530,6 @@ gtag('config', 'G-6TQEEVEPKC', { 'anonymize_ip': true});
 </tr>
 </tbody>
 </table>
-<section id="installation-guide-r-rstudio-and-positron" class="level1">
-<h1>Installation Guide: R, RStudio, and Positron</h1>
-<p>This provides step-by-step instructions for setting up your local environment for data science. This repository supports development in both <strong>RStudio</strong> and <strong>Positron IDE</strong> (my personal favorite).</p>
-<p>Note: While RStudio is highly mature, Positron is in active development (currently version 2026.03.0). You may encounter UI changes, but the core installation logic remains consistent across the 2026 release cycle.</p>
-<hr>
-<section id="prerequisites-the-r-engine" class="level2">
-<h2 class="anchored" data-anchor-id="prerequisites-the-r-engine">Prerequisites: The R Engine</h2>
-<p>You must install the R language engine <strong>before</strong> installing an IDE. Positron requires R version 4.2.0 or higher.</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: left;">Operating System</th>
-<th style="text-align: left;">Download Link</th>
-<th style="text-align: left;">Architecture</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><strong>Windows 10/11</strong></td>
-<td style="text-align: left;"><a href="https://cran.r-project.org/bin/windows/base/">Download R 4.4.x</a></td>
-<td style="text-align: left;">x64</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>macOS (Apple Silicon)</strong></td>
-<td style="text-align: left;"><a href="https://cran.r-project.org/bin/macosx/big-sur-arm64/base/">Download R-4.4.x-arm64.pkg</a></td>
-<td style="text-align: left;">M1, M2, M3, M4</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><strong>macOS (Intel)</strong></td>
-<td style="text-align: left;"><a href="https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/">Download R-4.4.x-x86_64.pkg</a></td>
-<td style="text-align: left;">Intel Macs</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>Linux</strong></td>
-<td style="text-align: left;"><a href="https://cran.r-project.org/bin/linux/">CRAN Linux Binaries</a></td>
-<td style="text-align: left;">Distro-specific</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="choose-your-ide" class="level2">
-<h2 class="anchored" data-anchor-id="choose-your-ide">Choose Your IDE</h2>
-<section id="option-a-rstudio-desktop-stable" class="level3">
-<h3 class="anchored" data-anchor-id="option-a-rstudio-desktop-stable">Option A: RStudio Desktop (Stable)</h3>
-<p>Recommended for users focused exclusively on R, RMarkdown, and Shiny applications.</p>
-<ol type="1">
-<li>Go to the <a href="https://posit.co/download/rstudio-desktop/">RStudio Download Page</a>.</li>
-<li>Select the installer for your OS:
-<ul>
-<li><a href="https://rstudio.org/download/latest/stable/desktop/windows/RStudio-latest.exe">Windows Installer</a></li>
-<li><a href="https://rstudio.org/download/latest/stable/desktop/mac/RStudio-latest.dmg">macOS Disk Image</a></li>
-</ul></li>
-<li>Run the installer and follow the default prompts.</li>
-</ol>
-</section>
-<section id="option-b-positron-ide-modernpolyglot" class="level3">
-<h3 class="anchored" data-anchor-id="option-b-positron-ide-modernpolyglot">Option B: Positron IDE (Modern/Polyglot)</h3>
-<p>Recommended for users who work with both <strong>R and Python</strong> and prefer a VS Code-based workflow.</p>
-<ol type="1">
-<li>Navigate to the <a href="https://positron.posit.co/download.html">Positron Releases Page</a>.</li>
-<li>Download the version corresponding to your OS.</li>
-<li><strong>Important:</strong> After installation, launch Positron and click the <strong>Interpreter</strong> icon (top right) to select your R version.</li>
-</ol>
-</section>
-</section>
 <section id="module-1-structure-discovery-basics" class="level2">
 <h2 class="anchored" data-anchor-id="module-1-structure-discovery-basics">Module 1: Structure Discovery Basics</h2>
 <p>This module contains:</p>
@@ -771,7 +696,6 @@ Reflection</strong></td>
 <h2 class="anchored" data-anchor-id="references">References</h2>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
