@@ -11,13 +11,10 @@ Structure discovery focuses on how we can use unsupervised machine learning to u
 
 We will be using R, specifically with the integrated development environments (IDEs) RStudio or Positron.
 
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-|                                    |                 |                                                                                                                       |
-+====================================+=================+=======================================================================================================================+
-| ![](images/github.png){width="40"} | **Github\**     | [Repository for Instructors](https://github.com/laser-institute/structure-discovery)                                  |
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![](images/posit.png){width="40"}  | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
-+------------------------------------+-----------------+-----------------------------------------------------------------------------------------------------------------------+
+|  |  |  |
+|----|----|----|
+| ![](images/github.png){width="40"} | \*\*Github\*\* | [Repository for Instructors](https://github.com/laser-institute/structure-discovery) |
+| ![](images/posit.png){width="40"} | **Posit Cloud** | [Workspace for Learners](https://posit.cloud/spaces/493094/join?access_code=qjsumVzA0HZYgrxOSizVbVPmDs7iHYS32yUQaqDe) |
 
 # Installation Guide: R, RStudio, and Positron
 
@@ -31,17 +28,12 @@ Note: While RStudio is highly mature, Positron is in active development (current
 
 You must install the R language engine **before** installing an IDE. Positron requires R version 4.2.0 or higher.
 
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| Operating System          | Download Link                                                                             | Architecture    |
-+:==========================+:==========================================================================================+:================+
-| **Windows 10/11**         | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/)                          | x64             |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)   | M1, M2, M3, M4  |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| **macOS (Intel)**         | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs      |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
-| **Linux**                 | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/)                              | Distro-specific |
-+---------------------------+-------------------------------------------------------------------------------------------+-----------------+
+| Operating System | Download Link | Architecture |
+|:---|:---|:---|
+| **Windows 10/11** | [Download R 4.4.x](https://cran.r-project.org/bin/windows/base/) | x64 |
+| **macOS (Apple Silicon)** | [Download R-4.4.x-arm64.pkg](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/) | M1, M2, M3, M4 |
+| **macOS (Intel)** | [Download R-4.4.x-x86_64.pkg](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/) | Intel Macs |
+| **Linux** | [CRAN Linux Binaries](https://cran.r-project.org/bin/linux/) | Distro-specific |
 
 ------------------------------------------------------------------------
 
