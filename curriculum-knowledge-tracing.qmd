@@ -99,14 +99,8 @@ Module 4 discusses the application of deep neural networks in knowledge tracing,
 | ![](images/survey.png){width="47" height="40"} | **Module Survey** | [Feedback Form After Finishing Module](https://www.surveymonkey.com/r/KT_Mod4_July24)                      |
 +------------------------------------------------+-------------------+------------------------------------------------------------------------------------------------------------+
 
-## Microcredential
+## Additional Module
 
-The culminating activity for the Knowledge Tracing Modules is designed to provide you some space for independent analysis of a self-identified data source. To earn your KT Microcredential, you are required to demonstrate your ability to formulate a basic research question appropriate to a KT context, wrangle and analyze relational data, and communicate key findings. Your primary goal for this analysis is to create a simple data product that illustrates key findings by applying the knowledge and skills acquired from the essential readings and case studies.
+There is one additional set of module assets available for this course for those wishing to pursue additional learning about knowledge tracing. These assets for Module 5 (Memory Algorithms) can be found on the [LASER GitHub](https://github.com/laser-institute/knowledge-tracing/tree/main/Module-5c-MA).
 
-+--------------------------------------+---------------------+---------------+
-|                                      |                     |               |
-+======================================+=====================+===============+
-| ![](images/kt-micro.png){width="40"} | **Microcredential** | Coming soon!  |
-+--------------------------------------+---------------------+---------------+
-
-## Essential Readings
+## References

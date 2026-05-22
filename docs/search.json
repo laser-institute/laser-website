@@ -1205,5 +1205,29 @@
       "CURRICULUM",
       "Text Mining"
     ]
+  },
+  {
+    "objectID": "curriculum-knowledge-tracing.html#additional-module",
+    "href": "curriculum-knowledge-tracing.html#additional-module",
+    "title": "Knowledge Tracing",
+    "section": "Additional Module",
+    "text": "Additional Module\nThere is one additional set of module assets available for this course for those wishing to pursue additional learning about knowledge tracing. These assets for Module 5 (Memory Algorithms) can be found on the LASER GitHub.",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Knowledge Tracing"
+    ]
+  },
+  {
+    "objectID": "curriculum-structure-discovery.html#additional-modules",
+    "href": "curriculum-structure-discovery.html#additional-modules",
+    "title": "Structure Discovery",
+    "section": "Additional Modules",
+    "text": "Additional Modules\nThere are two additional sets of module assets available for this course for those wishing to pursue additional learning about structure discovery. Please find the assets for Module 5 (Factor Analysis) and Module 6 (Q-Matrices) on the LASER GitHub.",
+    "crumbs": [
+      "Home",
+      "CURRICULUM",
+      "Structure Discovery"
+    ]
   }
 ]
